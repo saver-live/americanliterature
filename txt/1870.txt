@@ -1,0 +1,101 @@
+<pre>At lunchtime I bought a huge orange--
+The size of it made us all laugh.
+I peeled it and shared it with Robert and Dave--
+They got quarters and I had half.
+
+And that orange, it made me so happy.
+As ordinary things often do
+Just lately. The shopping. A walk in the park.
+This is peace and contentment. It's new.
+
+The rest of the day was quite easy.
+I did all the jobs on my list
+And enjoyed them and had some time over.
+I love you. I'm glad I exist.
+
+  
+
+  
+  
+ <hr>
+  
+
+  <p>
+
+  
+  </p>
+ <div class="row-fluid">
+    
+  <div class="span3">
+      
+   <div id="star" style="margin-bottom:15px;"></div>
+    
+  </div><span id="new_score" style="margin-left: 0;">2</span>
+  
+ </div>
+  
+ <div id="your_score"></div>
+
+  
+ <div>
+    
+  <br>
+    
+    
+  <div>
+  
+  
+  <a href="https://www.facebook.com/sharer.php?u=https%3A//americanliterature.com/author/wendy-cope/poem/the-orange" target="_blank"><img src="https://assets.americanliterature.com/al/static/buttons/facebook.png" height="42" width="42" alt="facebook share button" data-pagespeed-url-hash="2170191075" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></a>
+
+  <a href="https://twitter.com/intent/tweet?text=I+enjoyed+reading&amp;url=https%3A%2F%2Famericanliterature.com%2Fauthor%2Fwendy-cope%2Fpoem%2Fthe-orange&amp;hashtags=reading,shortstory" target="_blank"><img src="https://assets.americanliterature.com/al/static/buttons/twitter.png" height="42" width="42" alt="twitter share button" data-pagespeed-url-hash="576884748" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></a>
+
+  <a href="https://reddit.com/submit?url=https%3A//americanliterature.com/author/wendy-cope/poem/the-orange" target="_blank"><img src="https://assets.americanliterature.com/al/static/buttons/reddit.png" height="42" width="42" alt="reddit share button" data-pagespeed-url-hash="3863141311" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></a>
+
+  <a href="https://www.pinterest.com/amlitdotcom/" target="_blank"><img src="https://assets.americanliterature.com/al/static/buttons/pinterest.png" height="42" width="42" alt="share on pinterest pinterest" data-pagespeed-url-hash="3307936475" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></a>
+  
+
+  
+
+  </div>
+
+  <br>
+
+
+
+  
+ </div>
+
+
+  
+
+
+
+  <p><br>
+    
+
+
+
+  </p>
+ <div>
+    <a class="btn btn-primary" href="/amlituser/register-to-add/short-story/9057/" rel="nofollow"><i class="icon-plus icon-white"></i> Add </a> <b><em>The Orange</em></b> to your library.
+
+  
+ </div>
+
+
+  
+
+
+  <p>
+  </p>
+ <div class="hero-unit hero-foot">
+
+    
+  <p>
+      Return to the <a href="/author/wendy-cope">Wendy Cope</a> library
+      
+      
+  </p>
+ </div>
+
+</pre>

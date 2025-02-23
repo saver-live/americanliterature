@@ -1,0 +1,16 @@
+<pre>
+<p><img alt="Suppity Sippity!" title="Suppity Sippity!" itemprop="image" src="https://assets.americanliterature.com/al/images/poem/suppity-sippity.jpg" style="text-align:center; padding-top:14px; margin-bottom:10px;" data-pagespeed-url-hash="167333832" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></p>
+Suppity, sippity!
+Milk for my Pippity,
+Milk for my Pippity Poppity Boy:
+From a big jug of it
+Pour a full mug of it,
+Sip it and sup it in comfort and joy.
+
+Sippity, soppity,
+Bread for my Poppety,
+Crusty and crumby and tender and white:
+Now for a bowl of it!
+Milk for the whole of it!
+Sippity, suppity, morning and night.
+</pre>

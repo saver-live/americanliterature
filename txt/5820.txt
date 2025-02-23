@@ -1,0 +1,16 @@
+<pre> <img alt="William Shakespeare portrait" title="William Shakespeare portrait" itemprop="image" src="https://assets.americanliterature.com/al/images/author/shakespeare.jpg" style="max-width:290px; float:right; margin-right: 12px; margin-bottom: 12px;" data-pagespeed-url-hash="3821680355" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+&nbsp;&nbsp;&nbsp;&nbsp;A vision as of crowded city streets,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With human life in endless overflow;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thunder of thoroughfares; trumpets that blow
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To battle; clamor, in obscure retreats,
+&nbsp;&nbsp;&nbsp;&nbsp;Of sailors landed from their anchored fleets;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tolling of bells in turrets, and below
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Voices of children, and bright flowers that throw
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O'er garden-walls their intermingled sweets!
+&nbsp;&nbsp;&nbsp;&nbsp;This vision comes to me when I unfold
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The volume of the Poet paramount,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Whom all the Muses loved, not one alone;--
+&nbsp;&nbsp;&nbsp;&nbsp;Into his hands they put the lyre of gold,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And, crowned with sacred laurel at their fount,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Placed him as Musagetes on their throne.
+</pre>

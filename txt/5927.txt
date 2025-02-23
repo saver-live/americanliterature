@@ -1,0 +1,238 @@
+<pre>
+&nbsp;&nbsp;&nbsp;&nbsp;Forth upon the Gitche Gumee,
+&nbsp;&nbsp;&nbsp;&nbsp;On the shining Big-Sea-Water,
+&nbsp;&nbsp;&nbsp;&nbsp;With his fishing-line of cedar,
+&nbsp;&nbsp;&nbsp;&nbsp;Of the twisted bark of cedar,
+&nbsp;&nbsp;&nbsp;&nbsp;Forth to catch the sturgeon Nahma,
+&nbsp;&nbsp;&nbsp;&nbsp;Mishe-Nahma, King of Fishes,
+&nbsp;&nbsp;&nbsp;&nbsp;In his birch canoe exulting
+&nbsp;&nbsp;&nbsp;&nbsp;All alone went Hiawatha.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Through the clear, transparent water
+&nbsp;&nbsp;&nbsp;&nbsp;He could see the fishes swimming
+&nbsp;&nbsp;&nbsp;&nbsp;Far down in the depths below him;
+&nbsp;&nbsp;&nbsp;&nbsp;See the yellow perch, the Sahwa,
+&nbsp;&nbsp;&nbsp;&nbsp;Like a sunbeam in the water,
+&nbsp;&nbsp;&nbsp;&nbsp;See the Shawgashee, the craw-fish,
+&nbsp;&nbsp;&nbsp;&nbsp;Like a spider on the bottom,
+&nbsp;&nbsp;&nbsp;&nbsp;On the white and sandy bottom.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At the stern sat Hiawatha,
+&nbsp;&nbsp;&nbsp;&nbsp;With his fishing-line of cedar;
+&nbsp;&nbsp;&nbsp;&nbsp;In his plumes the breeze of morning
+&nbsp;&nbsp;&nbsp;&nbsp;Played as in the hemlock branches;
+&nbsp;&nbsp;&nbsp;&nbsp;On the bows, with tail erected,
+&nbsp;&nbsp;&nbsp;&nbsp;Sat the squirrel, Adjidaumo;
+&nbsp;&nbsp;&nbsp;&nbsp;In his fur the breeze of morning
+&nbsp;&nbsp;&nbsp;&nbsp;Played as in the prairie grasses.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On the white sand of the bottom
+&nbsp;&nbsp;&nbsp;&nbsp;Lay the monster Mishe-Nahma,
+&nbsp;&nbsp;&nbsp;&nbsp;Lay the sturgeon, King of Fishes;
+&nbsp;&nbsp;&nbsp;&nbsp;Through his gills he breathed the water,
+&nbsp;&nbsp;&nbsp;&nbsp;With his fins he fanned and winnowed,
+&nbsp;&nbsp;&nbsp;&nbsp;With his tail he swept the sand-floor.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There he lay in all his armor;
+&nbsp;&nbsp;&nbsp;&nbsp;On each side a shield to guard him,
+&nbsp;&nbsp;&nbsp;&nbsp;Plates of bone upon his forehead,
+&nbsp;&nbsp;&nbsp;&nbsp;Down his sides and back and shoulders
+&nbsp;&nbsp;&nbsp;&nbsp;Plates of bone with spines projecting
+&nbsp;&nbsp;&nbsp;&nbsp;Painted was he with his war-paints,
+&nbsp;&nbsp;&nbsp;&nbsp;Stripes of yellow, red, and azure,
+&nbsp;&nbsp;&nbsp;&nbsp;Spots of brown and spots of sable;
+&nbsp;&nbsp;&nbsp;&nbsp;And he lay there on the bottom,
+&nbsp;&nbsp;&nbsp;&nbsp;Fanning with his fins of purple,
+&nbsp;&nbsp;&nbsp;&nbsp;As above him Hiawatha
+&nbsp;&nbsp;&nbsp;&nbsp;In his birch canoe came sailing,
+&nbsp;&nbsp;&nbsp;&nbsp;With his fishing-line of cedar.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Take my bait," cried Hiawatha,
+&nbsp;&nbsp;&nbsp;&nbsp;Down into the depths beneath him,
+&nbsp;&nbsp;&nbsp;&nbsp;"Take my bait, O Sturgeon, Nahma!
+&nbsp;&nbsp;&nbsp;&nbsp;Come up from below the water,
+&nbsp;&nbsp;&nbsp;&nbsp;Let us see which is the stronger!"
+&nbsp;&nbsp;&nbsp;&nbsp;And he dropped his line of cedar
+&nbsp;&nbsp;&nbsp;&nbsp;Through the clear, transparent water,
+&nbsp;&nbsp;&nbsp;&nbsp;Waited vainly for an answer,
+&nbsp;&nbsp;&nbsp;&nbsp;Long sat waiting for an answer,
+&nbsp;&nbsp;&nbsp;&nbsp;And repeating loud and louder,
+&nbsp;&nbsp;&nbsp;&nbsp;"Take my bait, O King of Fishes!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quiet lay the sturgeon, Nahma,
+&nbsp;&nbsp;&nbsp;&nbsp;Fanning slowly in the water,
+&nbsp;&nbsp;&nbsp;&nbsp;Looking up at Hiawatha,
+&nbsp;&nbsp;&nbsp;&nbsp;Listening to his call and clamor,
+&nbsp;&nbsp;&nbsp;&nbsp;His unnecessary tumult,
+&nbsp;&nbsp;&nbsp;&nbsp;Till he wearied of the shouting;
+&nbsp;&nbsp;&nbsp;&nbsp;And he said to the Kenozha,
+&nbsp;&nbsp;&nbsp;&nbsp;To the pike, the Maskenozha,
+&nbsp;&nbsp;&nbsp;&nbsp;"Take the bait of this rude fellow,
+&nbsp;&nbsp;&nbsp;&nbsp;Break the line of Hiawatha!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In his fingers Hiawatha
+&nbsp;&nbsp;&nbsp;&nbsp;Felt the loose line jerk and tighten;
+&nbsp;&nbsp;&nbsp;&nbsp;As he drew it in, it tugged so
+&nbsp;&nbsp;&nbsp;&nbsp;That the birch canoe stood endwise,
+&nbsp;&nbsp;&nbsp;&nbsp;Like a birch log in the water,
+&nbsp;&nbsp;&nbsp;&nbsp;With the squirrel, Adjidaumo,
+&nbsp;&nbsp;&nbsp;&nbsp;Perched and frisking on the summit.
+&nbsp;&nbsp;&nbsp;&nbsp;Full of scorn was Hiawatha
+&nbsp;&nbsp;&nbsp;&nbsp;When he saw the fish rise upward,
+&nbsp;&nbsp;&nbsp;&nbsp;Saw the pike, the Maskenozha,
+&nbsp;&nbsp;&nbsp;&nbsp;Coming nearer, nearer to him,
+&nbsp;&nbsp;&nbsp;&nbsp;And he shouted through the water,
+&nbsp;&nbsp;&nbsp;&nbsp;"Esa! esa! shame upon you!
+&nbsp;&nbsp;&nbsp;&nbsp;You are but the pike, Kenozha,
+&nbsp;&nbsp;&nbsp;&nbsp;You are not the fish I wanted,
+&nbsp;&nbsp;&nbsp;&nbsp;You are not the King of Fishes!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reeling downward to the bottom
+&nbsp;&nbsp;&nbsp;&nbsp;Sank the pike in great confusion,
+&nbsp;&nbsp;&nbsp;&nbsp;And the mighty sturgeon, Nahma,
+&nbsp;&nbsp;&nbsp;&nbsp;Said to Ugudwash, the sun-fish,
+&nbsp;&nbsp;&nbsp;&nbsp;To the bream, with scales of crimson,
+&nbsp;&nbsp;&nbsp;&nbsp;"Take the bait of this great boaster,
+&nbsp;&nbsp;&nbsp;&nbsp;Break the line of Hiawatha!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Slowly upward, wavering, gleaming,
+&nbsp;&nbsp;&nbsp;&nbsp;Rose the Ugudwash, the sun-fish,
+&nbsp;&nbsp;&nbsp;&nbsp;Seized the line of Hiawatha,
+&nbsp;&nbsp;&nbsp;&nbsp;Swung with all his weight upon it,
+&nbsp;&nbsp;&nbsp;&nbsp;Made a whirlpool in the water,
+&nbsp;&nbsp;&nbsp;&nbsp;Whirled the birch canoe in circles,
+&nbsp;&nbsp;&nbsp;&nbsp;Round and round in gurgling eddies,
+&nbsp;&nbsp;&nbsp;&nbsp;Till the circles in the water
+&nbsp;&nbsp;&nbsp;&nbsp;Reached the far-off sandy beaches,
+&nbsp;&nbsp;&nbsp;&nbsp;Till the water-flags and rushes
+&nbsp;&nbsp;&nbsp;&nbsp;Nodded on the distant margins.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But when Hiawatha saw him
+&nbsp;&nbsp;&nbsp;&nbsp;Slowly rising through the water,
+&nbsp;&nbsp;&nbsp;&nbsp;Lifting up his disk refulgent,
+&nbsp;&nbsp;&nbsp;&nbsp;Loud he shouted in derision,
+&nbsp;&nbsp;&nbsp;&nbsp;"Esa! esa! shame upon you!
+&nbsp;&nbsp;&nbsp;&nbsp;You are Ugudwash, the sun-fish,
+&nbsp;&nbsp;&nbsp;&nbsp;You are not the fish I wanted,
+&nbsp;&nbsp;&nbsp;&nbsp;You are not the King of Fishes!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Slowly downward, wavering, gleaming,
+&nbsp;&nbsp;&nbsp;&nbsp;Sank the Ugudwash, the sun-fish,
+&nbsp;&nbsp;&nbsp;&nbsp;And again the sturgeon, Nahma,
+&nbsp;&nbsp;&nbsp;&nbsp;Heard the shout of Hiawatha,
+&nbsp;&nbsp;&nbsp;&nbsp;Heard his challenge of defiance,
+&nbsp;&nbsp;&nbsp;&nbsp;The unnecessary tumult,
+&nbsp;&nbsp;&nbsp;&nbsp;Ringing far across the water.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the white sand of the bottom
+&nbsp;&nbsp;&nbsp;&nbsp;Up he rose with angry gesture,
+&nbsp;&nbsp;&nbsp;&nbsp;Quivering in each nerve and fibre,
+&nbsp;&nbsp;&nbsp;&nbsp;Clashing all his plates of armor,
+&nbsp;&nbsp;&nbsp;&nbsp;Gleaming bright with all his war-paint;
+&nbsp;&nbsp;&nbsp;&nbsp;In his wrath he darted upward,
+&nbsp;&nbsp;&nbsp;&nbsp;Flashing leaped into the sunshine,
+&nbsp;&nbsp;&nbsp;&nbsp;Opened his great jaws, and swallowed
+&nbsp;&nbsp;&nbsp;&nbsp;Both canoe and Hiawatha.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Down into that darksome cavern
+&nbsp;&nbsp;&nbsp;&nbsp;Plunged the headlong Hiawatha,
+&nbsp;&nbsp;&nbsp;&nbsp;As a log on some black river
+&nbsp;&nbsp;&nbsp;&nbsp;Shoots and plunges down the rapids,
+&nbsp;&nbsp;&nbsp;&nbsp;Found himself in utter darkness,
+&nbsp;&nbsp;&nbsp;&nbsp;Groped about in helpless wonder,
+&nbsp;&nbsp;&nbsp;&nbsp;Till he felt a great heart beating,
+&nbsp;&nbsp;&nbsp;&nbsp;Throbbing in that utter darkness.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And he smote it in his anger,
+&nbsp;&nbsp;&nbsp;&nbsp;With his fist, the heart of Nahma,
+&nbsp;&nbsp;&nbsp;&nbsp;Felt the mighty King of Fishes
+&nbsp;&nbsp;&nbsp;&nbsp;Shudder through each nerve and fibre,
+&nbsp;&nbsp;&nbsp;&nbsp;Heard the water gurgle round him
+&nbsp;&nbsp;&nbsp;&nbsp;As he leaped and staggered through it,
+&nbsp;&nbsp;&nbsp;&nbsp;Sick at heart, and faint and weary.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Crosswise then did Hiawatha
+&nbsp;&nbsp;&nbsp;&nbsp;Drag his birch-canoe for safety,
+&nbsp;&nbsp;&nbsp;&nbsp;Lest from out the jaws of Nahma,
+&nbsp;&nbsp;&nbsp;&nbsp;In the turmoil and confusion,
+&nbsp;&nbsp;&nbsp;&nbsp;Forth he might be hurled and perish.
+&nbsp;&nbsp;&nbsp;&nbsp;And the squirrel, Adjidaumo,
+&nbsp;&nbsp;&nbsp;&nbsp;Frisked and chatted very gayly,
+&nbsp;&nbsp;&nbsp;&nbsp;Toiled and tugged with Hiawatha
+&nbsp;&nbsp;&nbsp;&nbsp;Till the labor was completed.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then said Hiawatha to him,
+&nbsp;&nbsp;&nbsp;&nbsp;"O my little friend, the squirrel,
+&nbsp;&nbsp;&nbsp;&nbsp;Bravely have you toiled to help me;
+&nbsp;&nbsp;&nbsp;&nbsp;Take the thanks of Hiawatha,
+&nbsp;&nbsp;&nbsp;&nbsp;And the name which now he gives you;
+&nbsp;&nbsp;&nbsp;&nbsp;For hereafter and forever
+&nbsp;&nbsp;&nbsp;&nbsp;Boys shall call you Adjidaumo,
+&nbsp;&nbsp;&nbsp;&nbsp;Tail-in-air the boys shall call you!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And again the sturgeon, Nahma,
+&nbsp;&nbsp;&nbsp;&nbsp;Gasped and quivered in the water,
+&nbsp;&nbsp;&nbsp;&nbsp;Then was still, and drifted landward
+&nbsp;&nbsp;&nbsp;&nbsp;Till he grated on the pebbles,
+&nbsp;&nbsp;&nbsp;&nbsp;Till the listening Hiawatha
+&nbsp;&nbsp;&nbsp;&nbsp;Heard him grate upon the margin,
+&nbsp;&nbsp;&nbsp;&nbsp;Felt him strand upon the pebbles,
+&nbsp;&nbsp;&nbsp;&nbsp;Knew that Nahma, King of Fishes,
+&nbsp;&nbsp;&nbsp;&nbsp;Lay there dead upon the margin.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then he heard a clang and flapping,
+&nbsp;&nbsp;&nbsp;&nbsp;As of many wings assembling,
+&nbsp;&nbsp;&nbsp;&nbsp;Heard a screaming and confusion,
+&nbsp;&nbsp;&nbsp;&nbsp;As of birds of prey contending,
+&nbsp;&nbsp;&nbsp;&nbsp;Saw a gleam of light above him,
+&nbsp;&nbsp;&nbsp;&nbsp;Shining through the ribs of Nahma,
+&nbsp;&nbsp;&nbsp;&nbsp;Saw the glittering eyes of sea-gulls,
+&nbsp;&nbsp;&nbsp;&nbsp;Of Kayoshk, the sea-gulls, peering,
+&nbsp;&nbsp;&nbsp;&nbsp;Gazing at him through the opening,
+&nbsp;&nbsp;&nbsp;&nbsp;Heard them saying to each other,
+&nbsp;&nbsp;&nbsp;&nbsp;"'T is our brother, Hiawatha!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And he shouted from below them,
+&nbsp;&nbsp;&nbsp;&nbsp;Cried exulting from the caverns:
+&nbsp;&nbsp;&nbsp;&nbsp;"O ye sea-gulls! O my brothers!
+&nbsp;&nbsp;&nbsp;&nbsp;I have slain the sturgeon, Nahma;
+&nbsp;&nbsp;&nbsp;&nbsp;Make the rifts a little larger,
+&nbsp;&nbsp;&nbsp;&nbsp;With your claws the openings widen,
+&nbsp;&nbsp;&nbsp;&nbsp;Set me free from this dark prison,
+&nbsp;&nbsp;&nbsp;&nbsp;And henceforward and forever
+&nbsp;&nbsp;&nbsp;&nbsp;Men shall speak of your achievements,
+&nbsp;&nbsp;&nbsp;&nbsp;Calling you Kayoshk, the sea-gulls,
+&nbsp;&nbsp;&nbsp;&nbsp;Yes, Kayoshk, the Noble Scratchers!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the wild and clamorous sea-gulls
+&nbsp;&nbsp;&nbsp;&nbsp;Toiled with beak and claws together,
+&nbsp;&nbsp;&nbsp;&nbsp;Made the rifts and openings wider
+&nbsp;&nbsp;&nbsp;&nbsp;In the mighty ribs of Nahma,
+&nbsp;&nbsp;&nbsp;&nbsp;And from peril and from prison,
+&nbsp;&nbsp;&nbsp;&nbsp;From the body of the sturgeon,
+&nbsp;&nbsp;&nbsp;&nbsp;From the peril of the water,
+&nbsp;&nbsp;&nbsp;&nbsp;They released my Hiawatha.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He was standing near his wigwam,
+&nbsp;&nbsp;&nbsp;&nbsp;On the margin of the water,
+&nbsp;&nbsp;&nbsp;&nbsp;And he called to old Nokomis,
+&nbsp;&nbsp;&nbsp;&nbsp;Called and beckoned to Nokomis,
+&nbsp;&nbsp;&nbsp;&nbsp;Pointed to the sturgeon, Nahma,
+&nbsp;&nbsp;&nbsp;&nbsp;Lying lifeless on the pebbles,
+&nbsp;&nbsp;&nbsp;&nbsp;With the sea-gulls feeding on him.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"I have slain the Mishe-Nahma,
+&nbsp;&nbsp;&nbsp;&nbsp;Slain the King of Fishes!" said he;
+&nbsp;&nbsp;&nbsp;&nbsp;"Look! the sea-gulls feed upon him,
+&nbsp;&nbsp;&nbsp;&nbsp;Yes, my friends Kayoshk, the sea-gulls;
+&nbsp;&nbsp;&nbsp;&nbsp;Drive them not away, Nokomis,
+&nbsp;&nbsp;&nbsp;&nbsp;They have saved me from great peril
+&nbsp;&nbsp;&nbsp;&nbsp;In the body of the sturgeon,
+&nbsp;&nbsp;&nbsp;&nbsp;Wait until their meal is ended,
+&nbsp;&nbsp;&nbsp;&nbsp;Till their craws are full with feasting,
+&nbsp;&nbsp;&nbsp;&nbsp;Till they homeward fly, at sunset,
+&nbsp;&nbsp;&nbsp;&nbsp;To their nests among the marshes;
+&nbsp;&nbsp;&nbsp;&nbsp;Then bring all your pots and kettles,
+&nbsp;&nbsp;&nbsp;&nbsp;And make oil for us in Winter."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And she waited till the sun set,
+&nbsp;&nbsp;&nbsp;&nbsp;Till the pallid moon, the Night-sun,
+&nbsp;&nbsp;&nbsp;&nbsp;Rose above the tranquil water,
+&nbsp;&nbsp;&nbsp;&nbsp;Till Kayoshk, the sated sea-gulls,
+&nbsp;&nbsp;&nbsp;&nbsp;From their banquet rose with clamor,
+&nbsp;&nbsp;&nbsp;&nbsp;And across the fiery sunset
+&nbsp;&nbsp;&nbsp;&nbsp;Winged their way to far-off islands,
+&nbsp;&nbsp;&nbsp;&nbsp;To their nests among the rushes.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To his sleep went Hiawatha,
+&nbsp;&nbsp;&nbsp;&nbsp;And Nokomis to her labor,
+&nbsp;&nbsp;&nbsp;&nbsp;Toiling patient in the moonlight,
+&nbsp;&nbsp;&nbsp;&nbsp;Till the sun and moon changed places,
+&nbsp;&nbsp;&nbsp;&nbsp;Till the sky was red with sunrise,
+&nbsp;&nbsp;&nbsp;&nbsp;And Kayoshk, the hungry sea-gulls,
+&nbsp;&nbsp;&nbsp;&nbsp;Came back from the reedy islands,
+&nbsp;&nbsp;&nbsp;&nbsp;Clamorous for their morning banquet.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Three whole days and nights alternate
+&nbsp;&nbsp;&nbsp;&nbsp;Old Nokomis and the sea-gulls
+&nbsp;&nbsp;&nbsp;&nbsp;Stripped the oily flesh of Nahma,
+&nbsp;&nbsp;&nbsp;&nbsp;Till the waves washed through the rib-bones,
+&nbsp;&nbsp;&nbsp;&nbsp;Till the sea-gulls came no longer,
+&nbsp;&nbsp;&nbsp;&nbsp;And upon the sands lay nothing
+&nbsp;&nbsp;&nbsp;&nbsp;But the skeleton of Nahma.
+</pre>

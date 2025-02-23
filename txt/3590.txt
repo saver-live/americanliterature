@@ -1,0 +1,9 @@
+<pre>
+<img alt="The Snail's Dream" title="The Snail's Dream" itemprop="image" src="https://assets.americanliterature.com/al/images/poem/the-snails-dream.jpg" style="max-width:350px; float:center; margin-bottom: 12px;" data-pagespeed-url-hash="1205601593" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+A snail, who had a way, it seems,
+Of dreaming very curious dreams,
+Once dreamed he was—you’ll never guess!—
+The Lightning Limited Express!
+
+<img alt="The Snail's Dream snailway train" title="The Snail's Dream Snailway train" itemprop="image" src="https://assets.americanliterature.com/al/images/poem/the-snails-dream-lightning.jpg" style="max-width:350px; float:center; margin-bottom: 12px;" data-pagespeed-url-hash="2638238726" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</pre>

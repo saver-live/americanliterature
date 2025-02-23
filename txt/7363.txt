@@ -1,0 +1,139 @@
+<pre>
+THE world's great age begins anew,
+  The golden years return,
+The earth doth like a snake renew
+  Her winter weeds outworn;
+Heaven smiles, and faiths and empires gleam
+Like wrecks of a dissolving dream.
+
+A brighter Hellas rears its mountains
+  From waves serener far;
+A new Peneus rolls his fountains
+  Against the morning star;
+Where fairer Tempes bloom, there sleep
+Young Cyclads on a sunnier deep.
+
+A loftier Argo cleaves the main,
+  Fraught with a later prize;
+Another Orpheus sings again,
+  And loves, and weeps, and dies;
+A new Ulysses leaves once more
+Calypso for his native shore.
+
+O write no more the tale of Troy,
+  If earth Death's scroll must be—
+Nor mix with Laian rage the joy
+  Which dawns upon the free,
+Although a subtler Sphinx renew
+Riddles of death Thebes never knew.
+
+Another Athens shall arise,
+  And to remoter time
+Bequeath, like sunset to the skies,
+  The splendour of its prime;
+And leave, if naught so bright may live,
+All earth can take or Heaven can give.
+
+Saturn and Love their long repose
+  Shall burst, more bright and good
+Than all who fell, than One who rose,
+  Than many unsubdued:
+Not gold, not blood, their altar dowers,
+But votive tears and symbol flowers.
+
+O cease! must hate and death return?
+  Cease! must men kill and die?
+Cease! drain not to its dregs the urn
+  Of bitter prophecy!
+The world is weary of the past—
+O might it die or rest at last!
+
+  
+
+  
+  
+ <hr>
+  
+
+  <p>
+
+  
+  </p>
+ <div class="row-fluid">
+    
+  <div class="span3">
+      
+   <div id="star" style="margin-bottom:15px;"></div>
+    
+  </div><span id="new_score" style="margin-left: 0;">0</span>
+  
+ </div>
+  
+ <div id="your_score"></div>
+
+  
+ <div>
+    
+  <br>
+    
+    
+  <div>
+  
+  
+  <a href="https://www.facebook.com/sharer.php?u=https%3A//americanliterature.com/author/percy-bysshe-shelley/poem/hellas" target="_blank"><img src="https://assets.americanliterature.com/al/static/buttons/facebook.png" height="42" width="42" alt="facebook share button" data-pagespeed-url-hash="2170191075" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></a>
+
+  <a href="https://twitter.com/intent/tweet?text=I+enjoyed+reading&amp;url=https%3A%2F%2Famericanliterature.com%2Fauthor%2Fpercy-bysshe-shelley%2Fpoem%2Fhellas&amp;hashtags=reading,shortstory" target="_blank"><img src="https://assets.americanliterature.com/al/static/buttons/twitter.png" height="42" width="42" alt="twitter share button" data-pagespeed-url-hash="576884748" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></a>
+
+  <a href="https://reddit.com/submit?url=https%3A//americanliterature.com/author/percy-bysshe-shelley/poem/hellas" target="_blank"><img src="https://assets.americanliterature.com/al/static/buttons/reddit.png" height="42" width="42" alt="reddit share button" data-pagespeed-url-hash="3863141311" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></a>
+
+  <a href="https://www.pinterest.com/amlitdotcom/" target="_blank"><img src="https://assets.americanliterature.com/al/static/buttons/pinterest.png" height="42" width="42" alt="share on pinterest pinterest" data-pagespeed-url-hash="3307936475" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></a>
+  
+
+  
+
+  </div>
+
+  <br>
+
+
+
+  
+ </div>
+
+
+  
+
+
+
+  <p><br>
+    
+
+
+
+  </p>
+ <div>
+    <a class="btn btn-primary" href="/amlituser/register-to-add/short-story/8069/" rel="nofollow"><i class="icon-plus icon-white"></i> Add </a> <b><em>Hellas</em></b> to your library.
+
+  
+ </div>
+
+
+  
+
+
+  <p>
+  </p>
+ <div class="hero-unit hero-foot">
+
+    
+  <p>
+      Return to the <a href="/author/percy-bysshe-shelley">Percy Bysshe Shelley</a> library
+      , or . . . Read the next poem; <a href="hymn-of-pan">
+        Hymn of Pan</a>
+    </p>
+    
+      
+  
+ </div>
+
+</pre>

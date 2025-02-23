@@ -1,0 +1,31 @@
+<pre>
+Mother, the hen is cackling;
+What is she trying to say?
+She says, “Cluck! cluck! I humbly beg
+To tell you all I’ve laid an egg
+For Little Boy to-day!”
+Oh! oh! is it so?
+Truly now, I did not know!
+But in return what shall I give?
+“Be kind, be kind, to all that live!”
+<img alt="Little Boy" title="Little Boy" itemprop="image" src="https://assets.americanliterature.com/al/images/poem/little-boy.jpg" style="text-align:center; padding-top:14px; margin-bottom:10px;" data-pagespeed-url-hash="1384015870" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+Mother, the cow is lowing;
+What is she trying to say?
+“Milk and cream and butter and cheese,
+Good people, I have brought you these
+For Little Boy to-day.”
+Oh! oh! is it so?
+Truly now, I did not know!
+But in return what shall I give?
+“Be kind, be kind, to all that live.”
+
+Mother, the sheep is bleating;
+What is she trying to say?
+She says “I’ll give my fleecy wool
+To make warm clothes for play and school
+For Little Boy to-day.”
+Oh! oh! is it so?
+Truly now, I did not know!
+But in return what shall I give?
+“Be kind, be kind, to all that live.”
+</pre>

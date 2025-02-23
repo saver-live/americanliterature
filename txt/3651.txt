@@ -1,0 +1,36 @@
+<pre>
+&nbsp;&nbsp;&nbsp;&nbsp;"Here the hangman stops his cart:
+&nbsp;&nbsp;&nbsp;&nbsp;Now the best of friends must part.
+&nbsp;&nbsp;&nbsp;&nbsp;Fare you well, for ill fare I:
+&nbsp;&nbsp;&nbsp;&nbsp;Live, lads, and I will die."
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Oh, at home had I but stayed
+&nbsp;&nbsp;&nbsp;&nbsp;'Prenticed to my father's trade,
+&nbsp;&nbsp;&nbsp;&nbsp;Had I stuck to plane and adze,
+&nbsp;&nbsp;&nbsp;&nbsp;I had not been lost, my lads."
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Then I might have built perhaps
+&nbsp;&nbsp;&nbsp;&nbsp;Gallows-trees for other chaps,
+&nbsp;&nbsp;&nbsp;&nbsp;Never dangled on my own,
+&nbsp;&nbsp;&nbsp;&nbsp;Had I but left ill alone."
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Now, you see, they hang me high,
+&nbsp;&nbsp;&nbsp;&nbsp;And the people passing by
+&nbsp;&nbsp;&nbsp;&nbsp;Stop to shake their fists and curse;
+&nbsp;&nbsp;&nbsp;&nbsp;So 'tis come from ill to worse."
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Here hang I, and right and left
+&nbsp;&nbsp;&nbsp;&nbsp;Two poor fellows hang for theft:
+&nbsp;&nbsp;&nbsp;&nbsp;All the same's the luck we prove,
+&nbsp;&nbsp;&nbsp;&nbsp;Though the midmost hangs for love."
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Comrades all, that stand and gaze,
+&nbsp;&nbsp;&nbsp;&nbsp;Walk henceforth in other ways;
+&nbsp;&nbsp;&nbsp;&nbsp;See my neck and save your own:
+&nbsp;&nbsp;&nbsp;&nbsp;Comrades all, leave ill alone."
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Make some day a decent end,
+&nbsp;&nbsp;&nbsp;&nbsp;Shrewder fellows than your friend.
+&nbsp;&nbsp;&nbsp;&nbsp;Fare you well, for ill fare I:
+&nbsp;&nbsp;&nbsp;&nbsp;Live, lads, and I will die."
+</pre>
