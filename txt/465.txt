@@ -1,5 +1,4 @@
-<pre>
-On the last night of October,
+<pre>On the last night of October,
 Comes the mystic Halloween.
 The night when ghosts and witches,
 By mortals can be seen.
@@ -7,7 +6,7 @@ Then merry maidens fortunes tell,
 And tricks on others pay;
 Aud children bob for apples
 On Halloween so gay.
-<img alt="Halloween vintage postcard, bobbing for apples" title="Halloween vintage postcard, bobbing for apples" itemprop="image" src="https://assets.americanliterature.com/al/images/poem/halloween-bob-for-apples.jpg" style="max-width:400px; float:center; margin-right: 12px; margin-bottom: 12px;" data-pagespeed-url-hash="3590884278" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<img alt="Halloween vintage postcard, bobbing for apples" itemprop="image" src="https://assets.americanliterature.com/al/images/poem/halloween-bob-for-apples.jpg" style="max-width:400px; float:center; margin-right: 12px; margin-bottom: 12px;" title="Halloween vintage postcard, bobbing for apples" data-pagespeed-url-hash="3590884278" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
 <i>SING</i> (to the tune "Sweet By and By")
 
 Jack-o-lanterns are glimmering round,

@@ -1,0 +1,4 @@
+<p>I met Du Fu on a mountaintop<br> in August when the sun was hot.<br> <br> Under the shade of his big straw hat<br> his face was sad--<br> <br> in the years since we last parted,<br> he'd grown wan, exhausted.<br> <br> Poor old Du Fu, I thought then,<br> he must be agonizing over poetry again.<br></p>
+<div class="poet" itemprop="author">
+ Li Po
+</div>

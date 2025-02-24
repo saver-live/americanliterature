@@ -1,107 +1,15 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;O! were I one of the Olympian twelve,
-&nbsp;&nbsp;&nbsp;&nbsp;Their godships should pass this into law,
-&nbsp;&nbsp;&nbsp;&nbsp;That when a man doth set himself in toil
-&nbsp;&nbsp;&nbsp;&nbsp;After some beauty veiled far away,
-&nbsp;&nbsp;&nbsp;&nbsp;Each step he took should make his lady's hand
-&nbsp;&nbsp;&nbsp;&nbsp;More soft, more white, and her fair cheek more fair;
-&nbsp;&nbsp;&nbsp;&nbsp;And for each briar-berry he might eat,
-&nbsp;&nbsp;&nbsp;&nbsp;A kiss should bud upon the tree of love,
-&nbsp;&nbsp;&nbsp;&nbsp;And pulp and ripen richer every hour,
-&nbsp;&nbsp;&nbsp;&nbsp;To melt away upon the traveller's lips.
-
-&nbsp;&nbsp;&nbsp;&nbsp;- - - - - - - - - - - - - - - -
-
-1.
-&nbsp;&nbsp;&nbsp;&nbsp;The sun, with his great eye,
-&nbsp;&nbsp;&nbsp;&nbsp;Sees not so much as I;
-&nbsp;&nbsp;&nbsp;&nbsp;And the moon, all silve-proud,
-&nbsp;&nbsp;&nbsp;&nbsp;Might as well be in a cloud.
-
-2.
-&nbsp;&nbsp;&nbsp;&nbsp;And O the spring the spring!
-&nbsp;&nbsp;&nbsp;&nbsp;I lead the life of a king!
-&nbsp;&nbsp;&nbsp;&nbsp;Couch'd in the teeming grass,
-&nbsp;&nbsp;&nbsp;&nbsp;I spy each pretty lass.
-
-3.
-&nbsp;&nbsp;&nbsp;&nbsp;I look where no one dares,
-&nbsp;&nbsp;&nbsp;&nbsp;And I stare where no one stares,
-&nbsp;&nbsp;&nbsp;&nbsp;And when the night is nigh,
-&nbsp;&nbsp;&nbsp;&nbsp;Lambs bleat my lullaby.
-
-&nbsp;&nbsp;&nbsp;&nbsp;- - - - - - - - - - - - - - - -
-
-Folly's Song.
-
-&nbsp;&nbsp;&nbsp;&nbsp;When wedding fiddles are a-playing,
-&nbsp;&nbsp;&nbsp;&nbsp;Huzza for folly O!
-&nbsp;&nbsp;&nbsp;&nbsp;And when maidens go a-Maying,
-&nbsp;&nbsp;&nbsp;&nbsp;Huzza for folly O!
-&nbsp;&nbsp;&nbsp;&nbsp;When a milk-pail is upset,
-&nbsp;&nbsp;&nbsp;&nbsp;Huzza for folly O!
-&nbsp;&nbsp;&nbsp;&nbsp;And the clothes left in the wet,
-&nbsp;&nbsp;&nbsp;&nbsp;Huzza for folly O!
-&nbsp;&nbsp;&nbsp;&nbsp;When the barrel's set abroach,
-&nbsp;&nbsp;&nbsp;&nbsp;Huzza for folly O!
-&nbsp;&nbsp;&nbsp;&nbsp;When Kate Eyebrow keeps a coach,
-&nbsp;&nbsp;&nbsp;&nbsp;Huzza for folly O!
-&nbsp;&nbsp;&nbsp;&nbsp;When the pig is over-roasted,
-&nbsp;&nbsp;&nbsp;&nbsp;Huzza for folly O!
-&nbsp;&nbsp;&nbsp;&nbsp;And the cheese is over-toasted,
-&nbsp;&nbsp;&nbsp;&nbsp;Huzza for folly O!
-&nbsp;&nbsp;&nbsp;&nbsp;When Sir Snap is with his lawyer,
-&nbsp;&nbsp;&nbsp;&nbsp;Huzza for folly O!
-&nbsp;&nbsp;&nbsp;&nbsp;And Miss Chap has kiss'd the sawyer,
-&nbsp;&nbsp;&nbsp;&nbsp;Huzza for folly O!
-
-&nbsp;&nbsp;&nbsp;&nbsp;- - - - - - - - - - - - - - - - -
-
-&nbsp;&nbsp;&nbsp;&nbsp;Oh, I am frighten'd with most hateful thoughts!
-&nbsp;&nbsp;&nbsp;&nbsp;Perhaps her voice is not a nightingale's,
-&nbsp;&nbsp;&nbsp;&nbsp;Perhaps her teeth are not the fairest pearl;
-&nbsp;&nbsp;&nbsp;&nbsp;Her eye-lashes may be, for aught I know,
-&nbsp;&nbsp;&nbsp;&nbsp;Not longer than the May-fly's small fan-horns;
-&nbsp;&nbsp;&nbsp;&nbsp;There may not be one dimple on her hand;
-&nbsp;&nbsp;&nbsp;&nbsp;And freckles many; ah! a careless nurse,
-&nbsp;&nbsp;&nbsp;&nbsp;In haste to teach the little thing to walk,
-&nbsp;&nbsp;&nbsp;&nbsp;May have crumpt up a pair of Dian's legs,
-&nbsp;&nbsp;&nbsp;&nbsp;And warpt the ivory of a Juno's neck.
-
-&nbsp;&nbsp;&nbsp;&nbsp;- - - - - - - - - - - - - - - - -
-
-Song.
-
-1.
-&nbsp;&nbsp;&nbsp;&nbsp;The stranger lighted from his steed,
-&nbsp;&nbsp;&nbsp;&nbsp;And ere he spake a word,
-&nbsp;&nbsp;&nbsp;&nbsp;He seiz'd my lady's lily hand,
-&nbsp;&nbsp;&nbsp;&nbsp;And kiss'd it all unheard.
-
-2.
-&nbsp;&nbsp;&nbsp;&nbsp;The stranger walk'd into the hall,
-&nbsp;&nbsp;&nbsp;&nbsp;And ere he spake a word,
-&nbsp;&nbsp;&nbsp;&nbsp;He kiss'd my lady's cherry lips,
-&nbsp;&nbsp;&nbsp;&nbsp;And kiss'd 'em all unheard.
-
-3.
-&nbsp;&nbsp;&nbsp;&nbsp;The stranger walk'd into the bower,
-&nbsp;&nbsp;&nbsp;&nbsp;But my lady first did go,
-&nbsp;&nbsp;&nbsp;&nbsp;Aye hand in hand into the bower,
-&nbsp;&nbsp;&nbsp;&nbsp;Where my lord's roses blow.
-
-4.
-&nbsp;&nbsp;&nbsp;&nbsp;My lady's maid had a silken scarf,
-&nbsp;&nbsp;&nbsp;&nbsp;And a golden ring had she,
-&nbsp;&nbsp;&nbsp;&nbsp;And a kiss from the stranger, as off he went
-&nbsp;&nbsp;&nbsp;&nbsp;Again on his fair palfrey.
-
-&nbsp;&nbsp;&nbsp;&nbsp;- - - - - - - - - - - - - - - -
-
-&nbsp;&nbsp;&nbsp;&nbsp;Asleep! O sleep a little while, white pearl!
-&nbsp;&nbsp;&nbsp;&nbsp;And let me kneel, and let me pray to thee,
-&nbsp;&nbsp;&nbsp;&nbsp;And let me call Heavens blessing on thine eyes,
-&nbsp;&nbsp;&nbsp;&nbsp;And let me breathe into the happy air,
-&nbsp;&nbsp;&nbsp;&nbsp;That doth enfold and touch thee all about,
-&nbsp;&nbsp;&nbsp;&nbsp;Vows of my slavery, my giving up,
-&nbsp;&nbsp;&nbsp;&nbsp;My sudden adoration, my great love!
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;Had I a man's fair form, then might my sighs
+&nbsp;&nbsp;&nbsp;&nbsp;Be echoed swiftly through that ivory shell
+&nbsp;&nbsp;&nbsp;&nbsp;Thine ear, and find thy gentle heart; so well
+&nbsp;&nbsp;&nbsp;&nbsp;Would passion arm me for the enterprize:
+&nbsp;&nbsp;&nbsp;&nbsp;But ah! I am no knight whose foeman dies;
+&nbsp;&nbsp;&nbsp;&nbsp;No cuirass glistens on my bosom's swell;
+&nbsp;&nbsp;&nbsp;&nbsp;I am no happy shepherd of the dell
+&nbsp;&nbsp;&nbsp;&nbsp;Whose lips have trembled with a maiden's eyes.
+&nbsp;&nbsp;&nbsp;&nbsp;Yet must I doat upon thee, call thee sweet,
+&nbsp;&nbsp;&nbsp;&nbsp;Sweeter by far than Hybla's honied roses
+&nbsp;&nbsp;&nbsp;&nbsp;When steep'd in dew rich to intoxication.
+&nbsp;&nbsp;&nbsp;&nbsp;Ah! I will taste that dew, for me 'tis meet,
+&nbsp;&nbsp;&nbsp;&nbsp;And when the moon her pallid face discloses,
+&nbsp;&nbsp;&nbsp;&nbsp;I'll gather some by spells, and incantation.
 </pre>

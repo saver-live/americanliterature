@@ -1,37 +1,15 @@
-<pre>
-
-    When the warm sun, that brings
-Seed-time and harvest, has returned again,
-'T is sweet to visit the still wood, where springs
-    The first flower of the plain.
-    I love the season well,
-When forest glades are teeming with bright forms,
-Nor dark and many-folded clouds foretell
-    The coming-on of storms.
-    From the earth's loosened mould
-The sapling draws its sustenance, and thrives;
-Though stricken to the heart with winter's cold,
-    The drooping tree revives.
-    The softly-warbled song
-Comes from the pleasant woods, and colored wings
-Glance quick in the bright sun, that moves along
-    The forest openings.
-    When the bright sunset fills
-The silver woods with light, the green slope throws
-Its shadows in the hollows of the hills,
-    And wide the upland glows.
-    And when the eve is born,
-In the blue lake the sky, o'er-reaching far,
-Is hollowed out and the moon dips her horn,
-    And twinkles many a star.
-    Inverted in the tide
-Stand the gray rocks, and trembling shadows throw,
-And the fair trees look over, side by side,
-    And see themselves below.
-    Sweet April! many a thought
-Is wedded unto thee, as hearts are wed;
-Nor shall they fail, till, to its autumn brought,
-    Life's golden fruit is shed.
-
-
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;How many lives, made beautiful and sweet
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By self-devotion and by self-restraint,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Whose pleasure is to run without complaint
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On unknown errands of the Paraclete,
+&nbsp;&nbsp;&nbsp;&nbsp;Wanting the reverence of unshodden feet,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fail of the nimbus which the artists paint
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Around the shining forehead of the saint,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And are in their completeness incomplete!
+&nbsp;&nbsp;&nbsp;&nbsp;In the old Tuscan town stands Giotto's tower,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The lily of Florence blossoming in stone,--
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A vision, a delight, and a desire,--
+&nbsp;&nbsp;&nbsp;&nbsp;The builder's perfect and centennial flower,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That in the night of ages bloomed alone,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But wanting still the glory of the spire.
 </pre>

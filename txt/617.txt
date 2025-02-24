@@ -1,0 +1,4 @@
+<p>The courier will depart next day, she's told. <br> She sews a warrior's gown all night. <br> Her fingers feel the needle cold. <br> How can she hold the scissors tight? <br> The work is done, she sends it far away. <br> When will it reach the town where warriors stay? <br></p>
+<div class="poet" itemprop="author">
+ Li Po
+</div>

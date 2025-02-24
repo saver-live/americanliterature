@@ -1,15 +1,45 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;O soft embalmer of the still midnight!
-&nbsp;&nbsp;&nbsp;&nbsp;Shutting, with careful fingers and benign,
-&nbsp;&nbsp;&nbsp;&nbsp;Our gloom-pleas'd eyes, embower'd from the light,
-&nbsp;&nbsp;&nbsp;&nbsp;Enshaded in forgetfulness divine;
-&nbsp;&nbsp;&nbsp;&nbsp;O soothest Sleep! if so it please thee, close,
-&nbsp;&nbsp;&nbsp;&nbsp;In midst of this thine hymn, my willing eyes.
-&nbsp;&nbsp;&nbsp;&nbsp;Or wait the Amen, ere thy poppy throws
-&nbsp;&nbsp;&nbsp;&nbsp;Around my bed its lulling charities;
-&nbsp;&nbsp;&nbsp;&nbsp;Then save me, or the passed day will shine
-&nbsp;&nbsp;&nbsp;&nbsp;Upon my pillow, breeding many woes;
-&nbsp;&nbsp;&nbsp;&nbsp;Save me from curious conscience, that still hoards
-&nbsp;&nbsp;&nbsp;&nbsp;Its strength for darkness, burrowing like a mole;
-&nbsp;&nbsp;&nbsp;&nbsp;Turn the key deftly in the oiled wards,
-&nbsp;&nbsp;&nbsp;&nbsp;And seal the hushed casket of my soul.
+<pre>
+  Oh! say can you see, by the dawn's early light,
+    What so proudly we hailed at the twilight's last gleaming;
+  Whose broad stripes and bright stars through the perilous fight,
+    O'er the ramparts we watched, were so gallantly streaming?
+  And the rocket's red glare, the bombs bursting in air,
+  Gave proof through the night that our flag was still there;
+    Oh, say, does that star-spangled banner yet wave
+    O'er the land of the free and the home of the brave?
+
+ <div class="responsive-embed-16by9-iframe-youtube">
+        
+  <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="//www.youtube.com/embed/QIHGmC_QOH4" allowfullscreen></iframe>
+        
+  </div>
+      
+ </div>
+  On the shore, dimly seen through the mists of the deep,
+    Where the foe's haughty host in dread silence reposes,
+  What is that which the breeze o'er the towering steep
+    As it fitfully blows, half conceals, half discloses?
+  Now it catches the gleam of the morning's first beam;
+  Its full glory reflected now shines on the stream;
+    'Tis the star-spangled banner! Oh! long may it wave
+    O'er the land of the free and the home of the brave!
+
+  And where is the band who so vauntingly swore,
+    'Mid the havoc of war and the battle's confusion,
+  A home and a country they'd leave us no more?
+    Their blood hath washed out their foul footsteps' pollution;
+  No refuge could save the hireling and slave
+  From the terror of flight, or the gloom of the grave,
+    And the star-spangled banner in triumph doth wave
+    O'er the land of the free and the home of the brave!
+
+  Oh! thus be it ever, when freemen shall stand
+    Between their loved home and the war's desolation;
+  Blessed with victory and peace, may the Heaven-rescued land
+    Praise the Power that hath made and preserved us a nation.
+  Then conquer we must, for our cause it is just,
+  And this be our motto, "In God is our trust":
+    And the star-spangled banner in triumph shall wave
+    O'er the land of the free and the home of the brave!
 </pre>

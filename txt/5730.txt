@@ -1,30 +1,15 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;Sleep, comrades, sleep and rest
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On this Field of the Grounded Arms,
-&nbsp;&nbsp;&nbsp;&nbsp;Where foes no more molest,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nor sentry's shot alarms!
-
-&nbsp;&nbsp;&nbsp;&nbsp;Ye have slept on the ground before,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And started to your feet
-&nbsp;&nbsp;&nbsp;&nbsp;At the cannon's sudden roar,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Or the drum's redoubling beat.
-
-&nbsp;&nbsp;&nbsp;&nbsp;But in this camp of Death
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No sound your slumber breaks;
-&nbsp;&nbsp;&nbsp;&nbsp;Here is no fevered breath,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No wound that bleeds and aches.
-
-&nbsp;&nbsp;&nbsp;&nbsp;All is repose and peace,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Untrampled lies the sod;
-&nbsp;&nbsp;&nbsp;&nbsp;The shouts of battle cease,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It is the Truce of God!
-
-&nbsp;&nbsp;&nbsp;&nbsp;Rest, comrades, rest and sleep!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The thoughts of men shall be
-&nbsp;&nbsp;&nbsp;&nbsp;As sentinels to keep
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your rest from danger free.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Your silent tents of green
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We deck with fragrant flowers;
-&nbsp;&nbsp;&nbsp;&nbsp;Yours has the suffering been,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The memory shall be ours.
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;Half of my life is gone, and I have let
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The years slip from me and have not fulfilled
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The aspiration of my youth, to build
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Some tower of song with lofty parapet.
+&nbsp;&nbsp;&nbsp;&nbsp;Not indolence, nor pleasure, nor the fret
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of restless passions chat would not be stilled,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But sorrow, and a care that almost killed,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kept me from what I may accomplish yet;
+&nbsp;&nbsp;&nbsp;&nbsp;Though, half way up the hill, I see the Past
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lying beneath me with its sounds and sights,--
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A city in the twilight dim and vast,
+&nbsp;&nbsp;&nbsp;&nbsp;With smoking roofs, soft bells, and gleaming lights.--
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And hear above me on the autumnal blast
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The cataract of Death far thundering from the heights.
 </pre>

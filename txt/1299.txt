@@ -1,1 +1,21 @@
-<p><cite class="al-title">Miss Crespigny</cite>, Ms. Burnett's Earlier Stories, was published in 1879. </p><p><i>"These love stories were written for and printed in <cite class="al-periodical">Peterson’s Ladies’ Magazine</cite>. Owing to the fact that this magazine was not copyrighted, a number of them have been issued in book-form without my consent, and representing the sketches to be my latest work. If these youthful stories are to be read in book form, it is my desire that my friends should see the present edition, which I have revised for the purpose, and which is brought out by my own publishers.</i></p>
+<pre>
+O my Luve's like a red, red rose
+That’s newly sprung in June;
+O my Luve's like the melodie
+That’s sweetly play'd in tune.
+
+As fair art thou, my bonnie lass,
+So deep in luve am I:
+And I will luve thee still, my dear,
+Till a’ the seas gang dry:
+
+Till a’ the seas gang dry, my dear,
+And the rocks melt wi’ the sun:
+I will luve thee still, my dear,
+While the sands o’ life shall run.
+
+And fare thee well, my only Luve
+And fare thee well, a while!
+And I will come again, my Luve,
+Tho’ it were ten thousand mile.
+</pre>

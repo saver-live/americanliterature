@@ -1,1 +1,20 @@
-<p><span class="al-title">The Iliad</span> as translated by Augustus Taber Murray (1924). <i>Illustration by John Flaxman, published in Alfred John Church's translation, 1915.</i></p><p><a href="book-1-quarrel-of-achilles">BOOK 1 Quarrel of Achilles</a></p><p><a href="book-2-rallying-of-the-troops">BOOK 2 Rallying of the Troops</a></p><p><a href="book-3-duel-paris-menelaus">BOOK 3 Duel Paris &amp; Menelaus</a></p><p><a href="book-4-battlefield">BOOK 4 Battlefield</a></p><p><a href="book-5-diomed-battles-gods">BOOK 5 Diomed Battles Gods</a></p><p><a href="book-6-hector-andromache">BOOK 6 Hector &amp; Andromache</a></p><p><a href="book-7-duel-of-hector-ajax">BOOK 7 Duel of Hector &amp; Ajax</a></p><p><a href="book-8-battlefield">BOOK 8 Battlefield</a></p><p><a href="book-9-embassy-to-achilles">BOOK 9 Embassy to Achilles</a></p><p><a href="book-10-night-time-foray">BOOK 10 Night-time Foray</a></p><p><a href="book-11-battlefield">BOOK 11 Battlefield</a></p><p><a href="book-12-battlefield">BOOK 12 Battlefield</a></p><p><a href="book-13-battlefield">BOOK 13 Battlefield</a></p><p><a href="book-14-beguiling-of-zeus">BOOK 14 Beguiling of Zeus</a></p><p><a href="book-15-battefield">BOOK 15 Battefield</a></p><p><a href="book-16-death-of-patroclus">BOOK 16 Death of Patroclus</a></p><p><a href="book-17-battlefield">BOOK 17 Battlefield</a></p><p><a href="book-18-armour-of-achilles">BOOK 18 Armour of Achilles</a></p><p><a href="book-19-battlefield">BOOK 19 Battlefield</a></p><p><a href="book-20-battle-of-gods">BOOK 20 Battle of Gods</a></p><p><a href="book-21-battlefield">BOOK 21 Battlefield</a></p><p><a href="book-22-death-of-hector">BOOK 22 Death of Hector</a></p><p><a href="book-23-funeral-games">BOOK 23 Funeral Games</a></p><p><a href="book-24-ransom-of-hector">BOOK 24 Ransom of Hector</a></p><p style="margin-top: 26px;"> Return to the <a href="/author/homer">Homer</a> library. </p>
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;Others, I am not the first,
+&nbsp;&nbsp;&nbsp;&nbsp;Have willed more mischief than they durst:
+&nbsp;&nbsp;&nbsp;&nbsp;If in the breathless night I too
+&nbsp;&nbsp;&nbsp;&nbsp;Shiver now, 'tis nothing new.
+
+&nbsp;&nbsp;&nbsp;&nbsp;More than I, if truth were told,
+&nbsp;&nbsp;&nbsp;&nbsp;Have stood and sweated hot and cold,
+&nbsp;&nbsp;&nbsp;&nbsp;And through their reins in ice and fire
+&nbsp;&nbsp;&nbsp;&nbsp;Fear contended with desire.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Agued once like me were they,
+&nbsp;&nbsp;&nbsp;&nbsp;But I like them shall win my way
+&nbsp;&nbsp;&nbsp;&nbsp;Lastly to the bed of mould
+&nbsp;&nbsp;&nbsp;&nbsp;Where there's neither heat nor cold.
+
+&nbsp;&nbsp;&nbsp;&nbsp;But from my grave across my brow
+&nbsp;&nbsp;&nbsp;&nbsp;Plays no wind of healing now,
+&nbsp;&nbsp;&nbsp;&nbsp;And fire and ice within me fight
+&nbsp;&nbsp;&nbsp;&nbsp;Beneath the suffocating night.
+</pre>

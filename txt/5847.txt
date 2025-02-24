@@ -1,20 +1,15 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;A gentle boy, with soft and silken locks
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A dreamy boy, with brown and tender eyes,
-&nbsp;&nbsp;&nbsp;&nbsp;A castle-builder, with his wooden blocks,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And towers that touch imaginary skies.
-
-&nbsp;&nbsp;&nbsp;&nbsp;A fearless rider on his father's knee,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An eager listener unto stories told
-&nbsp;&nbsp;&nbsp;&nbsp;At the Round Table of the nursery,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of heroes and adventures manifold.
-
-&nbsp;&nbsp;&nbsp;&nbsp;There will be other towers for thee to build;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There will be other steeds for thee to ride;
-&nbsp;&nbsp;&nbsp;&nbsp;There will be other legends, and all filled
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With greater marvels and more glorified.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Build on, and make thy castles high and fair,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rising and reaching upward to the skies;
-&nbsp;&nbsp;&nbsp;&nbsp;Listen to voices in the upper air,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nor lose thy simple faith in mysteries.
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;As one who long hath fled with panting breath
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Before his foe, bleeding and near to fall,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I turn and set my back against the wall,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And look thee in the face, triumphant Death,
+&nbsp;&nbsp;&nbsp;&nbsp;I call for aid, and no one answereth;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am alone with thee, who conquerest all;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yet me thy threatening form doth not appall,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For thou art but a phantom and a wraith.
+&nbsp;&nbsp;&nbsp;&nbsp;Wounded and weak, sword broken at the hilt,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With armor shattered, and without a shield,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I stand unmoved; do with me what thou wilt;
+&nbsp;&nbsp;&nbsp;&nbsp;I can resist no more, but will not yield.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is no tournament where cowards tilt;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The vanquished here is victor of the field.
 </pre>

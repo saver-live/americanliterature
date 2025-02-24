@@ -1,168 +1,102 @@
-<pre>When the breeze of a joyful dawn blew free
-In the silken sail of infancy,
-The tide of time flow'd back with me,
-The forward-flowing tide of time;
-And many a sheeny summer-morn,
-Adown the Tigris I was borne,
-By Bagdat's shrines of fretted gold,
-High-walled gardens green and old;
-True Mussulman was I and sworn,
-For it was in the golden prime
-Of good Haroun Alraschid.
-
-Anight my shallop, rustling thro'
-The low and bloomed foliage, drove
-The fragrant, glistening deeps, and clove
-The citron-shadows in the blue:
-By garden porches on the brim,
-The costly doors flung open wide,
-Gold glittering thro' lamplight dim,
-And broider'd sofas on each side:
-In sooth it was a goodly time,
-For it was in the golden prime
-Of good Haroun Alraschid.
-
-Often where clear-stemm'd platans guard
-The outlet, did I turn away
-The boat-head down a broad canal
-From the main river sluiced, where all
-The sloping of the moon-lit sward
-Was damask-work, and deep inlay
-Of braided blooms unmown, which crept
-Adown to where the water slept.
-A goodly place, a goodly time,
-For it was in the golden prime
-Of good Haroun Alraschid.
-
-A motion from the river won
-Ridged the smooth level, bearing on
-My shallop thro' the star-strown calm,
-Until another night in night
-I enter'd, from the clearer light,
-Imbower'd vaults of pillar'd palm,
-Imprisoning sweets, which, as they clomb
-Heavenward, were stay'd beneath the dome
-Of hollow boughs.--A goodly time,
-For it was in the golden prime
-Of good Haroun Alraschid.
-
-Still onward; and the clear canal
-Is rounded to as clear a lake.
-From the green rivage many a fall
-Of diamond rillets musical,
-Thro' little crystal arches low
-Down from the central fountain's flow
-Fall'n silver-chiming, seemed to shake
-The sparkling flints beneath the prow.
-A goodly place, a goodly time,
-For it was in the golden prime
-Of good Haroun Alraschid.
-
-Above thro' many a bowery turn
-A walk with vary-colour'd shells
-Wander'd engrain'd. On either side
-All round about the fragrant marge
-From fluted vase, and brazen urn
-In order, eastern flowers large,
-Some dropping low their crimson bells
-Half-closed, and others studded wide
-With disks and tiars, fed the time
-With odour in the golden prime
-Of good Haroun Alraschid.
-
-Far off, and where the lemon grove
-In closest coverture upsprung,
-The living airs of middle night
-Died round the bulbul as he sung;
-Not he: but something which possess'd
-The darkness of the world, delight,
-Life, anguish, death, immortal love,
-Ceasing not, mingled, unrepress'd,
-Apart from place, withholding time,
-But flattering the golden prime
-Of good Haroun Alraschid.
-
-Black the garden-bowers and grots
-Slumber'd: the solemn palms were ranged
-Above, unwoo'd of summer wind:
-A sudden splendour from behind
-Flush'd all the leaves with rich gold-green,
-And, flowing rapidly between
-Their interspaces, counterchanged
-The level lake with diamond-plots
-Of dark and bright. A lovely time,
-For it was in the golden prime
-Of good Haroun Alraschid.
-
-Dark-blue the deep sphere overhead,
-Distinct with vivid stars inlaid,
-Grew darker from that under-flame:
-So, leaping lightly from the boat,
-With silver anchor left afloat,
-In marvel whence that glory came
-Upon me, as in sleep I sank
-In cool soft turf upon the bank,
-Entranced with that place and time,
-So worthy of the golden prime
-Of good Haroun Alraschid.
-
-Thence thro' the garden I was drawn--
-A realm of pleasance, many a mound,
-And many a shadow-chequer'd lawn
-Full of the city's stilly sound,
-And deep myrrh-thickets blowing round
-The stately cedar, tamarisks,
-Thick rosaries of scented thorn,
-Tall orient shrubs, and obelisks
-Graven with emblems of the time,
-In honour of the golden prime
-Of good Haroun Alraschid.
-
-With dazed vision unawares
-From the long alley's latticed shade
-Emerged, I came upon the great
-Pavilion of the Caliphat.
-Right to the carven cedarn doors,
-Flung inward over spangled floors,
-Broad-based flights of marble stairs
-Ran up with golden balustrade,
-After the fashion of the time,
-And humour of the golden prime
-Of good Haroun Alraschid.
-
-The fourscore windows all alight
-As with the quintessence of flame,
-A million tapers flaring bright
-From twisted silvers look'd to shame
-The hollow-vaulted dark, and stream'd
-Upon the mooned domes aloof
-In inmost Bagdat, till there seem'd
-Hundreds of crescents on the roof
-Of night new-risen, that marvellous time
-To celebrate the golden prime
-Of good Haroun Alraschid.
-
-Then stole I up, and trancedly
-Gazed on the Persian girl alone,
-Serene with argent-lidded eyes
-Amorous, and lashes like to rays
-Of darkness, and a brow of pearl
-Tressed with redolent ebony,
-In many a dark delicious curl,
-Flowing beneath her rose-hued zone;
-The sweetest lady of the time,
-Well worthy of the golden prime
-Of good Haroun Alraschid.
-
-Six columns, three on either side,
-Pure silver, underpropt a rich
-Throne of the massive ore, from which
-Down-droop'd, in many a floating fold,
-Engarlanded and diaper'd
-With inwrought flowers, a cloth of gold.
-Thereon, his deep eye laughter-stirr'd
-With merriment of kingly pride,
-Sole star of all that place and time,
-I saw him--in his golden prime,
-The good Haroun Alraschid. 
+<pre>Of love that never found his earthly close,
+What sequel? Streaming eyes and breaking hearts?
+Or all the same as if he had not been?
+Not so. Shall Error in the round of time
+Still father Truth? O shall the braggart shout
+For some blind glimpse of freedom work itself
+Thro’ madness, hated by the wise, to law
+System and empire? Sin itself be found
+The cloudy porch oft opening on the Sun?
+And only he, this wonder, dead, become
+Mere highway dust? or year by year alone
+Sit brooding in the ruins of a life,
+Nightmare of youth, the spectre of himself!
+If this were thus, if this, indeed, were all,
+Better the narrow brain, the stony heart,
+The staring eye glazed o’er with sapless days,
+The long mechanic pacings to and fro,
+The set gray life, and apathetic end.
+But am I not the nobler thro’ thy love?
+O three times less unworthy! likewise thou
+Art more thro’ Love, and greater than thy years.
+The Sun will run his orbit, and the Moon
+Her circle. Wait, and Love himself will bring
+The drooping flower of knowledge changed to fruit
+Of wisdom. Wait: my faith is large in Time,
+And that which shapes it to some perfect end.
+Will some one say, then why not ill for good?
+Why took ye not your pastime? To that man
+My work shall answer, since I knew the right
+And did it; for a man is not as God,
+But then most Godlike being most a man.—
+—So let me think ’tis well for thee and me—
+Ill-fated that I am, what lot is mine
+Whose foresight preaches peace, my heart so slow
+To feel it! For how hard it seem’d to me,
+When eyes, love-languid thro’ half tears, would dwell
+One earnest, earnest moment upon mine,
+Then not to dare to see! when thy low voice,
+Faltering, would break its syllables, to keep
+My own full-tuned,—hold passion in a leash,
+And not leap forth and fall about thy neck,
+And on thy bosom, (deep-desired relief!)
+Rain out the heavy mist of tears, that weigh’d
+Upon my brain, my senses, and my soul!
+For love himself took part against himself
+To warn us off, and Duty loved of Love—
+O this world’s curse—beloved but hated—came
+Like Death betwixt thy dear embrace and mine,
+And crying, “Who is this? behold thy bride,”
+She push’d me from thee.
+If the sense is hard
+To alien ears, I did not speak to these—
+No, not to thee, but to thyself in me:
+Hard is my doom and thine: thou knowest it all.
+Could Love part thus? was it not well to speak,
+To have spoken once? It could not but be well.
+The slow sweet hours that bring us all things good,
+The slow sad hours that bring us all things ill,
+And all good things from evil, brought the night
+In which we sat together and alone,
+And to the want, that hollow’d all the heart,
+Gave utterance by the yearning of an eye,
+That burn’d upon its object thro’ such tears
+As flow but once a life.
+The trance gave way
+To those caresses, when a hundred times
+In that last kiss, which never was the last,
+Farewell, like endless welcome, lived and died.
+Then follow’d counsel, comfort and the words
+That make a man feel strong in speaking truth;
+Till now the dark was worn, and overhead
+The lights of sunset and of sunrise mix’d
+In that brief night; the summer night, that paused
+Among her stars to hear us; stars that hung
+Love-charm’d to listen: all the wheels of Time
+Spun round in station, but the end had come.
+O then like those, who clench their nerves to rush
+Upon their dissolution, we two rose,
+There—closing like an individual life—
+In one blind cry of passion and of pain,
+Like bitter accusation ev’n to death,
+Caught up the whole of love and utter’d it,
+And bade adieu for ever.
+Live—yet live—
+Shall sharpest pathos blight us, knowing all
+Life needs for life is possible to will—
+Live happy; tend thy flowers; be tended by
+My blessing! Should my Shadow cross thy thoughts
+Too sadly for their peace, remand it thou
+For calmer hours to Memory’s darkest hold,
+If not to be forgotten—not at once—
+Not all forgotten. Should it cross thy dreams,
+O might it come like one that looks content,
+With quiet eyes unfaithful to the truth,
+And point thee forward to a distant light,
+Or seem to lift a burthen from thy heart
+And leave thee freër, till thou wake refresh’d,
+Then when the first low matin-chirp hath grown
+Full quire, and morning driv’n her plow of pearl
+Far furrowing into light the mounded rack,
+Beyond the fair green field and eastern sea.
 </pre>

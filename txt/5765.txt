@@ -1,48 +1,55 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;When the dying flame of day
-&nbsp;&nbsp;&nbsp;&nbsp;Through the chancel shot its ray,
-&nbsp;&nbsp;&nbsp;&nbsp;Far the glimmering tapers shed
-&nbsp;&nbsp;&nbsp;&nbsp;Faint light on the cowled head;
-&nbsp;&nbsp;&nbsp;&nbsp;And the censer burning swung,
-&nbsp;&nbsp;&nbsp;&nbsp;Where, before the altar, hung
-&nbsp;&nbsp;&nbsp;&nbsp;The crimson banner, that with prayer
-&nbsp;&nbsp;&nbsp;&nbsp;Had been consecrated there.
-&nbsp;&nbsp;&nbsp;&nbsp;And the nuns' sweet hymn was heard the while,
-&nbsp;&nbsp;&nbsp;&nbsp;Sung low, in the dim, mysterious aisle.
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;Southward with fleet of ice
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sailed the corsair Death;
+&nbsp;&nbsp;&nbsp;&nbsp;Wild and fast blew the blast,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the east-wind was his breath.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "Take thy banner!&nbsp;&nbsp;&nbsp;&nbsp;May it wave
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proudly o'er the good and brave;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When the battle's distant wail
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Breaks the sabbath of our vale.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When the clarion's music thrills
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To the hearts of these lone hills,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When the spear in conflict shakes,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the strong lance shivering breaks.
+&nbsp;&nbsp;&nbsp;&nbsp;His lordly ships of ice
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Glisten in the sun;
+&nbsp;&nbsp;&nbsp;&nbsp;On each side, like pennons wide,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flashing crystal streamlets run.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "Take thy banner! and, beneath
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The battle-cloud's encircling wreath,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guard it, till our homes are free!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guard it!&nbsp;&nbsp;&nbsp;&nbsp;God will prosper thee!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the dark and trying hour,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the breaking forth of power,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the rush of steeds and men,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;His right hand will shield thee then.
+&nbsp;&nbsp;&nbsp;&nbsp;His sails of white sea-mist
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dripped with silver rain;
+&nbsp;&nbsp;&nbsp;&nbsp;But where he passed there were cast
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Leaden shadows o'er the main.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Take thy banner!&nbsp;&nbsp;&nbsp;&nbsp;But when night
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Closes round the ghastly fight,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If the vanquished warrior bow,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Spare him!&nbsp;&nbsp;&nbsp;&nbsp;By our holy vow,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; By our prayers and many tears,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; By the mercy that endears,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Spare him! he our love hath shared!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Spare him! as thou wouldst be spared!
+&nbsp;&nbsp;&nbsp;&nbsp;Eastward from Campobello
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir Humphrey Gilbert sailed;
+&nbsp;&nbsp;&nbsp;&nbsp;Three days or more seaward he bore,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then, alas! the land-wind failed.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Take thy banner! and if e'er
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thou shouldst press the soldier's bier,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And the muffled drum should beat
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To the tread of mournful feet,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Then this crimson flag shall be
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Martial cloak and shroud for thee."
+&nbsp;&nbsp;&nbsp;&nbsp;Alas! the land-wind failed,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And ice-cold grew the night;
+&nbsp;&nbsp;&nbsp;&nbsp;And nevermore, on sea or shore,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Should Sir Humphrey see the light.
 
-&nbsp;&nbsp;&nbsp;&nbsp;The warrior took that banner proud,
-&nbsp;&nbsp;&nbsp;&nbsp;And it was his martial cloak and shroud!
+&nbsp;&nbsp;&nbsp;&nbsp;He sat upon the deck,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Book was in his hand
+&nbsp;&nbsp;&nbsp;&nbsp;"Do not fear!&nbsp;&nbsp;&nbsp;&nbsp;Heaven is as near,"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He said, "by water as by land!"
+
+&nbsp;&nbsp;&nbsp;&nbsp;In the first watch of the night,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Without a signal's sound,
+&nbsp;&nbsp;&nbsp;&nbsp;Out of the sea, mysteriously,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The fleet of Death rose all around.
+
+&nbsp;&nbsp;&nbsp;&nbsp;The moon and the evening star
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Were hanging in the shrouds;
+&nbsp;&nbsp;&nbsp;&nbsp;Every mast, as it passed,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seemed to rake the passing clouds.
+
+&nbsp;&nbsp;&nbsp;&nbsp;They grappled with their prize,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At midnight black and cold!
+&nbsp;&nbsp;&nbsp;&nbsp;As of a rock was the shock;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heavily the ground-swell rolled.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Southward through day and dark,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They drift in close embrace,
+&nbsp;&nbsp;&nbsp;&nbsp;With mist and rain, o'er the open main;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yet there seems no change of place.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Southward, forever southward,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They drift through dark and day;
+&nbsp;&nbsp;&nbsp;&nbsp;And like a dream, in the Gulf-Stream
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sinking, vanish all away.
 </pre>

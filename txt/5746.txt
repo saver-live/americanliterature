@@ -1,64 +1,88 @@
-<pre>
-Spake full well, in language quaint and olden,
-  One who dwelleth by the castled Rhine,
-When he called the flowers, so blue and golden,
-  Stars, that in earth's firmament do shine.
-Stars they are, wherein we read our history,
-  As astrologers and seers of eld;
-Yet not wrapped about with awful mystery,
-  Like the burning stars, which they beheld.
-Wondrous truths, and manifold as wondrous,
-  God hath written in those stars above;
-But not less in the bright flowerets under us
-  Stands the revelation of his love.
-Bright and glorious is that revelation,
-  Written all over this great world of ours;
-Making evident our own creation,
-  In these stars of earth, these golden flowers.
-And the Poet, faithful and far-seeing,
-  Sees, alike in stars and flowers, a part
-Of the self-same, universal being,
-  Which is throbbing in his brain and heart.
-Gorgeous flowerets in the sunlight shining,
-  Blossoms flaunting in the eye of day,
-Tremulous leaves, with soft and silver lining,
-  Buds that open only to decay;
-Brilliant hopes, all woven in gorgeous tissues,
-  Flaunting gayly in the golden light;
-Large desires, with most uncertain issues,
-  Tender wishes, blossoming at night!
-These in flowers and men are more than seeming;
-  Workings are they of the self-same powers,
-Which the Poet, in no idle dreaming,
-  Seeth in himself and in the flowers.
-Everywhere about us are they glowing,
-  Some like stars, to tell us Spring is born;
-Others, their blue eyes with tears o'er-flowing,
-  Stand like Ruth amid the golden corn;
-Not alone in Spring's armorial bearing,
-  And in Summer's green-emblazoned field,
-But in arms of brave old Autumn's wearing,
-  In the centre of his brazen shield;
-Not alone in meadows and green alleys,
-  On the mountain-top, and by the brink
-Of sequestered pools in woodland valleys,
-  Where the slaves of nature stoop to drink;
-Not alone in her vast dome of glory,
-  Not on graves of bird and beast alone,
-But in old cathedrals, high and hoary,
-  On the tombs of heroes, carved in stone;
-In the cottage of the rudest peasant,
-  In ancestral homes, whose crumbling towers,
-Speaking of the Past unto the Present,
-  Tell us of the ancient Games of Flowers;
-In all places, then, and in all seasons,
-  Flowers expand their light and soul-like wings,
-Teaching us, by most persuasive reasons,
-  How akin they are to human things.
-And with childlike, credulous affection
-  We behold their tender buds expand;
-Emblems of our own great resurrection,
-  Emblems of the bright and better land.
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;In the Valley of the Vire
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Still is seen an ancient mill,
+&nbsp;&nbsp;&nbsp;&nbsp;With its gables quaint and queer,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And beneath the window-sill,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On the stone,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These words alone:
+&nbsp;&nbsp;&nbsp;&nbsp;"Oliver Basselin lived here."
 
+&nbsp;&nbsp;&nbsp;&nbsp;Far above it, on the steep,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ruined stands the old Chateau;
+&nbsp;&nbsp;&nbsp;&nbsp;Nothing but the donjon-keep
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Left for shelter or for show.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Its vacant eyes
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stare at the skies,
+&nbsp;&nbsp;&nbsp;&nbsp;Stare at the valley green and deep.
 
+&nbsp;&nbsp;&nbsp;&nbsp;Once a convent, old and brown,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Looked, but ah! it looks no more,
+&nbsp;&nbsp;&nbsp;&nbsp;From the neighboring hillside down
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On the rushing and the roar
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of the stream
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Whose sunny gleam
+&nbsp;&nbsp;&nbsp;&nbsp;Cheers the little Norman town.
+
+&nbsp;&nbsp;&nbsp;&nbsp;In that darksome mill of stone,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To the water's dash and din,
+&nbsp;&nbsp;&nbsp;&nbsp;Careless, humble, and unknown,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sang the poet Basselin
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Songs that fill
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That ancient mill
+&nbsp;&nbsp;&nbsp;&nbsp;With a splendor of its own.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Never feeling of unrest
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Broke the pleasant dream he dreamed;
+&nbsp;&nbsp;&nbsp;&nbsp;Only made to be his nest,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All the lovely valley seemed;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No desire
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of soaring higher
+&nbsp;&nbsp;&nbsp;&nbsp;Stirred or fluttered in his breast.
+
+&nbsp;&nbsp;&nbsp;&nbsp;True, his songs were not divine;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Were not songs of that high art,
+&nbsp;&nbsp;&nbsp;&nbsp;Which, as winds do in the pine,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Find an answer in each heart;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But the mirth
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of this green earth
+&nbsp;&nbsp;&nbsp;&nbsp;Laughed and revelled in his line.
+
+&nbsp;&nbsp;&nbsp;&nbsp;From the alehouse and the inn,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Opening on the narrow street,
+&nbsp;&nbsp;&nbsp;&nbsp;Came the loud, convivial din,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singing and applause of feet,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The laughing lays
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That in those days
+&nbsp;&nbsp;&nbsp;&nbsp;Sang the poet Basselin.
+
+&nbsp;&nbsp;&nbsp;&nbsp;In the castle, cased in steel,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Knights, who fought at Agincourt,
+&nbsp;&nbsp;&nbsp;&nbsp;Watched and waited, spur on heel;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But the poet sang for sport
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Songs that rang
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Another clang,
+&nbsp;&nbsp;&nbsp;&nbsp;Songs that lowlier hearts could feel.
+
+&nbsp;&nbsp;&nbsp;&nbsp;In the convent, clad in gray,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sat the monks in lonely cells,
+&nbsp;&nbsp;&nbsp;&nbsp;Paced the cloisters, knelt to pray,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the poet heard their bells;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But his rhymes
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Found other chimes,
+&nbsp;&nbsp;&nbsp;&nbsp;Nearer to the earth than they.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Gone are all the barons bold,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gone are all the knights and squires,
+&nbsp;&nbsp;&nbsp;&nbsp;Gone the abbot stern and cold,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the brotherhood of friars;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not a name
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Remains to fame,
+&nbsp;&nbsp;&nbsp;&nbsp;From those mouldering days of old!
+
+&nbsp;&nbsp;&nbsp;&nbsp;But the poet's memory here
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of the landscape makes a part;
+&nbsp;&nbsp;&nbsp;&nbsp;Like the river, swift and clear,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flows his song through many a heart;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Haunting still
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That ancient mill,
+&nbsp;&nbsp;&nbsp;&nbsp;In the Valley of the Vire.
 </pre>

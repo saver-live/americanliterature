@@ -1,45 +1,319 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;Up soared the lark into the air,
-&nbsp;&nbsp;&nbsp;&nbsp;A shaft of song, a winged prayer,
-&nbsp;&nbsp;&nbsp;&nbsp;As if a soul, released from pain,
-&nbsp;&nbsp;&nbsp;&nbsp;Were flying back to heaven again.
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;THE COBBLER OF HAGENAU
 
-&nbsp;&nbsp;&nbsp;&nbsp;St. Francis heard; it was to him
-&nbsp;&nbsp;&nbsp;&nbsp;An emblem of the Seraphim;
-&nbsp;&nbsp;&nbsp;&nbsp;The upward motion of the fire,
-&nbsp;&nbsp;&nbsp;&nbsp;The light, the heat, the heart's desire.
+&nbsp;&nbsp;&nbsp;&nbsp;I trust that somewhere and somehow
+&nbsp;&nbsp;&nbsp;&nbsp;You all have heard of Hagenau,
+&nbsp;&nbsp;&nbsp;&nbsp;A quiet, quaint, and ancient town
+&nbsp;&nbsp;&nbsp;&nbsp;Among the green Alsatian hills,
+&nbsp;&nbsp;&nbsp;&nbsp;A place of valleys, streams, and mills,
+&nbsp;&nbsp;&nbsp;&nbsp;Where Barbarossa's castle, brown
+&nbsp;&nbsp;&nbsp;&nbsp;With rust of centuries, still looks down
+&nbsp;&nbsp;&nbsp;&nbsp;On the broad, drowsy land below,--
+&nbsp;&nbsp;&nbsp;&nbsp;On shadowy forests filled with game,
+&nbsp;&nbsp;&nbsp;&nbsp;And the blue river winding slow
+&nbsp;&nbsp;&nbsp;&nbsp;Through meadows, where the hedges grow
+&nbsp;&nbsp;&nbsp;&nbsp;That give this little town its name.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Around Assisi's convent gate
-&nbsp;&nbsp;&nbsp;&nbsp;The birds, God's poor who cannot wait,
-&nbsp;&nbsp;&nbsp;&nbsp;From moor and mere and darksome wood
-&nbsp;&nbsp;&nbsp;&nbsp;Came flocking for their dole of food.
+&nbsp;&nbsp;&nbsp;&nbsp;It happened in the good old times,
+&nbsp;&nbsp;&nbsp;&nbsp;While yet the Master-singers filled
+&nbsp;&nbsp;&nbsp;&nbsp;The noisy workshop and the guild
+&nbsp;&nbsp;&nbsp;&nbsp;With various melodies and rhymes,
+&nbsp;&nbsp;&nbsp;&nbsp;That here in Hagenau there dwelt
+&nbsp;&nbsp;&nbsp;&nbsp;A cobbler,--one who loved debate,
+&nbsp;&nbsp;&nbsp;&nbsp;And, arguing from a postulate,
+&nbsp;&nbsp;&nbsp;&nbsp;Would say what others only felt;
+&nbsp;&nbsp;&nbsp;&nbsp;A man of forecast and of thrift,
+&nbsp;&nbsp;&nbsp;&nbsp;And of a shrewd and careful mind
+&nbsp;&nbsp;&nbsp;&nbsp;In this world's business, but inclined
+&nbsp;&nbsp;&nbsp;&nbsp;Somewhat to let the next world drift.
 
-&nbsp;&nbsp;&nbsp;&nbsp;"O brother birds," St. Francis said,
-&nbsp;&nbsp;&nbsp;&nbsp;"Ye come to me and ask for bread,
-&nbsp;&nbsp;&nbsp;&nbsp;But not with bread alone to-day
-&nbsp;&nbsp;&nbsp;&nbsp;Shall ye be fed and sent away.
+&nbsp;&nbsp;&nbsp;&nbsp;Hans Sachs with vast delight he read,
+&nbsp;&nbsp;&nbsp;&nbsp;And Regenbogen's rhymes of love,
+&nbsp;&nbsp;&nbsp;&nbsp;For their poetic fame had spread
+&nbsp;&nbsp;&nbsp;&nbsp;Even to the town of Hagenau;
+&nbsp;&nbsp;&nbsp;&nbsp;And some Quick Melody of the Plough,
+&nbsp;&nbsp;&nbsp;&nbsp;Or Double Harmony of the Dove,
+&nbsp;&nbsp;&nbsp;&nbsp;Was always running in his head.
+&nbsp;&nbsp;&nbsp;&nbsp;He kept, moreover, at his side,
+&nbsp;&nbsp;&nbsp;&nbsp;Among his leathers and his tools,
+&nbsp;&nbsp;&nbsp;&nbsp;Reynard the Fox, the Ship of Fools,
+&nbsp;&nbsp;&nbsp;&nbsp;Or Eulenspiegel, open wide;
+&nbsp;&nbsp;&nbsp;&nbsp;With these he was much edified:
+&nbsp;&nbsp;&nbsp;&nbsp;He thought them wiser than the Schools.
 
-&nbsp;&nbsp;&nbsp;&nbsp;"Ye shall be fed, ye happy birds,
-&nbsp;&nbsp;&nbsp;&nbsp;With manna of celestial words;
-&nbsp;&nbsp;&nbsp;&nbsp;Not mine, though mine they seem to be,
-&nbsp;&nbsp;&nbsp;&nbsp;Not mine, though they be spoken through me.
+&nbsp;&nbsp;&nbsp;&nbsp;His good wife, full of godly fear,
+&nbsp;&nbsp;&nbsp;&nbsp;Liked not these worldly themes to hear;
+&nbsp;&nbsp;&nbsp;&nbsp;The Psalter was her book of songs;
+&nbsp;&nbsp;&nbsp;&nbsp;The only music to her ear
+&nbsp;&nbsp;&nbsp;&nbsp;Was that which to the Church belongs,
+&nbsp;&nbsp;&nbsp;&nbsp;When the loud choir on Sunday chanted,
+&nbsp;&nbsp;&nbsp;&nbsp;And the two angels carved in wood,
+&nbsp;&nbsp;&nbsp;&nbsp;That by the windy organ stood,
+&nbsp;&nbsp;&nbsp;&nbsp;Blew on their trumpets loud and clear,
+&nbsp;&nbsp;&nbsp;&nbsp;And all the echoes, far and near,
+&nbsp;&nbsp;&nbsp;&nbsp;Gibbered as if the church were haunted.
+&nbsp;&nbsp;&nbsp;&nbsp;Outside his door, one afternoon,
+&nbsp;&nbsp;&nbsp;&nbsp;This humble votary of the muse
+&nbsp;&nbsp;&nbsp;&nbsp;Sat in the narrow strip of shade
+&nbsp;&nbsp;&nbsp;&nbsp;By a projecting cornice made,
+&nbsp;&nbsp;&nbsp;&nbsp;Mending the Burgomaster's shoes,
+&nbsp;&nbsp;&nbsp;&nbsp;And singing a familiar tune:--
 
-&nbsp;&nbsp;&nbsp;&nbsp;"O, doubly are ye bound to praise
-&nbsp;&nbsp;&nbsp;&nbsp;The great Creator in your lays;
-&nbsp;&nbsp;&nbsp;&nbsp;He giveth you your plumes of down,
-&nbsp;&nbsp;&nbsp;&nbsp;Your crimson hoods, your cloaks of brown.
+&nbsp;&nbsp;&nbsp;&nbsp; "Our ingress into the world
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Was naked and bare;
+&nbsp;&nbsp;&nbsp;&nbsp; Our progress through the world
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Is trouble and care;
+&nbsp;&nbsp;&nbsp;&nbsp; Our egress from the world
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Will be nobody knows where;
+&nbsp;&nbsp;&nbsp;&nbsp; But if we do well here
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We shall do well there;
+&nbsp;&nbsp;&nbsp;&nbsp; And I could tell you no more,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Should I preach a whole year!"
 
-&nbsp;&nbsp;&nbsp;&nbsp;"He giveth you your wings to fly
-&nbsp;&nbsp;&nbsp;&nbsp;And breathe a purer air on high,
-&nbsp;&nbsp;&nbsp;&nbsp;And careth for you everywhere,
-&nbsp;&nbsp;&nbsp;&nbsp;Who for yourselves so little care!"
+&nbsp;&nbsp;&nbsp;&nbsp;Thus sang the cobbler at his work;
+&nbsp;&nbsp;&nbsp;&nbsp;And with his gestures marked the time
+&nbsp;&nbsp;&nbsp;&nbsp;Closing together with a jerk
+&nbsp;&nbsp;&nbsp;&nbsp;Of his waxed thread the stitch and rhyme.
+&nbsp;&nbsp;&nbsp;&nbsp;Meanwhile his quiet little dame
+&nbsp;&nbsp;&nbsp;&nbsp;Was leaning o'er the window-sill,
+&nbsp;&nbsp;&nbsp;&nbsp;Eager, excited, but mouse-still,
+&nbsp;&nbsp;&nbsp;&nbsp;Gazing impatiently to see
+&nbsp;&nbsp;&nbsp;&nbsp;What the great throng of folk might be
+&nbsp;&nbsp;&nbsp;&nbsp;That onward in procession came,
+&nbsp;&nbsp;&nbsp;&nbsp;Along the unfrequented street,
+&nbsp;&nbsp;&nbsp;&nbsp;With horns that blew, and drums that beat,
+&nbsp;&nbsp;&nbsp;&nbsp;And banners flying, and the flame
+&nbsp;&nbsp;&nbsp;&nbsp;Of tapers, and, at times, the sweet
+&nbsp;&nbsp;&nbsp;&nbsp;Voices of nuns; and as they sang
+&nbsp;&nbsp;&nbsp;&nbsp;Suddenly all the church-bells rang.
 
-&nbsp;&nbsp;&nbsp;&nbsp;With flutter of swift wings and songs
-&nbsp;&nbsp;&nbsp;&nbsp;Together rose the feathered throngs,
-&nbsp;&nbsp;&nbsp;&nbsp;And singing scattered far apart;
-&nbsp;&nbsp;&nbsp;&nbsp;Deep peace was in St. Francis' heart.
+&nbsp;&nbsp;&nbsp;&nbsp;In a gay coach, above the crowd,
+&nbsp;&nbsp;&nbsp;&nbsp;There sat a monk in ample hood,
+&nbsp;&nbsp;&nbsp;&nbsp;Who with his right hand held aloft
+&nbsp;&nbsp;&nbsp;&nbsp;A red and ponderous cross of wood,
+&nbsp;&nbsp;&nbsp;&nbsp;To which at times he meekly bowed.
+&nbsp;&nbsp;&nbsp;&nbsp;In front three horsemen rode, and oft,
+&nbsp;&nbsp;&nbsp;&nbsp;With voice and air importunate,
+&nbsp;&nbsp;&nbsp;&nbsp;A boisterous herald cried aloud:
+&nbsp;&nbsp;&nbsp;&nbsp;"The grace of God is at your gate!"
+&nbsp;&nbsp;&nbsp;&nbsp;So onward to the church they passed.
 
-&nbsp;&nbsp;&nbsp;&nbsp;He knew not if the brotherhood
-&nbsp;&nbsp;&nbsp;&nbsp;His homily had understood;
-&nbsp;&nbsp;&nbsp;&nbsp;He only knew that to one ear
-&nbsp;&nbsp;&nbsp;&nbsp;The meaning of his words was clear.
+&nbsp;&nbsp;&nbsp;&nbsp;The cobbler slowly tuned his last,
+&nbsp;&nbsp;&nbsp;&nbsp;And, wagging his sagacious head,
+&nbsp;&nbsp;&nbsp;&nbsp;Unto his kneeling housewife said:
+&nbsp;&nbsp;&nbsp;&nbsp;"'Tis the monk Tetzel.&nbsp;&nbsp;&nbsp;&nbsp;I have heard
+&nbsp;&nbsp;&nbsp;&nbsp;The cawings of that reverend bird.
+&nbsp;&nbsp;&nbsp;&nbsp;Don't let him cheat you of your gold;
+&nbsp;&nbsp;&nbsp;&nbsp;Indulgence is not bought and sold."
+
+&nbsp;&nbsp;&nbsp;&nbsp;The church of Hagenau, that night,
+&nbsp;&nbsp;&nbsp;&nbsp;Was full of people, full of light;
+&nbsp;&nbsp;&nbsp;&nbsp;An odor of incense filled the air,
+&nbsp;&nbsp;&nbsp;&nbsp;The priest intoned, the organ groaned
+&nbsp;&nbsp;&nbsp;&nbsp;Its inarticulate despair;
+&nbsp;&nbsp;&nbsp;&nbsp;The candles on the altar blazed,
+&nbsp;&nbsp;&nbsp;&nbsp;And full in front of it upraised
+&nbsp;&nbsp;&nbsp;&nbsp;The red cross stood against the glare.
+&nbsp;&nbsp;&nbsp;&nbsp;Below, upon the altar-rail
+&nbsp;&nbsp;&nbsp;&nbsp;Indulgences were set to sale,
+&nbsp;&nbsp;&nbsp;&nbsp;Like ballads at a country fair.
+&nbsp;&nbsp;&nbsp;&nbsp;A heavy strong-box, iron-bound
+&nbsp;&nbsp;&nbsp;&nbsp;And carved with many a quaint device,
+&nbsp;&nbsp;&nbsp;&nbsp;Received, with a melodious sound,
+&nbsp;&nbsp;&nbsp;&nbsp;The coin that purchased Paradise.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Then from the pulpit overhead,
+&nbsp;&nbsp;&nbsp;&nbsp;Tetzel the monk, with fiery glow,
+&nbsp;&nbsp;&nbsp;&nbsp;Thundered upon the crowd below.
+&nbsp;&nbsp;&nbsp;&nbsp;"Good people all, draw near!" he said;
+&nbsp;&nbsp;&nbsp;&nbsp;"Purchase these letters, signed and sealed,
+&nbsp;&nbsp;&nbsp;&nbsp;By which all sins, though unrevealed
+&nbsp;&nbsp;&nbsp;&nbsp;And unrepented, are forgiven!
+&nbsp;&nbsp;&nbsp;&nbsp;Count but the gain, count not the loss
+&nbsp;&nbsp;&nbsp;&nbsp;Your gold and silver are but dross,
+&nbsp;&nbsp;&nbsp;&nbsp;And yet they pave the way to heaven.
+&nbsp;&nbsp;&nbsp;&nbsp;I hear your mothers and your sires
+&nbsp;&nbsp;&nbsp;&nbsp;Cry from their purgatorial fires,
+&nbsp;&nbsp;&nbsp;&nbsp;And will ye not their ransom pay?
+&nbsp;&nbsp;&nbsp;&nbsp;O senseless people! when the gate
+&nbsp;&nbsp;&nbsp;&nbsp;Of heaven is open, will ye wait?
+&nbsp;&nbsp;&nbsp;&nbsp;Will ye not enter in to-day?
+&nbsp;&nbsp;&nbsp;&nbsp;To-morrow it will be too late;
+&nbsp;&nbsp;&nbsp;&nbsp;I shall be gone upon my way.
+&nbsp;&nbsp;&nbsp;&nbsp;Make haste! bring money while ye may!'
+
+&nbsp;&nbsp;&nbsp;&nbsp;The women shuddered, and turned pale;
+&nbsp;&nbsp;&nbsp;&nbsp;Allured by hope or driven by fear,
+&nbsp;&nbsp;&nbsp;&nbsp;With many a sob and many a tear,
+&nbsp;&nbsp;&nbsp;&nbsp;All crowded to the altar-rail.
+&nbsp;&nbsp;&nbsp;&nbsp;Pieces of silver and of gold
+&nbsp;&nbsp;&nbsp;&nbsp;Into the tinkling strong-box fell
+&nbsp;&nbsp;&nbsp;&nbsp;Like pebbles dropped into a well;
+&nbsp;&nbsp;&nbsp;&nbsp;And soon the ballads were all sold.
+&nbsp;&nbsp;&nbsp;&nbsp;The cobbler's wife among the rest
+&nbsp;&nbsp;&nbsp;&nbsp;Slipped into the capacious chest
+&nbsp;&nbsp;&nbsp;&nbsp;A golden florin; then withdrew,
+&nbsp;&nbsp;&nbsp;&nbsp;Hiding the paper in her breast;
+&nbsp;&nbsp;&nbsp;&nbsp;And homeward through the darkness went
+&nbsp;&nbsp;&nbsp;&nbsp;Comforted, quieted, content;
+&nbsp;&nbsp;&nbsp;&nbsp;She did not walk, she rather flew,
+&nbsp;&nbsp;&nbsp;&nbsp;A dove that settles to her nest,
+&nbsp;&nbsp;&nbsp;&nbsp;When some appalling bird of prey
+&nbsp;&nbsp;&nbsp;&nbsp;That scared her has been driven away.
+
+&nbsp;&nbsp;&nbsp;&nbsp;The days went by, the monk was gone,
+&nbsp;&nbsp;&nbsp;&nbsp;The summer passed, the winter came;
+&nbsp;&nbsp;&nbsp;&nbsp;Though seasons changed, yet still the same
+&nbsp;&nbsp;&nbsp;&nbsp;The daily round of life went on;
+&nbsp;&nbsp;&nbsp;&nbsp;The daily round of household care,
+&nbsp;&nbsp;&nbsp;&nbsp;The narrow life of toil and prayer.
+&nbsp;&nbsp;&nbsp;&nbsp;But in her heart the cobbler's dame
+&nbsp;&nbsp;&nbsp;&nbsp;Had now a treasure beyond price,
+&nbsp;&nbsp;&nbsp;&nbsp;A secret joy without a name,
+&nbsp;&nbsp;&nbsp;&nbsp;The certainty of Paradise.
+&nbsp;&nbsp;&nbsp;&nbsp;Alas, alas!&nbsp;&nbsp;&nbsp;&nbsp;Dust unto dust!
+&nbsp;&nbsp;&nbsp;&nbsp;Before the winter wore away,
+&nbsp;&nbsp;&nbsp;&nbsp;Her body in the churchyard lay,
+&nbsp;&nbsp;&nbsp;&nbsp;Her patient soul was with the Just!
+&nbsp;&nbsp;&nbsp;&nbsp;After her death, among the things
+&nbsp;&nbsp;&nbsp;&nbsp;That even the poor preserve with care,--
+&nbsp;&nbsp;&nbsp;&nbsp;Some little trinkets and cheap rings,
+&nbsp;&nbsp;&nbsp;&nbsp;A locket with her mother's hair,
+&nbsp;&nbsp;&nbsp;&nbsp;Her wedding gown, the faded flowers
+&nbsp;&nbsp;&nbsp;&nbsp;She wore upon her wedding day,--
+&nbsp;&nbsp;&nbsp;&nbsp;Among these memories of past hours,
+&nbsp;&nbsp;&nbsp;&nbsp;That so much of the heart reveal,
+&nbsp;&nbsp;&nbsp;&nbsp;Carefully kept and put away,
+&nbsp;&nbsp;&nbsp;&nbsp;The Letter of Indulgence lay
+&nbsp;&nbsp;&nbsp;&nbsp;Folded, with signature and seal.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Meanwhile the Priest, aggrieved and pained,
+&nbsp;&nbsp;&nbsp;&nbsp;Waited and wondered that no word
+&nbsp;&nbsp;&nbsp;&nbsp;Of mass or requiem he heard,
+&nbsp;&nbsp;&nbsp;&nbsp;As by the Holy Church ordained;
+&nbsp;&nbsp;&nbsp;&nbsp;Then to the Magistrate complained,
+&nbsp;&nbsp;&nbsp;&nbsp;That as this woman had been dead
+&nbsp;&nbsp;&nbsp;&nbsp;A week or more, and no mass said,
+&nbsp;&nbsp;&nbsp;&nbsp;It was rank heresy, or at least
+&nbsp;&nbsp;&nbsp;&nbsp;Contempt of Church; thus said the Priest;
+&nbsp;&nbsp;&nbsp;&nbsp;And straight the cobbler was arraigned.
+
+&nbsp;&nbsp;&nbsp;&nbsp;He came, confiding in his cause,
+&nbsp;&nbsp;&nbsp;&nbsp;But rather doubtful of the laws.
+&nbsp;&nbsp;&nbsp;&nbsp;The Justice from his elbow-chair
+&nbsp;&nbsp;&nbsp;&nbsp;Gave him a look that seemed to say:
+&nbsp;&nbsp;&nbsp;&nbsp;"Thou standest before a Magistrate,
+&nbsp;&nbsp;&nbsp;&nbsp;Therefore do not prevaricate!"
+&nbsp;&nbsp;&nbsp;&nbsp;Then asked him in a business way,
+&nbsp;&nbsp;&nbsp;&nbsp;Kindly but cold: "Is thy wife dead?"
+&nbsp;&nbsp;&nbsp;&nbsp;The cobbler meekly bowed his head;
+&nbsp;&nbsp;&nbsp;&nbsp;"She is," came struggling from his throat
+&nbsp;&nbsp;&nbsp;&nbsp;Scarce audibly.&nbsp;&nbsp;&nbsp;&nbsp;The Justice wrote
+&nbsp;&nbsp;&nbsp;&nbsp;The words down in a book, and then
+&nbsp;&nbsp;&nbsp;&nbsp;Continued, as he raised his pen:
+&nbsp;&nbsp;&nbsp;&nbsp;"She is; and hath a mass been said
+&nbsp;&nbsp;&nbsp;&nbsp;For the salvation of her soul?
+&nbsp;&nbsp;&nbsp;&nbsp;Come, speak the truth! confess the whole!"
+&nbsp;&nbsp;&nbsp;&nbsp;The cobbler without pause replied:
+&nbsp;&nbsp;&nbsp;&nbsp;"Of mass or prayer there was no need;
+&nbsp;&nbsp;&nbsp;&nbsp;For at the moment when she died
+&nbsp;&nbsp;&nbsp;&nbsp;Her soul was with the glorified!"
+&nbsp;&nbsp;&nbsp;&nbsp;And from his pocket with all speed
+&nbsp;&nbsp;&nbsp;&nbsp;He drew the priestly title-deed,
+&nbsp;&nbsp;&nbsp;&nbsp;And prayed the Justice he would read.
+
+&nbsp;&nbsp;&nbsp;&nbsp;The Justice read, amused, amazed;
+&nbsp;&nbsp;&nbsp;&nbsp;And as he read his mirth increased;
+&nbsp;&nbsp;&nbsp;&nbsp;At times his shaggy brows he raised,
+&nbsp;&nbsp;&nbsp;&nbsp;Now wondering at the cobbler gazed,
+&nbsp;&nbsp;&nbsp;&nbsp;Now archly at the angry Priest.
+&nbsp;&nbsp;&nbsp;&nbsp;"From all excesses, sins, and crimes
+&nbsp;&nbsp;&nbsp;&nbsp;Thou hast committed in past times
+&nbsp;&nbsp;&nbsp;&nbsp;Thee I absolve!&nbsp;&nbsp;&nbsp;&nbsp;And furthermore,
+&nbsp;&nbsp;&nbsp;&nbsp;Purified from all earthly taints,
+&nbsp;&nbsp;&nbsp;&nbsp;To the communion of the Saints
+&nbsp;&nbsp;&nbsp;&nbsp;And to the sacraments restore!
+&nbsp;&nbsp;&nbsp;&nbsp;All stains of weakness, and all trace
+&nbsp;&nbsp;&nbsp;&nbsp;Of shame and censure I efface;
+&nbsp;&nbsp;&nbsp;&nbsp;Remit the pains thou shouldst endure,
+&nbsp;&nbsp;&nbsp;&nbsp;And make thee innocent and pure,
+&nbsp;&nbsp;&nbsp;&nbsp;So that in dying, unto thee
+&nbsp;&nbsp;&nbsp;&nbsp;The gates of heaven shall open be!
+&nbsp;&nbsp;&nbsp;&nbsp;Though long thou livest, yet this grace
+&nbsp;&nbsp;&nbsp;&nbsp;Until the moment of thy death
+&nbsp;&nbsp;&nbsp;&nbsp;Unchangeable continueth!"
+
+&nbsp;&nbsp;&nbsp;&nbsp;Then said he to the Priest: "I find
+&nbsp;&nbsp;&nbsp;&nbsp;This document is duly signed
+&nbsp;&nbsp;&nbsp;&nbsp;Brother John Tetzel, his own hand.
+&nbsp;&nbsp;&nbsp;&nbsp;At all tribunals in the land
+&nbsp;&nbsp;&nbsp;&nbsp;In evidence it may be used;
+&nbsp;&nbsp;&nbsp;&nbsp;Therefore acquitted is the accused."
+&nbsp;&nbsp;&nbsp;&nbsp;Then to the cobbler turned: "My friend,
+&nbsp;&nbsp;&nbsp;&nbsp;Pray tell me, didst thou ever read
+&nbsp;&nbsp;&nbsp;&nbsp;Reynard the Fox?"--"O yes, indeed!"--
+&nbsp;&nbsp;&nbsp;&nbsp;"I thought so.&nbsp;&nbsp;&nbsp;&nbsp;Don't forget the end."
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;INTERLUDE
+
+&nbsp;&nbsp;&nbsp;&nbsp;"What was the end?&nbsp;&nbsp;&nbsp;&nbsp;I am ashamed
+&nbsp;&nbsp;&nbsp;&nbsp;Not to remember Reynard's fate;
+&nbsp;&nbsp;&nbsp;&nbsp;I have not read the book of late;
+&nbsp;&nbsp;&nbsp;&nbsp;Was he not hanged?" the Poet said.
+&nbsp;&nbsp;&nbsp;&nbsp;The Student gravely shook his head,
+&nbsp;&nbsp;&nbsp;&nbsp;And answered: "You exaggerate.
+&nbsp;&nbsp;&nbsp;&nbsp;There was a tournament proclaimed,
+&nbsp;&nbsp;&nbsp;&nbsp;And Reynard fought with Isegrim
+&nbsp;&nbsp;&nbsp;&nbsp;The Wolf, and having vanquished him,
+&nbsp;&nbsp;&nbsp;&nbsp;Rose to high honor in the State,
+&nbsp;&nbsp;&nbsp;&nbsp;And Keeper of the Seals was named!"
+
+&nbsp;&nbsp;&nbsp;&nbsp;At this the gay Sicilian laughed:
+&nbsp;&nbsp;&nbsp;&nbsp;"Fight fire with fire, and craft with craft;
+&nbsp;&nbsp;&nbsp;&nbsp;Successful cunning seems to be
+&nbsp;&nbsp;&nbsp;&nbsp;The moral of your tale," said he.
+&nbsp;&nbsp;&nbsp;&nbsp;"Mine had a better, and the Jew's
+&nbsp;&nbsp;&nbsp;&nbsp;Had none at all, that I could see;
+&nbsp;&nbsp;&nbsp;&nbsp;His aim was only to amuse."
+
+&nbsp;&nbsp;&nbsp;&nbsp;Meanwhile from out its ebon case
+&nbsp;&nbsp;&nbsp;&nbsp;His violin the Minstrel drew,
+&nbsp;&nbsp;&nbsp;&nbsp;And having tuned its strings anew,
+&nbsp;&nbsp;&nbsp;&nbsp;Now held it close in his embrace,
+&nbsp;&nbsp;&nbsp;&nbsp;And poising in his outstretched hand
+&nbsp;&nbsp;&nbsp;&nbsp;The bow, like a magician's wand,
+&nbsp;&nbsp;&nbsp;&nbsp;He paused, and said, with beaming face:
+&nbsp;&nbsp;&nbsp;&nbsp;"Last night my story was too long;
+&nbsp;&nbsp;&nbsp;&nbsp;To-day I give you but a song,
+&nbsp;&nbsp;&nbsp;&nbsp;An old tradition of the North;
+&nbsp;&nbsp;&nbsp;&nbsp;But first, to put you in the mood,
+&nbsp;&nbsp;&nbsp;&nbsp;I will a little while prelude,
+&nbsp;&nbsp;&nbsp;&nbsp;And from this instrument draw forth
+&nbsp;&nbsp;&nbsp;&nbsp;Something by way of overture."
+
+&nbsp;&nbsp;&nbsp;&nbsp;He played; at first the tones were pure
+&nbsp;&nbsp;&nbsp;&nbsp;And tender as a summer night,
+&nbsp;&nbsp;&nbsp;&nbsp;The full moon climbing to her height,
+&nbsp;&nbsp;&nbsp;&nbsp;The sob and ripple of the seas,
+&nbsp;&nbsp;&nbsp;&nbsp;The flapping of an idle sail;
+&nbsp;&nbsp;&nbsp;&nbsp;And then by sudden and sharp degrees
+&nbsp;&nbsp;&nbsp;&nbsp;The multiplied, wild harmonies
+&nbsp;&nbsp;&nbsp;&nbsp;Freshened and burst into a gale;
+&nbsp;&nbsp;&nbsp;&nbsp;A tempest howling through the dark,
+&nbsp;&nbsp;&nbsp;&nbsp;A crash as of some shipwrecked bark.
+&nbsp;&nbsp;&nbsp;&nbsp;A loud and melancholy wail.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Such was the prelude to the tale
+&nbsp;&nbsp;&nbsp;&nbsp;Told by the Minstrel; and at times
+&nbsp;&nbsp;&nbsp;&nbsp;He paused amid its varying rhymes,
+&nbsp;&nbsp;&nbsp;&nbsp;And at each pause again broke in
+&nbsp;&nbsp;&nbsp;&nbsp;The music of his violin,
+&nbsp;&nbsp;&nbsp;&nbsp;With tones of sweetness or of fear,
+&nbsp;&nbsp;&nbsp;&nbsp;Movements of trouble or of calm,
+&nbsp;&nbsp;&nbsp;&nbsp;Creating their own atmosphere;
+&nbsp;&nbsp;&nbsp;&nbsp;As sitting in a church we hear
+&nbsp;&nbsp;&nbsp;&nbsp;Between the verses of the psalm
+&nbsp;&nbsp;&nbsp;&nbsp;The organ playing soft and clear,
+&nbsp;&nbsp;&nbsp;&nbsp;Or thundering on the startled ear.
 </pre>

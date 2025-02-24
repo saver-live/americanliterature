@@ -1,1 +1,17 @@
-<p><br>The first first two lines of this famous quote were included in the frontispiece of James Fenimore Cooper's <a href="/author/james-fenimore-cooper/book/the-last-of-the-mohicans/summary">The Last of the Mohicans</a>.</p><p><img alt="Dromgole, Shakespeare's The Merchant of Venice, 1914" title="Dromgole, Shakespeare's The Merchant of Venice, 1914" itemprop="image" src="https://assets.americanliterature.com/al/images/play/the-merchant-of-venice-dromgole-1914.jpg" style="max-width:500px; float:right; margin-right: 12px; margin-bottom: 12px;" data-pagespeed-url-hash="2737435647" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"> </p><p><a href="dramatis-personae">Dramatis Personae</a></p><p><a href="act-i-scene-i">ACT I - Scene I</a></p><p><a href="act-i-scene-ii">ACT I - Scene II</a></p><p><a href="act-i-scene-iii">ACT I - Scene III</a></p><p><a href="act-ii-scene-i">ACT II - Scene I</a></p><p><a href="act-ii-scene-ii">ACT II - Scene II</a></p><p><a href="act-ii-scene-iii">ACT II - Scene III</a></p><p><a href="act-ii-scene-iv">ACT II - Scene IV</a></p><p><a href="act-ii-scene-v">ACT II - Scene V</a></p><p><a href="act-ii-scene-vi">ACT II - Scene VI</a></p><p><a href="act-ii-scene-vii">ACT II - Scene VII</a></p><p><a href="act-ii-scene-viii">ACT II - Scene VIII</a></p><p><a href="act-ii-scene-ix">ACT II - Scene IX</a></p><p><a href="act-iii-scene-i">ACT III - Scene I</a></p><p><a href="act-iii-scene-ii">ACT III - Scene II</a></p><p><a href="act-iii-scene-iii">ACT III - Scene III</a></p><p><a href="act-iii-scene-iv">ACT III - Scene IV</a></p><p><a href="act-iii-scene-v">ACT III - Scene V</a></p><p><a href="act-iv-scene-i">ACT IV - Scene I</a></p><p><a href="act-iv-scene-ii">ACT IV - Scene II</a></p><p><a href="act-v-scene-i">ACT V - Scene I</a></p><p style="margin-top: 26px;"> Return to the <a href="/author/william-shakespeare">William Shakespeare</a> library. </p>
+<pre>
+  O lest the world should task you to recite,
+  What merit lived in me that you should love
+  After my death (dear love) forget me quite,
+  For you in me can nothing worthy prove.
+  Unless you would devise some virtuous lie,
+  To do more for me than mine own desert,
+  And hang more praise upon deceased I,
+  Than niggard truth would willingly impart:
+  O lest your true love may seem false in this,
+  That you for love speak well of me untrue,
+  My name be buried where my body is,
+  And live no more to shame nor me, nor you.
+    For I am shamed by that which I bring forth,
+    And so should you, to love things nothing worth.
+
+</pre>

@@ -1,25 +1,71 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;Labor with what zeal we will,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Something still remains undone,
-&nbsp;&nbsp;&nbsp;&nbsp;Something uncompleted still
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Waits the rising of the sun.
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;The rocky ledge runs far into the sea,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And on its outer point, some miles away,
+&nbsp;&nbsp;&nbsp;&nbsp;The Lighthouse lifts its massive masonry,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A pillar of fire by night, of cloud by day.
 
-&nbsp;&nbsp;&nbsp;&nbsp;By the bedside, on the stair,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At the threshold, near the gates,
-&nbsp;&nbsp;&nbsp;&nbsp;With its menace or its prayer,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Like a mendicant it waits;
+&nbsp;&nbsp;&nbsp;&nbsp;Even at this distance I can see the tides,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Upheaving, break unheard along its base,
+&nbsp;&nbsp;&nbsp;&nbsp;A speechless wrath, that rises and subsides
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the white lip and tremor of the face.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Waits, and will not go away;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Waits, and will not be gainsaid;
-&nbsp;&nbsp;&nbsp;&nbsp;By the cares of yesterday
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Each to-day is heavier made;
+&nbsp;&nbsp;&nbsp;&nbsp;And as the evening darkens, lo! how bright,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Through the deep purple of the twilight air,
+&nbsp;&nbsp;&nbsp;&nbsp;Beams forth the sudden radiance of its light
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With strange, unearthly splendor in the glare!
 
-&nbsp;&nbsp;&nbsp;&nbsp;Till at length the burden seems
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Greater than our strength can bear,
-&nbsp;&nbsp;&nbsp;&nbsp;Heavy as the weight of dreams,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pressing on us everywhere.
+&nbsp;&nbsp;&nbsp;&nbsp;Not one alone; from each projecting cape
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And perilous reef along the ocean's verge,
+&nbsp;&nbsp;&nbsp;&nbsp;Starts into life a dim, gigantic shape,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Holding its lantern o'er the restless surge.
 
-&nbsp;&nbsp;&nbsp;&nbsp;And we stand from day to day,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Like the dwarfs of times gone by,
-&nbsp;&nbsp;&nbsp;&nbsp;Who, as Northern legends say,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On their shoulders held the sky.
+&nbsp;&nbsp;&nbsp;&nbsp;Like the great giant Christopher it stands
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Upon the brink of the tempestuous wave,
+&nbsp;&nbsp;&nbsp;&nbsp;Wading far out among the rocks and sands,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The night-o'ertaken mariner to save.
+
+&nbsp;&nbsp;&nbsp;&nbsp;And the great ships sail outward and return,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bending and bowing o'er the billowy swells,
+&nbsp;&nbsp;&nbsp;&nbsp;And ever joyful, as they see it burn,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They wave their silent welcomes and farewells.
+
+&nbsp;&nbsp;&nbsp;&nbsp;They come forth from the darkness, and their sails
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gleam for a moment only in the blaze,
+&nbsp;&nbsp;&nbsp;&nbsp;And eager faces, as the light unveils,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gaze at the tower, and vanish while they gaze.
+
+&nbsp;&nbsp;&nbsp;&nbsp;The mariner remembers when a child,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On his first voyage, he saw it fade and sink;
+&nbsp;&nbsp;&nbsp;&nbsp;And when, returning from adventures wild,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He saw it rise again o'er ocean's brink.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Steadfast, serene, immovable, the same
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Year after year, through all the silent night
+&nbsp;&nbsp;&nbsp;&nbsp;Burns on forevermore that quenchless flame,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shines on that inextinguishable light!
+
+&nbsp;&nbsp;&nbsp;&nbsp;It sees the ocean to its bosom clasp
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The rocks and sea-sand with the kiss of peace;
+&nbsp;&nbsp;&nbsp;&nbsp;It sees the wild winds lift it in their grasp,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And hold it up, and shake it like a fleece.
+
+&nbsp;&nbsp;&nbsp;&nbsp;The startled waves leap over it; the storm
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Smites it with all the scourges of the rain,
+&nbsp;&nbsp;&nbsp;&nbsp;And steadily against its solid form
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Press the great shoulders of the hurricane.
+
+&nbsp;&nbsp;&nbsp;&nbsp;The sea-bird wheeling round it, with the din
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of wings and winds and solitary cries,
+&nbsp;&nbsp;&nbsp;&nbsp;Blinded and maddened by the light within,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dashes himself against the glare, and dies.
+
+&nbsp;&nbsp;&nbsp;&nbsp;A new Prometheus, chained upon the rock,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Still grasping in his hand the fire of Jove,
+&nbsp;&nbsp;&nbsp;&nbsp;It does not hear the cry, nor heed the shock,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But hails the mariner with words of love.
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Sail on!" it says, "sail on, ye stately ships!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And with your floating bridge the ocean span;
+&nbsp;&nbsp;&nbsp;&nbsp;Be mine to guard this light from all eclipse,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Be yours to bring man nearer unto man!"
+
 </pre>

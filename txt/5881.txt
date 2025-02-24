@@ -1,41 +1,180 @@
 <pre>
-
-The night is come, but not too soon;
-  And sinking silently,
-All silently, the little moon
-  Drops down behind the sky.
-There is no light in earth or heaven
-  But the cold light of stars;
-And the first watch of night is given
-  To the red planet Mars.
-Is it the tender star of love?
-  The star of love and dreams?
-O no! from that blue tent above,
-  A hero's armor gleams.
-And earnest thoughts within me rise,
-  When I behold afar,
-Suspended in the evening skies,
-  The shield of that red star.
-O star of strength! I see thee stand
-  And smile upon my pain;
-Thou beckonest with thy mailed hand,
-  And I am strong again.
-Within my breast there is no light
-  But the cold light of stars;
-I give the first watch of the night
-  To the red planet Mars.
-The star of the unconquered will,
-  He rises in my breast,
-Serene, and resolute, and still,
-  And calm, and self-possessed.
-And thou, too, whosoe'er thou art,
-  That readest this brief psalm,
-As one by one thy hopes depart,
-  Be resolute and calm.
-O fear not in a world like this,
-  And thou shalt know erelong,
-Know how sublime a thing it is
-  To suffer and be strong.
-
-
+<img alt="Song of Hiawatha cover" title="Song of Hiawatha cover" itemprop="image" src="https://assets.americanliterature.com/al/images/poem/the-song-of-hiawatha.jpg" style="max-width:400px; margin-right: 12px; margin-bottom: 12px;" data-pagespeed-url-hash="1953060810" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+&nbsp;&nbsp;&nbsp;&nbsp;Two good friends had Hiawatha,
+&nbsp;&nbsp;&nbsp;&nbsp;Singled out from all the others,
+&nbsp;&nbsp;&nbsp;&nbsp;Bound to him in closest union,
+&nbsp;&nbsp;&nbsp;&nbsp;And to whom he gave the right hand
+&nbsp;&nbsp;&nbsp;&nbsp;Of his heart, in joy and sorrow;
+&nbsp;&nbsp;&nbsp;&nbsp;Chibiabos, the musician,
+&nbsp;&nbsp;&nbsp;&nbsp;And the very strong man, Kwasind.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Straight between them ran the pathway,
+&nbsp;&nbsp;&nbsp;&nbsp;Never grew the grass upon it;
+&nbsp;&nbsp;&nbsp;&nbsp;Singing birds, that utter falsehoods,
+&nbsp;&nbsp;&nbsp;&nbsp;Story-tellers, mischief-makers,
+&nbsp;&nbsp;&nbsp;&nbsp;Found no eager ear to listen,
+&nbsp;&nbsp;&nbsp;&nbsp;Could not breed ill-will between them,
+&nbsp;&nbsp;&nbsp;&nbsp;For they kept each other's counsel,
+&nbsp;&nbsp;&nbsp;&nbsp;Spake with naked hearts together,
+&nbsp;&nbsp;&nbsp;&nbsp;Pondering much and much contriving
+&nbsp;&nbsp;&nbsp;&nbsp;How the tribes of men might prosper.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most beloved by Hiawatha
+&nbsp;&nbsp;&nbsp;&nbsp;Was the gentle Chibiabos,
+&nbsp;&nbsp;&nbsp;&nbsp;He the best of all musicians,
+&nbsp;&nbsp;&nbsp;&nbsp;He the sweetest of all singers.
+&nbsp;&nbsp;&nbsp;&nbsp;Beautiful and childlike was he,
+&nbsp;&nbsp;&nbsp;&nbsp;Brave as man is, soft as woman,
+&nbsp;&nbsp;&nbsp;&nbsp;Pliant as a wand of willow,
+&nbsp;&nbsp;&nbsp;&nbsp;Stately as a deer with antlers.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When he sang, the village listened;
+&nbsp;&nbsp;&nbsp;&nbsp;All the warriors gathered round him,
+&nbsp;&nbsp;&nbsp;&nbsp;All the women came to hear him;
+&nbsp;&nbsp;&nbsp;&nbsp;Now he stirred their souls to passion,
+&nbsp;&nbsp;&nbsp;&nbsp;Now he melted them to pity.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the hollow reeds he fashioned
+&nbsp;&nbsp;&nbsp;&nbsp;Flutes so musical and mellow,
+&nbsp;&nbsp;&nbsp;&nbsp;That the brook, the Sebowisha,
+&nbsp;&nbsp;&nbsp;&nbsp;Ceased to murmur in the woodland,
+&nbsp;&nbsp;&nbsp;&nbsp;That the wood-birds ceased from singing,
+&nbsp;&nbsp;&nbsp;&nbsp;And the squirrel, Adjidaumo,
+&nbsp;&nbsp;&nbsp;&nbsp;Ceased his chatter in the oak-tree,
+&nbsp;&nbsp;&nbsp;&nbsp;And the rabbit, the Wabasso,
+&nbsp;&nbsp;&nbsp;&nbsp;Sat upright to look and listen.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes, the brook, the Sebowisha,
+&nbsp;&nbsp;&nbsp;&nbsp;Pausing, said, "O Chibiabos,
+&nbsp;&nbsp;&nbsp;&nbsp;Teach my waves to flow in music,
+&nbsp;&nbsp;&nbsp;&nbsp;Softly as your words in singing!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes, the bluebird, the Owaissa,
+&nbsp;&nbsp;&nbsp;&nbsp;Envious, said, "O Chibiabos,
+&nbsp;&nbsp;&nbsp;&nbsp;Teach me tones as wild and wayward,
+&nbsp;&nbsp;&nbsp;&nbsp;Teach me songs as full of frenzy!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes, the robin, the Opechee,
+&nbsp;&nbsp;&nbsp;&nbsp;Joyous, said, "O Chibiabos,
+&nbsp;&nbsp;&nbsp;&nbsp;Teach me tones as sweet and tender,
+&nbsp;&nbsp;&nbsp;&nbsp;Teach me songs as full of gladness!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the whippoorwill, Wawonaissa,
+&nbsp;&nbsp;&nbsp;&nbsp;Sobbing, said, "O Chibiabos,
+&nbsp;&nbsp;&nbsp;&nbsp;Teach me tones as melancholy,
+&nbsp;&nbsp;&nbsp;&nbsp;Teach me songs as full of sadness!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All the many sounds of nature
+&nbsp;&nbsp;&nbsp;&nbsp;Borrowed sweetness from his singing;
+&nbsp;&nbsp;&nbsp;&nbsp;All the hearts of men were softened
+&nbsp;&nbsp;&nbsp;&nbsp;By the pathos of his music;
+&nbsp;&nbsp;&nbsp;&nbsp;For he sang of peace and freedom,
+&nbsp;&nbsp;&nbsp;&nbsp;Sang of beauty, love, and longing;
+&nbsp;&nbsp;&nbsp;&nbsp;Sang of death, and life undying
+&nbsp;&nbsp;&nbsp;&nbsp;In the Islands of the Blessed,
+&nbsp;&nbsp;&nbsp;&nbsp;In the kingdom of Ponemah,
+&nbsp;&nbsp;&nbsp;&nbsp;In the land of the Hereafter.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Very dear to Hiawatha
+&nbsp;&nbsp;&nbsp;&nbsp;Was the gentle Chibiabos,
+&nbsp;&nbsp;&nbsp;&nbsp;He the best of all musicians,
+&nbsp;&nbsp;&nbsp;&nbsp;He the sweetest of all singers;
+&nbsp;&nbsp;&nbsp;&nbsp;For his gentleness he loved him,
+&nbsp;&nbsp;&nbsp;&nbsp;And the magic of his singing.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dear, too, unto Hiawatha
+&nbsp;&nbsp;&nbsp;&nbsp;Was the very strong man, Kwasind,
+&nbsp;&nbsp;&nbsp;&nbsp;He the strongest of all mortals,
+&nbsp;&nbsp;&nbsp;&nbsp;He the mightiest among many;
+&nbsp;&nbsp;&nbsp;&nbsp;For his very strength he loved him,
+&nbsp;&nbsp;&nbsp;&nbsp;For his strength allied to goodness.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Idle in his youth was Kwasind,
+&nbsp;&nbsp;&nbsp;&nbsp;Very listless, dull, and dreamy,
+&nbsp;&nbsp;&nbsp;&nbsp;Never played with other children,
+&nbsp;&nbsp;&nbsp;&nbsp;Never fished and never hunted,
+&nbsp;&nbsp;&nbsp;&nbsp;Not like other children was he;
+&nbsp;&nbsp;&nbsp;&nbsp;But they saw that much he fasted,
+&nbsp;&nbsp;&nbsp;&nbsp;Much his Manito entreated,
+&nbsp;&nbsp;&nbsp;&nbsp;Much besought his Guardian Spirit.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Lazy Kwasind!" said his mother,
+&nbsp;&nbsp;&nbsp;&nbsp;"In my work you never help me!
+&nbsp;&nbsp;&nbsp;&nbsp;In the Summer you are roaming
+&nbsp;&nbsp;&nbsp;&nbsp;Idly in the fields and forests;
+&nbsp;&nbsp;&nbsp;&nbsp;In the Winter you are cowering
+&nbsp;&nbsp;&nbsp;&nbsp;O'er the firebrands in the wigwam!
+&nbsp;&nbsp;&nbsp;&nbsp;In the coldest days of Winter
+&nbsp;&nbsp;&nbsp;&nbsp;I must break the ice for fishing;
+&nbsp;&nbsp;&nbsp;&nbsp;With my nets you never help me!
+&nbsp;&nbsp;&nbsp;&nbsp;At the door my nets are hanging,
+&nbsp;&nbsp;&nbsp;&nbsp;Dripping, freezing with the water;
+&nbsp;&nbsp;&nbsp;&nbsp;Go and wring them, Yenadizze!
+&nbsp;&nbsp;&nbsp;&nbsp;Go and dry them in the sunshine!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Slowly, from the ashes, Kwasind
+&nbsp;&nbsp;&nbsp;&nbsp;Rose, but made no angry answer;
+&nbsp;&nbsp;&nbsp;&nbsp;From the lodge went forth in silence,
+&nbsp;&nbsp;&nbsp;&nbsp;Took the nets, that hung together,
+&nbsp;&nbsp;&nbsp;&nbsp;Dripping, freezing at the doorway;
+&nbsp;&nbsp;&nbsp;&nbsp;Like a wisp of straw he wrung them,
+&nbsp;&nbsp;&nbsp;&nbsp;Like a wisp of straw he broke them,
+&nbsp;&nbsp;&nbsp;&nbsp;Could not wring them without breaking,
+&nbsp;&nbsp;&nbsp;&nbsp;Such the strength was in his fingers.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Lazy Kwasind!" said his father,
+&nbsp;&nbsp;&nbsp;&nbsp;"In the hunt you never help me;
+&nbsp;&nbsp;&nbsp;&nbsp;Every bow you touch is broken,
+&nbsp;&nbsp;&nbsp;&nbsp;Snapped asunder every arrow;
+&nbsp;&nbsp;&nbsp;&nbsp;Yet come with me to the forest,
+&nbsp;&nbsp;&nbsp;&nbsp;You shall bring the hunting homeward."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Down a narrow pass they wandered,
+&nbsp;&nbsp;&nbsp;&nbsp;Where a brooklet led them onward,
+&nbsp;&nbsp;&nbsp;&nbsp;Where the trail of deer and bison
+&nbsp;&nbsp;&nbsp;&nbsp;Marked the soft mud on the margin,
+&nbsp;&nbsp;&nbsp;&nbsp;Till they found all further passage
+&nbsp;&nbsp;&nbsp;&nbsp;Shut against them, barred securely
+&nbsp;&nbsp;&nbsp;&nbsp;By the trunks of trees uprooted,
+&nbsp;&nbsp;&nbsp;&nbsp;Lying lengthwise, lying crosswise,
+&nbsp;&nbsp;&nbsp;&nbsp;And forbidding further passage.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"We must go back," said the old man,
+&nbsp;&nbsp;&nbsp;&nbsp;"O'er these logs we cannot clamber;
+&nbsp;&nbsp;&nbsp;&nbsp;Not a woodchuck could get through them,
+&nbsp;&nbsp;&nbsp;&nbsp;Not a squirrel clamber o'er them!"
+&nbsp;&nbsp;&nbsp;&nbsp;And straightway his pipe he lighted,
+&nbsp;&nbsp;&nbsp;&nbsp;And sat down to smoke and ponder.
+&nbsp;&nbsp;&nbsp;&nbsp;But before his pipe was finished,
+&nbsp;&nbsp;&nbsp;&nbsp;Lo! the path was cleared before him;
+&nbsp;&nbsp;&nbsp;&nbsp;All the trunks had Kwasind lifted,
+&nbsp;&nbsp;&nbsp;&nbsp;To the right hand, to the left hand,
+&nbsp;&nbsp;&nbsp;&nbsp;Shot the pine-trees swift as arrows,
+&nbsp;&nbsp;&nbsp;&nbsp;Hurled the cedars light as lances.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Lazy Kwasind!" said the young men,
+&nbsp;&nbsp;&nbsp;&nbsp;As they sported in the meadow:
+&nbsp;&nbsp;&nbsp;&nbsp;"Why stand idly looking at us,
+&nbsp;&nbsp;&nbsp;&nbsp;Leaning on the rock behind you?
+&nbsp;&nbsp;&nbsp;&nbsp;Come and wrestle with the others,
+&nbsp;&nbsp;&nbsp;&nbsp;Let us pitch the quoit together!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lazy Kwasind made no answer,
+&nbsp;&nbsp;&nbsp;&nbsp;To their challenge made no answer,
+&nbsp;&nbsp;&nbsp;&nbsp;Only rose, and slowly turning,
+&nbsp;&nbsp;&nbsp;&nbsp;Seized the huge rock in his fingers,
+&nbsp;&nbsp;&nbsp;&nbsp;Tore it from its deep foundation,
+&nbsp;&nbsp;&nbsp;&nbsp;Poised it in the air a moment,
+&nbsp;&nbsp;&nbsp;&nbsp;Pitched it sheer into the river,
+&nbsp;&nbsp;&nbsp;&nbsp;Sheer into the swift Pauwating,
+&nbsp;&nbsp;&nbsp;&nbsp;Where it still is seen in Summer.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Once as down that foaming river,
+&nbsp;&nbsp;&nbsp;&nbsp;Down the rapids of Pauwating,
+&nbsp;&nbsp;&nbsp;&nbsp;Kwasind sailed with his companions,
+&nbsp;&nbsp;&nbsp;&nbsp;In the stream he saw a beaver,
+&nbsp;&nbsp;&nbsp;&nbsp;Saw Ahmeek, the King of Beavers,
+&nbsp;&nbsp;&nbsp;&nbsp;Struggling with the rushing currents,
+&nbsp;&nbsp;&nbsp;&nbsp;Rising, sinking in the water.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Without speaking, without pausing,
+&nbsp;&nbsp;&nbsp;&nbsp;Kwasind leaped into the river,
+&nbsp;&nbsp;&nbsp;&nbsp;Plunged beneath the bubbling surface,
+&nbsp;&nbsp;&nbsp;&nbsp;Through the whirlpools chased the beaver,
+&nbsp;&nbsp;&nbsp;&nbsp;Followed him among the islands,
+&nbsp;&nbsp;&nbsp;&nbsp;Stayed so long beneath the water,
+&nbsp;&nbsp;&nbsp;&nbsp;That his terrified companions
+&nbsp;&nbsp;&nbsp;&nbsp;Cried, "Alas! good-by to Kwasind!
+&nbsp;&nbsp;&nbsp;&nbsp;We shall never more see Kwasind!"
+&nbsp;&nbsp;&nbsp;&nbsp;But he reappeared triumphant,
+&nbsp;&nbsp;&nbsp;&nbsp;And upon his shining shoulders
+&nbsp;&nbsp;&nbsp;&nbsp;Brought the beaver, dead and dripping,
+&nbsp;&nbsp;&nbsp;&nbsp;Brought the King of all the Beavers.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And these two, as I have told you,
+&nbsp;&nbsp;&nbsp;&nbsp;Were the friends of Hiawatha,
+&nbsp;&nbsp;&nbsp;&nbsp;Chibiabos, the musician,
+&nbsp;&nbsp;&nbsp;&nbsp;And the very strong man, Kwasind.
+&nbsp;&nbsp;&nbsp;&nbsp;Long they lived in peace together,
+&nbsp;&nbsp;&nbsp;&nbsp;Spake with naked hearts together,
+&nbsp;&nbsp;&nbsp;&nbsp;Pondering much and much contriving
+&nbsp;&nbsp;&nbsp;&nbsp;How the tribes of men might prosper.
 </pre>

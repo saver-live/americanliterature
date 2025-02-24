@@ -1,1 +1,45 @@
-<p><cite class="al-title">The Corsair: A Tale</cite> was Lord Byron's much anticipated and influential work, selling over ten thousand copies its first day of publication, February 1, 1814. It is structured as three voluminous cantos (similar to Dante's Inferno, which he references at the opening of each of his), followed by several individual poems which can be read alone, or as part of this volume. In <cite class="al-title">The Corsair</cite>, Byron tells the story of a privateer, Conrad, who as a young man was rejected by society because of his actions, and then proceeds to spend the rest of his life fighting against humanity (all but women, of course).</p><p>If you enjoy Byron's work, you may like our collection of <a href="/100-great-stories">100 Great Stories</a></p><p><a href="dedication">Dedication</a></p><p><a href="canto-i">Canto I</a></p><p><a href="canto-ii">Canto II</a></p><p><a href="canto-iii">Canto III</a></p><p><a href="to-a-lady-weeping">To a Lady Weeping</a></p><p><a href="from-the-turkish">From the Turkish</a></p><p><a href="sonnet-i">Sonnet I</a></p><p><a href="sonnet-ii">Sonnet II</a></p><p><a href="an-inscription-on-the-monument-of-a-newfoundland-dog">An Inscription on the Monument of a Newfoundland Dog</a></p><p><a href="farewell">Farewell</a></p><p style="margin-top: 26px;"> Return to the <a href="/author/lord-byron">Lord Byron</a> library. </p>
+<pre>
+<i>Near this Spot 
+are deposited the Remains of one 
+who possessed Beauty without Vanity; 
+Strength without Insolence, 
+Courage without Ferosity, 
+and all the virtues of Man without his 
+Vices. 
+This praise, which would be unmeaning 
+Flattery 
+if inscribed over human Ashes, 
+is but a just tribute to the Memory of 
+Boatswain, a Dog, 
+who was born in Newfoundland May 1803 
+and died at Newstead November 18, 1808.</i>
+<img alt="Newfoundland portrait in a natural history of British dogs" title="Newfoundland portrait n a natural history of British dogs" itemprop="image" src="https://assets.americanliterature.com/al/images/poem/inscription-on-the-monument-of-a-newfoundland-dog-dog.jpg" style="max-width:350px; float:center; margin-bottom: 12px;" data-pagespeed-url-hash="888635509" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+When some proud Son of Man returns to Earth,
+Unknown to Glory, but upheld by Birth,
+The sculptor's art exhausts the pomp of woe,
+And storied urns record who rests below;
+When all is done, upon the Tomb is seen,
+Not what he was, but what he should have been:
+But the poor Dog, in life the firmest friend,
+The first to welcome, foremost to defend,
+Whose honest heart is still his Master's own,
+Who labours, fights, lives, breathes for him alone,
+Unhonour'd falls, unnotic'd all his worth,
+Denied in heaven the Soul he held on earth:
+While man, vain insect! hopes to be forgiven,
+And claims himself a sole exclusive heaven.
+Oh man! thou feeble tenant of an hour,
+Debas'd by slavery, or corrupt by power,
+Who knows thee well must quit thee with disgust,
+Degraded mass of animated dust!
+Thy love is lust, thy friendship all a cheat,
+Thy smiles hypocrisy, thy words deceit!
+By nature vile, ennobled but by name,
+Each kindred brute might bid thee blush for shame.
+Ye! who perchance behold this simple urn,
+Pass on—it honours none you wish to mourn:
+To mark a friend's remains these stones arise,
+I never knew but one, and here he lies.
+
+Newstead Abbey, Oct. 30, 1808.
+</pre>

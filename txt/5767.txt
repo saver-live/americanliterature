@@ -1,15 +1,21 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;Gaddi mi fece; il Ponte Vecchio sono;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cinquecent' anni gia sull' Arno pianto
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Il piede, come il suo Michele Santo
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pianto sul draco.&nbsp;&nbsp;&nbsp;&nbsp;Mentre ch' io ragiono
-&nbsp;&nbsp;&nbsp;&nbsp;Lo vedo torcere con flebil suono
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le rilucenti scaglie.&nbsp;&nbsp;&nbsp;&nbsp;Ha questi affranto
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Due volte i miei maggior.&nbsp;&nbsp;&nbsp;&nbsp;Me solo intanto
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Neppure muove, ed io non l' abbandono.
-&nbsp;&nbsp;&nbsp;&nbsp;Io mi rammento quando fur cacciati
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I Medici; pur quando Ghibellino
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E Guelfo fecer pace mi rammento.
-&nbsp;&nbsp;&nbsp;&nbsp;Fiorenza i suoi giojelli m' ha prestati;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E quando penso ch' Agnolo il divino
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Su me posava, insuperbir mi sento.
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;Out of the bosom of the Air,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Out of the cloud-folds of her garments shaken,
+&nbsp;&nbsp;&nbsp;&nbsp;Over the woodlands brown and bare,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Over the harvest-fields forsaken,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Silent, and soft, and slow
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Descends the snow.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Even as our cloudy fancies take
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Suddenly shape in some divine expression,
+&nbsp;&nbsp;&nbsp;&nbsp;Even as the troubled heart doth make
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the white countenance confession,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The troubled sky reveals
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The grief it feels.
+
+&nbsp;&nbsp;&nbsp;&nbsp;This is the poem of the air,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Slowly in silent syllables recorded;
+&nbsp;&nbsp;&nbsp;&nbsp;This is the secret of despair,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Long in its cloudy bosom hoarded,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now whispered and revealed
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To wood and field.
 </pre>

@@ -1,16 +1,10 @@
-<pre>
-&nbsp;&nbsp;&nbsp;&nbsp;The star-filled seas are smooth to-night
-&nbsp;&nbsp;&nbsp;&nbsp;From France to England strown;
-&nbsp;&nbsp;&nbsp;&nbsp;Black towers above the Portland light
-&nbsp;&nbsp;&nbsp;&nbsp;The felon-quarried stone.
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;He stood, and heard the steeple
+&nbsp;&nbsp;&nbsp;&nbsp;Sprinkle the quarters on the morning town.
+&nbsp;&nbsp;&nbsp;&nbsp;One, two, three, four, to market-place and people
+&nbsp;&nbsp;&nbsp;&nbsp;It tossed them down.
 
-&nbsp;&nbsp;&nbsp;&nbsp;On yonder island, not to rise,
-&nbsp;&nbsp;&nbsp;&nbsp;Never to stir forth free,
-&nbsp;&nbsp;&nbsp;&nbsp;Far from his folk a dead lad lies
-&nbsp;&nbsp;&nbsp;&nbsp;That once was friends with me.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Lie you easy, dream you light,
-&nbsp;&nbsp;&nbsp;&nbsp;And sleep you fast for aye;
-&nbsp;&nbsp;&nbsp;&nbsp;And luckier may you find the night
-&nbsp;&nbsp;&nbsp;&nbsp;Than ever you found the day.
+&nbsp;&nbsp;&nbsp;&nbsp;Strapped, noosed, nighing his hour,
+&nbsp;&nbsp;&nbsp;&nbsp;He stood and counted them and cursed his luck;
+&nbsp;&nbsp;&nbsp;&nbsp;And then the clock collected in the tower
+&nbsp;&nbsp;&nbsp;&nbsp;Its strength, and struck.
 </pre>

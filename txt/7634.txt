@@ -1,1 +1,13 @@
-<p><a href="introduction">Introduction</a></p><p><a href="chapter-1">Chapter 1</a></p><p><a href="chapter-2">Chapter 2</a></p><p><a href="chapter-3">Chapter 3</a></p><p><a href="chapter-4">Chapter 4</a></p><p><a href="chapter-5">Chapter 5</a></p><p><a href="chapter-6">Chapter 6</a></p><p><a href="chapter-7">Chapter 7</a></p><p><a href="chapter-8">Chapter 8</a></p><p><a href="chapter-9">Chapter 9</a></p><p><a href="chapter-10">Chapter 10</a></p><p style="margin-top: 26px;"> Return to the <a href="/author/rabindranath-tagore">Rabindranath Tagore</a> library. </p>
+<pre>God let me listen to your voice,
+And look upon you for a space,
+And then he took your voice away,
+And dropped a veil before your face.
+God let me look within your eyes,
+And touch for once your clinging hand,
+And then he left me all alone,
+And took you to the Silent Land.
+I cannot weep, I cannot pray,
+My heart has very silent grown,
+I only watch how God gives love,
+And then leaves lovers all alone.
+</pre>

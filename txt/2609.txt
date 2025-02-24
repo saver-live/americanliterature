@@ -1,23 +1,27 @@
 <pre>
-<img alt="Two Thanksgiving Day Gentlemen title=" two thanksgiving day gentlemen itemprop="image" src="https://assets.americanliterature.com/al/images/story/two-thanksgiving-day-gentlemen-bench.jpg" style="max-width:350px; float:center; margin-bottom: 12px;" data-pagespeed-url-hash="4113361141" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
-MY Sorrow, when she's here with me,
-Thinks these dark days of autumn rain
-Are beautiful as days can be;
-She loves the bare, the withered tree;
-She walks the sodden pasture lane.
-Her pleasure will not let me stay.
-She talks and I am fain to list:
-She's glad the birds are gone away,
-She's glad her simple worsted gray
-Is silver now with clinging mist.
-The desolate, deserted trees,
-The faded earth, the heavy sky,
-The beauties she so truly sees,
-She thinks I have no eye for these,
-And vexes me for reason why.
-Not yesterday I learned to know
-The love of bare November days
-Before the coming of the snow,
-But it were vain to tell her so,
-And they are better for her praise.
+   OUT through the fields and the woods
+    And over the walls I have wended;
+    I have climbed the hills of view
+    And looked at the world, and descended;
+    I have come by the highway home,
+    And lo, it is ended.
+    The leaves are all dead on the ground,
+    Save those that the oak is keeping
+    To ravel them one by one
+    And let them go scraping and creeping
+    Out over the crusted snow,
+    When others are sleeping.
+    And the dead leaves lie huddled and still,
+    No longer blown hither and thither;
+    The last lone aster is gone;
+    The flowers of the witch-hazel wither;
+    The heart is still aching to seek,
+    But the feet question 'Whither?'
+    Ah, when to the heart of man
+    Was it ever less than a treason
+    To go with the drift of things,
+    To yield with a grace to reason,
+    And bow and accept and accept the end
+    Of a love or a season?
+
 </pre>

@@ -1,51 +1,15 @@
-<pre>1.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Old Meg she was a gypsy;
-&nbsp;&nbsp;&nbsp;&nbsp;And liv'd upon the moors:
-&nbsp;&nbsp;&nbsp;&nbsp;Her bed it was the brown heath turf,
-&nbsp;&nbsp;&nbsp;&nbsp;And her house was out of doors.
-
-2.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Her apples were swart blackberries,
-&nbsp;&nbsp;&nbsp;&nbsp;Her currants, pods o' broom;
-&nbsp;&nbsp;&nbsp;&nbsp;Her wine was dew of the wild white rose,
-&nbsp;&nbsp;&nbsp;&nbsp;Her book a church-yard tomb.
-
-3.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Her brothers were the craggy hills,
-&nbsp;&nbsp;&nbsp;&nbsp;Her sisters larchen trees;
-&nbsp;&nbsp;&nbsp;&nbsp;Alone with her great family
-&nbsp;&nbsp;&nbsp;&nbsp;She liv'd as she did please.
-
-4.
-
-&nbsp;&nbsp;&nbsp;&nbsp;No breakfast had she many a morn,
-&nbsp;&nbsp;&nbsp;&nbsp;No dinner many a noon,
-&nbsp;&nbsp;&nbsp;&nbsp;And 'stead of supper she would stare
-&nbsp;&nbsp;&nbsp;&nbsp;Full hard against the moon.
-
-5.
-
-&nbsp;&nbsp;&nbsp;&nbsp;But every morn, of woodbine fresh
-&nbsp;&nbsp;&nbsp;&nbsp;She made her garlanding,
-&nbsp;&nbsp;&nbsp;&nbsp;And every night the dark glen yew
-&nbsp;&nbsp;&nbsp;&nbsp;She wove, and she would sing.
-
-6.
-
-&nbsp;&nbsp;&nbsp;&nbsp;And with her fingers old and brown
-&nbsp;&nbsp;&nbsp;&nbsp;She plaited mats o' rushes,
-&nbsp;&nbsp;&nbsp;&nbsp;And gave them to the cottagers
-&nbsp;&nbsp;&nbsp;&nbsp;She met among the bushes.
-
-7.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Old Meg was brave as Margaret Queen,
-&nbsp;&nbsp;&nbsp;&nbsp;And tall as Amazon:
-&nbsp;&nbsp;&nbsp;&nbsp;An old red blanket cloak she wore,
-&nbsp;&nbsp;&nbsp;&nbsp;A chip hat had she on.
-&nbsp;&nbsp;&nbsp;&nbsp;God rest her aged bones somewhere
-&nbsp;&nbsp;&nbsp;&nbsp;She died full long agone!
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;Blue! 'Tis the life of heaven, the domain
+&nbsp;&nbsp;&nbsp;&nbsp;Of Cynthia, the wide palace of the sun, 
+&nbsp;&nbsp;&nbsp;&nbsp;The tent of Hesperus, and all his train, 
+&nbsp;&nbsp;&nbsp;&nbsp;The bosomer of clouds, gold, gray, and dun.
+&nbsp;&nbsp;&nbsp;&nbsp;Blue! 'Tis the life of waters: Ocean
+&nbsp;&nbsp;&nbsp;&nbsp;And all its vassal streams, pools numberless,
+&nbsp;&nbsp;&nbsp;&nbsp;May rage, and foam, and fret, but never can
+&nbsp;&nbsp;&nbsp;&nbsp;Subside, if not to dark-blue nativeness.
+&nbsp;&nbsp;&nbsp;&nbsp;Blue! Gentle cousin of the forest-green,
+&nbsp;&nbsp;&nbsp;&nbsp;Married to green in all the sweetest flowers, 
+&nbsp;&nbsp;&nbsp;&nbsp;Forget-me-not, the Blue bell, and, that Queen
+&nbsp;&nbsp;&nbsp;&nbsp;Of secrecy, the Violet: what strange powers
+&nbsp;&nbsp;&nbsp;&nbsp;Hast thou, as a mere shadow! But how great,
+&nbsp;&nbsp;&nbsp;&nbsp;When in an Eye thou art alive with fate!
 </pre>

@@ -1,34 +1,31 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;In my own shire, if I was sad
-&nbsp;&nbsp;&nbsp;&nbsp;Homely comforters I had:
-&nbsp;&nbsp;&nbsp;&nbsp;The earth, because my heart was sore,
-&nbsp;&nbsp;&nbsp;&nbsp;Sorrowed for the son she bore;
-&nbsp;&nbsp;&nbsp;&nbsp;And standing hills, long to remain,
-&nbsp;&nbsp;&nbsp;&nbsp;Shared their short-lived comrade's pain.
-&nbsp;&nbsp;&nbsp;&nbsp;And bound for the same bourn as I,
-&nbsp;&nbsp;&nbsp;&nbsp;On every road I wandered by,
-&nbsp;&nbsp;&nbsp;&nbsp;Trod beside me, close and dear,
-&nbsp;&nbsp;&nbsp;&nbsp;The beautiful and death-struck year:
-&nbsp;&nbsp;&nbsp;&nbsp;Whether in the woodland brown
-&nbsp;&nbsp;&nbsp;&nbsp;I heard the beechnut rustle down,
-&nbsp;&nbsp;&nbsp;&nbsp;And saw the purple crocus pale
-&nbsp;&nbsp;&nbsp;&nbsp;Flower about the autumn dale;
-&nbsp;&nbsp;&nbsp;&nbsp;Or littering far the fields of May
-&nbsp;&nbsp;&nbsp;&nbsp;Lady-smocks a-bleaching lay,
-&nbsp;&nbsp;&nbsp;&nbsp;And like a skylit water stood
-&nbsp;&nbsp;&nbsp;&nbsp;The bluebells in the azured wood.
+<pre>
+&nbsp;&nbsp;&nbsp;&nbsp;Star and coronal and bell
+&nbsp;&nbsp;&nbsp;&nbsp;April underfoot renews,
+&nbsp;&nbsp;&nbsp;&nbsp;And the hope of man as well
+&nbsp;&nbsp;&nbsp;&nbsp;Flowers among the morning dews.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Yonder, lightening other loads,
-&nbsp;&nbsp;&nbsp;&nbsp;The seasons range the country roads,
-&nbsp;&nbsp;&nbsp;&nbsp;But here in London streets I ken
-&nbsp;&nbsp;&nbsp;&nbsp;No such helpmates, only men;
-&nbsp;&nbsp;&nbsp;&nbsp;And these are not in plight to bear,
-&nbsp;&nbsp;&nbsp;&nbsp;If they would, another's care.
-&nbsp;&nbsp;&nbsp;&nbsp;They have enough as 'tis: I see
-&nbsp;&nbsp;&nbsp;&nbsp;In many an eye that measures me
-&nbsp;&nbsp;&nbsp;&nbsp;The mortal sickness of a mind
-&nbsp;&nbsp;&nbsp;&nbsp;Too unhappy to be kind.
-&nbsp;&nbsp;&nbsp;&nbsp;Undone with misery, all they can
-&nbsp;&nbsp;&nbsp;&nbsp;Is to hate their fellow man;
-&nbsp;&nbsp;&nbsp;&nbsp;And till they drop they needs must still
-&nbsp;&nbsp;&nbsp;&nbsp;Look at you and wish you ill.
+&nbsp;&nbsp;&nbsp;&nbsp;Now the old come out to look,
+&nbsp;&nbsp;&nbsp;&nbsp;Winter past and winter's pains.
+&nbsp;&nbsp;&nbsp;&nbsp;How the sky in pool and brook
+&nbsp;&nbsp;&nbsp;&nbsp;Glitters on the grassy plains.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Easily the gentle air
+&nbsp;&nbsp;&nbsp;&nbsp;Wafts the turning season on;
+&nbsp;&nbsp;&nbsp;&nbsp;Things to comfort them are there,
+&nbsp;&nbsp;&nbsp;&nbsp;Though 'tis true the best are gone.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Now the scorned unlucky lad
+&nbsp;&nbsp;&nbsp;&nbsp;Rousing from his pillow gnawn
+&nbsp;&nbsp;&nbsp;&nbsp;Mans his heart and deep and glad
+&nbsp;&nbsp;&nbsp;&nbsp;Drinks the valiant air of dawn.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Half the night he longed to die,
+&nbsp;&nbsp;&nbsp;&nbsp;Now are sown on hill and plain
+&nbsp;&nbsp;&nbsp;&nbsp;Pleasures worth his while to try
+&nbsp;&nbsp;&nbsp;&nbsp;Ere he longs to die again.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Blue the sky from east to west
+&nbsp;&nbsp;&nbsp;&nbsp;Arches, and the world is wide,
+&nbsp;&nbsp;&nbsp;&nbsp;Though the girl he loves the best
+&nbsp;&nbsp;&nbsp;&nbsp;Rouses from another's side.
 </pre>

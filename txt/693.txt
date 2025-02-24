@@ -1,0 +1,4 @@
+<p>Sunlight streams on the river stones.<br> From high above, the river steadily plunges--<br> <br> three thousand feet of sparkling water--<br> the Milky Way pouring down from heaven.<br></p>
+<div class="poet" itemprop="author">
+ Li Po
+</div>

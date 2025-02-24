@@ -1,1 +1,17 @@
-<p>One of Shakespeare's earliest and shortest plays, first performed in 1594, it's his version of slapstick and physical humor. <span class="al-title">Comedy of Errors</span> has been adapted and performed in a broad range of time periods, geographic settings, and character genders, which may not always amuse stalwart Shakespeare aficionados. Come on, lighten up-- it's a comedy!</p><p><img alt="" robson and crane in shakespeares comedy of errors, litho 1879 title="Robson and Crane in Shakespeare's Comedy of Errors, 1879 lithograph" itemprop="image" src="https://assets.americanliterature.com/al/images/play/comedy-of-errors-robson-crane.jpg" style="max-width:500px; float:right; margin-right: 12px; margin-bottom: 12px;" data-pagespeed-url-hash="478645079" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"> </p><p><a href="dramatis-personae">Dramatis Personae</a></p><p><a href="act-i-scene-i">ACT I - Scene I</a></p><p><a href="act-i-scene-ii">ACT I - Scene II</a></p><p><a href="act-ii-scene-i">ACT II - Scene I</a></p><p><a href="act-ii-scene-ii">ACT II - Scene II</a></p><p><a href="act-iii-scene-i">ACT III - Scene I</a></p><p><a href="act-iii-scene-ii">ACT III - Scene II</a></p><p><a href="act-iv-scene-i">ACT IV - Scene I</a></p><p><a href="act-iv-scene-ii">ACT IV - Scene II</a></p><p><a href="act-iv-scene-iii">ACT IV - Scene III</a></p><p><a href="act-iv-scene-iv">ACT IV - Scene IV</a></p><p><a href="act-v-scene-i">ACT V - Scene I</a></p><p style="margin-top: 26px;"> Return to the <a href="/author/william-shakespeare">William Shakespeare</a> library. </p>
+<pre>
+  Against my love shall be as I am now
+  With Time's injurious hand crushed and o'erworn,
+  When hours have drained his blood and filled his brow
+  With lines and wrinkles, when his youthful morn
+  Hath travelled on to age's steepy night,
+  And all those beauties whereof now he's king
+  Are vanishing, or vanished out of sight,
+  Stealing away the treasure of his spring:
+  For such a time do I now fortify
+  Against confounding age's cruel knife,
+  That he shall never cut from memory
+  My sweet love's beauty, though my lover's life.
+    His beauty shall in these black lines be seen,
+    And they shall live, and he in them still green.
+
+</pre>

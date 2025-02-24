@@ -1,77 +1,300 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;What say the Bells of San Blas
-&nbsp;&nbsp;&nbsp;&nbsp;To the ships that southward pass
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the harbor of Mazatlan?
-&nbsp;&nbsp;&nbsp;&nbsp;To them it is nothing more
-&nbsp;&nbsp;&nbsp;&nbsp;Than the sound of surf on the shore,--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nothing more to master or man.
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;THE BIRDS OF KILLINGWORTH
 
-&nbsp;&nbsp;&nbsp;&nbsp;But to me, a dreamer of dreams,
-&nbsp;&nbsp;&nbsp;&nbsp;To whom what is and what seems
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Are often one and the same,--
-&nbsp;&nbsp;&nbsp;&nbsp;The Bells of San Blas to me
-&nbsp;&nbsp;&nbsp;&nbsp;Have a strange, wild melody,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And are something more than a name.
+&nbsp;&nbsp;&nbsp;&nbsp;It was the season, when through all the land
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The merle and mavis build, and building sing
+&nbsp;&nbsp;&nbsp;&nbsp;Those lovely lyrics, written by His hand,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Whom Saxon Caedmon calls the Blitheheart King;
+&nbsp;&nbsp;&nbsp;&nbsp;When on the boughs the purple buds expand,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The banners of the vanguard of the Spring,
+&nbsp;&nbsp;&nbsp;&nbsp;And rivulets, rejoicing, rush and leap,
+&nbsp;&nbsp;&nbsp;&nbsp;And wave their fluttering signals from the steep.
 
-&nbsp;&nbsp;&nbsp;&nbsp;For bells are the voice of the church;
-&nbsp;&nbsp;&nbsp;&nbsp;They have tones that touch and search
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The hearts of young and old;
-&nbsp;&nbsp;&nbsp;&nbsp;One sound to all, yet each
-&nbsp;&nbsp;&nbsp;&nbsp;Lends a meaning to their speech,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the meaning is manifold.
+&nbsp;&nbsp;&nbsp;&nbsp;The robin and the bluebird, piping loud,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Filled all the blossoming orchards with their glee;
+&nbsp;&nbsp;&nbsp;&nbsp;The sparrows chirped as if they still were proud
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Their race in Holy Writ should mentioned be;
+&nbsp;&nbsp;&nbsp;&nbsp;And hungry crows assembled in a crowd,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clamored their piteous prayer incessantly,
+&nbsp;&nbsp;&nbsp;&nbsp;Knowing who hears the ravens cry, and said:
+&nbsp;&nbsp;&nbsp;&nbsp;"Give us, O Lord, this day our daily bread!"
 
-&nbsp;&nbsp;&nbsp;&nbsp;They are a voice of the Past,
-&nbsp;&nbsp;&nbsp;&nbsp;Of an age that is fading fast,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of a power austere and grand,
-&nbsp;&nbsp;&nbsp;&nbsp;When the flag of Spain unfurled
-&nbsp;&nbsp;&nbsp;&nbsp;Its folds o'er this western world,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the Priest was lord of the land.
+&nbsp;&nbsp;&nbsp;&nbsp;Across the Sound the birds of passage sailed,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaking some unknown language strange and sweet
+&nbsp;&nbsp;&nbsp;&nbsp;Of tropic isle remote, and passing hailed
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The village with the cheers of all their fleet;
+&nbsp;&nbsp;&nbsp;&nbsp;Or quarrelling together, laughed and railed
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Like foreign sailors, landed in the street
+&nbsp;&nbsp;&nbsp;&nbsp;Of seaport town, and with outlandish noise
+&nbsp;&nbsp;&nbsp;&nbsp;Of oaths and gibberish frightening girls and boys.
 
-&nbsp;&nbsp;&nbsp;&nbsp;The chapel that once looked down
-&nbsp;&nbsp;&nbsp;&nbsp;On the little seaport town
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Has crumbled into the dust;
-&nbsp;&nbsp;&nbsp;&nbsp;And on oaken beams below
-&nbsp;&nbsp;&nbsp;&nbsp;The bells swing to and fro,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And are green with mould and rust.
+&nbsp;&nbsp;&nbsp;&nbsp;Thus came the jocund Spring in Killingworth,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In fabulous day; some hundred years ago;
+&nbsp;&nbsp;&nbsp;&nbsp;And thrifty farmers, as they tilled the earth,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heard with alarm the cawing of the crow,
+&nbsp;&nbsp;&nbsp;&nbsp;That mingled with the universal mirth,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cassandra-like, prognosticating woe;
+&nbsp;&nbsp;&nbsp;&nbsp;They shook their heads, and doomed with dreadful words
+&nbsp;&nbsp;&nbsp;&nbsp;To swift destruction the whole race of birds.
 
-&nbsp;&nbsp;&nbsp;&nbsp;"Is, then, the old faith dead,"
-&nbsp;&nbsp;&nbsp;&nbsp;They say, "and in its stead
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Is some new faith proclaimed,
-&nbsp;&nbsp;&nbsp;&nbsp;That we are forced to remain
-&nbsp;&nbsp;&nbsp;&nbsp;Naked to sun and rain,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unsheltered and ashamed?
+&nbsp;&nbsp;&nbsp;&nbsp;And a town-meeting was convened straightway
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To set a price upon the guilty heads
+&nbsp;&nbsp;&nbsp;&nbsp;Of these marauders, who, in lieu of pay,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Levied black-mail upon the garden beds
+&nbsp;&nbsp;&nbsp;&nbsp;And cornfields, and beheld without dismay
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The awful scarecrow, with his fluttering shreds;
+&nbsp;&nbsp;&nbsp;&nbsp;The skeleton that waited at their feast,
+&nbsp;&nbsp;&nbsp;&nbsp;Whereby their sinful pleasure was increased.
 
-&nbsp;&nbsp;&nbsp;&nbsp;"Once, in our tower aloof,
-&nbsp;&nbsp;&nbsp;&nbsp;We rang over wall and roof
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our warnings and our complaints;
-&nbsp;&nbsp;&nbsp;&nbsp;And round about us there
-&nbsp;&nbsp;&nbsp;&nbsp;The white doves filled the air,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Like the white souls of the saints.
+&nbsp;&nbsp;&nbsp;&nbsp;Then from his house, a temple painted white,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With fluted columns, and a roof of red,
+&nbsp;&nbsp;&nbsp;&nbsp;The Squire came forth, august and splendid sight!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Slowly descending, with majestic tread,
+&nbsp;&nbsp;&nbsp;&nbsp;Three flights of steps, nor looking left nor right,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Down the long street he walked, as one who said,
+&nbsp;&nbsp;&nbsp;&nbsp;"A town that boasts inhabitants like me
+&nbsp;&nbsp;&nbsp;&nbsp;Can have no lack of good society!"
 
-&nbsp;&nbsp;&nbsp;&nbsp;"The saints!&nbsp;&nbsp;&nbsp;&nbsp;Ah, have they grown
-&nbsp;&nbsp;&nbsp;&nbsp;Forgetful of their own?
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Are they asleep, or dead,
-&nbsp;&nbsp;&nbsp;&nbsp;That open to the sky
-&nbsp;&nbsp;&nbsp;&nbsp;Their ruined Missions lie,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No longer tenanted?
+&nbsp;&nbsp;&nbsp;&nbsp;The Parson, too, appeared, a man austere,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The instinct of whose nature was to kill;
+&nbsp;&nbsp;&nbsp;&nbsp;The wrath of God he preached from year to year,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And read, with fervor, Edwards on the Will;
+&nbsp;&nbsp;&nbsp;&nbsp;His favorite pastime was to slay the deer
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In Summer on some Adirondac hill;
+&nbsp;&nbsp;&nbsp;&nbsp;E'en now, while walking down the rural lane,
+&nbsp;&nbsp;&nbsp;&nbsp;He lopped the wayside lilies with his cane.
 
-&nbsp;&nbsp;&nbsp;&nbsp;"Oh, bring us back once more
-&nbsp;&nbsp;&nbsp;&nbsp;The vanished days of yore,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When the world with faith was filled;
-&nbsp;&nbsp;&nbsp;&nbsp;Bring back the fervid zeal,
-&nbsp;&nbsp;&nbsp;&nbsp;The hearts of fire and steel,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The hands that believe and build.
+&nbsp;&nbsp;&nbsp;&nbsp;From the Academy, whose belfry crowned
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The hill of Science with its vane of brass,
+&nbsp;&nbsp;&nbsp;&nbsp;Came the Preceptor, gazing idly round,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now at the clouds, and now at the green grass,
+&nbsp;&nbsp;&nbsp;&nbsp;And all absorbed in reveries profound
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of fair Almira in the upper class,
+&nbsp;&nbsp;&nbsp;&nbsp;Who was, as in a sonnet he had said,
+&nbsp;&nbsp;&nbsp;&nbsp;As pure as water, and as good as bread.
 
-&nbsp;&nbsp;&nbsp;&nbsp;"Then from our tower again
-&nbsp;&nbsp;&nbsp;&nbsp;We will send over land and main
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our voices of command,
-&nbsp;&nbsp;&nbsp;&nbsp;Like exiled kings who return
-&nbsp;&nbsp;&nbsp;&nbsp;To their thrones, and the people learn
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That the Priest is lord of the land!"
+&nbsp;&nbsp;&nbsp;&nbsp;And next the Deacon issued from his door,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In his voluminous neck-cloth, white as snow;
+&nbsp;&nbsp;&nbsp;&nbsp;A suit of sable bombazine he wore;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;His form was ponderous, and his step was slow;
+&nbsp;&nbsp;&nbsp;&nbsp;There never was so wise a man before;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He seemed the incarnate "Well, I told you so!"
+&nbsp;&nbsp;&nbsp;&nbsp;And to perpetuate his great renown
+&nbsp;&nbsp;&nbsp;&nbsp;There was a street named after him in town.
 
-&nbsp;&nbsp;&nbsp;&nbsp;O Bells of San Blas in vain
-&nbsp;&nbsp;&nbsp;&nbsp;Ye call back the Past again;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Past is deaf to your prayer!
-&nbsp;&nbsp;&nbsp;&nbsp;Out of the shadows of night
-&nbsp;&nbsp;&nbsp;&nbsp;The world rolls into light;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It is daybreak everywhere.
+&nbsp;&nbsp;&nbsp;&nbsp;These came together in the new town-hall,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With sundry farmers from the region round.
+&nbsp;&nbsp;&nbsp;&nbsp;The Squirt presided, dignified and tall,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;His air impressive and his reasoning sound;
+&nbsp;&nbsp;&nbsp;&nbsp;Ill fared it with the birds, both great and small;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hardly a friend in all that crowd they found,
+&nbsp;&nbsp;&nbsp;&nbsp;But enemies enough, who every one
+&nbsp;&nbsp;&nbsp;&nbsp;Charged them with all the crimes beneath the sun.
+
+&nbsp;&nbsp;&nbsp;&nbsp;When they had ended, from his place apart,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rose the Preceptor, to redress the wrong,
+&nbsp;&nbsp;&nbsp;&nbsp;And, trembling like a steed before the start,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Looked round bewildered on the expectant throng;
+&nbsp;&nbsp;&nbsp;&nbsp;Then thought of fair Almira, and took heart
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To speak out what was in him, clear and strong,
+&nbsp;&nbsp;&nbsp;&nbsp;Alike regardless of their smile or frown,
+&nbsp;&nbsp;&nbsp;&nbsp;And quite determined not to be laughed down.
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Plato, anticipating the Reviewers,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From his Republic banished without pity
+&nbsp;&nbsp;&nbsp;&nbsp;The Poets; in this little town of yours,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You put to death, by means of a Committee,
+&nbsp;&nbsp;&nbsp;&nbsp;The ballad-singers and the Troubadours,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The street-musicians of the heavenly city,
+&nbsp;&nbsp;&nbsp;&nbsp;The birds, who make sweet music for us all
+&nbsp;&nbsp;&nbsp;&nbsp;In our dark hours, as David did for Saul.
+
+&nbsp;&nbsp;&nbsp;&nbsp;"The thrush that carols at the dawn of day
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the green steeples of the piny wood;
+&nbsp;&nbsp;&nbsp;&nbsp;The oriole in the elm; the noisy jay,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jargoning like a foreigner at his food;
+&nbsp;&nbsp;&nbsp;&nbsp;The bluebird balanced on some topmost spray,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flooding with melody the neighborhood;
+&nbsp;&nbsp;&nbsp;&nbsp;Linnet and meadow-lark, and all the throng
+&nbsp;&nbsp;&nbsp;&nbsp;That dwell in nests, and have the gift of song.
+
+&nbsp;&nbsp;&nbsp;&nbsp;"You slay them all! and wherefore! for the gain
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of a scant handful more or less of wheat,
+&nbsp;&nbsp;&nbsp;&nbsp;Or rye, or barley, or some other grain,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scratched up at random by industrious feet,
+&nbsp;&nbsp;&nbsp;&nbsp;Searching for worm or weevil after rain!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Or a few cherries, that are not so sweet
+&nbsp;&nbsp;&nbsp;&nbsp;As are the songs these uninvited guests,
+&nbsp;&nbsp;&nbsp;&nbsp;Sing at their feast with comfortable breasts.
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Do you ne'er think what wondrous beings these?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Do you ne'er think who made them and who taught
+&nbsp;&nbsp;&nbsp;&nbsp;The dialect they speak, where melodies
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alone are the interpreters of thought?
+&nbsp;&nbsp;&nbsp;&nbsp;Whose household words are songs in many keys,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sweeter than instrument of man e'er caught!
+&nbsp;&nbsp;&nbsp;&nbsp;Whose habitations in the tree-tops even
+&nbsp;&nbsp;&nbsp;&nbsp;Are half-way houses on the road to heaven!
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Think, every morning when the sun peeps through
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The dim, leaf-latticed windows of the grove,
+&nbsp;&nbsp;&nbsp;&nbsp;How jubilant the happy birds renew
+&nbsp;&nbsp;&nbsp;&nbsp; Their old, melodious madrigals of love!
+&nbsp;&nbsp;&nbsp;&nbsp;And when you think of this, remember too
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'T is always morning somewhere, and above
+&nbsp;&nbsp;&nbsp;&nbsp;The awakening continent; from shore to shore,
+&nbsp;&nbsp;&nbsp;&nbsp;Somewhere the birds are singing evermore.
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Think of your woods and orchards without birds!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of empty nests that cling to boughs and beams
+&nbsp;&nbsp;&nbsp;&nbsp;As in an idiot's brain remembered words
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hang empty 'mid the cobwebs of his dreams!
+&nbsp;&nbsp;&nbsp;&nbsp;Will bleat of flocks or bellowing of herds
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Make up for the lost music, when your teams
+&nbsp;&nbsp;&nbsp;&nbsp;Drag home the stingy harvest, and no more
+&nbsp;&nbsp;&nbsp;&nbsp;The feathered gleaners follow to your door?
+
+&nbsp;&nbsp;&nbsp;&nbsp;"What! would you rather see the incessant stir
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of insects in the windrows of the hay,
+&nbsp;&nbsp;&nbsp;&nbsp;And hear the locust and the grasshopper
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Their melancholy hurdy-gurdies play?
+&nbsp;&nbsp;&nbsp;&nbsp;Is this more pleasant to you than the whir
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of meadow-lark, and her sweet roundelay,
+&nbsp;&nbsp;&nbsp;&nbsp;Or twitter of little field-fares, as you take
+&nbsp;&nbsp;&nbsp;&nbsp;Your nooning in the shade of bush and brake?
+
+&nbsp;&nbsp;&nbsp;&nbsp;"You call them thieves and pillagers; but know,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They are the winged wardens of your farms,
+&nbsp;&nbsp;&nbsp;&nbsp;Who from the cornfields drive the insidious foe,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And from your harvests keep a hundred harms;
+&nbsp;&nbsp;&nbsp;&nbsp;Even the blackest of them all, the crow,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Renders good service as your man-at-arms,
+&nbsp;&nbsp;&nbsp;&nbsp;Crushing the beetle in his coat of mail,
+&nbsp;&nbsp;&nbsp;&nbsp;And crying havoc on the slug and snail.
+
+&nbsp;&nbsp;&nbsp;&nbsp;"How can I teach your children gentleness,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And mercy to the weak, and reverence
+&nbsp;&nbsp;&nbsp;&nbsp;For Life, which, in its weakness or excess,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Is still a gleam of God's omnipotence,
+&nbsp;&nbsp;&nbsp;&nbsp;Or Death, which, seeming darkness, is no less
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The selfsame light, although averted hence,
+&nbsp;&nbsp;&nbsp;&nbsp;When by your laws, your actions, and your speech,
+&nbsp;&nbsp;&nbsp;&nbsp;You contradict the very things I teach?"
+
+&nbsp;&nbsp;&nbsp;&nbsp;With this he closed; and through the audience went
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A murmur, like the rustle of dead leaves;
+&nbsp;&nbsp;&nbsp;&nbsp;The farmers laughed and nodded, and some bent
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Their yellow heads together like their sheaves;
+&nbsp;&nbsp;&nbsp;&nbsp;Men have no faith in fine-spun sentiment
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Who put their trust in bullocks and in beeves.
+&nbsp;&nbsp;&nbsp;&nbsp;The birds were doomed; and, as the record shows,
+&nbsp;&nbsp;&nbsp;&nbsp;A bounty offered for the heads of crows.
+
+&nbsp;&nbsp;&nbsp;&nbsp;There was another audience out of reach,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Who had no voice nor vote in making laws,
+&nbsp;&nbsp;&nbsp;&nbsp;But in the papers read his little speech,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And crowned his modest temples with applause;
+&nbsp;&nbsp;&nbsp;&nbsp;They made him conscious, each one more than each,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He still was victor, vanquished in their cause.
+&nbsp;&nbsp;&nbsp;&nbsp;Sweetest of all the applause he won from thee,
+&nbsp;&nbsp;&nbsp;&nbsp;O fair Almira at the Academy!
+
+&nbsp;&nbsp;&nbsp;&nbsp;And so the dreadful massacre began;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O'er fields and orchards, and o'er woodland crests,
+&nbsp;&nbsp;&nbsp;&nbsp;The ceaseless fusillade of terror ran.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dead fell the birds, with blood-stains on their breasts,
+&nbsp;&nbsp;&nbsp;&nbsp;Or wounded crept away from sight of man,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While the young died of famine in their nests;
+&nbsp;&nbsp;&nbsp;&nbsp;A slaughter to be told in groans, not words,
+&nbsp;&nbsp;&nbsp;&nbsp;The very St. Bartholomew of Birds!
+
+&nbsp;&nbsp;&nbsp;&nbsp;The Summer came, and all the birds were dead;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The days were like hot coals; the very ground
+&nbsp;&nbsp;&nbsp;&nbsp;Was burned to ashes; in the orchards fed
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Myriads of caterpillars, and around
+&nbsp;&nbsp;&nbsp;&nbsp;The cultivated fields and garden beds
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hosts of devouring insects crawled, and found
+&nbsp;&nbsp;&nbsp;&nbsp;No foe to check their march, till they had made
+&nbsp;&nbsp;&nbsp;&nbsp;The land a desert without leaf or shade.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Devoured by worms, like Herod, was the town,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Because, like Herod, it had ruthlessly
+&nbsp;&nbsp;&nbsp;&nbsp;Slaughtered the Innocents.&nbsp;&nbsp;&nbsp;&nbsp;From the trees spun down
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The canker-worms upon the passers-by,
+&nbsp;&nbsp;&nbsp;&nbsp;Upon each woman's bonnet, shawl, and gown,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Who shook them off with just a little cry
+&nbsp;&nbsp;&nbsp;&nbsp;They were the terror of each favorite walk,
+&nbsp;&nbsp;&nbsp;&nbsp;The endless theme of all the village talk.
+
+&nbsp;&nbsp;&nbsp;&nbsp;The farmers grew impatient but a few
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Confessed their error, and would not complain,
+&nbsp;&nbsp;&nbsp;&nbsp;For after all, the best thing one can do
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When it is raining, is to let it rain.
+&nbsp;&nbsp;&nbsp;&nbsp;Then they repealed the law, although they knew
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It would not call the dead to life again;
+&nbsp;&nbsp;&nbsp;&nbsp;As school-boys, finding their mistake too late,
+&nbsp;&nbsp;&nbsp;&nbsp;Draw a wet sponge across the accusing slate.
+
+&nbsp;&nbsp;&nbsp;&nbsp;That year in Killingworth the Autumn came
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Without the light of his majestic look,
+&nbsp;&nbsp;&nbsp;&nbsp;The wonder of the falling tongues of flame,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The illumined pages of his Doom's-Day book.
+&nbsp;&nbsp;&nbsp;&nbsp;A few lost leaves blushed crimson with their shame,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And drowned themselves despairing in the brook,
+&nbsp;&nbsp;&nbsp;&nbsp;While the wild wind went moaning everywhere,
+&nbsp;&nbsp;&nbsp;&nbsp;Lamenting the dead children of the air!
+
+&nbsp;&nbsp;&nbsp;&nbsp;But the next Spring a stranger sight was seen,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A sight that never yet by bard was sung,
+&nbsp;&nbsp;&nbsp;&nbsp;As great a wonder as it would have been
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If some dumb animal had found a tongue!
+&nbsp;&nbsp;&nbsp;&nbsp;A wagon, overarched with evergreen,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Upon whose boughs were wicker cages hung,
+&nbsp;&nbsp;&nbsp;&nbsp;All full of singing birds, came down the street,
+&nbsp;&nbsp;&nbsp;&nbsp;Filling the air with music wild and sweet.
+
+&nbsp;&nbsp;&nbsp;&nbsp;From all the country round these birds were brought,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By order of the town, with anxious quest,
+&nbsp;&nbsp;&nbsp;&nbsp;And, loosened from their wicker prisons, sought
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In woods and fields the places they loved best,
+&nbsp;&nbsp;&nbsp;&nbsp;Singing loud canticles, which many thought
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Were satires to the authorities addressed,
+&nbsp;&nbsp;&nbsp;&nbsp;While others, listening in green lanes, averred
+&nbsp;&nbsp;&nbsp;&nbsp;Such lovely music never had been heard!
+
+&nbsp;&nbsp;&nbsp;&nbsp;But blither still and louder carolled they
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Upon the morrow, for they seemed to know
+&nbsp;&nbsp;&nbsp;&nbsp;It was the fair Almira's wedding-day,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And everywhere, around, above, below,
+&nbsp;&nbsp;&nbsp;&nbsp;When the Preceptor bore his bride away,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Their songs burst forth in joyous overflow,
+&nbsp;&nbsp;&nbsp;&nbsp;And a new heaven bent over a new earth
+&nbsp;&nbsp;&nbsp;&nbsp;Amid the sunny farms of Killingworth.
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;FINALE
+
+&nbsp;&nbsp;&nbsp;&nbsp;The hour was late; the fire burned low,
+&nbsp;&nbsp;&nbsp;&nbsp;The Landlord's eyes were closed in sleep,
+&nbsp;&nbsp;&nbsp;&nbsp;And near the story's end a deep
+&nbsp;&nbsp;&nbsp;&nbsp;Sonorous sound at times was heard,
+&nbsp;&nbsp;&nbsp;&nbsp;As when the distant bagpipes blow.
+&nbsp;&nbsp;&nbsp;&nbsp;At this all laughed; the Landlord stirred,
+&nbsp;&nbsp;&nbsp;&nbsp;As one awaking from a swound,
+&nbsp;&nbsp;&nbsp;&nbsp;And, gazing anxiously around,
+&nbsp;&nbsp;&nbsp;&nbsp;Protested that he had not slept,
+&nbsp;&nbsp;&nbsp;&nbsp;But only shut his eyes, and kept
+&nbsp;&nbsp;&nbsp;&nbsp;His ears attentive to each word.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Then all arose, and said "Good Night."
+&nbsp;&nbsp;&nbsp;&nbsp;Alone remained the drowsy Squire
+&nbsp;&nbsp;&nbsp;&nbsp;To rake the embers of the fire,
+&nbsp;&nbsp;&nbsp;&nbsp;And quench the waning parlor light.
+&nbsp;&nbsp;&nbsp;&nbsp;While from the windows, here and there,
+&nbsp;&nbsp;&nbsp;&nbsp;The scattered lamps a moment gleamed,
+&nbsp;&nbsp;&nbsp;&nbsp;And the illumined hostel seemed
+&nbsp;&nbsp;&nbsp;&nbsp;The constellation of the Bear,
+&nbsp;&nbsp;&nbsp;&nbsp;Downward, athwart the misty air,
+&nbsp;&nbsp;&nbsp;&nbsp;Sinking and setting toward the sun,
+&nbsp;&nbsp;&nbsp;&nbsp;Far off the village clock struck one.
 </pre>

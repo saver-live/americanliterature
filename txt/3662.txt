@@ -1,25 +1,20 @@
-<pre>
-&nbsp;&nbsp;&nbsp;&nbsp;'Tis spring; come out to ramble
-&nbsp;&nbsp;&nbsp;&nbsp;The hilly brakes around,
-&nbsp;&nbsp;&nbsp;&nbsp;For under thorn and bramble
-&nbsp;&nbsp;&nbsp;&nbsp;About the hollow ground
-&nbsp;&nbsp;&nbsp;&nbsp;The primroses are found.
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;When the eye of day is shut,
+&nbsp;&nbsp;&nbsp;&nbsp;And the stars deny their beams,
+&nbsp;&nbsp;&nbsp;&nbsp;And about the forest hut
+&nbsp;&nbsp;&nbsp;&nbsp;Blows the roaring wood of dreams,
 
-&nbsp;&nbsp;&nbsp;&nbsp;And there's the windflower chilly
-&nbsp;&nbsp;&nbsp;&nbsp;With all the winds at play,
-&nbsp;&nbsp;&nbsp;&nbsp;And there's the Lenten lily
-&nbsp;&nbsp;&nbsp;&nbsp;That has not long to stay
-&nbsp;&nbsp;&nbsp;&nbsp;And dies on Easter day.
+&nbsp;&nbsp;&nbsp;&nbsp;From deep clay, from desert rock,
+&nbsp;&nbsp;&nbsp;&nbsp;From the sunk sands of the main,
+&nbsp;&nbsp;&nbsp;&nbsp;Come not at my door to knock,
+&nbsp;&nbsp;&nbsp;&nbsp;Hearts that loved me not again.
 
-&nbsp;&nbsp;&nbsp;&nbsp;And since till girls go maying
-&nbsp;&nbsp;&nbsp;&nbsp;You find the primrose still,
-&nbsp;&nbsp;&nbsp;&nbsp;And find the windflower playing
-&nbsp;&nbsp;&nbsp;&nbsp;With every wind at will,
-&nbsp;&nbsp;&nbsp;&nbsp;But not the daffodil,
+&nbsp;&nbsp;&nbsp;&nbsp;Sleep, be still, turn to your rest
+&nbsp;&nbsp;&nbsp;&nbsp;In the lands where you are laid;
+&nbsp;&nbsp;&nbsp;&nbsp;In far lodgings east and west
+&nbsp;&nbsp;&nbsp;&nbsp;Lie down on the beds you made.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Bring baskets now, and sally
-&nbsp;&nbsp;&nbsp;&nbsp;Upon the spring's array,
-&nbsp;&nbsp;&nbsp;&nbsp;And bear from hill and valley
-&nbsp;&nbsp;&nbsp;&nbsp;The daffodil away
-&nbsp;&nbsp;&nbsp;&nbsp;That dies on Easter day.
+&nbsp;&nbsp;&nbsp;&nbsp;In gross marl, in blowing dust,
+&nbsp;&nbsp;&nbsp;&nbsp;In the drowned ooze of the sea,
+&nbsp;&nbsp;&nbsp;&nbsp;Where you would not, lie you must,
+&nbsp;&nbsp;&nbsp;&nbsp;Lie you must, and not with me.
 </pre>

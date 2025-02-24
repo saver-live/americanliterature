@@ -1,64 +1,16 @@
 <pre>
-&nbsp;&nbsp;&nbsp;&nbsp;I see amid the fields of Ayr
-&nbsp;&nbsp;&nbsp;&nbsp;A ploughman, who, in foul and fair,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sings at his task
-&nbsp;&nbsp;&nbsp;&nbsp;So clear, we know not if it is
-&nbsp;&nbsp;&nbsp;&nbsp;The laverock's song we hear, or his,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nor care to ask.
-
-&nbsp;&nbsp;&nbsp;&nbsp;For him the ploughing of those fields
-&nbsp;&nbsp;&nbsp;&nbsp;A more ethereal harvest yields
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Than sheaves of grain;
-&nbsp;&nbsp;&nbsp;&nbsp;Songs flush with Purple bloom the rye,
-&nbsp;&nbsp;&nbsp;&nbsp;The plover's call, the curlew's cry,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sing in his brain.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Touched by his hand, the wayside weed
-&nbsp;&nbsp;&nbsp;&nbsp;Becomes a flower; the lowliest reed
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beside the stream
-&nbsp;&nbsp;&nbsp;&nbsp;Is clothed with beauty; gorse and grass
-&nbsp;&nbsp;&nbsp;&nbsp;And heather, where his footsteps pass,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The brighter seem.
-
-&nbsp;&nbsp;&nbsp;&nbsp;He sings of love, whose flame illumes
-&nbsp;&nbsp;&nbsp;&nbsp;The darkness of lone cottage rooms;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He feels the force,
-&nbsp;&nbsp;&nbsp;&nbsp;The treacherous undertow and stress
-&nbsp;&nbsp;&nbsp;&nbsp;Of wayward passions, and no less
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The keen remorse.
-
-&nbsp;&nbsp;&nbsp;&nbsp;At moments, wrestling with his fate,
-&nbsp;&nbsp;&nbsp;&nbsp;His voice is harsh, but not with hate;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The brushwood, hung
-&nbsp;&nbsp;&nbsp;&nbsp;Above the tavern door, lets fall
-&nbsp;&nbsp;&nbsp;&nbsp;Its bitter leaf, its drop of gall
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Upon his tongue.
-
-&nbsp;&nbsp;&nbsp;&nbsp;But still the music of his song
-&nbsp;&nbsp;&nbsp;&nbsp;Rises o'er all elate and strong;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Its master-chords
-&nbsp;&nbsp;&nbsp;&nbsp;Are Manhood, Freedom, Brotherhood,
-&nbsp;&nbsp;&nbsp;&nbsp;Its discords but an interlude
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Between the words.
-
-&nbsp;&nbsp;&nbsp;&nbsp;And then to die so young and leave
-&nbsp;&nbsp;&nbsp;&nbsp;Unfinished what he might achieve!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yet better sure
-&nbsp;&nbsp;&nbsp;&nbsp;Is this, than wandering up and down
-&nbsp;&nbsp;&nbsp;&nbsp;An old man in a country town,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Infirm and poor.
-
-&nbsp;&nbsp;&nbsp;&nbsp;For now he haunts his native land
-&nbsp;&nbsp;&nbsp;&nbsp;As an immortal youth; his hand
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guides every plough;
-&nbsp;&nbsp;&nbsp;&nbsp;He sits beside each ingle-nook,
-&nbsp;&nbsp;&nbsp;&nbsp;His voice is in each rushing brook,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Each rustling bough.
-
-&nbsp;&nbsp;&nbsp;&nbsp;His presence haunts this room to-night,
-&nbsp;&nbsp;&nbsp;&nbsp;A form of mingled mist and light
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From that far coast.
-&nbsp;&nbsp;&nbsp;&nbsp;Welcome beneath this roof of mine!
-&nbsp;&nbsp;&nbsp;&nbsp;Welcome! this vacant chair is thine,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dear guest and ghost!
+&nbsp;&nbsp;&nbsp;&nbsp;It is the Harvest Moon! On gilded vanes
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And roofs of villages, on woodland crests
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And their aerial neighborhoods of nests
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deserted, on the curtained window-panes
+&nbsp;&nbsp;&nbsp;&nbsp;Of rooms where children sleep, on country lanes
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And harvest-fields, its mystic splendor rests!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gone are the birds that were our summer guests,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With the last sheaves return the laboring wains!
+&nbsp;&nbsp;&nbsp;&nbsp;All things are symbols: the external shows
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of Nature have their image in the mind,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As flowers and fruits and falling of the leaves;
+&nbsp;&nbsp;&nbsp;&nbsp;The song-birds leave us at the summer's close,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Only the empty nests are left behind,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And pipings of the quail among the sheaves.
 </pre>

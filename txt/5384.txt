@@ -1,1 +1,111 @@
-<p><a href="a-prologue">A Prologue</a></p><p><a href="chapter-i">Chapter I</a></p><p><a href="chapter-ii">Chapter II</a></p><p><a href="chapter-iii">Chapter III</a></p><p><a href="chapter-iv">Chapter IV</a></p><p><a href="chapter-v">Chapter V</a></p><p><a href="chapter-vi">Chapter VI</a></p><p><a href="chapter-vii">Chapter VII</a></p><p><a href="chapter-viii">Chapter VIII</a></p><p><a href="chapter-ix">Chapter IX</a></p><p><a href="chapter-x">Chapter X</a></p><p><a href="chapter-xi">Chapter XI</a></p><p><a href="chapter-xii">Chapter XII</a></p><p><a href="chapter-xiii">Chapter XIII</a></p><p><a href="chapter-xiv">Chapter XIV</a></p><p><a href="chapter-xv">Chapter XV</a></p><p><a href="chapter-xvi">Chapter XVI</a></p><p><a href="chapter-xvii">Chapter XVII</a></p><p><a href="chapter-xviii">Chapter XVIII</a></p><p><a href="chapter-xix">Chapter XIX</a></p><p><a href="chapter-xx">Chapter XX</a></p><p><a href="chapter-xxi">Chapter XXI</a></p><p><a href="chapter-xxii">Chapter XXII</a></p><p><a href="chapter-xxiii">Chapter XXIII</a></p><p><a href="chapter-xxiv">Chapter XXIV</a></p><p><a href="chapter-xxv">Chapter XXV</a></p><p><a href="chapter-xxvi">Chapter XXVI</a></p><p><a href="chapter-xxvii">Chapter XXVII</a></p><p><a href="chapter-xxviii">Chapter XXVIII</a></p><p><a href="chapter-xxix">Chapter XXIX</a></p><p><a href="chapter-xxx">Chapter XXX</a></p><p><a href="chapter-xxxi">Chapter XXXI</a></p><p><a href="chapter-xxxii">Chapter XXXII</a></p><p><a href="chapter-xxxiii">Chapter XXXIII</a></p><p><a href="chapter-xxxiv">Chapter XXXIV</a></p><p><a href="chapter-xxxv">Chapter XXXV</a></p><p><a href="chapter-xxxvi">Chapter XXXVI</a></p><p><a href="chapter-xxxvii">Chapter XXXVII</a></p><p><a href="chapter-xxxviii">Chapter XXXVIII</a></p><p><a href="chapter-xxxix">Chapter XXXIX</a></p><p><a href="chapter-xl">Chapter XL</a></p><p><a href="chapter-xli">Chapter XLI</a></p><p><a href="chapter-xlii">Chapter XLII</a></p><p><a href="chapter-xliii">Chapter XLIII</a></p><p><a href="chapter-xliv">Chapter XLIV</a></p><p><a href="chapter-xlv">Chapter XLV</a></p><p><a href="chapter-xlvi">Chapter XLVI</a></p><p><a href="chapter-xlvii">Chapter XLVII</a></p><p><a href="chapter-xlviii">Chapter XLVIII</a></p><p><a href="chapter-xlix">Chapter XLIX</a></p><p><a href="chapter-l">Chapter L</a></p><p><a href="chapter-li">Chapter LI</a></p><p><a href="chapter-lii">Chapter LII</a></p><p><a href="chapter-liii">Chapter LIII</a></p><p><a href="chapter-liv">Chapter LIV</a></p><p><a href="chapter-lv">Chapter LV</a></p><p><a href="chapter-lvi">Chapter LVI</a></p><p><a href="chapter-lvii">Chapter LVII</a></p><p><a href="chapter-lviii">Chapter LVIII</a></p><p><a href="chapter-lix">Chapter LIX</a></p><p><a href="chapter-lx">Chapter LX</a></p><p><a href="chapter-lxi">Chapter LXI</a></p><p><a href="chapter-lxii">Chapter LXII</a></p><p><a href="chapter-lxiii">Chapter LXIII</a></p><p><a href="chapter-lxiv">Chapter LXIV</a></p><p><a href="chapter-lxv">Chapter LXV</a></p><p><a href="chapter-lxvi">Chapter LXVI</a></p><p><a href="chapter-lxvii">Chapter LXVII</a></p><p><a href="chapter-lxviii">Chapter LXVIII</a></p><p><a href="chapter-lxix">Chapter LXIX</a></p><p><a href="chapter-lxx">Chapter LXX</a></p><p><a href="chapter-lxxi">Chapter LXXI</a></p><p><a href="chapter-lxxii">Chapter LXXII</a></p><p><a href="chapter-lxxiii">Chapter LXXIII</a></p><p><a href="chapter-lxxiv">Chapter LXXIV</a></p><p><a href="chapter-lxxv">Chapter LXXV</a></p><p><a href="chapter-lxxvi">Chapter LXXVI</a></p><p><a href="chapter-lxxvii">Chapter LXXVII</a></p><p><a href="chapter-lxxviii">Chapter LXXVIII</a></p><p><a href="chapter-lxxix">Chapter LXXIX</a></p><p><a href="chapter-lxxx">Chapter LXXX</a></p><p><a href="chapter-lxxxi">Chapter LXXXI</a></p><p><a href="chapter-lxxxii">Chapter LXXXII</a></p><p><a href="chapter-lxxxiii">Chapter LXXXIII</a></p><p><a href="chapter-lxxxiv">Chapter LXXXIV</a></p><p><a href="chapter-lxxxv">Chapter LXXXV</a></p><p><a href="chapter-lxxxvi">Chapter LXXXVI</a></p><p><a href="chapter-lxxxvii">Chapter LXXXVII</a></p><p><a href="chapter-lxxxviii">Chapter LXXXVIII</a></p><p><a href="chapter-lxxxix">Chapter LXXXIX</a></p><p><a href="chapter-xc">Chapter XC</a></p><p><a href="chapter-xci">Chapter XCI</a></p><p><a href="chapter-xcii">Chapter XCII</a></p><p><a href="chapter-xciii">Chapter XCIII</a></p><p><a href="chapter-xciv">Chapter XCIV</a></p><p><a href="chapter-xcv">Chapter XCV</a></p><p><a href="chapter-xcvi">Chapter XCVI</a></p><p><a href="chapter-xcvii">Chapter XCVII</a></p><p><a href="chapter-xcviii">Chapter XCVIII</a></p><p><a href="chapter-xcix">Chapter XCIX</a></p><p style="margin-top: 26px;"> Return to the <a href="/author/joseph-sheridan-le-fanu">Joseph Sheridan Le Fanu</a> library. </p>
+<pre>
+The morning rain, when, from her coop released,
+The hen, exulting, flaps her wings, when from
+The balcony the husbandman looks forth,
+And when the rising sun his trembling rays
+Darts through the falling drops, against my roof
+And windows gently beating, wakens me.
+I rise, and grateful, bless the flying clouds,
+The cheerful twitter of the early birds,
+The smiling fields, and the refreshing air.
+For I of you, unhappy city walls,
+Enough have seen and known; where hatred still
+Companion is to grief; and grieving still
+I live, and so shall die, and that, how soon!
+But here some pity Nature shows, though small,
+Once in this spot to me so courteous!
+Thou, too, O Nature, turn'st away thy gaze
+From misery; thou, too, thy sympathy
+Withholding from the suffering and the sad,
+Dost homage pay to royal happiness.
+No friend in heaven, on earth, the wretched hath,
+No refuge, save his trusty dagger's edge.
+Sometimes I sit in perfect solitude,
+Upon a hill, that overlooks a lake,
+That is encircled quite with silent trees.
+There, when the sun his mid-day course hath reached,
+His tranquil face he in a mirror sees:
+Nor grass nor leaf is shaken by the wind;
+There is no ripple on the wave, no chirp
+Of cricket, rustling wing of bird in bush,
+Nor hum of butterfly; no motion, voice,
+Or far or near, is either seen or heard.
+Its shores are locked in quiet most profound;
+So that myself, the world I quite forget,
+As motionless I sit; my limbs appear
+To lie dissolved, of breath and sense deprived;
+As if, in immemorial rest, they seemed
+Confounded with the silent scene around.
+
+O love, O love, long since, thou from this breast
+Hast flown, that was so warm, so ardent, once.
+Misfortune in her cold and cruel grasp
+Has held it fast, and it to ice has turned,
+E'en in the flower of my youth. The time
+I well recall, when thou this heart didst fill;
+That sweet, irrevocable time it was,
+When this unhappy scene of life unto
+The ardent gaze of youth reveals itself,
+Expands, and wears the smile of Paradise.
+How throbs the heart within the boyish breast,
+By virgin hope and fond desire impelled!
+The wretched dupe for life's hard work prepares,
+As if it were a dance, or merry game.
+But when I first, O love, thy presence felt,
+Misfortune had already crushed my life,
+And these poor eyes with constant tears were filled.
+Yet if, at times, upon the sun-lit slopes,
+At silent dawn, or when, in broad noonday,
+The roofs and hills and fields are shining bright,
+I of some lonely maiden meet the gaze;
+Or when, in silence of the summer night,
+My wandering steps arresting, I before
+The houses of the village pause, to gaze
+Upon the lonely scene, and hear the voice,
+So clear and cheerful, of the maiden, who,
+Her ditty chanting, in her quiet room,
+Her daily task protracts into the night,
+Ah, then this stony heart will throb once more;
+But soon, alas, its lethargy returns,
+For all things sweet are strangers to this breast!
+
+Belovèd moon, beneath whose tranquil rays
+The hares dance in the groves, and at the dawn
+The huntsman, vexed at heart, beholds the tracks
+Confused and intricate, that from their forms
+His steps mislead; hail, thou benignant Queen
+Of Night! How unpropitious fall thy rays,
+Among the cliffs and thickets, or within
+Deserted buildings, on the gleaming steel
+Of robber pale, who with attentive ear
+Unto the distant noise of horses and
+Of wheels, is listening, or the tramp of feet
+Upon the silent road; then, suddenly,
+With sound of arms, and hoarse, harsh voice, and look
+Of death, the traveller's heart doth chill,
+Whom he half-dead, and naked, shortly leaves
+Among the rocks. How unpropitious, too,
+Is thy bright light along the city streets,
+Unto the worthless paramour, who picks
+His way, close to the walls, in anxious search
+Of friendly shade, and halts, and dreads the sight
+Of blazing lamps, and open balconies.
+To evil spirits unpropitious still,
+To me thy face will ever seem benign,
+Along these heights, where nought save smiling hills,
+And spacious fields, thou offer'st to my view.
+And yet it was my wayward custom once,
+Though I was innocent, thy gracious ray
+To chide, amid the haunts of men, whene'er
+It would my face to them betray, and when
+It would their faces unto me reveal.
+Now will I, grateful, sing its constant praise,
+When I behold thee, sailing through the clouds,
+Or when, mild sovereign of the realms of air,
+Thou lookest down on this, our vale of tears.
+Me wilt thou oft behold, mute wanderer
+Among the groves, along the verdant banks,
+Or seated on the grass, content enough,
+If heart and breath are left me, for a sigh!
+
+</pre>

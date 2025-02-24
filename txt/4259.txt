@@ -1,60 +1,16 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;What can I do to drive away
-&nbsp;&nbsp;&nbsp;&nbsp;Remembrance from my eyes? for they have seen,
-&nbsp;&nbsp;&nbsp;&nbsp;Aye, an hour ago, my brilliant Queen!
-&nbsp;&nbsp;&nbsp;&nbsp;Touch has a memory. O say, love, say,
-&nbsp;&nbsp;&nbsp;&nbsp;What can I do to kill it and be free
-&nbsp;&nbsp;&nbsp;&nbsp;In my old liberty?
-&nbsp;&nbsp;&nbsp;&nbsp;When every fair one that I saw was fair
-&nbsp;&nbsp;&nbsp;&nbsp;Enough to catch me in but half a snare,
-&nbsp;&nbsp;&nbsp;&nbsp;Not keep me there:
-&nbsp;&nbsp;&nbsp;&nbsp;When, howe'er poor or particolour'd things,
-&nbsp;&nbsp;&nbsp;&nbsp;My muse had wings,
-&nbsp;&nbsp;&nbsp;&nbsp;And ever ready was to take her course
-&nbsp;&nbsp;&nbsp;&nbsp;Whither I bent her force,
-&nbsp;&nbsp;&nbsp;&nbsp;Unintellectual, yet divine to me;
-&nbsp;&nbsp;&nbsp;&nbsp;Divine, I say! What sea-bird o'er the sea
-&nbsp;&nbsp;&nbsp;&nbsp;Is a philosopher the while he goes
-&nbsp;&nbsp;&nbsp;&nbsp;Winging along where the great water throes?
-
-&nbsp;&nbsp;&nbsp;&nbsp;How shall I do
-&nbsp;&nbsp;&nbsp;&nbsp;To get anew
-&nbsp;&nbsp;&nbsp;&nbsp;Those moulted feathers, and so mount once more
-&nbsp;&nbsp;&nbsp;&nbsp;Above, above
-&nbsp;&nbsp;&nbsp;&nbsp;The reach of fluttering Love,
-&nbsp;&nbsp;&nbsp;&nbsp;And make him cower lowly while I soar?
-&nbsp;&nbsp;&nbsp;&nbsp;Shall I gulp wine? No, that is vulgarism,
-&nbsp;&nbsp;&nbsp;&nbsp;A heresy and schism,
-&nbsp;&nbsp;&nbsp;&nbsp;Foisted into the canon law of love;
-&nbsp;&nbsp;&nbsp;&nbsp;No, wine is only sweet to happy men;
-&nbsp;&nbsp;&nbsp;&nbsp;More dismal cares
-&nbsp;&nbsp;&nbsp;&nbsp;Seize on me unawares,
-&nbsp;&nbsp;&nbsp;&nbsp;Where shall I learn to get my peace again?
-&nbsp;&nbsp;&nbsp;&nbsp;To banish thoughts of that most hateful land,
-&nbsp;&nbsp;&nbsp;&nbsp;Dungeoner of my friends, that wicked strand
-&nbsp;&nbsp;&nbsp;&nbsp;Where they were wreck'd and live a wrecked life;
-&nbsp;&nbsp;&nbsp;&nbsp;That monstrous region, whose dull rivers pour
-&nbsp;&nbsp;&nbsp;&nbsp;Ever from their sordid urns unto the shore,
-&nbsp;&nbsp;&nbsp;&nbsp;Unown'd of any weedy-haired gods;
-&nbsp;&nbsp;&nbsp;&nbsp;Whose winds, all zephyrless, hold scourging rods,
-&nbsp;&nbsp;&nbsp;&nbsp;Iced in the great lakes, to afflict mankind;
-&nbsp;&nbsp;&nbsp;&nbsp;Whose rank-grown forests, frosted, black, and blind,
-&nbsp;&nbsp;&nbsp;&nbsp;Would fright a Dryad; whose harsh herbag'd meads
-&nbsp;&nbsp;&nbsp;&nbsp;Make lean and lank the starv'd ox while he feeds;
-&nbsp;&nbsp;&nbsp;&nbsp;There flowers have no scent, birds no sweet song,
-&nbsp;&nbsp;&nbsp;&nbsp;And great unerring Nature once seems wrong.
-
-&nbsp;&nbsp;&nbsp;&nbsp;O, for some sunny spell
-&nbsp;&nbsp;&nbsp;&nbsp;To dissipate the shadows of this hell!
-&nbsp;&nbsp;&nbsp;&nbsp;Say they are gone, with the new dawning light
-&nbsp;&nbsp;&nbsp;&nbsp;Steps forth my lady bright!
-&nbsp;&nbsp;&nbsp;&nbsp;O, let me once more rest
-&nbsp;&nbsp;&nbsp;&nbsp;My soul upon that dazzling breast!
-&nbsp;&nbsp;&nbsp;&nbsp;Let once again these aching arms be plac'd,
-&nbsp;&nbsp;&nbsp;&nbsp;The tender gaolers of thy waist!
-&nbsp;&nbsp;&nbsp;&nbsp;And let me feel that warm breath here and there
-&nbsp;&nbsp;&nbsp;&nbsp;To spread a rapture in my very hair,
-&nbsp;&nbsp;&nbsp;&nbsp;O, the sweetness of the pain!
-&nbsp;&nbsp;&nbsp;&nbsp;Give me those lips again!
-&nbsp;&nbsp;&nbsp;&nbsp;Enough! Enough! it is enough for me
-&nbsp;&nbsp;&nbsp;&nbsp;To dream of thee!
+<pre>
+&nbsp;&nbsp;&nbsp;&nbsp;Why did I laugh to-night? No voice will tell
+&nbsp;&nbsp;&nbsp;&nbsp;No God, no Demon of severe response,
+&nbsp;&nbsp;&nbsp;&nbsp;Deigns to reply from Heaven or from Hell
+&nbsp;&nbsp;&nbsp;&nbsp;Then to my human heart I turn at once:
+&nbsp;&nbsp;&nbsp;&nbsp;Heart! Thou and I are here sad and alone;
+&nbsp;&nbsp;&nbsp;&nbsp;I say, why did I laugh? O mortal pain!
+&nbsp;&nbsp;&nbsp;&nbsp;O Darkness! Darkness! ever must I moan,
+&nbsp;&nbsp;&nbsp;&nbsp;To question Heaven and Hell and Heart in vain.
+&nbsp;&nbsp;&nbsp;&nbsp;Why did I laugh? I know this Being's lease,
+&nbsp;&nbsp;&nbsp;&nbsp;My fancy to its utmost blisses spreads;
+&nbsp;&nbsp;&nbsp;&nbsp;Yet would I on this very midnight cease,
+&nbsp;&nbsp;&nbsp;&nbsp;And all the world's gaudy ensigns see in shreds;
+&nbsp;&nbsp;&nbsp;&nbsp;Verse, Fame, and Beauty are intense indeed,
+&nbsp;&nbsp;&nbsp;&nbsp;But Death intenser, Death is Life's high meed.
 </pre>

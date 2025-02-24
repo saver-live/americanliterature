@@ -1,15 +1,50 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;Half of my life is gone, and I have let
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The years slip from me and have not fulfilled
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The aspiration of my youth, to build
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Some tower of song with lofty parapet.
-&nbsp;&nbsp;&nbsp;&nbsp;Not indolence, nor pleasure, nor the fret
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of restless passions chat would not be stilled,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But sorrow, and a care that almost killed,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kept me from what I may accomplish yet;
-&nbsp;&nbsp;&nbsp;&nbsp;Though, half way up the hill, I see the Past
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lying beneath me with its sounds and sights,--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A city in the twilight dim and vast,
-&nbsp;&nbsp;&nbsp;&nbsp;With smoking roofs, soft bells, and gleaming lights.--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And hear above me on the autumnal blast
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The cataract of Death far thundering from the heights.
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;Burn, O evening hearth, and waken
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pleasant visions, as of old!
+&nbsp;&nbsp;&nbsp;&nbsp;Though the house by winds be shaken,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Safe I keep this room of gold!
+
+&nbsp;&nbsp;&nbsp;&nbsp;Ah, no longer wizard Fancy
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Builds her castles in the air,
+&nbsp;&nbsp;&nbsp;&nbsp;Luring me by necromancy
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Up the never-ending stair!
+
+&nbsp;&nbsp;&nbsp;&nbsp;But, instead, she builds me bridges
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Over many a dark ravine,
+&nbsp;&nbsp;&nbsp;&nbsp;Where beneath the gusty ridges
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cataracts dash and roar unseen.
+
+&nbsp;&nbsp;&nbsp;&nbsp;And I cross them, little heeding
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blast of wind or torrent's roar,
+&nbsp;&nbsp;&nbsp;&nbsp;As I follow the receding
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Footsteps that have gone before.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Naught avails the imploring gesture,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Naught avails the cry of pain!
+&nbsp;&nbsp;&nbsp;&nbsp;When I touch the flying vesture,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'T is the gray robe of the rain.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Baffled I return, and, leaning
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O'er the parapets of cloud,
+&nbsp;&nbsp;&nbsp;&nbsp;Watch the mist that intervening
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wraps the valley in its shroud.
+
+&nbsp;&nbsp;&nbsp;&nbsp;And the sounds of life ascending
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faintly, vaguely, meet the ear,
+&nbsp;&nbsp;&nbsp;&nbsp;Murmur of bells and voices blending
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With the rush of waters near.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Well I know what there lies hidden,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Every tower and town and farm,
+&nbsp;&nbsp;&nbsp;&nbsp;And again the land forbidden
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reassumes its vanished charm.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Well I know the secret places,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the nests in hedge and tree;
+&nbsp;&nbsp;&nbsp;&nbsp;At what doors are friendly faces,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In what hearts are thoughts of me.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Through the mist and darkness sinking,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blown by wind and beaten by shower,
+&nbsp;&nbsp;&nbsp;&nbsp;Down I fling the thought I'm thinking,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Down I toss this Alpine flower.
 </pre>

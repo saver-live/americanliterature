@@ -1,42 +1,15 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;What an image of peace and rest
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Is this little church among its graves!
-&nbsp;&nbsp;&nbsp;&nbsp;All is so quiet; the troubled breast,
-&nbsp;&nbsp;&nbsp;&nbsp;The wounded spirit, the heart oppressed,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Here may find the repose it craves.
-
-&nbsp;&nbsp;&nbsp;&nbsp;See, how the ivy climbs and expands
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Over this humble hermitage,
-&nbsp;&nbsp;&nbsp;&nbsp;And seems to caress with its little hands
-&nbsp;&nbsp;&nbsp;&nbsp;The rough, gray stones, as a child that stands
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Caressing the wrinkled cheeks of age!
-
-&nbsp;&nbsp;&nbsp;&nbsp;You cross the threshold; and dim and small
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Is the space that serves for the Shepherd's Fold;
-&nbsp;&nbsp;&nbsp;&nbsp;The narrow aisle, the bare, white wall,
-&nbsp;&nbsp;&nbsp;&nbsp;The pews, and the pulpit quaint and tall,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Whisper and say: "Alas! we are old."
-
-&nbsp;&nbsp;&nbsp;&nbsp;Herbert's chapel at Bemerton
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hardly more spacious is than this;
-&nbsp;&nbsp;&nbsp;&nbsp;But Poet and Pastor, blent in one,
-&nbsp;&nbsp;&nbsp;&nbsp;Clothed with a splendor, as of the sun,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That lowly and holy edifice.
-
-&nbsp;&nbsp;&nbsp;&nbsp;It is not the wall of stone without
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That makes the building small or great
-&nbsp;&nbsp;&nbsp;&nbsp;But the soul's light shining round about,
-&nbsp;&nbsp;&nbsp;&nbsp;And the faith that overcometh doubt,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the love that stronger is than hate.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Were I a pilgrim in search of peace,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Were I a pastor of Holy Church,
-&nbsp;&nbsp;&nbsp;&nbsp;More than a Bishop's diocese
-&nbsp;&nbsp;&nbsp;&nbsp;Should I prize this place of rest, and release
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From farther longing and farther search.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Here would I stay, and let the world
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With its distant thunder roar and roll;
-&nbsp;&nbsp;&nbsp;&nbsp;Storms do not rend the sail that is furled;
-&nbsp;&nbsp;&nbsp;&nbsp;Nor like a dead leaf, tossed and whirled
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In an eddy of wind, is the anchored soul.
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;Nine sisters, beautiful in form and face,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Came from their convent on the shining heights
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of Pierus, the mountain of delights,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To dwell among the people at its base.
+&nbsp;&nbsp;&nbsp;&nbsp;Then seemed the world to change.&nbsp;&nbsp;&nbsp;&nbsp;All time and space,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Splendor of cloudless days and starry nights,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And men and manners, and all sounds and sights,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Had a new meaning, a diviner grace.
+&nbsp;&nbsp;&nbsp;&nbsp;Proud were these sisters, but were not too proud
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To teach in schools of little country towns
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Science and song, and all the arts that please;
+&nbsp;&nbsp;&nbsp;&nbsp;So that while housewives span, and farmers ploughed,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Their comely daughters, clad in homespun gowns,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learned the sweet songs of the Pierides.
 </pre>

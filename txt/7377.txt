@@ -1,1 +1,21 @@
-<p><cite class="al-title">The Purple Cloud</cite> is a <a href="/dystopian-stories">Dystopian</a> "man-alone" story about a highly sought-after adventure to be the first to the North Pole, published as a serial in 1901. It was praised by both <a href="/author/hg-wells">H.G. Wells</a> and <a href="/author/hp-lovecraft">H.P. Lovecraft</a>. The <a href="http://biblehub.com/library/deane/pseudepigrapha/the_sibylline_oracles.htm">Sibyllian Oracles</a> referenced in the book's epigram are apocalyptic predictions, with themes similar to the Book of Revelation and other apocalyptic literature. <br><i>"estai kai Samos ammos, eseitai Daelos adaelos"</i></p><p><img alt="The Purple Cloud, Famous Fantastic Mysteries" title="The Purple Cloud, Famous Fantastic Mysteries cover" itemprop="image" src="https://assets.americanliterature.com/al/images/book/the-purple-cloud.jpg" style="max-width:400px; float:right; margin-right: 12px; margin-bottom: 12px;" data-pagespeed-url-hash="1411264931" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"> </p><p><a href="introduction">Introduction</a></p><p><a href="the-purple-cloud">The Purple Cloud</a></p><p style="margin-top: 26px;"> Return to the <a href="/author/mp-shiel">M.P. Shiel</a> library. </p>
+<pre>
+  We were very tired, we were very merry—
+  We had gone back and forth all night on the ferry.
+  It was bare and bright, and smelled like a stable—
+  But we looked into a fire, we leaned across a table,
+  We lay on a hill-top underneath the moon;
+  And the whistles kept blowing, and the dawn came soon.
+  We were very tired, we were very merry—
+  We had gone back and forth all night on the ferry;
+  And you ate an apple, and I ate a pear,
+  From a dozen of each we had bought somewhere;
+  And the sky went wan, and the wind came cold,
+  And the sun rose dripping, a bucketful of gold.
+  We were very tired, we were very merry,
+  We had gone back and forth all night on the ferry.
+  We hailed, "Good morrow, mother!" to a shawl-covered head,
+  And bought a morning paper, which neither of us read;
+  And she wept, "God bless you!" for the apples and pears,
+  And we gave her all our money but our subway fares.
+
+</pre>

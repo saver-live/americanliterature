@@ -1,1 +1,17 @@
-<p><a href="/author/william-shakespeare/bio-books-stories">William Shakespeare</a> wrote the comedy <cite class="al-title">Love's Labour's Lost</cite> in the mid-1590s. It was first published in 1598. </p><p>The noblemen, Berowne, Dumaine, and Longaville, vow to devote themselves to three years of study, promising not to give in to the company of women. When the princess and her three ladies visit the kingdom the men instantly and comically fall in love with them.</p><p><img alt="" frank howard sketches, shakespeares loves labours lost, 1828 title="Frank Howard sketches, Shakespeare's Love's Labour's Lost, 1828" itemprop="image" src="https://assets.americanliterature.com/al/images/play/loves-labours-lost-sketch.jpg" style="max-width:500px; float:right; margin-right: 12px; margin-bottom: 12px;" data-pagespeed-url-hash="2217990218" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"> </p><p><a href="dramatis-personae">Dramatis Personae.</a></p><p><a href="act-i-scene-i">ACT I - Scene I.</a></p><p><a href="act-i-scene-ii">ACT I - Scene II.</a></p><p><a href="act-ii-scene-i">ACT II - Scene I.</a></p><p><a href="act-iii-scene-i">ACT III - Scene I.</a></p><p><a href="act-iv-scene-i">ACT IV - Scene I.</a></p><p><a href="act-iv-scene-ii">ACT IV - Scene II.</a></p><p><a href="act-iv-scene-iii">ACT IV - Scene III.</a></p><p><a href="act-v-scene-i">ACT V - Scene I.</a></p><p><a href="act-v-scene-ii">ACT V - Scene II.</a></p><p style="margin-top: 26px;"> Return to the <a href="/author/william-shakespeare">William Shakespeare</a> library. </p>
+<pre>
+  Thus is his cheek the map of days outworn,
+  When beauty lived and died as flowers do now,
+  Before these bastard signs of fair were born,
+  Or durst inhabit on a living brow:
+  Before the golden tresses of the dead,
+  The right of sepulchres, were shorn away,
+  To live a second life on second head,
+  Ere beauty's dead fleece made another gay:
+  In him those holy antique hours are seen,
+  Without all ornament, it self and true,
+  Making no summer of another's green,
+  Robbing no old to dress his beauty new,
+    And him as for a map doth Nature store,
+    To show false Art what beauty was of yore.
+
+</pre>

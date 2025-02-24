@@ -1,77 +1,15 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;This song of mine
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Is a Song of the Vine,
-&nbsp;&nbsp;&nbsp;&nbsp;To be sung by the glowing embers
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of wayside inns,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When the rain begins
-&nbsp;&nbsp;&nbsp;&nbsp;To darken the drear Novembers.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It is not a song
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of the Scuppernong,
-&nbsp;&nbsp;&nbsp;&nbsp;From warm Carolinian valleys,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nor the Isabel
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the Muscadel
-&nbsp;&nbsp;&nbsp;&nbsp;That bask in our garden alleys.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nor the red Mustang,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Whose clusters hang
-&nbsp;&nbsp;&nbsp;&nbsp;O'er the waves of the Colorado,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the fiery flood
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of whose purple blood
-&nbsp;&nbsp;&nbsp;&nbsp;Has a dash of Spanish bravado.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For richest and best
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Is the wine of the West,
-&nbsp;&nbsp;&nbsp;&nbsp;That grows by the Beautiful River;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Whose sweet perfume
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fills all the room
-&nbsp;&nbsp;&nbsp;&nbsp;With a benison on the giver.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And as hollow trees
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Are the haunts of bees,
-&nbsp;&nbsp;&nbsp;&nbsp;For ever going and coming;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;So this crystal hive
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Is all alive
-&nbsp;&nbsp;&nbsp;&nbsp;With a swarming and buzzing and humming.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Very good in its way
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Is the Verzenay,
-&nbsp;&nbsp;&nbsp;&nbsp;Or the Sillery soft and creamy;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But Catawba wine
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Has a taste more divine,
-&nbsp;&nbsp;&nbsp;&nbsp;More dulcet, delicious, and dreamy.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There grows no vine
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By the haunted Rhine,
-&nbsp;&nbsp;&nbsp;&nbsp;By Danube or Guadalquivir,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nor on island or cape,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That bears such a grape
-&nbsp;&nbsp;&nbsp;&nbsp;As grows by the Beautiful River.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Drugged is their juice
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For foreign use,
-&nbsp;&nbsp;&nbsp;&nbsp;When shipped o'er the reeling Atlantic,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To rack our brains
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With the fever pains,
-&nbsp;&nbsp;&nbsp;&nbsp;That have driven the Old World frantic.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To the sewers and sinks
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With all such drinks,
-&nbsp;&nbsp;&nbsp;&nbsp;And after them tumble the mixer;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For a poison malign
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Is such Borgia wine,
-&nbsp;&nbsp;&nbsp;&nbsp;Or at best but a Devil's Elixir.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While pure as a spring
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Is the wine I sing,
-&nbsp;&nbsp;&nbsp;&nbsp;And to praise it, one needs but name it;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For Catawba wine
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Has need of no sign,
-&nbsp;&nbsp;&nbsp;&nbsp;No tavern-bush to proclaim it.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And this Song of the Vine,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This greeting of mine,
-&nbsp;&nbsp;&nbsp;&nbsp;The winds and the birds shall deliver
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To the Queen of the West,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In her garlands dressed,
-&nbsp;&nbsp;&nbsp;&nbsp;On the banks of the Beautiful River.
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;The young Endymion sleeps Endymion's sleep;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The shepherd-boy whose tale was left half told!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The solemn grove uplifts its shield of gold
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To the red rising moon, and loud and deep
+&nbsp;&nbsp;&nbsp;&nbsp;The nightingale is singing from the steep;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It is midsummer, but the air is cold;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Can it be death?&nbsp;&nbsp;&nbsp;&nbsp;Alas, beside the fold
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A shepherd's pipe lies shattered near his sheep.
+&nbsp;&nbsp;&nbsp;&nbsp;Lo! in the moonlight gleams a marble white,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On which I read: "Here lieth one whose name
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Was writ in water."&nbsp;&nbsp;&nbsp;&nbsp;And was this the meed
+&nbsp;&nbsp;&nbsp;&nbsp;Of his sweet singing?&nbsp;&nbsp;&nbsp;&nbsp;Rather let me write:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"The smoking flax before it burst to flame
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Was quenched by death, and broken the bruised reed."
 </pre>

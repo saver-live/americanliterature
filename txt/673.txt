@@ -1,0 +1,4 @@
+<p>Gently I stir a white feather fan,<br> With open shirt sitting in a green wood.<br> I take off my cap and hang it on a jutting stone;<br> A wind from the pine-tree trickles on my bare head.<br></p>
+<div class="poet" itemprop="author">
+ Li Po
+</div>

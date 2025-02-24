@@ -1,29 +1,15 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;Souls of Poets dead and gone,
-&nbsp;&nbsp;&nbsp;&nbsp;What Elysium have ye known,
-&nbsp;&nbsp;&nbsp;&nbsp;Happy field or mossy cavern,
-&nbsp;&nbsp;&nbsp;&nbsp;Choicer than the Mermaid Tavern?
-&nbsp;&nbsp;&nbsp;&nbsp;Have ye tippled drink more fine
-&nbsp;&nbsp;&nbsp;&nbsp;Than mine hosts Canary wine?
-&nbsp;&nbsp;&nbsp;&nbsp;Or are fruits of Paradise
-&nbsp;&nbsp;&nbsp;&nbsp;Sweeter than those dainty pies
-&nbsp;&nbsp;&nbsp;&nbsp;Of venison? O generous food!
-&nbsp;&nbsp;&nbsp;&nbsp;Drest as though bold Robin Hood
-&nbsp;&nbsp;&nbsp;&nbsp;Would, with his maid Marian,
-&nbsp;&nbsp;&nbsp;&nbsp;Sup and bowse from horn and can.
-
-&nbsp;&nbsp;&nbsp;&nbsp;I have heard that on a day
-&nbsp;&nbsp;&nbsp;&nbsp;Mine hosts sign-board flew away,
-&nbsp;&nbsp;&nbsp;&nbsp;Nobody knew whither, till
-&nbsp;&nbsp;&nbsp;&nbsp;An astrologers old quill
-&nbsp;&nbsp;&nbsp;&nbsp;To a sheepskin gave the story,
-&nbsp;&nbsp;&nbsp;&nbsp;Said he saw you in your glory,
-&nbsp;&nbsp;&nbsp;&nbsp;Underneath a new old sign
-&nbsp;&nbsp;&nbsp;&nbsp;Sipping beverage divine,
-&nbsp;&nbsp;&nbsp;&nbsp;And pledging with contented smack
-&nbsp;&nbsp;&nbsp;&nbsp;The Mermaid in the Zodiac.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Souls of Poets dead and gone,
-&nbsp;&nbsp;&nbsp;&nbsp;What Elysium have ye known,
-&nbsp;&nbsp;&nbsp;&nbsp;Happy field or mossy cavern,
-&nbsp;&nbsp;&nbsp;&nbsp;Choicer than the Mermaid Tavern?
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;As late I rambled in the happy fields,
+&nbsp;&nbsp;&nbsp;&nbsp;What time the skylark shakes the tremulous dew
+&nbsp;&nbsp;&nbsp;&nbsp;From his lush clover covert; when anew
+&nbsp;&nbsp;&nbsp;&nbsp;Adventurous knights take up their dinted shields;
+&nbsp;&nbsp;&nbsp;&nbsp;I saw the sweetest flower wild nature yields,
+&nbsp;&nbsp;&nbsp;&nbsp;A fresh-blown musk-rose; 'twas the first that threw
+&nbsp;&nbsp;&nbsp;&nbsp;Its sweets upon the summer: graceful it grew
+&nbsp;&nbsp;&nbsp;&nbsp;As is the wand that Queen Titania wields.
+&nbsp;&nbsp;&nbsp;&nbsp;And, as I feasted on its fragrancy,
+&nbsp;&nbsp;&nbsp;&nbsp;I thought the garden-rose it far excelled;
+&nbsp;&nbsp;&nbsp;&nbsp;But when, O Wells! thy roses came to me,
+&nbsp;&nbsp;&nbsp;&nbsp;My sense with their deliciousness was spelled:
+&nbsp;&nbsp;&nbsp;&nbsp;Soft voices had they, that with tender plea
+&nbsp;&nbsp;&nbsp;&nbsp;Whispered of peace, and truth, and friendliness unquelled.
 </pre>

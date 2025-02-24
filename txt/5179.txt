@@ -1,107 +1,31 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;Here is a horse to tame
-&nbsp;&nbsp;&nbsp;&nbsp;Here is a gun to handle
-&nbsp;&nbsp;&nbsp;&nbsp;God knows you can enter the game
-&nbsp;&nbsp;&nbsp;&nbsp;If youll only pay for the same,
-&nbsp;&nbsp;&nbsp;&nbsp;And the price of the game is a candle,
-&nbsp;&nbsp;&nbsp;&nbsp;A single flickering candle!
+<pre>
+You, if you were sensible,
+When I tell you the stars flash signals, each one
+   dreadful,
+You would not turn and answer me
+"The night is wonderful."
+Even you, if you knew
+How this darkness soaks me through and through,
+   and infuses
+Unholy fear in my vapour, you would pause to dis-
+   tinguish
+What hurts, from what amuses.
+For I tell you
+Beneath this powerful tree, my whole soul's fluid
+Oozes away from me as a sacrifice steam
+At the knife of a Druid.
+Again I tell you, I bleed, I am bound with withies,
+My life runs out.
+I tell you my blood runs out on the floor of this oak,
+Gout upon gout.
+Above me springs the blood-born mistletoe
+In the shady smoke.
+But who are you, twittering to and fro
+Beneath the oak?
+What thing better are you, what worse?
+What have you to do with the mysteries
+Of this ancient place, of my ancient curse?
+What place have you in my histories?
 
-&nbsp;&nbsp;&nbsp;&nbsp;JANUARY (Hunting)
-&nbsp;&nbsp;&nbsp;&nbsp;Certes, it is a noble sport,
-&nbsp;&nbsp;&nbsp;&nbsp;And men have quitted selle and swum fort.
-&nbsp;&nbsp;&nbsp;&nbsp;But I am of the meeker sort
-&nbsp;&nbsp;&nbsp;&nbsp;And I prefer Surtees in comfort.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Reach me my Handley Cross again,
-&nbsp;&nbsp;&nbsp;&nbsp;My run, where never danger lurks, is
-&nbsp;&nbsp;&nbsp;&nbsp;With Jorrocks and his deathless train,
-&nbsp;&nbsp;&nbsp;&nbsp;Pigg, Binjimin, and Artexerxes.
-
-&nbsp;&nbsp;&nbsp;&nbsp;FEBRUARY (Coursing)
-&nbsp;&nbsp;&nbsp;&nbsp;Most men harry the world for fun,
-&nbsp;&nbsp;&nbsp;&nbsp;Each man seeks it a different way,
-&nbsp;&nbsp;&nbsp;&nbsp;But of all daft devils under the sun,
-&nbsp;&nbsp;&nbsp;&nbsp;A greyhounds the daftest says Jorrocks J.
-
-&nbsp;&nbsp;&nbsp;&nbsp;MARCH (Racing)
-&nbsp;&nbsp;&nbsp;&nbsp;The horse is ridden, the jockey rides,
-&nbsp;&nbsp;&nbsp;&nbsp;The backers back, the owners own
-&nbsp;&nbsp;&nbsp;&nbsp;But . . . there are lots of things beside,
-&nbsp;&nbsp;&nbsp;&nbsp;And I should let this game alone.
-
-&nbsp;&nbsp;&nbsp;&nbsp;APRIL (Rowing)
-&nbsp;&nbsp;&nbsp;&nbsp;The Pope of Rome he could not win
-&nbsp;&nbsp;&nbsp;&nbsp;From pleasant meats and pleasant sin
-&nbsp;&nbsp;&nbsp;&nbsp;These who, replying not, submit
-&nbsp;&nbsp;&nbsp;&nbsp;Unto the curses of the pit
-&nbsp;&nbsp;&nbsp;&nbsp;Which that stern coach (oh, greater shame)
-&nbsp;&nbsp;&nbsp;&nbsp;Flings forth by number not by name.
-&nbsp;&nbsp;&nbsp;&nbsp;Can Triple Crown or Jesuits oath
-&nbsp;&nbsp;&nbsp;&nbsp;Do what one wrathful trainer doth?
-
-&nbsp;&nbsp;&nbsp;&nbsp;MAY (Fishing)
-&nbsp;&nbsp;&nbsp;&nbsp;Behold a parable. A fished for B
-&nbsp;&nbsp;&nbsp;&nbsp;C took her bait; her heart being set on D.
-&nbsp;&nbsp;&nbsp;&nbsp;Thank heaven who cooled your blood and cramped your wishes,
-&nbsp;&nbsp;&nbsp;&nbsp;Men and not Gods torment you, little fishes!
-
-&nbsp;&nbsp;&nbsp;&nbsp;JUNE (Cricket)
-&nbsp;&nbsp;&nbsp;&nbsp;Thank God who made the British Isles
-&nbsp;&nbsp;&nbsp;&nbsp;And taught me how to play,
-&nbsp;&nbsp;&nbsp;&nbsp;I do not worship crocodiles,
-&nbsp;&nbsp;&nbsp;&nbsp;Or bow the knee to clay!
-&nbsp;&nbsp;&nbsp;&nbsp;Give me a willow wand and I
-&nbsp;&nbsp;&nbsp;&nbsp;With hide and cork and twine
-&nbsp;&nbsp;&nbsp;&nbsp;From century to century
-&nbsp;&nbsp;&nbsp;&nbsp;Will gambol round my shrine!
-
-&nbsp;&nbsp;&nbsp;&nbsp;JULY (Archery)
-&nbsp;&nbsp;&nbsp;&nbsp;The child of the Nineties considers with laughter
-&nbsp;&nbsp;&nbsp;&nbsp;The maid whom his sire in the Sixties ran after,
-&nbsp;&nbsp;&nbsp;&nbsp;While careering himself in pursuit of a girl whom
-&nbsp;&nbsp;&nbsp;&nbsp;The Twenties will dub a last century heirloom.
-
-&nbsp;&nbsp;&nbsp;&nbsp;AUGUST (Coaching)
-&nbsp;&nbsp;&nbsp;&nbsp;The Pious Horse to church may trot,
-&nbsp;&nbsp;&nbsp;&nbsp;A maid may work a mans salvation . . . .
-&nbsp;&nbsp;&nbsp;&nbsp;Four horses and a girl are not,
-&nbsp;&nbsp;&nbsp;&nbsp;However, roads to reformation.
-
-&nbsp;&nbsp;&nbsp;&nbsp;SEPTEMBER (Shooting)
-&nbsp;&nbsp;&nbsp;&nbsp;Peace upon Earth, Goodwill to men
-&nbsp;&nbsp;&nbsp;&nbsp;So greet we Christmas Day!
-&nbsp;&nbsp;&nbsp;&nbsp;Oh, Christian, load your gun and then
-&nbsp;&nbsp;&nbsp;&nbsp;Oh, Christian, out and slay.
-
-&nbsp;&nbsp;&nbsp;&nbsp;OCTOBER (Golf)
-&nbsp;&nbsp;&nbsp;&nbsp;Why Golf is art and art is Golf
-&nbsp;&nbsp;&nbsp;&nbsp;We have not far to seek,
-&nbsp;&nbsp;&nbsp;&nbsp;So much depends upon the lie,
-&nbsp;&nbsp;&nbsp;&nbsp;So much upon the cleek.
-
-&nbsp;&nbsp;&nbsp;&nbsp;NOVEMBER (Boxing)
-&nbsp;&nbsp;&nbsp;&nbsp;Read here the moral roundly writ
-&nbsp;&nbsp;&nbsp;&nbsp;For him who into battle goes,
-&nbsp;&nbsp;&nbsp;&nbsp;Each soul that hitting hard or hit,
-&nbsp;&nbsp;&nbsp;&nbsp;Endureth gross or ghostly foes.
-&nbsp;&nbsp;&nbsp;&nbsp;Prince, blown by many overthrows
-&nbsp;&nbsp;&nbsp;&nbsp;Half blind with shame, half choked with dirt
-&nbsp;&nbsp;&nbsp;&nbsp;Man cannot tell, but Allah knows
-&nbsp;&nbsp;&nbsp;&nbsp;How much the other side was hurt!
-
-&nbsp;&nbsp;&nbsp;&nbsp;DECEMBER (Skating)
-&nbsp;&nbsp;&nbsp;&nbsp;Over the ice she flies
-&nbsp;&nbsp;&nbsp;&nbsp;Perfect and poised and fair.
-&nbsp;&nbsp;&nbsp;&nbsp;Stars in my true-loves eyes
-&nbsp;&nbsp;&nbsp;&nbsp;Teach me to do and dare.
-&nbsp;&nbsp;&nbsp;&nbsp;Now will I fly as she flies,
-&nbsp;&nbsp;&nbsp;&nbsp;Woe for the stars that misled.
-&nbsp;&nbsp;&nbsp;&nbsp;Stars I beheld in her eyes,
-&nbsp;&nbsp;&nbsp;&nbsp;Now do I see in my head!
-
-&nbsp;&nbsp;&nbsp;&nbsp;Now we must come away.
-&nbsp;&nbsp;&nbsp;&nbsp;That are you out of pocket ?
-&nbsp;&nbsp;&nbsp;&nbsp;Sorry to spoil your play
-&nbsp;&nbsp;&nbsp;&nbsp;But somebody says we must pay
-&nbsp;&nbsp;&nbsp;&nbsp;And the candles down to the socket,
-&nbsp;&nbsp;&nbsp;&nbsp;Its horrible tallowy socket
 </pre>

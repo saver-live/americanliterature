@@ -1,61 +1,15 @@
-<pre>
-&nbsp;&nbsp;&nbsp;&nbsp;Come, old friend! sit down and listen!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the pitcher, placed between us,
-&nbsp;&nbsp;&nbsp;&nbsp;How the waters laugh and glisten
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the head of old Silenus!
-
-&nbsp;&nbsp;&nbsp;&nbsp;Old Silenus, bloated, drunken,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Led by his inebriate Satyrs;
-&nbsp;&nbsp;&nbsp;&nbsp;On his breast his head is sunken,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vacantly he leers and chatters.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Fauns with youthful Bacchus follow;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ivy crowns that brow supernal
-&nbsp;&nbsp;&nbsp;&nbsp;As the forehead of Apollo,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And possessing youth eternal.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Round about him, fair Bacchantes,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bearing cymbals, flutes, and thyrses,
-&nbsp;&nbsp;&nbsp;&nbsp;Wild from Naxian groves, or Zante's
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vineyards, sing delirious verses.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Thus he won, through all the nations,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bloodless victories, and the farmer
-&nbsp;&nbsp;&nbsp;&nbsp;Bore, as trophies and oblations,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vines for banners, ploughs for armor.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Judged by no o'erzealous rigor,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Much this mystic throng expresses:
-&nbsp;&nbsp;&nbsp;&nbsp;Bacchus was the type of vigor,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And Silenus of excesses.
-
-&nbsp;&nbsp;&nbsp;&nbsp;These are ancient ethnic revels,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of a faith long since forsaken;
-&nbsp;&nbsp;&nbsp;&nbsp;Now the Satyrs, changed to devils,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frighten mortals wine-o'ertaken.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Now to rivulets from the mountains
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Point the rods of fortune-tellers;
-&nbsp;&nbsp;&nbsp;&nbsp;Youth perpetual dwells in fountains,--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not in flasks, and casks, and cellars.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Claudius, though he sang of flagons
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And huge tankards filled with Rhenish,
-&nbsp;&nbsp;&nbsp;&nbsp;From that fiery blood of dragons
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Never would his own replenish.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Even Redi, though he chaunted
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bacchus in the Tuscan valleys,
-&nbsp;&nbsp;&nbsp;&nbsp;Never drank the wine he vaunted
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In his dithyrambic sallies.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Then with water fill the pitcher
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wreathed about with classic fables;
-&nbsp;&nbsp;&nbsp;&nbsp;Ne'er Falernian threw a richer
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Light upon Lucullus' tables.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Come, old friend, sit down and listen
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As it passes thus between us,
-&nbsp;&nbsp;&nbsp;&nbsp;How its wavelets laugh and glisten
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the head of old Silenus!
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;Oh that a Song would sing itself to me
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Out of the heart of Nature, or the heart
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of man, the child of Nature, not of Art,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fresh as the morning, salt as the salt sea,
+&nbsp;&nbsp;&nbsp;&nbsp;With just enough of bitterness to be
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A medicine to this sluggish mood, and start
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The life-blood in my veins, and so impart
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Healing and help in this dull lethargy!
+&nbsp;&nbsp;&nbsp;&nbsp;Alas! not always doth the breath of song
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Breathe on us.&nbsp;&nbsp;&nbsp;&nbsp;It is like the wind that bloweth
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At its own will, not ours, nor tarries long;
+&nbsp;&nbsp;&nbsp;&nbsp;We hear the sound thereof, but no man knoweth
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From whence it comes, so sudden and swift and strong,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nor whither in its wayward course it goeth.
 </pre>

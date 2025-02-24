@@ -1,71 +1,289 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;The rocky ledge runs far into the sea,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And on its outer point, some miles away,
-&nbsp;&nbsp;&nbsp;&nbsp;The Lighthouse lifts its massive masonry,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A pillar of fire by night, of cloud by day.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Even at this distance I can see the tides,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Upheaving, break unheard along its base,
-&nbsp;&nbsp;&nbsp;&nbsp;A speechless wrath, that rises and subsides
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the white lip and tremor of the face.
-
-&nbsp;&nbsp;&nbsp;&nbsp;And as the evening darkens, lo! how bright,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Through the deep purple of the twilight air,
-&nbsp;&nbsp;&nbsp;&nbsp;Beams forth the sudden radiance of its light
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With strange, unearthly splendor in the glare!
-
-&nbsp;&nbsp;&nbsp;&nbsp;Not one alone; from each projecting cape
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And perilous reef along the ocean's verge,
-&nbsp;&nbsp;&nbsp;&nbsp;Starts into life a dim, gigantic shape,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Holding its lantern o'er the restless surge.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Like the great giant Christopher it stands
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Upon the brink of the tempestuous wave,
-&nbsp;&nbsp;&nbsp;&nbsp;Wading far out among the rocks and sands,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The night-o'ertaken mariner to save.
-
-&nbsp;&nbsp;&nbsp;&nbsp;And the great ships sail outward and return,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bending and bowing o'er the billowy swells,
-&nbsp;&nbsp;&nbsp;&nbsp;And ever joyful, as they see it burn,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They wave their silent welcomes and farewells.
-
-&nbsp;&nbsp;&nbsp;&nbsp;They come forth from the darkness, and their sails
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gleam for a moment only in the blaze,
-&nbsp;&nbsp;&nbsp;&nbsp;And eager faces, as the light unveils,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gaze at the tower, and vanish while they gaze.
-
-&nbsp;&nbsp;&nbsp;&nbsp;The mariner remembers when a child,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On his first voyage, he saw it fade and sink;
-&nbsp;&nbsp;&nbsp;&nbsp;And when, returning from adventures wild,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He saw it rise again o'er ocean's brink.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Steadfast, serene, immovable, the same
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Year after year, through all the silent night
-&nbsp;&nbsp;&nbsp;&nbsp;Burns on forevermore that quenchless flame,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shines on that inextinguishable light!
-
-&nbsp;&nbsp;&nbsp;&nbsp;It sees the ocean to its bosom clasp
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The rocks and sea-sand with the kiss of peace;
-&nbsp;&nbsp;&nbsp;&nbsp;It sees the wild winds lift it in their grasp,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And hold it up, and shake it like a fleece.
-
-&nbsp;&nbsp;&nbsp;&nbsp;The startled waves leap over it; the storm
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Smites it with all the scourges of the rain,
-&nbsp;&nbsp;&nbsp;&nbsp;And steadily against its solid form
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Press the great shoulders of the hurricane.
-
-&nbsp;&nbsp;&nbsp;&nbsp;The sea-bird wheeling round it, with the din
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of wings and winds and solitary cries,
-&nbsp;&nbsp;&nbsp;&nbsp;Blinded and maddened by the light within,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dashes himself against the glare, and dies.
-
-&nbsp;&nbsp;&nbsp;&nbsp;A new Prometheus, chained upon the rock,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Still grasping in his hand the fire of Jove,
-&nbsp;&nbsp;&nbsp;&nbsp;It does not hear the cry, nor heed the shock,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But hails the mariner with words of love.
-
-&nbsp;&nbsp;&nbsp;&nbsp;"Sail on!" it says, "sail on, ye stately ships!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And with your floating bridge the ocean span;
-&nbsp;&nbsp;&nbsp;&nbsp;Be mine to guard this light from all eclipse,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Be yours to bring man nearer unto man!"
-
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;You shall hear how Hiawatha
+&nbsp;&nbsp;&nbsp;&nbsp;Prayed and fasted in the forest,
+&nbsp;&nbsp;&nbsp;&nbsp;Not for greater skill in hunting,
+&nbsp;&nbsp;&nbsp;&nbsp;Not for greater craft in fishing,
+&nbsp;&nbsp;&nbsp;&nbsp;Not for triumphs in the battle,
+&nbsp;&nbsp;&nbsp;&nbsp;And renown among the warriors,
+&nbsp;&nbsp;&nbsp;&nbsp;But for profit of the people,
+&nbsp;&nbsp;&nbsp;&nbsp;For advantage of the nations.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;First he built a lodge for fasting,
+&nbsp;&nbsp;&nbsp;&nbsp;Built a wigwam in the forest,
+&nbsp;&nbsp;&nbsp;&nbsp;By the shining Big-Sea-Water,
+&nbsp;&nbsp;&nbsp;&nbsp;In the blithe and pleasant Spring-time,
+&nbsp;&nbsp;&nbsp;&nbsp;In the Moon of Leaves he built it,
+&nbsp;&nbsp;&nbsp;&nbsp;And, with dreams and visions many,
+&nbsp;&nbsp;&nbsp;&nbsp;Seven whole days and nights he fasted.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On the first day of his fasting
+&nbsp;&nbsp;&nbsp;&nbsp;Through the leafy woods he wandered;
+&nbsp;&nbsp;&nbsp;&nbsp;Saw the deer start from the thicket,
+&nbsp;&nbsp;&nbsp;&nbsp;Saw the rabbit in his burrow,
+&nbsp;&nbsp;&nbsp;&nbsp;Heard the pheasant, Bena, drumming,
+&nbsp;&nbsp;&nbsp;&nbsp;Heard the squirrel, Adjidaumo,
+&nbsp;&nbsp;&nbsp;&nbsp;Rattling in his hoard of acorns,
+&nbsp;&nbsp;&nbsp;&nbsp;Saw the pigeon, the Omeme,
+&nbsp;&nbsp;&nbsp;&nbsp;Building nests among the pine-trees,
+&nbsp;&nbsp;&nbsp;&nbsp;And in flocks the wild-goose, Wawa,
+&nbsp;&nbsp;&nbsp;&nbsp;Flying to the fen-lands northward,
+&nbsp;&nbsp;&nbsp;&nbsp;Whirring, wailing far above him.
+&nbsp;&nbsp;&nbsp;&nbsp;"Master of Life!" he cried, desponding,
+&nbsp;&nbsp;&nbsp;&nbsp;"Must our lives depend on these things?"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On the next day of his fasting
+&nbsp;&nbsp;&nbsp;&nbsp;By the river's brink he wandered,
+&nbsp;&nbsp;&nbsp;&nbsp;Through the Muskoday, the meadow,
+&nbsp;&nbsp;&nbsp;&nbsp;Saw the wild rice, Mahnomonee,
+&nbsp;&nbsp;&nbsp;&nbsp;Saw the blueberry, Meenahga,
+&nbsp;&nbsp;&nbsp;&nbsp;And the strawberry, Odahmin,
+&nbsp;&nbsp;&nbsp;&nbsp;And the gooseberry, Shahbomin,
+&nbsp;&nbsp;&nbsp;&nbsp;And the grape-vine, the Bemahgut,
+&nbsp;&nbsp;&nbsp;&nbsp;Trailing o'er the alder-branches,
+&nbsp;&nbsp;&nbsp;&nbsp;Filling all the air with fragrance!
+&nbsp;&nbsp;&nbsp;&nbsp;"Master of Life!" he cried, desponding,
+&nbsp;&nbsp;&nbsp;&nbsp;"Must our lives depend on these things?"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On the third day of his fasting
+&nbsp;&nbsp;&nbsp;&nbsp;By the lake he sat and pondered,
+&nbsp;&nbsp;&nbsp;&nbsp;By the still, transparent water;
+&nbsp;&nbsp;&nbsp;&nbsp;Saw the sturgeon, Nahma, leaping,
+&nbsp;&nbsp;&nbsp;&nbsp;Scattering drops like beads of wampum,
+&nbsp;&nbsp;&nbsp;&nbsp;Saw the yellow perch, the Sahwa,
+&nbsp;&nbsp;&nbsp;&nbsp;Like a sunbeam in the water,
+&nbsp;&nbsp;&nbsp;&nbsp;Saw the pike, the Maskenozha,
+&nbsp;&nbsp;&nbsp;&nbsp;And the herring, Okahahwis,
+&nbsp;&nbsp;&nbsp;&nbsp;And the Shawgashee, the crawfish!
+&nbsp;&nbsp;&nbsp;&nbsp;"Master of Life!" he cried, desponding,
+&nbsp;&nbsp;&nbsp;&nbsp;"Must our lives depend on these things?"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On the fourth day of his fasting
+&nbsp;&nbsp;&nbsp;&nbsp;In his lodge he lay exhausted;
+&nbsp;&nbsp;&nbsp;&nbsp;From his couch of leaves and branches
+&nbsp;&nbsp;&nbsp;&nbsp;Gazing with half-open eyelids,
+&nbsp;&nbsp;&nbsp;&nbsp;Full of shadowy dreams and visions,
+&nbsp;&nbsp;&nbsp;&nbsp;On the dizzy, swimming landscape,
+&nbsp;&nbsp;&nbsp;&nbsp;On the gleaming of the water,
+&nbsp;&nbsp;&nbsp;&nbsp;On the splendor of the sunset.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And he saw a youth approaching,
+&nbsp;&nbsp;&nbsp;&nbsp;Dressed in garments green and yellow,
+&nbsp;&nbsp;&nbsp;&nbsp;Coming through the purple twilight,
+&nbsp;&nbsp;&nbsp;&nbsp;Through the splendor of the sunset;
+&nbsp;&nbsp;&nbsp;&nbsp;Plumes of green bent o'er his forehead,
+&nbsp;&nbsp;&nbsp;&nbsp;And his hair was soft and golden.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Standing at the open doorway,
+&nbsp;&nbsp;&nbsp;&nbsp;Long he looked at Hiawatha,
+&nbsp;&nbsp;&nbsp;&nbsp;Looked with pity and compassion
+&nbsp;&nbsp;&nbsp;&nbsp;On his wasted form and features,
+&nbsp;&nbsp;&nbsp;&nbsp;And, in accents like the sighing
+&nbsp;&nbsp;&nbsp;&nbsp;Of the South-Wind in the tree-tops,
+&nbsp;&nbsp;&nbsp;&nbsp;Said he, "O my Hiawatha!
+&nbsp;&nbsp;&nbsp;&nbsp;All your prayers are heard in heaven,
+&nbsp;&nbsp;&nbsp;&nbsp;For you pray not like the others;
+&nbsp;&nbsp;&nbsp;&nbsp;Not for greater skill in hunting,
+&nbsp;&nbsp;&nbsp;&nbsp;Not for greater craft in fishing,
+&nbsp;&nbsp;&nbsp;&nbsp;Not for triumph in the battle,
+&nbsp;&nbsp;&nbsp;&nbsp;Nor renown among the warriors,
+&nbsp;&nbsp;&nbsp;&nbsp;But for profit of the people,
+&nbsp;&nbsp;&nbsp;&nbsp;For advantage of the nations.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"From the Master of Life descending,
+&nbsp;&nbsp;&nbsp;&nbsp;I, the friend of man, Mondamin,
+&nbsp;&nbsp;&nbsp;&nbsp;Come to warn you and instruct you,
+&nbsp;&nbsp;&nbsp;&nbsp;How by struggle and by labor
+&nbsp;&nbsp;&nbsp;&nbsp;You shall gain what you have prayed for.
+&nbsp;&nbsp;&nbsp;&nbsp;Rise up from your bed of branches,
+&nbsp;&nbsp;&nbsp;&nbsp;Rise, O youth, and wrestle with me!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faint with famine, Hiawatha
+&nbsp;&nbsp;&nbsp;&nbsp;Started from his bed of branches,
+&nbsp;&nbsp;&nbsp;&nbsp;From the twilight of his wigwam
+&nbsp;&nbsp;&nbsp;&nbsp;Forth into the flush of sunset
+&nbsp;&nbsp;&nbsp;&nbsp;Came, and wrestled with Mondamin;
+&nbsp;&nbsp;&nbsp;&nbsp;At his touch he felt new courage
+&nbsp;&nbsp;&nbsp;&nbsp;Throbbing in his brain and bosom,
+&nbsp;&nbsp;&nbsp;&nbsp;Felt new life and hope and vigor
+&nbsp;&nbsp;&nbsp;&nbsp;Run through every nerve and fibre.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;So they wrestled there together
+&nbsp;&nbsp;&nbsp;&nbsp;In the glory of the sunset,
+&nbsp;&nbsp;&nbsp;&nbsp;And the more they strove and struggled,
+&nbsp;&nbsp;&nbsp;&nbsp;Stronger still grew Hiawatha;
+&nbsp;&nbsp;&nbsp;&nbsp;Till the darkness fell around them,
+&nbsp;&nbsp;&nbsp;&nbsp;And the heron, the Shuh-shuh-gah,
+&nbsp;&nbsp;&nbsp;&nbsp;From her nest among the pine-trees,
+&nbsp;&nbsp;&nbsp;&nbsp;Gave a cry of lamentation,
+&nbsp;&nbsp;&nbsp;&nbsp;Gave a scream of pain and famine.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"'T is enough!" then said Mondamin,
+&nbsp;&nbsp;&nbsp;&nbsp;Smiling upon Hiawatha,
+&nbsp;&nbsp;&nbsp;&nbsp;"But tomorrow, when the sun sets,
+&nbsp;&nbsp;&nbsp;&nbsp;I will come again to try you."
+&nbsp;&nbsp;&nbsp;&nbsp;And he vanished, and was seen not;
+&nbsp;&nbsp;&nbsp;&nbsp;Whether sinking as the rain sinks,
+&nbsp;&nbsp;&nbsp;&nbsp;Whether rising as the mists rise,
+&nbsp;&nbsp;&nbsp;&nbsp;Hiawatha saw not, knew not,
+&nbsp;&nbsp;&nbsp;&nbsp;Only saw that he had vanished,
+&nbsp;&nbsp;&nbsp;&nbsp;Leaving him alone and fainting,
+&nbsp;&nbsp;&nbsp;&nbsp;With the misty lake below him,
+&nbsp;&nbsp;&nbsp;&nbsp;And the reeling stars above him.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On the morrow and the next day,
+&nbsp;&nbsp;&nbsp;&nbsp;When the sun through heaven descending,
+&nbsp;&nbsp;&nbsp;&nbsp;Like a red and burning cinder
+&nbsp;&nbsp;&nbsp;&nbsp;From the hearth of the Great Spirit,
+&nbsp;&nbsp;&nbsp;&nbsp;Fell into the western waters,
+&nbsp;&nbsp;&nbsp;&nbsp;Came Mondamin for the trial,
+&nbsp;&nbsp;&nbsp;&nbsp;For the strife with Hiawatha;
+&nbsp;&nbsp;&nbsp;&nbsp;Came as silent as the dew comes,
+&nbsp;&nbsp;&nbsp;&nbsp;From the empty air appearing,
+&nbsp;&nbsp;&nbsp;&nbsp;Into empty air returning,
+&nbsp;&nbsp;&nbsp;&nbsp;Taking shape when earth it touches,
+&nbsp;&nbsp;&nbsp;&nbsp;But invisible to all men
+&nbsp;&nbsp;&nbsp;&nbsp;In its coming and its going.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thrice they wrestled there together
+&nbsp;&nbsp;&nbsp;&nbsp;In the glory of the sunset,
+&nbsp;&nbsp;&nbsp;&nbsp;Till the darkness fell around them,
+&nbsp;&nbsp;&nbsp;&nbsp;Till the heron, the Shuh-shuh-gah,
+&nbsp;&nbsp;&nbsp;&nbsp;From her nest among the pine-trees,
+&nbsp;&nbsp;&nbsp;&nbsp;Uttered her loud cry of famine,
+&nbsp;&nbsp;&nbsp;&nbsp;And Mondamin paused to listen.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tall and beautiful he stood there,
+&nbsp;&nbsp;&nbsp;&nbsp;In his garments green and yellow;
+&nbsp;&nbsp;&nbsp;&nbsp;To and fro his plumes above him,
+&nbsp;&nbsp;&nbsp;&nbsp;Waved and nodded with his breathing,
+&nbsp;&nbsp;&nbsp;&nbsp;And the sweat of the encounter
+&nbsp;&nbsp;&nbsp;&nbsp;Stood like drops of dew upon him.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And he cried, "O Hiawatha!
+&nbsp;&nbsp;&nbsp;&nbsp;Bravely have you wrestled with me,
+&nbsp;&nbsp;&nbsp;&nbsp;Thrice have wrestled stoutly with me,
+&nbsp;&nbsp;&nbsp;&nbsp;And the Master of Life, who sees us,
+&nbsp;&nbsp;&nbsp;&nbsp;He will give to you the triumph!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then he smiled, and said: "To-morrow
+&nbsp;&nbsp;&nbsp;&nbsp;Is the last day of your conflict,
+&nbsp;&nbsp;&nbsp;&nbsp;Is the last day of your fasting.
+&nbsp;&nbsp;&nbsp;&nbsp;You will conquer and o'ercome me;
+&nbsp;&nbsp;&nbsp;&nbsp;Make a bed for me to lie in,
+&nbsp;&nbsp;&nbsp;&nbsp;Where the rain may fall upon me,
+&nbsp;&nbsp;&nbsp;&nbsp;Where the sun may come and warm me;
+&nbsp;&nbsp;&nbsp;&nbsp;Strip these garments, green and yellow,
+&nbsp;&nbsp;&nbsp;&nbsp;Strip this nodding plumage from me,
+&nbsp;&nbsp;&nbsp;&nbsp;Lay me in the earth, and make it
+&nbsp;&nbsp;&nbsp;&nbsp;Soft and loose and light above me.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Let no hand disturb my slumber,
+&nbsp;&nbsp;&nbsp;&nbsp;Let no weed nor worm molest me,
+&nbsp;&nbsp;&nbsp;&nbsp;Let not Kahgahgee, the raven,
+&nbsp;&nbsp;&nbsp;&nbsp;Come to haunt me and molest me,
+&nbsp;&nbsp;&nbsp;&nbsp;Only come yourself to watch me,
+&nbsp;&nbsp;&nbsp;&nbsp;Till I wake, and start, and quicken,
+&nbsp;&nbsp;&nbsp;&nbsp;Till I leap into the sunshine."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And thus saying, he departed;
+&nbsp;&nbsp;&nbsp;&nbsp;Peacefully slept Hiawatha,
+&nbsp;&nbsp;&nbsp;&nbsp;But he heard the Wawonaissa,
+&nbsp;&nbsp;&nbsp;&nbsp;Heard the whippoorwill complaining,
+&nbsp;&nbsp;&nbsp;&nbsp;Perched upon his lonely wigwam;
+&nbsp;&nbsp;&nbsp;&nbsp;Heard the rushing Sebowisha,
+&nbsp;&nbsp;&nbsp;&nbsp;Heard the rivulet rippling near him,
+&nbsp;&nbsp;&nbsp;&nbsp;Talking to the darksome forest;
+&nbsp;&nbsp;&nbsp;&nbsp;Heard the sighing of the branches,
+&nbsp;&nbsp;&nbsp;&nbsp;As they lifted and subsided
+&nbsp;&nbsp;&nbsp;&nbsp;At the passing of the night-wind,
+&nbsp;&nbsp;&nbsp;&nbsp;Heard them, as one hears in slumber
+&nbsp;&nbsp;&nbsp;&nbsp;Far-off murmurs, dreamy whispers:
+&nbsp;&nbsp;&nbsp;&nbsp;Peacefully slept Hiawatha.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On the morrow came Nokomis,
+&nbsp;&nbsp;&nbsp;&nbsp;On the seventh day of his fasting,
+&nbsp;&nbsp;&nbsp;&nbsp;Came with food for Hiawatha,
+&nbsp;&nbsp;&nbsp;&nbsp;Came imploring and bewailing,
+&nbsp;&nbsp;&nbsp;&nbsp;Lest his hunger should o'ercome him,
+&nbsp;&nbsp;&nbsp;&nbsp;Lest his fasting should be fatal.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But he tasted not, and touched not,
+&nbsp;&nbsp;&nbsp;&nbsp;Only said to her, "Nokomis,
+&nbsp;&nbsp;&nbsp;&nbsp;Wait until the sun is setting,
+&nbsp;&nbsp;&nbsp;&nbsp;Till the darkness falls around us,
+&nbsp;&nbsp;&nbsp;&nbsp;Till the heron, the Shuh-shuh-gah,
+&nbsp;&nbsp;&nbsp;&nbsp;Crying from the desolate marshes,
+&nbsp;&nbsp;&nbsp;&nbsp;Tells us that the day is ended."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Homeward weeping went Nokomis,
+&nbsp;&nbsp;&nbsp;&nbsp;Sorrowing for her Hiawatha,
+&nbsp;&nbsp;&nbsp;&nbsp;Fearing lest his strength should fail him,
+&nbsp;&nbsp;&nbsp;&nbsp;Lest his fasting should be fatal.
+&nbsp;&nbsp;&nbsp;&nbsp;He meanwhile sat weary waiting
+&nbsp;&nbsp;&nbsp;&nbsp;For the coming of Mondamin,
+&nbsp;&nbsp;&nbsp;&nbsp;Till the shadows, pointing eastward,
+&nbsp;&nbsp;&nbsp;&nbsp;Lengthened over field and forest,
+&nbsp;&nbsp;&nbsp;&nbsp;Till the sun dropped from the heaven,
+&nbsp;&nbsp;&nbsp;&nbsp;Floating on the waters westward,
+&nbsp;&nbsp;&nbsp;&nbsp;As a red leaf in the Autumn
+&nbsp;&nbsp;&nbsp;&nbsp;Falls and floats upon the water,
+&nbsp;&nbsp;&nbsp;&nbsp;Falls and sinks into its bosom.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And behold! the young Mondamin,
+&nbsp;&nbsp;&nbsp;&nbsp;With his soft and shining tresses,
+&nbsp;&nbsp;&nbsp;&nbsp;With his garments green and yellow,
+&nbsp;&nbsp;&nbsp;&nbsp;With his long and glossy plumage,
+&nbsp;&nbsp;&nbsp;&nbsp;Stood and beckoned at the doorway.
+&nbsp;&nbsp;&nbsp;&nbsp;And as one in slumber walking,
+&nbsp;&nbsp;&nbsp;&nbsp;Pale and haggard, but undaunted,
+&nbsp;&nbsp;&nbsp;&nbsp;From the wigwam Hiawatha
+&nbsp;&nbsp;&nbsp;&nbsp;Came and wrestled with Mondamin.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Round about him spun the landscape,
+&nbsp;&nbsp;&nbsp;&nbsp;Sky and forest reeled together,
+&nbsp;&nbsp;&nbsp;&nbsp;And his strong heart leaped within him,
+&nbsp;&nbsp;&nbsp;&nbsp;As the sturgeon leaps and struggles
+&nbsp;&nbsp;&nbsp;&nbsp;In a net to break its meshes.
+&nbsp;&nbsp;&nbsp;&nbsp;Like a ring of fire around him
+&nbsp;&nbsp;&nbsp;&nbsp;Blazed and flared the red horizon,
+&nbsp;&nbsp;&nbsp;&nbsp;And a hundred suns seemed looking
+&nbsp;&nbsp;&nbsp;&nbsp;At the combat of the wrestlers.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Suddenly upon the greensward
+&nbsp;&nbsp;&nbsp;&nbsp;All alone stood Hiawatha,
+&nbsp;&nbsp;&nbsp;&nbsp;Panting with his wild exertion,
+&nbsp;&nbsp;&nbsp;&nbsp;Palpitating with the struggle;
+&nbsp;&nbsp;&nbsp;&nbsp;And before him breathless, lifeless,
+&nbsp;&nbsp;&nbsp;&nbsp;Lay the youth, with hair dishevelled,
+&nbsp;&nbsp;&nbsp;&nbsp;Plumage torn, and garments tattered,
+&nbsp;&nbsp;&nbsp;&nbsp;Dead he lay there in the sunset.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And victorious Hiawatha
+&nbsp;&nbsp;&nbsp;&nbsp;Made the grave as he commanded,
+&nbsp;&nbsp;&nbsp;&nbsp;Stripped the garments from Mondamin,
+&nbsp;&nbsp;&nbsp;&nbsp;Stripped his tattered plumage from him,
+&nbsp;&nbsp;&nbsp;&nbsp;Laid him in the earth, and made it
+&nbsp;&nbsp;&nbsp;&nbsp;Soft and loose and light above him;
+&nbsp;&nbsp;&nbsp;&nbsp;And the heron, the Shuh-shuh-gah,
+&nbsp;&nbsp;&nbsp;&nbsp;From the melancholy moorlands,
+&nbsp;&nbsp;&nbsp;&nbsp;Gave a cry of lamentation,
+&nbsp;&nbsp;&nbsp;&nbsp;Gave a cry of pain and anguish!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Homeward then went Hiawatha
+&nbsp;&nbsp;&nbsp;&nbsp;To the lodge of old Nokomis,
+&nbsp;&nbsp;&nbsp;&nbsp;And the seven days of his fasting
+&nbsp;&nbsp;&nbsp;&nbsp;Were accomplished and completed.
+&nbsp;&nbsp;&nbsp;&nbsp;But the place was not forgotten
+&nbsp;&nbsp;&nbsp;&nbsp;Where he wrestled with Mondamin;
+&nbsp;&nbsp;&nbsp;&nbsp;Nor forgotten nor neglected
+&nbsp;&nbsp;&nbsp;&nbsp;Was the grave where lay Mondamin,
+&nbsp;&nbsp;&nbsp;&nbsp;Sleeping in the rain and sunshine,
+&nbsp;&nbsp;&nbsp;&nbsp;Where his scattered plumes and garments
+&nbsp;&nbsp;&nbsp;&nbsp;Faded in the rain and sunshine.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Day by day did Hiawatha
+&nbsp;&nbsp;&nbsp;&nbsp;Go to wait and watch beside it;
+&nbsp;&nbsp;&nbsp;&nbsp;Kept the dark mould soft above it,
+&nbsp;&nbsp;&nbsp;&nbsp;Kept it clean from weeds and insects,
+&nbsp;&nbsp;&nbsp;&nbsp;Drove away, with scoffs and shoutings,
+&nbsp;&nbsp;&nbsp;&nbsp;Kahgahgee, the king of ravens.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Till at length a small green feather
+&nbsp;&nbsp;&nbsp;&nbsp;From the earth shot slowly upward,
+&nbsp;&nbsp;&nbsp;&nbsp;Then another and another,
+&nbsp;&nbsp;&nbsp;&nbsp;And before the Summer ended
+&nbsp;&nbsp;&nbsp;&nbsp;Stood the maize in all its beauty,
+&nbsp;&nbsp;&nbsp;&nbsp;With its shining robes about it,
+&nbsp;&nbsp;&nbsp;&nbsp;And its long, soft, yellow tresses;
+&nbsp;&nbsp;&nbsp;&nbsp;And in rapture Hiawatha
+&nbsp;&nbsp;&nbsp;&nbsp;Cried aloud, "It is Mondamin!
+&nbsp;&nbsp;&nbsp;&nbsp;Yes, the friend of man, Mondamin!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then he called to old Nokomis
+&nbsp;&nbsp;&nbsp;&nbsp;And Iagoo, the great boaster,
+&nbsp;&nbsp;&nbsp;&nbsp;Showed them where the maize was growing,
+&nbsp;&nbsp;&nbsp;&nbsp;Told them of his wondrous vision,
+&nbsp;&nbsp;&nbsp;&nbsp;Of his wrestling and his triumph,
+&nbsp;&nbsp;&nbsp;&nbsp;Of this new gift to the nations,
+&nbsp;&nbsp;&nbsp;&nbsp;Which should be their food forever.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And still later, when the Autumn
+&nbsp;&nbsp;&nbsp;&nbsp;Changed the long, green leaves to yellow,
+&nbsp;&nbsp;&nbsp;&nbsp;And the soft and juicy kernels
+&nbsp;&nbsp;&nbsp;&nbsp;Grew like wampum hard and yellow,
+&nbsp;&nbsp;&nbsp;&nbsp;Then the ripened ears he gathered,
+&nbsp;&nbsp;&nbsp;&nbsp;Stripped the withered husks from off them,
+&nbsp;&nbsp;&nbsp;&nbsp;As he once had stripped the wrestler,
+&nbsp;&nbsp;&nbsp;&nbsp;Gave the first Feast of Mondamin,
+&nbsp;&nbsp;&nbsp;&nbsp;And made known unto the people
+&nbsp;&nbsp;&nbsp;&nbsp;This new gift of the Great Spirit.
 </pre>

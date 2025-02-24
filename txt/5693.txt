@@ -1,10 +1,17 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;Awake! arise! the hour is late!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Angels are knocking at thy door!
-&nbsp;&nbsp;&nbsp;&nbsp;They are in haste and cannot wait,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And once departed come no more.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Awake! arise! the athlete's arm
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Loses its strength by too much rest;
-&nbsp;&nbsp;&nbsp;&nbsp;The fallow land, the untilled farm
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Produces only weeds at best.
+<pre>
+&nbsp;&nbsp;&nbsp;&nbsp;O faithful, indefatigable tides,
+&nbsp;&nbsp;&nbsp;&nbsp;That evermore upon God's errands go,--
+&nbsp;&nbsp;&nbsp;&nbsp;Now seaward bearing tidings of the land,--
+&nbsp;&nbsp;&nbsp;&nbsp;Now landward bearing tidings of the sea,--
+&nbsp;&nbsp;&nbsp;&nbsp;And filling every frith and estuary,
+&nbsp;&nbsp;&nbsp;&nbsp;Each arm of the great sea, each little creek,
+&nbsp;&nbsp;&nbsp;&nbsp;Each thread and filament of water-courses,
+&nbsp;&nbsp;&nbsp;&nbsp;Full with your ministration of delight!
+&nbsp;&nbsp;&nbsp;&nbsp;Under the rafters of this wooden bridge
+&nbsp;&nbsp;&nbsp;&nbsp;I see you come and go; sometimes in haste
+&nbsp;&nbsp;&nbsp;&nbsp;To reach your journey's end, which being done
+&nbsp;&nbsp;&nbsp;&nbsp;With feet unrested ye return again
+&nbsp;&nbsp;&nbsp;&nbsp;And recommence the never-ending task;
+&nbsp;&nbsp;&nbsp;&nbsp;Patient, whatever burdens ye may bear,
+&nbsp;&nbsp;&nbsp;&nbsp;And fretted only by the impeding rocks.
 </pre>

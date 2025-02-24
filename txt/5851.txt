@@ -1,51 +1,137 @@
-<pre>
-&nbsp;&nbsp;&nbsp;&nbsp;Between the dark and the daylight,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When the night is beginning to lower,
-&nbsp;&nbsp;&nbsp;&nbsp;Comes a pause in the day's occupations,
-&nbsp;&nbsp;&nbsp;&nbsp; That is known as the Children's Hour.
+<pre>[Greek poem here--Euripides.]
 
-&nbsp;&nbsp;&nbsp;&nbsp;I hear in the chamber above me
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The patter of little feet,
-&nbsp;&nbsp;&nbsp;&nbsp;The sound of a door that is opened,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And voices soft and sweet.
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp;From my study I see in the lamplight,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Descending the broad hall stair,
-&nbsp;&nbsp;&nbsp;&nbsp;Grave Alice, and laughing Allegra,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And Edith with golden hair.
+&nbsp;&nbsp;&nbsp;&nbsp;Pleasant it was, when woods were green,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And winds were soft and low,
+&nbsp;&nbsp;&nbsp;&nbsp;To lie amid some sylvan scene.
+&nbsp;&nbsp;&nbsp;&nbsp;Where, the long drooping boughs between,
+&nbsp;&nbsp;&nbsp;&nbsp;Shadows dark and sunlight sheen
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alternate come and go;
 
-&nbsp;&nbsp;&nbsp;&nbsp;A whisper, and then a silence:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yet I know by their merry eyes
-&nbsp;&nbsp;&nbsp;&nbsp;They are plotting and planning together
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To take me by surprise.
+&nbsp;&nbsp;&nbsp;&nbsp;Or where the denser grove receives
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No sunlight from above,
+&nbsp;&nbsp;&nbsp;&nbsp;But the dark foliage interweaves
+&nbsp;&nbsp;&nbsp;&nbsp;In one unbroken roof of leaves,
+&nbsp;&nbsp;&nbsp;&nbsp;Underneath whose sloping eaves
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The shadows hardly move.
 
-&nbsp;&nbsp;&nbsp;&nbsp;A sudden rush from the stairway,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A sudden raid from the hall!
-&nbsp;&nbsp;&nbsp;&nbsp;By three doors left unguarded
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They enter my castle wall!
+&nbsp;&nbsp;&nbsp;&nbsp;Beneath some patriarchal tree
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I lay upon the ground;
+&nbsp;&nbsp;&nbsp;&nbsp;His hoary arms uplifted he,
+&nbsp;&nbsp;&nbsp;&nbsp;And all the broad leaves over me
+&nbsp;&nbsp;&nbsp;&nbsp;Clapped their little hands in glee,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With one continuous sound;--
 
-&nbsp;&nbsp;&nbsp;&nbsp;They climb up into my turret
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O'er the arms and back of my chair;
-&nbsp;&nbsp;&nbsp;&nbsp;If I try to escape, they surround me;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They seem to be everywhere.
+&nbsp;&nbsp;&nbsp;&nbsp;A slumberous sound, a sound that brings
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The feelings of a dream,
+&nbsp;&nbsp;&nbsp;&nbsp;As of innumerable wings,
+&nbsp;&nbsp;&nbsp;&nbsp;As, when a bell no longer swings,
+&nbsp;&nbsp;&nbsp;&nbsp;Faint the hollow murmur rings
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O'er meadow, lake, and stream.
 
-&nbsp;&nbsp;&nbsp;&nbsp;They almost devour me with kisses,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Their arms about me entwine,
-&nbsp;&nbsp;&nbsp;&nbsp;Till I think of the Bishop of Bingen
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In his Mouse-Tower on the Rhine!
+&nbsp;&nbsp;&nbsp;&nbsp;And dreams of that which cannot die,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bright visions, came to me,
+&nbsp;&nbsp;&nbsp;&nbsp;As lapped in thought I used to lie,
+&nbsp;&nbsp;&nbsp;&nbsp;And gaze into the summer sky,
+&nbsp;&nbsp;&nbsp;&nbsp;Where the sailing clouds went by,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Like ships upon the sea;
 
-&nbsp;&nbsp;&nbsp;&nbsp;Do you think, o blue-eyed banditti,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Because you have scaled the wall,
-&nbsp;&nbsp;&nbsp;&nbsp;Such an old mustache as I am
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Is not a match for you all!
+&nbsp;&nbsp;&nbsp;&nbsp;Dreams that the soul of youth engage
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ere Fancy has been quelled;
+&nbsp;&nbsp;&nbsp;&nbsp;Old legends of the monkish page,
+&nbsp;&nbsp;&nbsp;&nbsp;Traditions of the saint and sage,
+&nbsp;&nbsp;&nbsp;&nbsp;Tales that have the rime of age,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And chronicles of Eld.
 
-&nbsp;&nbsp;&nbsp;&nbsp;I have you fast in my fortress,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And will not let you depart,
-&nbsp;&nbsp;&nbsp;&nbsp;But put you down into the dungeon
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the round-tower of my heart.
+&nbsp;&nbsp;&nbsp;&nbsp;And, loving still these quaint old themes,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Even in the city's throng
+&nbsp;&nbsp;&nbsp;&nbsp;I feel the freshness of the streams,
+&nbsp;&nbsp;&nbsp;&nbsp;That, crossed by shades and sunny gleams,
+&nbsp;&nbsp;&nbsp;&nbsp;Water the green land of dreams,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The holy land of song.
 
-&nbsp;&nbsp;&nbsp;&nbsp;And there will I keep you forever,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes, forever and a day,
-&nbsp;&nbsp;&nbsp;&nbsp;Till the walls shall crumble to ruin,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And moulder in dust away!
+&nbsp;&nbsp;&nbsp;&nbsp;Therefore, at Pentecost, which brings
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Spring, clothed like a bride,
+&nbsp;&nbsp;&nbsp;&nbsp;When nestling buds unfold their wings,
+&nbsp;&nbsp;&nbsp;&nbsp;And bishop's-caps have golden rings,
+&nbsp;&nbsp;&nbsp;&nbsp;Musing upon many things,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I sought the woodlands wide.
+
+&nbsp;&nbsp;&nbsp;&nbsp;The green trees whispered low and mild;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It was a sound of joy!
+&nbsp;&nbsp;&nbsp;&nbsp;They were my playmates when a child,
+&nbsp;&nbsp;&nbsp;&nbsp;And rocked me in their arms so wild!
+&nbsp;&nbsp;&nbsp;&nbsp;Still they looked at me and smiled,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As if I were a boy;
+
+&nbsp;&nbsp;&nbsp;&nbsp;And ever whispered, mild and low,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Come, be a child once more!"
+&nbsp;&nbsp;&nbsp;&nbsp;And waved their long arms to and fro,
+&nbsp;&nbsp;&nbsp;&nbsp;And beckoned solemnly and slow;
+&nbsp;&nbsp;&nbsp;&nbsp;O, I could not choose but go
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Into the woodlands hoar,--
+
+&nbsp;&nbsp;&nbsp;&nbsp;Into the blithe and breathing air,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Into the solemn wood,
+&nbsp;&nbsp;&nbsp;&nbsp;Solemn and silent everywhere
+&nbsp;&nbsp;&nbsp;&nbsp;Nature with folded hands seemed there
+&nbsp;&nbsp;&nbsp;&nbsp;Kneeling at her evening prayer!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Like one in prayer I stood.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Before me rose an avenue
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of tall and sombrous pines;
+&nbsp;&nbsp;&nbsp;&nbsp;Abroad their fan-like branches grew,
+&nbsp;&nbsp;&nbsp;&nbsp;And, where the sunshine darted through,
+&nbsp;&nbsp;&nbsp;&nbsp;Spread a vapor soft and blue,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In long and sloping lines.
+
+&nbsp;&nbsp;&nbsp;&nbsp;And, falling on my weary brain,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Like a fast-falling shower,
+&nbsp;&nbsp;&nbsp;&nbsp;The dreams of youth came back again,
+&nbsp;&nbsp;&nbsp;&nbsp;Low lispings of the summer rain,
+&nbsp;&nbsp;&nbsp;&nbsp;Dropping on the ripened grain,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As once upon the flower.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Visions of childhood!&nbsp;&nbsp;&nbsp;&nbsp;Stay, O stay!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ye were so sweet and wild!
+&nbsp;&nbsp;&nbsp;&nbsp;And distant voices seemed to say,
+&nbsp;&nbsp;&nbsp;&nbsp;"It cannot be!&nbsp;&nbsp;&nbsp;&nbsp;They pass away!
+&nbsp;&nbsp;&nbsp;&nbsp;Other themes demand thy lay;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thou art no more a child!
+
+&nbsp;&nbsp;&nbsp;&nbsp;"The land of Song within thee lies,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Watered by living springs;
+&nbsp;&nbsp;&nbsp;&nbsp;The lids of Fancy's sleepless eyes
+&nbsp;&nbsp;&nbsp;&nbsp;Are gates unto that Paradise,
+&nbsp;&nbsp;&nbsp;&nbsp;Holy thoughts, like stars, arise,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Its clouds are angels' wings.
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Learn, that henceforth thy song shall be,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not mountains capped with snow,
+&nbsp;&nbsp;&nbsp;&nbsp;Nor forests sounding like the sea,
+&nbsp;&nbsp;&nbsp;&nbsp;Nor rivers flowing ceaselessly,
+&nbsp;&nbsp;&nbsp;&nbsp;Where the woodlands bend to see
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The bending heavens below.
+
+&nbsp;&nbsp;&nbsp;&nbsp;"There is a forest where the din
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of iron branches sounds!
+&nbsp;&nbsp;&nbsp;&nbsp;A mighty river roars between,
+&nbsp;&nbsp;&nbsp;&nbsp;And whosoever looks therein
+&nbsp;&nbsp;&nbsp;&nbsp;Sees the heavens all black with sin,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sees not its depths, nor bounds.
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Athwart the swinging branches cast,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soft rays of sunshine pour;
+&nbsp;&nbsp;&nbsp;&nbsp;Then comes the fearful wintry blast
+&nbsp;&nbsp;&nbsp;&nbsp;Our hopes, like withered leaves, fail fast;
+&nbsp;&nbsp;&nbsp;&nbsp;Pallid lips say, 'It is past!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We can return no more!,
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Look, then, into thine heart, and write!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes, into Life's deep stream!
+&nbsp;&nbsp;&nbsp;&nbsp;All forms of sorrow and delight,
+&nbsp;&nbsp;&nbsp;&nbsp;All solemn Voices of the Night,
+&nbsp;&nbsp;&nbsp;&nbsp;That can soothe thee, or affright,--
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Be these henceforth thy theme."
 </pre>

@@ -1,15 +1,39 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;Tuscan, that wanderest through the realms of gloom,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With thoughtful pace, and sad, majestic eyes,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stern thoughts and awful from thy soul arise,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Like Farinata from his fiery tomb.
-&nbsp;&nbsp;&nbsp;&nbsp;Thy sacred song is like the trump of doom;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yet in thy heart what human sympathies,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What soft compassion glows, as in the skies
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The tender stars their clouded lamps relume!
-&nbsp;&nbsp;&nbsp;&nbsp;Methinks I see thee stand, with pallid cheeks,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By Fra Hilario in his diocese,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As up the convent-walls, in golden streaks,
-&nbsp;&nbsp;&nbsp;&nbsp;The ascending sunbeams mark the day's decrease;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And, as he asks what there the stranger seeks,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thy voice along the cloister whispers, "Peace!"
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;MAIDEN
+&nbsp;&nbsp;&nbsp;&nbsp;O weathercock on the village spire,
+&nbsp;&nbsp;&nbsp;&nbsp;With your golden feathers all on fire,
+&nbsp;&nbsp;&nbsp;&nbsp;Tell me, what can you see from your perch
+&nbsp;&nbsp;&nbsp;&nbsp;Above there over the tower of the church?
+
+&nbsp;&nbsp;&nbsp;&nbsp;WEATHERCOCK.
+&nbsp;&nbsp;&nbsp;&nbsp;I can see the roofs and the streets below,
+&nbsp;&nbsp;&nbsp;&nbsp;And the people moving to and fro,
+&nbsp;&nbsp;&nbsp;&nbsp;And beyond, without either roof or street,
+&nbsp;&nbsp;&nbsp;&nbsp;The great salt sea, and the fisherman's fleet.
+
+&nbsp;&nbsp;&nbsp;&nbsp;I can see a ship come sailing in
+&nbsp;&nbsp;&nbsp;&nbsp;Beyond the headlands and harbor of Lynn,
+&nbsp;&nbsp;&nbsp;&nbsp;And a young man standing on the deck,
+&nbsp;&nbsp;&nbsp;&nbsp;With a silken kerchief round his neck.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Now he is pressing it to his lips,
+&nbsp;&nbsp;&nbsp;&nbsp;And now he is kissing his finger-tips,
+&nbsp;&nbsp;&nbsp;&nbsp;And now he is lifting and waving his hand
+&nbsp;&nbsp;&nbsp;&nbsp;And blowing the kisses toward the land.
+
+&nbsp;&nbsp;&nbsp;&nbsp;MAIDEN.
+&nbsp;&nbsp;&nbsp;&nbsp;Ah, that is the ship from over the sea,
+&nbsp;&nbsp;&nbsp;&nbsp;That is bringing my lover back to me,
+&nbsp;&nbsp;&nbsp;&nbsp;Bringing my lover so fond and true,
+&nbsp;&nbsp;&nbsp;&nbsp;Who does not change with the wind like you.
+
+&nbsp;&nbsp;&nbsp;&nbsp;WEATHERCOCK.
+&nbsp;&nbsp;&nbsp;&nbsp;If I change with all the winds that blow,
+&nbsp;&nbsp;&nbsp;&nbsp;It is only because they made me so,
+&nbsp;&nbsp;&nbsp;&nbsp;And people would think it wondrous strange,
+&nbsp;&nbsp;&nbsp;&nbsp;If I, a Weathercock, should not change.
+
+&nbsp;&nbsp;&nbsp;&nbsp;O pretty Maiden, so fine and fair,
+&nbsp;&nbsp;&nbsp;&nbsp;With your dreamy eyes and your golden hair,
+&nbsp;&nbsp;&nbsp;&nbsp;When you and your lover meet to-day
+&nbsp;&nbsp;&nbsp;&nbsp;You will thank me for looking some other way.
 </pre>

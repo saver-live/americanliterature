@@ -1,1 +1,25 @@
-<p>This version of <span class="al-title">The Odyssey</span> was translated by Samuel Butler and published in 1898. The poem is believed to be dated between 800 and 600 BCE. <i>Illustration: Roman mosaic dating from the 3rd century, BCE representing Ulysses during the Odyssey</i>. You might also enjoy reading <a href="/author/james-joyce/bio-books-stories">James Joyce</a>'s <cite class="al-title"><a href="/author/james-joyce/book/ulysses/summary">Ulysses</a></cite>, which parallels Odysseus' adventures by following a day in the life of an Irishman.</p><p><a href="book-i">Book I</a></p><p><a href="book-ii">Book II</a></p><p><a href="book-iii">Book III</a></p><p><a href="book-iv">Book IV</a></p><p><a href="book-v">Book V</a></p><p><a href="book-vi">Book VI</a></p><p><a href="book-vii">Book VII</a></p><p><a href="book-viii">Book VIII</a></p><p><a href="book-ix">Book IX</a></p><p><a href="book-x">Book X</a></p><p><a href="book-xi">Book XI</a></p><p><a href="book-xii">Book XII</a></p><p><a href="book-xiii">Book XIII</a></p><p><a href="book-xiv">Book XIV</a></p><p><a href="book-xv">Book XV</a></p><p><a href="book-xvi">Book XVI</a></p><p><a href="book-xvii">Book XVII</a></p><p><a href="book-xviii">Book XVIII</a></p><p><a href="book-xix">Book XIX</a></p><p><a href="book-xx">Book XX</a></p><p><a href="book-xxi">Book XXI</a></p><p><a href="book-xxii">Book XXII</a></p><p><a href="book-xxiii">Book XXIII</a></p><p><a href="book-xxiv">Book XXIV</a></p><p style="margin-top: 26px;"> Return to the <a href="/author/homer">Homer</a> library. </p>
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;On Wenlock Edge the wood's in trouble;
+&nbsp;&nbsp;&nbsp;&nbsp;His forest fleece the Wrekin heaves;
+&nbsp;&nbsp;&nbsp;&nbsp;The gale, it plies the saplings double,
+&nbsp;&nbsp;&nbsp;&nbsp;And thick on Severn snow the leaves.
+
+&nbsp;&nbsp;&nbsp;&nbsp;'Twould blow like this through holt and hanger
+&nbsp;&nbsp;&nbsp;&nbsp;When Uricon the city stood:
+&nbsp;&nbsp;&nbsp;&nbsp;'Tis the old wind in the old anger,
+&nbsp;&nbsp;&nbsp;&nbsp;But then it threshed another wood.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Then, 'twas before my time, the Roman
+&nbsp;&nbsp;&nbsp;&nbsp;At yonder heaving hill would stare:
+&nbsp;&nbsp;&nbsp;&nbsp;The blood that warms an English yeoman,
+&nbsp;&nbsp;&nbsp;&nbsp;The thoughts that hurt him, they were there.
+
+&nbsp;&nbsp;&nbsp;&nbsp;There, like the wind through woods in riot,
+&nbsp;&nbsp;&nbsp;&nbsp;Through him the gale of life blew high;
+&nbsp;&nbsp;&nbsp;&nbsp;The tree of man was never quiet:
+&nbsp;&nbsp;&nbsp;&nbsp;Then 'twas the Roman, now 'tis I.
+
+&nbsp;&nbsp;&nbsp;&nbsp;The gale, it plies the saplings double,
+&nbsp;&nbsp;&nbsp;&nbsp;It blows so hard, 'twill soon be gone:
+&nbsp;&nbsp;&nbsp;&nbsp;To-day the Roman and his trouble
+&nbsp;&nbsp;&nbsp;&nbsp;Are ashes under Uricon.
+</pre>

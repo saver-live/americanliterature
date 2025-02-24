@@ -1,356 +1,236 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;THE BALLAD OF CARMILHAN
-
-&nbsp;&nbsp;&nbsp;&nbsp;I
-
-&nbsp;&nbsp;&nbsp;&nbsp;At Stralsund, by the Baltic Sea,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Within the sandy bar,
-&nbsp;&nbsp;&nbsp;&nbsp;At sunset of a summer's day,
-&nbsp;&nbsp;&nbsp;&nbsp;Ready for sea, at anchor lay
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The good ship Valdemar.
-
-&nbsp;&nbsp;&nbsp;&nbsp;The sunbeams danced upon the waves,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And played along her side;
-&nbsp;&nbsp;&nbsp;&nbsp;And through the cabin windows streamed
-&nbsp;&nbsp;&nbsp;&nbsp;In ripples of golden light, that seemed
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The ripple of the tide.
-
-&nbsp;&nbsp;&nbsp;&nbsp;There sat the captain with his friends,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Old skippers brown and hale,
-&nbsp;&nbsp;&nbsp;&nbsp;Who smoked and grumbled o'er their grog,
-&nbsp;&nbsp;&nbsp;&nbsp;And talked of iceberg and of fog,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of calm and storm and gale.
-
-&nbsp;&nbsp;&nbsp;&nbsp;And one was spinning a sailor's yarn
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;About Klaboterman,
-&nbsp;&nbsp;&nbsp;&nbsp;The Kobold of the sea; a spright
-&nbsp;&nbsp;&nbsp;&nbsp;Invisible to mortal sight,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Who o'er the rigging ran.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Sometimes he hammered in the hold,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sometimes upon the mast,
-&nbsp;&nbsp;&nbsp;&nbsp;Sometimes abeam, sometimes abaft,
-&nbsp;&nbsp;&nbsp;&nbsp;Or at the bows he sang and laughed,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And made all tight and fast.
-
-&nbsp;&nbsp;&nbsp;&nbsp;He helped the sailors at their work,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And toiled with jovial din;
-&nbsp;&nbsp;&nbsp;&nbsp;He helped them hoist and reef the sails,
-&nbsp;&nbsp;&nbsp;&nbsp;He helped them stow the casks and bales,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And heave the anchor in.
-
-&nbsp;&nbsp;&nbsp;&nbsp;But woe unto the lazy louts,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The idlers of the crew;
-&nbsp;&nbsp;&nbsp;&nbsp;Them to torment was his delight,
-&nbsp;&nbsp;&nbsp;&nbsp;And worry them by day and night,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And pinch them black and blue.
-
-&nbsp;&nbsp;&nbsp;&nbsp;And woe to him whose mortal eyes
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Klaboterman behold.
-&nbsp;&nbsp;&nbsp;&nbsp;It is a certain sign of death!--
-&nbsp;&nbsp;&nbsp;&nbsp;The cabin-boy here held his breath,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He felt his blood run cold.
-
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;II
-
-&nbsp;&nbsp;&nbsp;&nbsp;The jolly skipper paused awhile,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And then again began;
-&nbsp;&nbsp;&nbsp;&nbsp;"There is a Spectre Ship," quoth he,
-&nbsp;&nbsp;&nbsp;&nbsp;"A ship of the Dead that sails the sea,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And is called the Carmilhan.
-
-&nbsp;&nbsp;&nbsp;&nbsp;"A ghostly ship, with a ghostly crew,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In tempests she appears;
-&nbsp;&nbsp;&nbsp;&nbsp;And before the gale, or against the gale,
-&nbsp;&nbsp;&nbsp;&nbsp;She sails without a rag of sail,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Without a helmsman steers.
-
-&nbsp;&nbsp;&nbsp;&nbsp;"She haunts the Atlantic north and south,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But mostly the mid-sea,
-&nbsp;&nbsp;&nbsp;&nbsp;Where three great rocks rise bleak and bare
-&nbsp;&nbsp;&nbsp;&nbsp;Like furnace-chimneys in the air,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And are called the Chimneys Three.
-
-&nbsp;&nbsp;&nbsp;&nbsp;"And ill betide the luckless ship
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That meets the Carmilhan;
-&nbsp;&nbsp;&nbsp;&nbsp;Over her decks the seas will leap,
-&nbsp;&nbsp;&nbsp;&nbsp;She must go down into the deep,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And perish mouse and man."
-
-&nbsp;&nbsp;&nbsp;&nbsp;The captain of the Valdemar
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Laughed loud with merry heart.
-&nbsp;&nbsp;&nbsp;&nbsp;"I should like to see this ship," said he;
-&nbsp;&nbsp;&nbsp;&nbsp;"I should like to find these Chimneys Three,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That are marked down in the chart.
-
-&nbsp;&nbsp;&nbsp;&nbsp;"I have sailed right over the spot," he said
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"With a good stiff breeze behind,
-&nbsp;&nbsp;&nbsp;&nbsp;When the sea was blue, and the sky was clear,--
-&nbsp;&nbsp;&nbsp;&nbsp;You can follow my course by these pinholes here,--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And never a rock could find."
-
-&nbsp;&nbsp;&nbsp;&nbsp;And then he swore a dreadful oath,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He swore by the Kingdoms Three,
-&nbsp;&nbsp;&nbsp;&nbsp;That, should he meet the Carmilhan,
-&nbsp;&nbsp;&nbsp;&nbsp;He would run her down, although he ran
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Right into Eternity!
-
-&nbsp;&nbsp;&nbsp;&nbsp;All this, while passing to and fro,
-&nbsp;&nbsp;&nbsp;&nbsp; The cabin-boy had heard;
-&nbsp;&nbsp;&nbsp;&nbsp;He lingered at the door to hear,
-&nbsp;&nbsp;&nbsp;&nbsp;And drank in all with greedy ear,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And pondered every word.
-
-&nbsp;&nbsp;&nbsp;&nbsp;He was a simple country lad,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But of a roving mind.
-&nbsp;&nbsp;&nbsp;&nbsp;"O, it must be like heaven," thought he,
-&nbsp;&nbsp;&nbsp;&nbsp;"Those far-off foreign lands to see,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And fortune seek and find!"
-
-&nbsp;&nbsp;&nbsp;&nbsp;But in the fo'castle, when he heard
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The mariners blaspheme,
-&nbsp;&nbsp;&nbsp;&nbsp;He thought of home, he thought of God,
-&nbsp;&nbsp;&nbsp;&nbsp;And his mother under the churchyard sod,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And wished it were a dream.
-
-&nbsp;&nbsp;&nbsp;&nbsp;One friend on board that ship had he;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'T was the Klaboterman,
-&nbsp;&nbsp;&nbsp;&nbsp;Who saw the Bible in his chest,
-&nbsp;&nbsp;&nbsp;&nbsp;And made a sign upon his breast,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All evil things to ban.
-
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;III
-
-&nbsp;&nbsp;&nbsp;&nbsp;The cabin windows have grown blank
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As eyeballs of the dead;
-&nbsp;&nbsp;&nbsp;&nbsp;No more the glancing sunbeams burn
-&nbsp;&nbsp;&nbsp;&nbsp;On the gilt letters of the stern,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But on the figure-head;
-
-&nbsp;&nbsp;&nbsp;&nbsp;On Valdemar Victorious,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Who looketh with disdain
-&nbsp;&nbsp;&nbsp;&nbsp;To see his image in the tide
-&nbsp;&nbsp;&nbsp;&nbsp;Dismembered float from side to side,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And reunite again.
-
-&nbsp;&nbsp;&nbsp;&nbsp;"It is the wind," those skippers said,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"That swings the vessel so;
-&nbsp;&nbsp;&nbsp;&nbsp;It is the wind; it freshens fast,
-&nbsp;&nbsp;&nbsp;&nbsp;'T is time to say farewell at last
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'T is time for us to go."
-
-&nbsp;&nbsp;&nbsp;&nbsp;They shook the captain by the hand,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Goodluck! goodluck!" they cried;
-&nbsp;&nbsp;&nbsp;&nbsp;Each face was like the setting sun,
-&nbsp;&nbsp;&nbsp;&nbsp;As, broad and red, they one by one
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Went o'er the vessel's side.
-
-&nbsp;&nbsp;&nbsp;&nbsp;The sun went down, the full moon rose,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Serene o'er field and flood;
-&nbsp;&nbsp;&nbsp;&nbsp;And all the winding creeks and bays
-&nbsp;&nbsp;&nbsp;&nbsp;And broad sea-meadows seemed ablaze,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The sky was red as blood.
-
-&nbsp;&nbsp;&nbsp;&nbsp;The southwest wind blew fresh and fair,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As fair as wind could be;
-&nbsp;&nbsp;&nbsp;&nbsp;Bound for Odessa, o'er the bar,
-&nbsp;&nbsp;&nbsp;&nbsp;With all sail set, the Valdemar
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Went proudly out to sea.
-
-&nbsp;&nbsp;&nbsp;&nbsp;The lovely moon climbs up the sky
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As one who walks in dreams;
-&nbsp;&nbsp;&nbsp;&nbsp;A tower of marble in her light,
-&nbsp;&nbsp;&nbsp;&nbsp;A wall of black, a wall of white,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The stately vessel seems.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Low down upon the sandy coast
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The lights begin to burn;
-&nbsp;&nbsp;&nbsp;&nbsp;And now, uplifted high in air,
-&nbsp;&nbsp;&nbsp;&nbsp;They kindle with a fiercer glare,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And now drop far astern.
-
-&nbsp;&nbsp;&nbsp;&nbsp;The dawn appears, the land is gone,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The sea is all around;
-&nbsp;&nbsp;&nbsp;&nbsp;Then on each hand low hills of sand
-&nbsp;&nbsp;&nbsp;&nbsp;Emerge and form another land;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She steereth through the Sound.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Through Kattegat and Skager-rack
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She flitteth like a ghost;
-&nbsp;&nbsp;&nbsp;&nbsp;By day and night, by night and day,
-&nbsp;&nbsp;&nbsp;&nbsp;She bounds, she flies upon her way
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Along the English coast.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Cape Finisterre is drawing near,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cape Finisterre is past;
-&nbsp;&nbsp;&nbsp;&nbsp;Into the open ocean stream
-&nbsp;&nbsp;&nbsp;&nbsp;She floats, the vision of a dream
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Too beautiful to last.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Suns rise and set, and rise, and yet
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There is no land in sight;
-&nbsp;&nbsp;&nbsp;&nbsp;The liquid planets overhead
-&nbsp;&nbsp;&nbsp;&nbsp;Burn brighter now the moon is dead,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And longer stays the night.
-
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;IV
-
-&nbsp;&nbsp;&nbsp;&nbsp;And now along the horizon's edge
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mountains of cloud uprose,
-&nbsp;&nbsp;&nbsp;&nbsp;Black as with forests underneath,
-&nbsp;&nbsp;&nbsp;&nbsp;Above their sharp and jagged teeth
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Were white as drifted snows.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Unseen behind them sank the sun,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But flushed each snowy peak
-&nbsp;&nbsp;&nbsp;&nbsp;A little while with rosy light
-&nbsp;&nbsp;&nbsp;&nbsp;That faded slowly from the sight
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As blushes from the cheek.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Black grew the sky,--all black, all black;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The clouds were everywhere;
-&nbsp;&nbsp;&nbsp;&nbsp;There was a feeling of suspense
-&nbsp;&nbsp;&nbsp;&nbsp;In nature, a mysterious sense
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of terror in the air.
-
-&nbsp;&nbsp;&nbsp;&nbsp;And all on board the Valdemar
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Was still as still could be;
-&nbsp;&nbsp;&nbsp;&nbsp;Save when the dismal ship-bell tolled,
-&nbsp;&nbsp;&nbsp;&nbsp;As ever and anon she rolled,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And lurched into the sea.
-
-&nbsp;&nbsp;&nbsp;&nbsp;The captain up and down the deck
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Went striding to and fro;
-&nbsp;&nbsp;&nbsp;&nbsp;Now watched the compass at the wheel,
-&nbsp;&nbsp;&nbsp;&nbsp;Now lifted up his hand to feel
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Which way the wind might blow.
-
-&nbsp;&nbsp;&nbsp;&nbsp;And now he looked up at the sails,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And now upon the deep;
-&nbsp;&nbsp;&nbsp;&nbsp;In every fibre of his frame
-&nbsp;&nbsp;&nbsp;&nbsp;He felt the storm before it came,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He had no thought of sleep.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Eight bells! and suddenly abaft,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With a great rush of rain,
-&nbsp;&nbsp;&nbsp;&nbsp;Making the ocean white with spume,
-&nbsp;&nbsp;&nbsp;&nbsp;In darkness like the day of doom,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On came the hurricane.
-
-&nbsp;&nbsp;&nbsp;&nbsp;The lightning flashed from cloud to cloud,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And rent the sky in two;
-&nbsp;&nbsp;&nbsp;&nbsp;A jagged flame, a single jet
-&nbsp;&nbsp;&nbsp;&nbsp;Of white fire, like a bayonet
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That pierced the eyeballs through.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Then all around was dark again,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And blacker than before;
-&nbsp;&nbsp;&nbsp;&nbsp;But in that single flash of light
-&nbsp;&nbsp;&nbsp;&nbsp;He had beheld a fearful sight,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And thought of the oath he swore.
-
-&nbsp;&nbsp;&nbsp;&nbsp;For right ahead lay the Ship of the Dead,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The ghostly Carmilhan!
-&nbsp;&nbsp;&nbsp;&nbsp;Her masts were stripped, her yards were bare,
-&nbsp;&nbsp;&nbsp;&nbsp;And on her bowsprit, poised in air,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sat the Klaboterman.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Her crew of ghosts was all on deck
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Or clambering up the shrouds;
-&nbsp;&nbsp;&nbsp;&nbsp;The boatswain's whistle, the captain's hail,
-&nbsp;&nbsp;&nbsp;&nbsp;Were like the piping of the gale,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And thunder in the clouds.
-
-&nbsp;&nbsp;&nbsp;&nbsp;And close behind the Carmilhan
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There rose up from the sea,
-&nbsp;&nbsp;&nbsp;&nbsp;As from a foundered ship of stone,
-&nbsp;&nbsp;&nbsp;&nbsp;Three bare and splintered masts alone:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They were the Chimneys Three.
-
-&nbsp;&nbsp;&nbsp;&nbsp;And onward dashed the Valdemar
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And leaped into the dark;
-&nbsp;&nbsp;&nbsp;&nbsp;A denser mist, a colder blast,
-&nbsp;&nbsp;&nbsp;&nbsp;A little shudder, and she had passed
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Right through the Phantom Bark.
-
-&nbsp;&nbsp;&nbsp;&nbsp;She cleft in twain the shadowy hulk,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But cleft it unaware;
-&nbsp;&nbsp;&nbsp;&nbsp;As when, careering to her nest,
-&nbsp;&nbsp;&nbsp;&nbsp;The sea-gull severs with her breast
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The unresisting air.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Again the lightning flashed; again
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They saw the Carmilhan,
-&nbsp;&nbsp;&nbsp;&nbsp;Whole as before in hull and spar;
-&nbsp;&nbsp;&nbsp;&nbsp;But now on board of the Valdemar
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stood the Klaboterman.
-
-&nbsp;&nbsp;&nbsp;&nbsp;And they all knew their doom was sealed;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They knew that death was near;
-&nbsp;&nbsp;&nbsp;&nbsp;Some prayed who never prayed before,
-&nbsp;&nbsp;&nbsp;&nbsp;And some they wept, and some they swore,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And some were mute with fear.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Then suddenly there came a shock,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And louder than wind or sea
-&nbsp;&nbsp;&nbsp;&nbsp;A cry burst from the crew on deck,
-&nbsp;&nbsp;&nbsp;&nbsp;As she dashed and crashed, a hopeless wreck,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Upon the Chimneys Three.
-
-&nbsp;&nbsp;&nbsp;&nbsp;The storm and night were passed, the light
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To streak the east began;
-&nbsp;&nbsp;&nbsp;&nbsp;The cabin-boy, picked up at sea,
-&nbsp;&nbsp;&nbsp;&nbsp;Survived the wreck, and only he,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To tell of the Carmilhan.
-
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;INTERLUDE
-
-&nbsp;&nbsp;&nbsp;&nbsp;When the long murmur of applause
-&nbsp;&nbsp;&nbsp;&nbsp;That greeted the Musician's lay
-&nbsp;&nbsp;&nbsp;&nbsp;Had slowly buzzed itself away,
-&nbsp;&nbsp;&nbsp;&nbsp;And the long talk of Spectre Ships
-&nbsp;&nbsp;&nbsp;&nbsp;That followed died upon their lips
-&nbsp;&nbsp;&nbsp;&nbsp;And came unto a natural pause,
-&nbsp;&nbsp;&nbsp;&nbsp;"These tales you tell are one and all
-&nbsp;&nbsp;&nbsp;&nbsp;Of the Old World," the Poet said,
-&nbsp;&nbsp;&nbsp;&nbsp;"Flowers gathered from a crumbling wall,
-&nbsp;&nbsp;&nbsp;&nbsp;Dead leaves that rustle as they fall;
-&nbsp;&nbsp;&nbsp;&nbsp;Let me present you in their stead
-&nbsp;&nbsp;&nbsp;&nbsp;Something of our New England earth,
-&nbsp;&nbsp;&nbsp;&nbsp;A tale which, though of no great worth,
-&nbsp;&nbsp;&nbsp;&nbsp;Has still this merit, that it yields
-&nbsp;&nbsp;&nbsp;&nbsp;A certain freshness of the fields,
-&nbsp;&nbsp;&nbsp;&nbsp;A sweetness as of home-made bread."
-
-&nbsp;&nbsp;&nbsp;&nbsp;The Student answered: "Be discreet;
-&nbsp;&nbsp;&nbsp;&nbsp;For if the flour be fresh and sound,
-&nbsp;&nbsp;&nbsp;&nbsp;And if the bread be light and sweet,
-&nbsp;&nbsp;&nbsp;&nbsp;Who careth in what mill 't was ground,
-&nbsp;&nbsp;&nbsp;&nbsp;Or of what oven felt the heat,
-&nbsp;&nbsp;&nbsp;&nbsp;Unless, as old Cervantes said,
-&nbsp;&nbsp;&nbsp;&nbsp;You are looking after better bread
-&nbsp;&nbsp;&nbsp;&nbsp;Than any that is made of wheat?
-&nbsp;&nbsp;&nbsp;&nbsp;You know that people nowadays
-&nbsp;&nbsp;&nbsp;&nbsp;To what is old give little praise;
-&nbsp;&nbsp;&nbsp;&nbsp;All must be new in prose and verse:
-&nbsp;&nbsp;&nbsp;&nbsp;They want hot bread, or something worse,
-&nbsp;&nbsp;&nbsp;&nbsp;Fresh every morning, and half baked;
-&nbsp;&nbsp;&nbsp;&nbsp;The wholesome bread of yesterday,
-&nbsp;&nbsp;&nbsp;&nbsp;Too stale for them, is thrown away,
-&nbsp;&nbsp;&nbsp;&nbsp;Nor is their thirst with water slaked.
-
-&nbsp;&nbsp;&nbsp;&nbsp;As oft we see the sky in May
-&nbsp;&nbsp;&nbsp;&nbsp;Threaten to rain, and yet not rain,
-&nbsp;&nbsp;&nbsp;&nbsp;The Poet's face, before so gay,
-&nbsp;&nbsp;&nbsp;&nbsp;Was clouded with a look of pain,
-&nbsp;&nbsp;&nbsp;&nbsp;But suddenly brightened up again;
-&nbsp;&nbsp;&nbsp;&nbsp;And without further let or stay
-&nbsp;&nbsp;&nbsp;&nbsp;He told his tale of yesterday.
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;Sing, O Song of Hiawatha,
+&nbsp;&nbsp;&nbsp;&nbsp;Of the happy days that followed,
+&nbsp;&nbsp;&nbsp;&nbsp;In the land of the Ojibways,
+&nbsp;&nbsp;&nbsp;&nbsp;In the pleasant land and peaceful!
+&nbsp;&nbsp;&nbsp;&nbsp;Sing the mysteries of Mondamin,
+&nbsp;&nbsp;&nbsp;&nbsp;Sing the Blessing of the Cornfields!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Buried was the bloody hatchet,
+&nbsp;&nbsp;&nbsp;&nbsp;Buried was the dreadful war-club,
+&nbsp;&nbsp;&nbsp;&nbsp;Buried were all warlike weapons,
+&nbsp;&nbsp;&nbsp;&nbsp;And the war-cry was forgotten.
+&nbsp;&nbsp;&nbsp;&nbsp;There was peace among the nations;
+&nbsp;&nbsp;&nbsp;&nbsp;Unmolested roved the hunters,
+&nbsp;&nbsp;&nbsp;&nbsp;Built the birch canoe for sailing,
+&nbsp;&nbsp;&nbsp;&nbsp;Caught the fish in lake and river,
+&nbsp;&nbsp;&nbsp;&nbsp;Shot the deer and trapped the beaver;
+&nbsp;&nbsp;&nbsp;&nbsp;Unmolested worked the women,
+&nbsp;&nbsp;&nbsp;&nbsp;Made their sugar from the maple,
+&nbsp;&nbsp;&nbsp;&nbsp;Gathered wild rice in the meadows,
+&nbsp;&nbsp;&nbsp;&nbsp;Dressed the skins of deer and beaver.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All around the happy village
+&nbsp;&nbsp;&nbsp;&nbsp;Stood the maize-fields, green and shining,
+&nbsp;&nbsp;&nbsp;&nbsp;Waved the green plumes of Mondamin,
+&nbsp;&nbsp;&nbsp;&nbsp;Waved his soft and sunny tresses,
+&nbsp;&nbsp;&nbsp;&nbsp;Filling all the land with plenty.
+&nbsp;&nbsp;&nbsp;&nbsp;'T was the women who in Spring-time
+&nbsp;&nbsp;&nbsp;&nbsp;Planted the broad fields and fruitful,
+&nbsp;&nbsp;&nbsp;&nbsp;Buried in the earth Mondamin;
+&nbsp;&nbsp;&nbsp;&nbsp;'T was the women who in Autumn
+&nbsp;&nbsp;&nbsp;&nbsp;Stripped the yellow husks of harvest,
+&nbsp;&nbsp;&nbsp;&nbsp;Stripped the garments from Mondamin,
+&nbsp;&nbsp;&nbsp;&nbsp;Even as Hiawatha taught them.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Once, when all the maize was planted,
+&nbsp;&nbsp;&nbsp;&nbsp;Hiawatha, wise and thoughtful,
+&nbsp;&nbsp;&nbsp;&nbsp;Spake and said to Minnehaha,
+&nbsp;&nbsp;&nbsp;&nbsp;To his wife, the Laughing Water:
+&nbsp;&nbsp;&nbsp;&nbsp;"You shall bless to-night the cornfields,
+&nbsp;&nbsp;&nbsp;&nbsp;Draw a magic circle round them,
+&nbsp;&nbsp;&nbsp;&nbsp;To protect them from destruction,
+&nbsp;&nbsp;&nbsp;&nbsp;Blast of mildew, blight of insect,
+&nbsp;&nbsp;&nbsp;&nbsp;Wagemin, the thief of cornfields,
+&nbsp;&nbsp;&nbsp;&nbsp;Paimosaid, who steals the maize-ear!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"In the night, when all is silence,
+&nbsp;&nbsp;&nbsp;&nbsp;In the night, when all is darkness,
+&nbsp;&nbsp;&nbsp;&nbsp;When the Spirit of Sleep, Nepahwin,
+&nbsp;&nbsp;&nbsp;&nbsp;Shuts the doors of all the wigwams,
+&nbsp;&nbsp;&nbsp;&nbsp;So that not an ear can hear you,
+&nbsp;&nbsp;&nbsp;&nbsp;So that not an eye can see you,
+&nbsp;&nbsp;&nbsp;&nbsp;Rise up from your bed in silence,
+&nbsp;&nbsp;&nbsp;&nbsp;Lay aside your garments wholly,
+&nbsp;&nbsp;&nbsp;&nbsp;Walk around the fields you planted,
+&nbsp;&nbsp;&nbsp;&nbsp;Round the borders of the cornfields,
+&nbsp;&nbsp;&nbsp;&nbsp;Covered by your tresses only,
+&nbsp;&nbsp;&nbsp;&nbsp;Robed with darkness as a garment.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Thus the fields shall be more fruitful,
+&nbsp;&nbsp;&nbsp;&nbsp;And the passing of your footsteps
+&nbsp;&nbsp;&nbsp;&nbsp;Draw a magic circle round them,
+&nbsp;&nbsp;&nbsp;&nbsp;So that neither blight nor mildew,
+&nbsp;&nbsp;&nbsp;&nbsp;Neither burrowing worm nor insect,
+&nbsp;&nbsp;&nbsp;&nbsp;Shall pass o'er the magic circle;
+&nbsp;&nbsp;&nbsp;&nbsp;Not the dragon-fly, Kwo-ne-she,
+&nbsp;&nbsp;&nbsp;&nbsp;Nor the spider, Subbekashe,
+&nbsp;&nbsp;&nbsp;&nbsp;Nor the grasshopper, Pah-puk-keena;
+&nbsp;&nbsp;&nbsp;&nbsp;Nor the mighty caterpillar,
+&nbsp;&nbsp;&nbsp;&nbsp;Way-muk-kwana, with the bear-skin,
+&nbsp;&nbsp;&nbsp;&nbsp;King of all the caterpillars!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On the tree-tops near the cornfields
+&nbsp;&nbsp;&nbsp;&nbsp;Sat the hungry crows and ravens,
+&nbsp;&nbsp;&nbsp;&nbsp;Kahgahgee, the King of Ravens,
+&nbsp;&nbsp;&nbsp;&nbsp;With his band of black marauders.
+&nbsp;&nbsp;&nbsp;&nbsp;And they laughed at Hiawatha,
+&nbsp;&nbsp;&nbsp;&nbsp;Till the tree-tops shook with laughter,
+&nbsp;&nbsp;&nbsp;&nbsp;With their melancholy laughter,
+&nbsp;&nbsp;&nbsp;&nbsp;At the words of Hiawatha.
+&nbsp;&nbsp;&nbsp;&nbsp;"Hear him!" said they; "hear the Wise Man,
+&nbsp;&nbsp;&nbsp;&nbsp;Hear the plots of Hiawatha!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When the noiseless night descended
+&nbsp;&nbsp;&nbsp;&nbsp;Broad and dark o'er field and forest,
+&nbsp;&nbsp;&nbsp;&nbsp;When the mournful Wawonaissa
+&nbsp;&nbsp;&nbsp;&nbsp;Sorrowing sang among the hemlocks,
+&nbsp;&nbsp;&nbsp;&nbsp;And the Spirit of Sleep, Nepahwin,
+&nbsp;&nbsp;&nbsp;&nbsp;Shut the doors of all the wigwams,
+&nbsp;&nbsp;&nbsp;&nbsp;From her bed rose Laughing Water,
+&nbsp;&nbsp;&nbsp;&nbsp;Laid aside her garments wholly,
+&nbsp;&nbsp;&nbsp;&nbsp;And with darkness clothed and guarded,
+&nbsp;&nbsp;&nbsp;&nbsp;Unashamed and unaffrighted,
+&nbsp;&nbsp;&nbsp;&nbsp;Walked securely round the cornfields,
+&nbsp;&nbsp;&nbsp;&nbsp;Drew the sacred, magic circle
+&nbsp;&nbsp;&nbsp;&nbsp;Of her footprints round the cornfields.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No one but the Midnight only
+&nbsp;&nbsp;&nbsp;&nbsp;Saw her beauty in the darkness,
+&nbsp;&nbsp;&nbsp;&nbsp;No one but the Wawonaissa
+&nbsp;&nbsp;&nbsp;&nbsp;Heard the panting of her bosom;
+&nbsp;&nbsp;&nbsp;&nbsp;Guskewau, the darkness, wrapped her
+&nbsp;&nbsp;&nbsp;&nbsp;Closely in his sacred mantle,
+&nbsp;&nbsp;&nbsp;&nbsp;So that none might see her beauty,
+&nbsp;&nbsp;&nbsp;&nbsp;So that none might boast, "I saw her!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On the morrow, as the day dawned,
+&nbsp;&nbsp;&nbsp;&nbsp;Kahgahgee, the King of Ravens,
+&nbsp;&nbsp;&nbsp;&nbsp;Gathered all his black marauders,
+&nbsp;&nbsp;&nbsp;&nbsp;Crows and blackbirds, jays and ravens,
+&nbsp;&nbsp;&nbsp;&nbsp;Clamorous on the dusky tree-tops,
+&nbsp;&nbsp;&nbsp;&nbsp;And descended, fast and fearless,
+&nbsp;&nbsp;&nbsp;&nbsp;On the fields of Hiawatha,
+&nbsp;&nbsp;&nbsp;&nbsp;On the grave of the Mondamin.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"We will drag Mondamin," said they,
+&nbsp;&nbsp;&nbsp;&nbsp;"From the grave where he is buried,
+&nbsp;&nbsp;&nbsp;&nbsp;Spite of all the magic circles
+&nbsp;&nbsp;&nbsp;&nbsp;Laughing Water draws around it,
+&nbsp;&nbsp;&nbsp;&nbsp;Spite of all the sacred footprints
+&nbsp;&nbsp;&nbsp;&nbsp;Minnehaha stamps upon it!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But the wary Hiawatha,
+&nbsp;&nbsp;&nbsp;&nbsp;Ever thoughtful, careful, watchful,
+&nbsp;&nbsp;&nbsp;&nbsp;Had o'erheard the scornful laughter
+&nbsp;&nbsp;&nbsp;&nbsp;When they mocked him from the tree-tops.
+&nbsp;&nbsp;&nbsp;&nbsp;"Kaw!" he said, "my friends the ravens!
+&nbsp;&nbsp;&nbsp;&nbsp;Kahgahgee, my King of Ravens!
+&nbsp;&nbsp;&nbsp;&nbsp;I will teach you all a lesson
+&nbsp;&nbsp;&nbsp;&nbsp;That shall not be soon forgotten!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He had risen before the daybreak,
+&nbsp;&nbsp;&nbsp;&nbsp;He had spread o'er all the cornfields
+&nbsp;&nbsp;&nbsp;&nbsp;Snares to catch the black marauders,
+&nbsp;&nbsp;&nbsp;&nbsp;And was lying now in ambush
+&nbsp;&nbsp;&nbsp;&nbsp;In the neighboring grove of pine-trees,
+&nbsp;&nbsp;&nbsp;&nbsp;Waiting for the crows and blackbirds,
+&nbsp;&nbsp;&nbsp;&nbsp;Waiting for the jays and ravens.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soon they came with caw and clamor,
+&nbsp;&nbsp;&nbsp;&nbsp;Rush of wings and cry of voices,
+&nbsp;&nbsp;&nbsp;&nbsp;To their work of devastation,
+&nbsp;&nbsp;&nbsp;&nbsp;Settling down upon the cornfields,
+&nbsp;&nbsp;&nbsp;&nbsp;Delving deep with beak and talon,
+&nbsp;&nbsp;&nbsp;&nbsp;For the body of Mondamin.
+&nbsp;&nbsp;&nbsp;&nbsp;And with all their craft and cunning,
+&nbsp;&nbsp;&nbsp;&nbsp;All their skill in wiles of warfare,
+&nbsp;&nbsp;&nbsp;&nbsp;They perceived no danger near them,
+&nbsp;&nbsp;&nbsp;&nbsp;Till their claws became entangled,
+&nbsp;&nbsp;&nbsp;&nbsp;Till they found themselves imprisoned
+&nbsp;&nbsp;&nbsp;&nbsp;In the snares of Hiawatha.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From his place of ambush came he,
+&nbsp;&nbsp;&nbsp;&nbsp;Striding terrible among them,
+&nbsp;&nbsp;&nbsp;&nbsp;And so awful was his aspect
+&nbsp;&nbsp;&nbsp;&nbsp;That the bravest quailed with terror.
+&nbsp;&nbsp;&nbsp;&nbsp;Without mercy he destroyed them
+&nbsp;&nbsp;&nbsp;&nbsp;Right and left, by tens and twenties,
+&nbsp;&nbsp;&nbsp;&nbsp;And their wretched, lifeless bodies
+&nbsp;&nbsp;&nbsp;&nbsp;Hung aloft on poles for scarecrows
+&nbsp;&nbsp;&nbsp;&nbsp;Round the consecrated cornfields,
+&nbsp;&nbsp;&nbsp;&nbsp;As a signal of his vengeance,
+&nbsp;&nbsp;&nbsp;&nbsp;As a warning to marauders.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Only Kahgahgee, the leader,
+&nbsp;&nbsp;&nbsp;&nbsp;Kahgahgee, the King of Ravens,
+&nbsp;&nbsp;&nbsp;&nbsp;He alone was spared among them
+&nbsp;&nbsp;&nbsp;&nbsp;As a hostage for his people.
+&nbsp;&nbsp;&nbsp;&nbsp;With his prisoner-string he bound him,
+&nbsp;&nbsp;&nbsp;&nbsp;Led him captive to his wigwam,
+&nbsp;&nbsp;&nbsp;&nbsp;Tied him fast with cords of elm-bark
+&nbsp;&nbsp;&nbsp;&nbsp;To the ridge-pole of his wigwam.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Kahgahgee, my raven!" said he,
+&nbsp;&nbsp;&nbsp;&nbsp;"You the leader of the robbers,
+&nbsp;&nbsp;&nbsp;&nbsp;You the plotter of this mischief,
+&nbsp;&nbsp;&nbsp;&nbsp;The contriver of this outrage,
+&nbsp;&nbsp;&nbsp;&nbsp;I will keep you, I will hold you,
+&nbsp;&nbsp;&nbsp;&nbsp;As a hostage for your people,
+&nbsp;&nbsp;&nbsp;&nbsp;As a pledge of good behavior!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And he left him, grim and sulky,
+&nbsp;&nbsp;&nbsp;&nbsp;Sitting in the morning sunshine
+&nbsp;&nbsp;&nbsp;&nbsp;On the summit of the wigwam,
+&nbsp;&nbsp;&nbsp;&nbsp;Croaking fiercely his displeasure,
+&nbsp;&nbsp;&nbsp;&nbsp;Flapping his great sable pinions,
+&nbsp;&nbsp;&nbsp;&nbsp;Vainly struggling for his freedom,
+&nbsp;&nbsp;&nbsp;&nbsp;Vainly calling on his people!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Summer passed, and Shawondasee
+&nbsp;&nbsp;&nbsp;&nbsp;Breathed his sighs o'er all the landscape,
+&nbsp;&nbsp;&nbsp;&nbsp;From the South-land sent his ardor,
+&nbsp;&nbsp;&nbsp;&nbsp;Wafted kisses warm and tender;
+&nbsp;&nbsp;&nbsp;&nbsp;And the maize-field grew and ripened,
+&nbsp;&nbsp;&nbsp;&nbsp;Till it stood in all the splendor
+&nbsp;&nbsp;&nbsp;&nbsp;Of its garments green and yellow,
+&nbsp;&nbsp;&nbsp;&nbsp;Of its tassels and its plumage,
+&nbsp;&nbsp;&nbsp;&nbsp;And the maize-ears full and shining
+&nbsp;&nbsp;&nbsp;&nbsp;Gleamed from bursting sheaths of verdure.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then Nokomis, the old woman,
+&nbsp;&nbsp;&nbsp;&nbsp;Spake, and said to Minnehaha:
+&nbsp;&nbsp;&nbsp;&nbsp;"'T is the Moon when leaves are falling;
+&nbsp;&nbsp;&nbsp;&nbsp;All the wild-rice has been gathered,
+&nbsp;&nbsp;&nbsp;&nbsp;And the maize is ripe and ready;
+&nbsp;&nbsp;&nbsp;&nbsp;Let us gather in the harvest,
+&nbsp;&nbsp;&nbsp;&nbsp;Let us wrestle with Mondamin,
+&nbsp;&nbsp;&nbsp;&nbsp;Strip him of his plumes and tassels,
+&nbsp;&nbsp;&nbsp;&nbsp;Of his garments green and yellow!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the merry Laughing Water
+&nbsp;&nbsp;&nbsp;&nbsp;Went rejoicing from the wigwam,
+&nbsp;&nbsp;&nbsp;&nbsp;With Nokomis, old and wrinkled,
+&nbsp;&nbsp;&nbsp;&nbsp;And they called the women round them,
+&nbsp;&nbsp;&nbsp;&nbsp;Called the young men and the maidens,
+&nbsp;&nbsp;&nbsp;&nbsp;To the harvest of the cornfields,
+&nbsp;&nbsp;&nbsp;&nbsp;To the husking of the maize-ear.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On the border of the forest,
+&nbsp;&nbsp;&nbsp;&nbsp;Underneath the fragrant pine-trees,
+&nbsp;&nbsp;&nbsp;&nbsp;Sat the old men and the warriors
+&nbsp;&nbsp;&nbsp;&nbsp;Smoking in the pleasant shadow.
+&nbsp;&nbsp;&nbsp;&nbsp;In uninterrupted silence
+&nbsp;&nbsp;&nbsp;&nbsp;Looked they at the gamesome labor
+&nbsp;&nbsp;&nbsp;&nbsp;Of the young men and the women;
+&nbsp;&nbsp;&nbsp;&nbsp;Listened to their noisy talking,
+&nbsp;&nbsp;&nbsp;&nbsp;To their laughter and their singing,
+&nbsp;&nbsp;&nbsp;&nbsp;Heard them chattering like the magpies,
+&nbsp;&nbsp;&nbsp;&nbsp;Heard them laughing like the blue-jays,
+&nbsp;&nbsp;&nbsp;&nbsp;Heard them singing like the robins.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And whene'er some lucky maiden
+&nbsp;&nbsp;&nbsp;&nbsp;Found a red ear in the husking,
+&nbsp;&nbsp;&nbsp;&nbsp;Found a maize-ear red as blood is,
+&nbsp;&nbsp;&nbsp;&nbsp;"Nushka!" cried they all together,
+&nbsp;&nbsp;&nbsp;&nbsp;"Nushka! you shall have a sweetheart,
+&nbsp;&nbsp;&nbsp;&nbsp;You shall have a handsome husband!"
+&nbsp;&nbsp;&nbsp;&nbsp;"Ugh!" the old men all responded
+&nbsp;&nbsp;&nbsp;&nbsp;From their seats beneath the pine-trees.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And whene'er a youth or maiden
+&nbsp;&nbsp;&nbsp;&nbsp;Found a crooked ear in husking,
+&nbsp;&nbsp;&nbsp;&nbsp;Found a maize-ear in the husking
+&nbsp;&nbsp;&nbsp;&nbsp;Blighted, mildewed, or misshapen,
+&nbsp;&nbsp;&nbsp;&nbsp;Then they laughed and sang together,
+&nbsp;&nbsp;&nbsp;&nbsp;Crept and limped about the cornfields,
+&nbsp;&nbsp;&nbsp;&nbsp;Mimicked in their gait and gestures
+&nbsp;&nbsp;&nbsp;&nbsp;Some old man, bent almost double,
+&nbsp;&nbsp;&nbsp;&nbsp;Singing singly or together:
+&nbsp;&nbsp;&nbsp;&nbsp;"Wagemin, the thief of cornfields!
+&nbsp;&nbsp;&nbsp;&nbsp;Paimosaid, who steals the maize-ear!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Till the cornfields rang with laughter,
+&nbsp;&nbsp;&nbsp;&nbsp;Till from Hiawatha's wigwam
+&nbsp;&nbsp;&nbsp;&nbsp;Kahgahgee, the King of Ravens,
+&nbsp;&nbsp;&nbsp;&nbsp;Screamed and quivered in his anger,
+&nbsp;&nbsp;&nbsp;&nbsp;And from all the neighboring tree-tops
+&nbsp;&nbsp;&nbsp;&nbsp;Cawed and croaked the black marauders.
+&nbsp;&nbsp;&nbsp;&nbsp;"Ugh!" the old men all responded,
+&nbsp;&nbsp;&nbsp;&nbsp;From their seats beneath the pine-trees!
 </pre>

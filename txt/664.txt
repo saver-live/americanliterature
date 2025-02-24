@@ -1,0 +1,4 @@
+<p>Before my bed<br> there is bright moonlight<br> So that it seems<br> Like frost on the ground:<br> <br> Lifting my head<br> I watch the bright moon,<br> Lowering my head<br> I dream that I'm home. <br></p>
+<div class="poet" itemprop="author">
+ Li Po
+</div>

@@ -1,0 +1,4 @@
+<p>The forge-fire sets a glow in the heavens,<br> the hammer thunders, showering the smoke with sparks.<br> <br> A ruddy smithy, the white face of the moon,<br> and the hammer, ringing down cold dark canyons.<br></p>
+<div class="poet" itemprop="author">
+ Li Po
+</div>

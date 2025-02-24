@@ -1,43 +1,35 @@
-<pre>
-&nbsp;&nbsp;&nbsp;&nbsp;I heard the bells on Christmas Day
-&nbsp;&nbsp;&nbsp;&nbsp;Their old, familiar carols play,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And wild and sweet
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The words repeat
-&nbsp;&nbsp;&nbsp;&nbsp;Of peace on earth, good-will to men!
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;As the birds come in the Spring,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We know not from where;
+&nbsp;&nbsp;&nbsp;&nbsp;As the stars come at evening
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From depths of the air;
 
-&nbsp;&nbsp;&nbsp;&nbsp;And thought how, as the day had come,
-&nbsp;&nbsp;&nbsp;&nbsp;The belfries of all Christendom
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Had rolled along
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The unbroken song
-&nbsp;&nbsp;&nbsp;&nbsp;Of peace on earth, good-will to men!
+&nbsp;&nbsp;&nbsp;&nbsp;As the rain comes from the cloud,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the brook from the ground;
+&nbsp;&nbsp;&nbsp;&nbsp;As suddenly, low or loud,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Out of silence a sound;
 
-&nbsp;&nbsp;&nbsp;&nbsp;Till, ringing, singing on its way,
-&nbsp;&nbsp;&nbsp;&nbsp;The world revolved from night to day,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A voice, a chime,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A chant sublime
-&nbsp;&nbsp;&nbsp;&nbsp;Of peace on earth, good-will to men!
+&nbsp;&nbsp;&nbsp;&nbsp;As the grape comes to the vine,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The fruit to the tree;
+&nbsp;&nbsp;&nbsp;&nbsp;As the wind comes to the pine,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the tide to the sea;
 
-&nbsp;&nbsp;&nbsp;&nbsp;Then from each black, accursed mouth
-&nbsp;&nbsp;&nbsp;&nbsp;The cannon thundered in the South,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And with the sound
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The carols drowned
-&nbsp;&nbsp;&nbsp;&nbsp;Of peace on earth, good-will to men!
+&nbsp;&nbsp;&nbsp;&nbsp;As come the white sails of ships
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O'er the ocean's verge;
+&nbsp;&nbsp;&nbsp;&nbsp;As comes the smile to the lips,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The foam to the surge;
 
-&nbsp;&nbsp;&nbsp;&nbsp;It was as if an earthquake rent
-&nbsp;&nbsp;&nbsp;&nbsp;The hearth-stones of a continent,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And made forlorn
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The households born
-&nbsp;&nbsp;&nbsp;&nbsp;Of peace on earth, good-will to men!
+&nbsp;&nbsp;&nbsp;&nbsp;So come to the Poet his songs,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All hitherward blown
+&nbsp;&nbsp;&nbsp;&nbsp;From the misty realm, that belongs
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To the vast unknown.
 
-&nbsp;&nbsp;&nbsp;&nbsp;And in despair I bowed my head;
-&nbsp;&nbsp;&nbsp;&nbsp;"There is no peace on earth," I said:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "For hate is strong,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And mocks the song
-&nbsp;&nbsp;&nbsp;&nbsp;Of peace on earth, good-will to men!"
+&nbsp;&nbsp;&nbsp;&nbsp;His, and not his, are the lays
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He sings; and their fame
+&nbsp;&nbsp;&nbsp;&nbsp;Is his, and not his; and the praise
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the pride of a name.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Then pealed the bells more loud and deep:
-&nbsp;&nbsp;&nbsp;&nbsp;"God is not dead; nor doth he sleep!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Wrong shall fail,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Right prevail,
-&nbsp;&nbsp;&nbsp;&nbsp;With peace on earth, good-will to men!"
+&nbsp;&nbsp;&nbsp;&nbsp;For voices pursue him by day,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And haunt him by night,
+&nbsp;&nbsp;&nbsp;&nbsp;And he listens, and needs must obey,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When the Angel says: "Write!"
 </pre>

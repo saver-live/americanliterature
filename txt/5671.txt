@@ -1,18 +1,15 @@
-<pre>
-
-
-I would rather be ashes than dust!
-I would rather that my spark
-should burn out in a brilliant blaze
-than it should be stifled by dry-rot.
-
-I would rather be a superb meteor
-every atom of me in magnificent glow
-than a sleepy and permanent planet. 
-
-The function of man is to live
-not to exist. 
-I shall not waste my days trying to prolong them. 
-I shall use my time. 
-
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;Tuscan, that wanderest through the realms of gloom,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With thoughtful pace, and sad, majestic eyes,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stern thoughts and awful from thy soul arise,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Like Farinata from his fiery tomb.
+&nbsp;&nbsp;&nbsp;&nbsp;Thy sacred song is like the trump of doom;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yet in thy heart what human sympathies,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What soft compassion glows, as in the skies
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The tender stars their clouded lamps relume!
+&nbsp;&nbsp;&nbsp;&nbsp;Methinks I see thee stand, with pallid cheeks,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By Fra Hilario in his diocese,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As up the convent-walls, in golden streaks,
+&nbsp;&nbsp;&nbsp;&nbsp;The ascending sunbeams mark the day's decrease;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And, as he asks what there the stranger seeks,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thy voice along the cloister whispers, "Peace!"
 </pre>

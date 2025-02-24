@@ -1,103 +1,65 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;Sweet the memory is to me
-&nbsp;&nbsp;&nbsp;&nbsp;Of a land beyond the sea,
-&nbsp;&nbsp;&nbsp;&nbsp;Where the waves and mountains meet,
-&nbsp;&nbsp;&nbsp;&nbsp;Where, amid her mulberry-trees
-&nbsp;&nbsp;&nbsp;&nbsp;Sits Amalfi in the heat,
-&nbsp;&nbsp;&nbsp;&nbsp;Bathing ever her white feet
-&nbsp;&nbsp;&nbsp;&nbsp;In the tideless summer seas.
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;TO THE CHILDREN OF CAMBRIDGE
 
-&nbsp;&nbsp;&nbsp;&nbsp;In the middle of the town,
-&nbsp;&nbsp;&nbsp;&nbsp;From its fountains in the hills,
-&nbsp;&nbsp;&nbsp;&nbsp;Tumbling through the narrow gorge,
-&nbsp;&nbsp;&nbsp;&nbsp;The Canneto rushes down,
-&nbsp;&nbsp;&nbsp;&nbsp;Turns the great wheels of the mills,
-&nbsp;&nbsp;&nbsp;&nbsp;Lifts the hammers of the forge.
+&nbsp;&nbsp;&nbsp;&nbsp;Who presented to me on my Seventy-second Birth-day, February 27, 1879, this Chair, made from the Wood of the Village Blacksmith's Chestnut Tree.
 
-&nbsp;&nbsp;&nbsp;&nbsp;'T is a stairway, not a street,
-&nbsp;&nbsp;&nbsp;&nbsp;That ascends the deep ravine,
-&nbsp;&nbsp;&nbsp;&nbsp;Where the torrent leaps between
-&nbsp;&nbsp;&nbsp;&nbsp;Rocky walls that almost meet.
-&nbsp;&nbsp;&nbsp;&nbsp;Toiling up from stair to stair
-&nbsp;&nbsp;&nbsp;&nbsp;Peasant girls their burdens bear;
-&nbsp;&nbsp;&nbsp;&nbsp;Sunburnt daughters of the soil,
-&nbsp;&nbsp;&nbsp;&nbsp;Stately figures tall and straight,
-&nbsp;&nbsp;&nbsp;&nbsp;What inexorable fate
-&nbsp;&nbsp;&nbsp;&nbsp;Dooms them to this life of toil?
+&nbsp;&nbsp;&nbsp;&nbsp;Am I a king, that I should call my own
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This splendid ebon throne?
+&nbsp;&nbsp;&nbsp;&nbsp;Or by what reason, or what right divine,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I proclaim it mine?
 
-&nbsp;&nbsp;&nbsp;&nbsp;Lord of vineyards and of lands,
-&nbsp;&nbsp;&nbsp;&nbsp;Far above the convent stands.
-&nbsp;&nbsp;&nbsp;&nbsp;On its terraced walk aloof
-&nbsp;&nbsp;&nbsp;&nbsp;Leans a monk with folded hands,
-&nbsp;&nbsp;&nbsp;&nbsp;Placid, satisfied, serene,
-&nbsp;&nbsp;&nbsp;&nbsp;Looking down upon the scene
-&nbsp;&nbsp;&nbsp;&nbsp;Over wall and red-tiled roof;
-&nbsp;&nbsp;&nbsp;&nbsp;Wondering unto what good end
-&nbsp;&nbsp;&nbsp;&nbsp;All this toil and traffic tend,
-&nbsp;&nbsp;&nbsp;&nbsp;And why all men cannot be
-&nbsp;&nbsp;&nbsp;&nbsp;Free from care and free from pain,
-&nbsp;&nbsp;&nbsp;&nbsp;And the sordid love of gain,
-&nbsp;&nbsp;&nbsp;&nbsp;And as indolent as he.
+&nbsp;&nbsp;&nbsp;&nbsp;Only, perhaps, by right divine of song
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It may to me belong;
+&nbsp;&nbsp;&nbsp;&nbsp;Only because the spreading chestnut tree
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Of old was sung by me.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Where are now the freighted barks
-&nbsp;&nbsp;&nbsp;&nbsp;From the marts of east and west?
-&nbsp;&nbsp;&nbsp;&nbsp;Where the knights in iron sarks
-&nbsp;&nbsp;&nbsp;&nbsp;Journeying to the Holy Land,
-&nbsp;&nbsp;&nbsp;&nbsp;Glove of steel upon the hand,
-&nbsp;&nbsp;&nbsp;&nbsp;Cross of crimson on the breast?
-&nbsp;&nbsp;&nbsp;&nbsp;Where the pomp of camp and court?
-&nbsp;&nbsp;&nbsp;&nbsp;Where the pilgrims with their prayers?
-&nbsp;&nbsp;&nbsp;&nbsp;Where the merchants with their wares,
-&nbsp;&nbsp;&nbsp;&nbsp;And their gallant brigantines
-&nbsp;&nbsp;&nbsp;&nbsp;Sailing safely into port
-&nbsp;&nbsp;&nbsp;&nbsp;Chased by corsair Algerines?
+&nbsp;&nbsp;&nbsp;&nbsp;Well I remember it in all its prime,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When in the summer-time
+&nbsp;&nbsp;&nbsp;&nbsp;The affluent foliage of its branches made
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A cavern of cool shade.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Vanished like a fleet of cloud,
-&nbsp;&nbsp;&nbsp;&nbsp;Like a passing trumpet-blast,
-&nbsp;&nbsp;&nbsp;&nbsp;Are those splendors of the past,
-&nbsp;&nbsp;&nbsp;&nbsp;And the commerce and the crowd!
-&nbsp;&nbsp;&nbsp;&nbsp;Fathoms deep beneath the seas
-&nbsp;&nbsp;&nbsp;&nbsp;Lie the ancient wharves and quays,
-&nbsp;&nbsp;&nbsp;&nbsp;Swallowed by the engulfing waves;
-&nbsp;&nbsp;&nbsp;&nbsp;Silent streets and vacant halls,
-&nbsp;&nbsp;&nbsp;&nbsp;Ruined roofs and towers and walls;
-&nbsp;&nbsp;&nbsp;&nbsp;Hidden from all mortal eyes
-&nbsp;&nbsp;&nbsp;&nbsp;Deep the sunken city lies:
-&nbsp;&nbsp;&nbsp;&nbsp;Even cities have their graves!
+&nbsp;&nbsp;&nbsp;&nbsp;There, by the blacksmith's forge, beside the street,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Its blossoms white and sweet
+&nbsp;&nbsp;&nbsp;&nbsp;Enticed the bees, until it seemed alive,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And murmured like a hive.
 
-&nbsp;&nbsp;&nbsp;&nbsp;This is an enchanted land!
-&nbsp;&nbsp;&nbsp;&nbsp;Round the headlands far away
-&nbsp;&nbsp;&nbsp;&nbsp;Sweeps the blue Salernian bay
-&nbsp;&nbsp;&nbsp;&nbsp;With its sickle of white sand:
-&nbsp;&nbsp;&nbsp;&nbsp;Further still and furthermost
-&nbsp;&nbsp;&nbsp;&nbsp;On the dim discovered coast
-&nbsp;&nbsp;&nbsp;&nbsp;Paestum with its ruins lies,
-&nbsp;&nbsp;&nbsp;&nbsp;And its roses all in bloom
-&nbsp;&nbsp;&nbsp;&nbsp;Seem to tinge the fatal skies
-&nbsp;&nbsp;&nbsp;&nbsp;Of that lonely land of doom.
+&nbsp;&nbsp;&nbsp;&nbsp;And when the winds of autumn, with a shout,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tossed its great arms about,
+&nbsp;&nbsp;&nbsp;&nbsp;The shining chestnuts, bursting from the sheath,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dropped to the ground beneath.
 
-&nbsp;&nbsp;&nbsp;&nbsp;On his terrace, high in air,
-&nbsp;&nbsp;&nbsp;&nbsp;Nothing doth the good monk care
-&nbsp;&nbsp;&nbsp;&nbsp;For such worldly themes as these,
-&nbsp;&nbsp;&nbsp;&nbsp;From the garden just below
-&nbsp;&nbsp;&nbsp;&nbsp;Little puffs of perfume blow,
-&nbsp;&nbsp;&nbsp;&nbsp;And a sound is in his ears
-&nbsp;&nbsp;&nbsp;&nbsp;Of the murmur of the bees
-&nbsp;&nbsp;&nbsp;&nbsp;In the shining chestnut-trees;
-&nbsp;&nbsp;&nbsp;&nbsp;Nothing else he heeds or hears.
-&nbsp;&nbsp;&nbsp;&nbsp;All the landscape seems to swoon
-&nbsp;&nbsp;&nbsp;&nbsp;In the happy afternoon;
-&nbsp;&nbsp;&nbsp;&nbsp;Slowly o'er his senses creep
-&nbsp;&nbsp;&nbsp;&nbsp;The encroaching waves of sleep,
-&nbsp;&nbsp;&nbsp;&nbsp;And he sinks as sank the town,
-&nbsp;&nbsp;&nbsp;&nbsp;Unresisting, fathoms down,
-&nbsp;&nbsp;&nbsp;&nbsp;Into caverns cool and deep!
+&nbsp;&nbsp;&nbsp;&nbsp;And now some fragments of its branches bare,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shaped as a stately chair,
+&nbsp;&nbsp;&nbsp;&nbsp;Have by my hearthstone found a home at last,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And whisper of the past.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Walled about with drifts of snow,
-&nbsp;&nbsp;&nbsp;&nbsp;Hearing the fierce north-wind blow,
-&nbsp;&nbsp;&nbsp;&nbsp;Seeing all the landscape white,
-&nbsp;&nbsp;&nbsp;&nbsp;And the river cased in ice,
-&nbsp;&nbsp;&nbsp;&nbsp;Comes this memory of delight,
-&nbsp;&nbsp;&nbsp;&nbsp;Comes this vision unto me
-&nbsp;&nbsp;&nbsp;&nbsp;Of a long-lost Paradise
-&nbsp;&nbsp;&nbsp;&nbsp;In the land beyond the sea.
+&nbsp;&nbsp;&nbsp;&nbsp;The Danish king could not in all his pride
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Repel the ocean tide,
+&nbsp;&nbsp;&nbsp;&nbsp;But, seated in this chair, I can in rhyme
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Roll back the tide of Time.
+
+&nbsp;&nbsp;&nbsp;&nbsp;I see again, as one in vision sees,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The blossoms and the bees,
+&nbsp;&nbsp;&nbsp;&nbsp;And hear the children's voices shout and call,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And the brown chestnuts fall.
+
+&nbsp;&nbsp;&nbsp;&nbsp;I see the smithy with its fires aglow,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I hear the bellows blow,
+&nbsp;&nbsp;&nbsp;&nbsp;And the shrill hammers on the anvil beat
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The iron white with heat!
+
+&nbsp;&nbsp;&nbsp;&nbsp;And thus, dear children, have ye made for me
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This day a jubilee,
+&nbsp;&nbsp;&nbsp;&nbsp;And to my more than three-score years and ten
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Brought back my youth again.
+
+&nbsp;&nbsp;&nbsp;&nbsp;The heart hath its own memory, like the mind,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And in it are enshrined
+&nbsp;&nbsp;&nbsp;&nbsp;The precious keepsakes, into which is wrought
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The giver's loving thought.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Only your love and your remembrance could
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Give life to this dead wood,
+&nbsp;&nbsp;&nbsp;&nbsp;And make these branches, leafless now so long,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Blossom again in song.
+
 </pre>

@@ -1,300 +1,70 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;Out of childhood into manhood
-&nbsp;&nbsp;&nbsp;&nbsp;Now had grown my Hiawatha,
-&nbsp;&nbsp;&nbsp;&nbsp;Skilled in all the craft of hunters,
-&nbsp;&nbsp;&nbsp;&nbsp;Learned in all the lore of old men,
-&nbsp;&nbsp;&nbsp;&nbsp;In all youthful sports and pastimes,
-&nbsp;&nbsp;&nbsp;&nbsp;In all manly arts and labors.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Swift of foot was Hiawatha;
-&nbsp;&nbsp;&nbsp;&nbsp;He could shoot an arrow from him,
-&nbsp;&nbsp;&nbsp;&nbsp;And run forward with such fleetness,
-&nbsp;&nbsp;&nbsp;&nbsp;That the arrow fell behind him!
-&nbsp;&nbsp;&nbsp;&nbsp;Strong of arm was Hiawatha;
-&nbsp;&nbsp;&nbsp;&nbsp;He could shoot ten arrows upward,
-&nbsp;&nbsp;&nbsp;&nbsp;Shoot them with such strength and swiftness,
-&nbsp;&nbsp;&nbsp;&nbsp;That the tenth had left the bow-string
-&nbsp;&nbsp;&nbsp;&nbsp;Ere the first to earth had fallen!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He had mittens, Minjekahwun,
-&nbsp;&nbsp;&nbsp;&nbsp;Magic mittens made of deer-skin;
-&nbsp;&nbsp;&nbsp;&nbsp;When upon his hands he wore them,
-&nbsp;&nbsp;&nbsp;&nbsp;He could smite the rocks asunder,
-&nbsp;&nbsp;&nbsp;&nbsp;He could grind them into powder.
-&nbsp;&nbsp;&nbsp;&nbsp;He had moccasins enchanted,
-&nbsp;&nbsp;&nbsp;&nbsp;Magic moccasins of deer-skin;
-&nbsp;&nbsp;&nbsp;&nbsp;When he bound them round his ankles,
-&nbsp;&nbsp;&nbsp;&nbsp;When upon his feet he tied them,
-&nbsp;&nbsp;&nbsp;&nbsp;At each stride a mile he measured!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Much he questioned old Nokomis
-&nbsp;&nbsp;&nbsp;&nbsp;Of his father Mudjekeewis;
-&nbsp;&nbsp;&nbsp;&nbsp;Learned from her the fatal secret
-&nbsp;&nbsp;&nbsp;&nbsp;Of the beauty of his mother,
-&nbsp;&nbsp;&nbsp;&nbsp;Of the falsehood of his father;
-&nbsp;&nbsp;&nbsp;&nbsp;And his heart was hot within him,
-&nbsp;&nbsp;&nbsp;&nbsp;Like a living coal his heart was.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then he said to old Nokomis,
-&nbsp;&nbsp;&nbsp;&nbsp;"I will go to Mudjekeewis,
-&nbsp;&nbsp;&nbsp;&nbsp;See how fares it with my father,
-&nbsp;&nbsp;&nbsp;&nbsp;At the doorways of the West-Wind,
-&nbsp;&nbsp;&nbsp;&nbsp;At the portals of the Sunset!"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From his lodge went Hiawatha,
-&nbsp;&nbsp;&nbsp;&nbsp;Dressed for travel, armed for hunting;
-&nbsp;&nbsp;&nbsp;&nbsp;Dressed in deer-skin shirt and leggings,
-&nbsp;&nbsp;&nbsp;&nbsp;Richly wrought with quills and wampum;
-&nbsp;&nbsp;&nbsp;&nbsp;On his head his eagle-feathers,
-&nbsp;&nbsp;&nbsp;&nbsp;Round his waist his belt of wampum,
-&nbsp;&nbsp;&nbsp;&nbsp;In his hand his bow of ash-wood,
-&nbsp;&nbsp;&nbsp;&nbsp;Strung with sinews of the reindeer;
-&nbsp;&nbsp;&nbsp;&nbsp;In his quiver oaken arrows,
-&nbsp;&nbsp;&nbsp;&nbsp;Tipped with jasper, winged with feathers;
-&nbsp;&nbsp;&nbsp;&nbsp;With his mittens, Minjekahwun,
-&nbsp;&nbsp;&nbsp;&nbsp;With his moccasins enchanted.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Warning said the old Nokomis,
-&nbsp;&nbsp;&nbsp;&nbsp;"Go not forth, O Hiawatha!
-&nbsp;&nbsp;&nbsp;&nbsp;To the kingdom of the West-Wind,
-&nbsp;&nbsp;&nbsp;&nbsp;To the realms of Mudjekeewis,
-&nbsp;&nbsp;&nbsp;&nbsp;Lest he harm you with his magic,
-&nbsp;&nbsp;&nbsp;&nbsp;Lest he kill you with his cunning!"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But the fearless Hiawatha
-&nbsp;&nbsp;&nbsp;&nbsp;Heeded not her woman's warning;
-&nbsp;&nbsp;&nbsp;&nbsp;Forth he strode into the forest,
-&nbsp;&nbsp;&nbsp;&nbsp;At each stride a mile he measured;
-&nbsp;&nbsp;&nbsp;&nbsp;Lurid seemed the sky above him,
-&nbsp;&nbsp;&nbsp;&nbsp;Lurid seemed the earth beneath him,
-&nbsp;&nbsp;&nbsp;&nbsp;Hot and close the air around him,
-&nbsp;&nbsp;&nbsp;&nbsp;Filled with smoke and fiery vapors,
-&nbsp;&nbsp;&nbsp;&nbsp;As of burning woods and prairies,
-&nbsp;&nbsp;&nbsp;&nbsp;For his heart was hot within him,
-&nbsp;&nbsp;&nbsp;&nbsp;Like a living coal his heart was.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;So he journeyed westward, westward,
-&nbsp;&nbsp;&nbsp;&nbsp;Left the fleetest deer behind him,
-&nbsp;&nbsp;&nbsp;&nbsp;Left the antelope and bison;
-&nbsp;&nbsp;&nbsp;&nbsp;Crossed the rushing Esconaba,
-&nbsp;&nbsp;&nbsp;&nbsp;Crossed the mighty Mississippi,
-&nbsp;&nbsp;&nbsp;&nbsp;Passed the Mountains of the Prairie,
-&nbsp;&nbsp;&nbsp;&nbsp;Passed the land of Crows and Foxes,
-&nbsp;&nbsp;&nbsp;&nbsp;Passed the dwellings of the Blackfeet,
-&nbsp;&nbsp;&nbsp;&nbsp;Came unto the Rocky Mountains,
-&nbsp;&nbsp;&nbsp;&nbsp;To the kingdom of the West-Wind,
-&nbsp;&nbsp;&nbsp;&nbsp;Where upon the gusty summits
-&nbsp;&nbsp;&nbsp;&nbsp;Sat the ancient Mudjekeewis,
-&nbsp;&nbsp;&nbsp;&nbsp;Ruler of the winds of heaven.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Filled with awe was Hiawatha
-&nbsp;&nbsp;&nbsp;&nbsp;At the aspect of his father.
-&nbsp;&nbsp;&nbsp;&nbsp;On the air about him wildly
-&nbsp;&nbsp;&nbsp;&nbsp;Tossed and streamed his cloudy tresses,
-&nbsp;&nbsp;&nbsp;&nbsp;Gleamed like drifting snow his tresses,
-&nbsp;&nbsp;&nbsp;&nbsp;Glared like Ishkoodah, the comet,
-&nbsp;&nbsp;&nbsp;&nbsp;Like the star with fiery tresses.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Filled with joy was Mudjekeewis
-&nbsp;&nbsp;&nbsp;&nbsp;When he looked on Hiawatha,
-&nbsp;&nbsp;&nbsp;&nbsp;Saw his youth rise up before him
-&nbsp;&nbsp;&nbsp;&nbsp;In the face of Hiawatha,
-&nbsp;&nbsp;&nbsp;&nbsp;Saw the beauty of Wenonah
-&nbsp;&nbsp;&nbsp;&nbsp;From the grave rise up before him.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Welcome!" said he, "Hiawatha,
-&nbsp;&nbsp;&nbsp;&nbsp;To the kingdom of the West-Wind!
-&nbsp;&nbsp;&nbsp;&nbsp;Long have I been waiting for you!
-&nbsp;&nbsp;&nbsp;&nbsp;Youth is lovely, age is lonely,
-&nbsp;&nbsp;&nbsp;&nbsp;Youth is fiery, age is frosty;
-&nbsp;&nbsp;&nbsp;&nbsp;You bring back the days departed,
-&nbsp;&nbsp;&nbsp;&nbsp;You bring back my youth of passion,
-&nbsp;&nbsp;&nbsp;&nbsp;And the beautiful Wenonah!"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Many days they talked together,
-&nbsp;&nbsp;&nbsp;&nbsp;Questioned, listened, waited, answered;
-&nbsp;&nbsp;&nbsp;&nbsp;Much the mighty Mudjekeewis
-&nbsp;&nbsp;&nbsp;&nbsp;Boasted of his ancient prowess,
-&nbsp;&nbsp;&nbsp;&nbsp;Of his perilous adventures,
-&nbsp;&nbsp;&nbsp;&nbsp;His indomitable courage,
-&nbsp;&nbsp;&nbsp;&nbsp;His invulnerable body.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Patiently sat Hiawatha,
-&nbsp;&nbsp;&nbsp;&nbsp;Listening to his father's boasting;
-&nbsp;&nbsp;&nbsp;&nbsp;With a smile he sat and listened,
-&nbsp;&nbsp;&nbsp;&nbsp;Uttered neither threat nor menace,
-&nbsp;&nbsp;&nbsp;&nbsp;Neither word nor look betrayed him,
-&nbsp;&nbsp;&nbsp;&nbsp;But his heart was hot within him,
-&nbsp;&nbsp;&nbsp;&nbsp;Like a living coal his heart was.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then he said, "O Mudjekeewis,
-&nbsp;&nbsp;&nbsp;&nbsp;Is there nothing that can harm you?
-&nbsp;&nbsp;&nbsp;&nbsp;Nothing that you are afraid of?"
-&nbsp;&nbsp;&nbsp;&nbsp;And the mighty Mudjekeewis,
-&nbsp;&nbsp;&nbsp;&nbsp;Grand and gracious in his boasting,
-&nbsp;&nbsp;&nbsp;&nbsp;Answered, saying, "There is nothing,
-&nbsp;&nbsp;&nbsp;&nbsp;Nothing but the black rock yonder,
-&nbsp;&nbsp;&nbsp;&nbsp;Nothing but the fatal Wawbeek!"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And he looked at Hiawatha
-&nbsp;&nbsp;&nbsp;&nbsp;With a wise look and benignant,
-&nbsp;&nbsp;&nbsp;&nbsp;With a countenance paternal,
-&nbsp;&nbsp;&nbsp;&nbsp;Looked with pride upon the beauty
-&nbsp;&nbsp;&nbsp;&nbsp;Of his tall and graceful figure,
-&nbsp;&nbsp;&nbsp;&nbsp;Saying, "O my Hiawatha!
-&nbsp;&nbsp;&nbsp;&nbsp;Is there anything can harm you?
-&nbsp;&nbsp;&nbsp;&nbsp;Anything you are afraid of?"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But the wary Hiawatha
-&nbsp;&nbsp;&nbsp;&nbsp;Paused awhile, as if uncertain,
-&nbsp;&nbsp;&nbsp;&nbsp;Held his peace, as if resolving,
-&nbsp;&nbsp;&nbsp;&nbsp;And then answered, "There is nothing,
-&nbsp;&nbsp;&nbsp;&nbsp;Nothing but the bulrush yonder,
-&nbsp;&nbsp;&nbsp;&nbsp;Nothing but the great Apukwa!"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And as Mudjekeewis, rising,
-&nbsp;&nbsp;&nbsp;&nbsp;Stretched his hand to pluck the bulrush,
-&nbsp;&nbsp;&nbsp;&nbsp;Hiawatha cried in terror,
-&nbsp;&nbsp;&nbsp;&nbsp;Cried in well-dissembled terror,
-&nbsp;&nbsp;&nbsp;&nbsp;"Kago! kago! do not touch it!"
-&nbsp;&nbsp;&nbsp;&nbsp;"Ah, kaween!" said Mudjekeewis,
-&nbsp;&nbsp;&nbsp;&nbsp;"No indeed, I will not touch it!"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then they talked of other matters;
-&nbsp;&nbsp;&nbsp;&nbsp;First of Hiawatha's brothers,
-&nbsp;&nbsp;&nbsp;&nbsp;First of Wabun, of the East-Wind,
-&nbsp;&nbsp;&nbsp;&nbsp;Of the South-Wind, Shawondasee,
-&nbsp;&nbsp;&nbsp;&nbsp;Of the North, Kabibonokka;
-&nbsp;&nbsp;&nbsp;&nbsp;Then of Hiawatha's mother,
-&nbsp;&nbsp;&nbsp;&nbsp;Of the beautiful Wenonah,
-&nbsp;&nbsp;&nbsp;&nbsp;Of her birth upon the meadow,
-&nbsp;&nbsp;&nbsp;&nbsp;Of her death, as old Nokomis
-&nbsp;&nbsp;&nbsp;&nbsp;Had remembered and related.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And he cried, "O Mudjekeewis,
-&nbsp;&nbsp;&nbsp;&nbsp;It was you who killed Wenonah,
-&nbsp;&nbsp;&nbsp;&nbsp;Took her young life and her beauty,
-&nbsp;&nbsp;&nbsp;&nbsp;Broke the Lily of the Prairie,
-&nbsp;&nbsp;&nbsp;&nbsp;Trampled it beneath your footsteps;
-&nbsp;&nbsp;&nbsp;&nbsp;You confess it! you confess it!"
-&nbsp;&nbsp;&nbsp;&nbsp;And the mighty Mudjekeewis
-&nbsp;&nbsp;&nbsp;&nbsp;Tossed upon the wind his tresses,
-&nbsp;&nbsp;&nbsp;&nbsp;Bowed his hoary head in anguish,
-&nbsp;&nbsp;&nbsp;&nbsp;With a silent nod assented.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then up started Hiawatha,
-&nbsp;&nbsp;&nbsp;&nbsp;And with threatening look and gesture
-&nbsp;&nbsp;&nbsp;&nbsp;Laid his hand upon the black rock,
-&nbsp;&nbsp;&nbsp;&nbsp;On the fatal Wawbeek laid it,
-&nbsp;&nbsp;&nbsp;&nbsp;With his mittens, Minjekahwun,
-&nbsp;&nbsp;&nbsp;&nbsp;Rent the jutting crag asunder,
-&nbsp;&nbsp;&nbsp;&nbsp;Smote and crushed it into fragments,
-&nbsp;&nbsp;&nbsp;&nbsp;Hurled them madly at his father,
-&nbsp;&nbsp;&nbsp;&nbsp;The remorseful Mudjekeewis,
-&nbsp;&nbsp;&nbsp;&nbsp;For his heart was hot within him,
-&nbsp;&nbsp;&nbsp;&nbsp;Like a living coal his heart was.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But the ruler of the West-Wind
-&nbsp;&nbsp;&nbsp;&nbsp;Blew the fragments backward from him,
-&nbsp;&nbsp;&nbsp;&nbsp;With the breathing of his nostrils,
-&nbsp;&nbsp;&nbsp;&nbsp;With the tempest of his anger,
-&nbsp;&nbsp;&nbsp;&nbsp;Blew them back at his assailant;
-&nbsp;&nbsp;&nbsp;&nbsp;Seized the bulrush, the Apukwa,
-&nbsp;&nbsp;&nbsp;&nbsp;Dragged it with its roots and fibres
-&nbsp;&nbsp;&nbsp;&nbsp;From the margin of the meadow,
-&nbsp;&nbsp;&nbsp;&nbsp;From its ooze the giant bulrush;
-&nbsp;&nbsp;&nbsp;&nbsp;Long and loud laughed Hiawatha!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then began the deadly conflict,
-&nbsp;&nbsp;&nbsp;&nbsp;Hand to hand among the mountains;
-&nbsp;&nbsp;&nbsp;&nbsp;From his eyry screamed the eagle,
-&nbsp;&nbsp;&nbsp;&nbsp;The Keneu, the great war-eagle,
-&nbsp;&nbsp;&nbsp;&nbsp;Sat upon the crags around them,
-&nbsp;&nbsp;&nbsp;&nbsp;Wheeling flapped his wings above them.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Like a tall tree in the tempest
-&nbsp;&nbsp;&nbsp;&nbsp;Bent and lashed the giant bulrush;
-&nbsp;&nbsp;&nbsp;&nbsp;And in masses huge and heavy
-&nbsp;&nbsp;&nbsp;&nbsp;Crashing fell the fatal Wawbeek;
-&nbsp;&nbsp;&nbsp;&nbsp;Till the earth shook with the tumult
-&nbsp;&nbsp;&nbsp;&nbsp;And confusion of the battle,
-&nbsp;&nbsp;&nbsp;&nbsp;And the air was full of shoutings,
-&nbsp;&nbsp;&nbsp;&nbsp;And the thunder of the mountains,
-&nbsp;&nbsp;&nbsp;&nbsp;Starting, answered, "Baim-wawa!"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Back retreated Mudjekeewis,
-&nbsp;&nbsp;&nbsp;&nbsp;Rushing westward o'er the mountains,
-&nbsp;&nbsp;&nbsp;&nbsp;Stumbling westward down the mountains,
-&nbsp;&nbsp;&nbsp;&nbsp;Three whole days retreated fighting,
-&nbsp;&nbsp;&nbsp;&nbsp;Still pursued by Hiawatha
-&nbsp;&nbsp;&nbsp;&nbsp;To the doorways of the West-Wind,
-&nbsp;&nbsp;&nbsp;&nbsp;To the portals of the Sunset,
-&nbsp;&nbsp;&nbsp;&nbsp;To the earth's remotest border,
-&nbsp;&nbsp;&nbsp;&nbsp;Where into the empty spaces
-&nbsp;&nbsp;&nbsp;&nbsp;Sinks the sun, as a flamingo
-&nbsp;&nbsp;&nbsp;&nbsp;Drops into her nest at nightfall,
-&nbsp;&nbsp;&nbsp;&nbsp;In the melancholy marshes.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Hold!" at length cried Mudjekeewis,
-&nbsp;&nbsp;&nbsp;&nbsp;"Hold, my son, my Hiawatha!
-&nbsp;&nbsp;&nbsp;&nbsp;'T is impossible to kill me,
-&nbsp;&nbsp;&nbsp;&nbsp;For you cannot kill the immortal.
-&nbsp;&nbsp;&nbsp;&nbsp;I have put you to this trial,
-&nbsp;&nbsp;&nbsp;&nbsp;But to know and prove your courage;
-&nbsp;&nbsp;&nbsp;&nbsp;Now receive the prize of valor!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Go back to your home and people,
-&nbsp;&nbsp;&nbsp;&nbsp;Live among them, toil among them,
-&nbsp;&nbsp;&nbsp;&nbsp;Cleanse the earth from all that harms it,
-&nbsp;&nbsp;&nbsp;&nbsp;Clear the fishing-grounds and rivers,
-&nbsp;&nbsp;&nbsp;&nbsp;Slay all monsters and magicians,
-&nbsp;&nbsp;&nbsp;&nbsp;All the Wendigoes, the giants,
-&nbsp;&nbsp;&nbsp;&nbsp;All the serpents, the Kenabeeks,
-&nbsp;&nbsp;&nbsp;&nbsp;As I slew the Mishe-Mokwa,
-&nbsp;&nbsp;&nbsp;&nbsp;Slew the Great Bear of the mountains.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"And at last when Death draws near you,
-&nbsp;&nbsp;&nbsp;&nbsp;When the awful eyes of Pauguk
-&nbsp;&nbsp;&nbsp;&nbsp;Glare upon you in the darkness,
-&nbsp;&nbsp;&nbsp;&nbsp;I will share my kingdom with you,
-&nbsp;&nbsp;&nbsp;&nbsp;Ruler shall you be thenceforward
-&nbsp;&nbsp;&nbsp;&nbsp;Of the Northwest-Wind, Keewaydin,
-&nbsp;&nbsp;&nbsp;&nbsp;Of the home-wind, the Keewaydin."
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thus was fought that famous battle
-&nbsp;&nbsp;&nbsp;&nbsp;In the dreadful days of Shah-shah,
-&nbsp;&nbsp;&nbsp;&nbsp;In the days long since departed,
-&nbsp;&nbsp;&nbsp;&nbsp;In the kingdom of the West-Wind.
-&nbsp;&nbsp;&nbsp;&nbsp;Still the hunter sees its traces
-&nbsp;&nbsp;&nbsp;&nbsp;Scattered far o'er hill and valley;
-&nbsp;&nbsp;&nbsp;&nbsp;Sees the giant bulrush growing
-&nbsp;&nbsp;&nbsp;&nbsp;By the ponds and water-courses,
-&nbsp;&nbsp;&nbsp;&nbsp;Sees the masses of the Wawbeek
-&nbsp;&nbsp;&nbsp;&nbsp;Lying still in every valley.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Homeward now went Hiawatha;
-&nbsp;&nbsp;&nbsp;&nbsp;Pleasant was the landscape round him,
-&nbsp;&nbsp;&nbsp;&nbsp;Pleasant was the air above him,
-&nbsp;&nbsp;&nbsp;&nbsp;For the bitterness of anger
-&nbsp;&nbsp;&nbsp;&nbsp;Had departed wholly from him,
-&nbsp;&nbsp;&nbsp;&nbsp;From his brain the thought of vengeance,
-&nbsp;&nbsp;&nbsp;&nbsp;From his heart the burning fever.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Only once his pace he slackened,
-&nbsp;&nbsp;&nbsp;&nbsp;Only once he paused or halted,
-&nbsp;&nbsp;&nbsp;&nbsp;Paused to purchase heads of arrows
-&nbsp;&nbsp;&nbsp;&nbsp;Of the ancient Arrow-maker,
-&nbsp;&nbsp;&nbsp;&nbsp;In the land of the Dacotahs,
-&nbsp;&nbsp;&nbsp;&nbsp;Where the Falls of Minnehaha
-&nbsp;&nbsp;&nbsp;&nbsp;Flash and gleam among the oak-trees,
-&nbsp;&nbsp;&nbsp;&nbsp;Laugh and leap into the valley.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There the ancient Arrow-maker
-&nbsp;&nbsp;&nbsp;&nbsp;Made his arrow-heads of sandstone,
-&nbsp;&nbsp;&nbsp;&nbsp;Arrow-heads of chalcedony,
-&nbsp;&nbsp;&nbsp;&nbsp;Arrow-heads of flint and jasper,
-&nbsp;&nbsp;&nbsp;&nbsp;Smoothed and sharpened at the edges,
-&nbsp;&nbsp;&nbsp;&nbsp;Hard and polished, keen and costly.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With him dwelt his dark-eyed daughter,
-&nbsp;&nbsp;&nbsp;&nbsp;Wayward as the Minnehaha,
-&nbsp;&nbsp;&nbsp;&nbsp;With her moods of shade and sunshine,
-&nbsp;&nbsp;&nbsp;&nbsp;Eyes that smiled and frowned alternate,
-&nbsp;&nbsp;&nbsp;&nbsp;Feet as rapid as the river,
-&nbsp;&nbsp;&nbsp;&nbsp;Tresses flowing like the water,
-&nbsp;&nbsp;&nbsp;&nbsp;And as musical a laughter;
-&nbsp;&nbsp;&nbsp;&nbsp;And he named her from the river,
-&nbsp;&nbsp;&nbsp;&nbsp;From the water-fall he named her,
-&nbsp;&nbsp;&nbsp;&nbsp;Minnehaha, Laughing Water.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Was it then for heads of arrows,
-&nbsp;&nbsp;&nbsp;&nbsp;Arrow-heads of chalcedony,
-&nbsp;&nbsp;&nbsp;&nbsp;Arrow-heads of flint and jasper,
-&nbsp;&nbsp;&nbsp;&nbsp;That my Hiawatha halted
-&nbsp;&nbsp;&nbsp;&nbsp;In the land of the Dacotahs?
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Was it not to see the maiden,
-&nbsp;&nbsp;&nbsp;&nbsp;See the face of Laughing Water
-&nbsp;&nbsp;&nbsp;&nbsp;Peeping from behind the curtain,
-&nbsp;&nbsp;&nbsp;&nbsp;Hear the rustling of her garments
-&nbsp;&nbsp;&nbsp;&nbsp;From behind the waving curtain,
-&nbsp;&nbsp;&nbsp;&nbsp;As one sees the Minnehaha
-&nbsp;&nbsp;&nbsp;&nbsp;Gleaming, glancing through the branches,
-&nbsp;&nbsp;&nbsp;&nbsp;As one hears the Laughing Water
-&nbsp;&nbsp;&nbsp;&nbsp;From behind its screen of branches?
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Who shall say what thoughts and visions
-&nbsp;&nbsp;&nbsp;&nbsp;Fill the fiery brains of young men?
-&nbsp;&nbsp;&nbsp;&nbsp;Who shall say what dreams of beauty
-&nbsp;&nbsp;&nbsp;&nbsp;Filled the heart of Hiawatha?
-&nbsp;&nbsp;&nbsp;&nbsp;All he told to old Nokomis,
-&nbsp;&nbsp;&nbsp;&nbsp;When he reached the lodge at sunset,
-&nbsp;&nbsp;&nbsp;&nbsp;Was the meeting with his father,
-&nbsp;&nbsp;&nbsp;&nbsp;Was his fight with Mudjekeewis;
-&nbsp;&nbsp;&nbsp;&nbsp;Not a word he said of arrows,
-&nbsp;&nbsp;&nbsp;&nbsp;Not a word of Laughing Water.
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;See, the fire is sinking low,
+&nbsp;&nbsp;&nbsp;&nbsp;Dusky red the embers glow,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While above them still I cower,
+&nbsp;&nbsp;&nbsp;&nbsp;While a moment more I linger,
+&nbsp;&nbsp;&nbsp;&nbsp;Though the clock, with lifted finger,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Points beyond the midnight hour.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Sings the blackened log a tune
+&nbsp;&nbsp;&nbsp;&nbsp;Learned in some forgotten June
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From a school-boy at his play,
+&nbsp;&nbsp;&nbsp;&nbsp;When they both were young together,
+&nbsp;&nbsp;&nbsp;&nbsp;Heart of youth and summer weather
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Making all their holiday.
+
+&nbsp;&nbsp;&nbsp;&nbsp;And the night-wind rising, hark!
+&nbsp;&nbsp;&nbsp;&nbsp;How above there in the dark,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the midnight and the snow,
+&nbsp;&nbsp;&nbsp;&nbsp;Ever wilder, fiercer, grander,
+&nbsp;&nbsp;&nbsp;&nbsp;Like the trumpets of Iskander,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All the noisy chimneys blow!
+
+&nbsp;&nbsp;&nbsp;&nbsp;Every quivering tongue of flame
+&nbsp;&nbsp;&nbsp;&nbsp;Seems to murmur some great name,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seems to say to me, "Aspire!"
+&nbsp;&nbsp;&nbsp;&nbsp;But the night-wind answers, "Hollow
+&nbsp;&nbsp;&nbsp;&nbsp;Are the visions that you follow,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Into darkness sinks your fire!"
+
+&nbsp;&nbsp;&nbsp;&nbsp;Then the flicker of the blaze
+&nbsp;&nbsp;&nbsp;&nbsp;Gleams on volumes of old days,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Written by masters of the art,
+&nbsp;&nbsp;&nbsp;&nbsp;Loud through whose majestic pages
+&nbsp;&nbsp;&nbsp;&nbsp;Rolls the melody of ages,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Throb the harp-strings of the heart.
+
+&nbsp;&nbsp;&nbsp;&nbsp;And again the tongues of flame
+&nbsp;&nbsp;&nbsp;&nbsp;Start exulting and exclaim:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"These are prophets, bards, and seers;
+&nbsp;&nbsp;&nbsp;&nbsp;In the horoscope of nations,
+&nbsp;&nbsp;&nbsp;&nbsp;Like ascendant constellations,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They control the coming years."
+
+&nbsp;&nbsp;&nbsp;&nbsp;But the night-wind cries: "Despair!
+&nbsp;&nbsp;&nbsp;&nbsp;Those who walk with feet of air
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Leave no long-enduring marks;
+&nbsp;&nbsp;&nbsp;&nbsp;At God's forges incandescent
+&nbsp;&nbsp;&nbsp;&nbsp;Mighty hammers beat incessant,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These are but the flying sparks.
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Dust are all the hands that wrought;
+&nbsp;&nbsp;&nbsp;&nbsp;Books are sepulchres of thought;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The dead laurels of the dead
+&nbsp;&nbsp;&nbsp;&nbsp;Rustle for a moment only,
+&nbsp;&nbsp;&nbsp;&nbsp;Like the withered leaves in lonely
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Churchyards at some passing tread."
+
+&nbsp;&nbsp;&nbsp;&nbsp;Suddenly the flame sinks down;
+&nbsp;&nbsp;&nbsp;&nbsp;Sink the rumors of renown;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And alone the night-wind drear
+&nbsp;&nbsp;&nbsp;&nbsp;Clamors louder, wilder, vaguer,--
+&nbsp;&nbsp;&nbsp;&nbsp;"'T is the brand of Meleager
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dying on the hearth-stone here!"
+
+&nbsp;&nbsp;&nbsp;&nbsp;And I answer,--"Though it be,
+&nbsp;&nbsp;&nbsp;&nbsp;Why should that discomfort me?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No endeavor is in vain;
+&nbsp;&nbsp;&nbsp;&nbsp;Its reward is in the doing,
+&nbsp;&nbsp;&nbsp;&nbsp;And the rapture of pursuing
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Is the prize the vanquished gain."
 </pre>

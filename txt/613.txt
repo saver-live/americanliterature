@@ -1,0 +1,4 @@
+<p>The moon shimmers in green water.<br> White herons fly through the moonlight.<br> <br> The young man hears a girl gathering water-chestnuts:<br> into the night, singing, they paddle home together.<br></p>
+<div class="poet" itemprop="author">
+ Li Po
+</div>

@@ -1,96 +1,15 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;Ever let the Fancy roam,
-&nbsp;&nbsp;&nbsp;&nbsp;Pleasure never is at home:
-&nbsp;&nbsp;&nbsp;&nbsp;At a touch sweet Pleasure melteth,
-&nbsp;&nbsp;&nbsp;&nbsp;Like to bubbles when rain pelteth;
-&nbsp;&nbsp;&nbsp;&nbsp;Then let winged Fancy wander
-&nbsp;&nbsp;&nbsp;&nbsp;Through the thought still spread beyond her:
-&nbsp;&nbsp;&nbsp;&nbsp;Open wide the minds cage-door,
-&nbsp;&nbsp;&nbsp;&nbsp;Shell dart forth, and cloudward soar.
-&nbsp;&nbsp;&nbsp;&nbsp;O sweet Fancy! let her loose;
-&nbsp;&nbsp;&nbsp;&nbsp;Summers joys are spoilt by use,
-&nbsp;&nbsp;&nbsp;&nbsp;And the enjoying of the Spring
-&nbsp;&nbsp;&nbsp;&nbsp;Fades as does its blossoming;
-&nbsp;&nbsp;&nbsp;&nbsp;Autumns red-lippd fruitage too,
-&nbsp;&nbsp;&nbsp;&nbsp;Blushing through the mist and dew,
-&nbsp;&nbsp;&nbsp;&nbsp;Cloys with tasting: What do then?
-&nbsp;&nbsp;&nbsp;&nbsp;Sit thee by the ingle, when
-&nbsp;&nbsp;&nbsp;&nbsp;The sear faggot blazes bright,
-&nbsp;&nbsp;&nbsp;&nbsp;Spirit of a winters night;
-&nbsp;&nbsp;&nbsp;&nbsp;When the soundless earth is muffled,
-&nbsp;&nbsp;&nbsp;&nbsp;And the caked snow is shuffled
-&nbsp;&nbsp;&nbsp;&nbsp;From the ploughboys heavy shoon;
-&nbsp;&nbsp;&nbsp;&nbsp;When the Night doth meet the Noon
-&nbsp;&nbsp;&nbsp;&nbsp;In a dark conspiracy
-&nbsp;&nbsp;&nbsp;&nbsp;To banish Even from her sky.
-&nbsp;&nbsp;&nbsp;&nbsp;Sit thee there, and send abroad,
-&nbsp;&nbsp;&nbsp;&nbsp;With a mind self-overawd,
-&nbsp;&nbsp;&nbsp;&nbsp;Fancy, high-commissiond: send her!
-&nbsp;&nbsp;&nbsp;&nbsp;She has vassals to attend her:
-&nbsp;&nbsp;&nbsp;&nbsp;She will bring, in spite of frost,
-&nbsp;&nbsp;&nbsp;&nbsp;Beauties that the earth hath lost;
-&nbsp;&nbsp;&nbsp;&nbsp;She will bring thee, all together,
-&nbsp;&nbsp;&nbsp;&nbsp;All delights of summer weather;
-&nbsp;&nbsp;&nbsp;&nbsp;All the buds and bells of May,
-&nbsp;&nbsp;&nbsp;&nbsp;From dewy sward or thorny spray;
-&nbsp;&nbsp;&nbsp;&nbsp;All the heaped Autumns wealth,
-&nbsp;&nbsp;&nbsp;&nbsp;With a still, mysterious stealth:
-&nbsp;&nbsp;&nbsp;&nbsp;She will mix these pleasures up
-&nbsp;&nbsp;&nbsp;&nbsp;Like three fit wines in a cup,
-&nbsp;&nbsp;&nbsp;&nbsp;And thou shalt quaff it: thou shalt hear
-&nbsp;&nbsp;&nbsp;&nbsp;Distant harvest-carols clear;
-&nbsp;&nbsp;&nbsp;&nbsp;Rustle of the reaped corn;
-&nbsp;&nbsp;&nbsp;&nbsp;Sweet birds antheming the morn:
-&nbsp;&nbsp;&nbsp;&nbsp;And, in the same moment, hark!
-&nbsp;&nbsp;&nbsp;&nbsp;Tis the early April lark,
-&nbsp;&nbsp;&nbsp;&nbsp;Or the rooks, with busy caw,
-&nbsp;&nbsp;&nbsp;&nbsp;Foraging for sticks and straw.
-&nbsp;&nbsp;&nbsp;&nbsp;Thou shalt, at one glance, behold
-&nbsp;&nbsp;&nbsp;&nbsp;The daisy and the marigold;
-&nbsp;&nbsp;&nbsp;&nbsp;White-plumd lillies, and the first
-&nbsp;&nbsp;&nbsp;&nbsp;Hedge-grown primrose that hath burst;
-&nbsp;&nbsp;&nbsp;&nbsp;Shaded hyacinth, alway
-&nbsp;&nbsp;&nbsp;&nbsp;Sapphire queen of the mid-May;
-&nbsp;&nbsp;&nbsp;&nbsp;And every leaf, and every flower
-&nbsp;&nbsp;&nbsp;&nbsp;Pearled with the self-same shower.
-&nbsp;&nbsp;&nbsp;&nbsp;Thou shalt see the field-mouse peep
-&nbsp;&nbsp;&nbsp;&nbsp;Meagre from its celled sleep;
-&nbsp;&nbsp;&nbsp;&nbsp;And the snake all winter-thin
-&nbsp;&nbsp;&nbsp;&nbsp;Cast on sunny bank its skin;
-&nbsp;&nbsp;&nbsp;&nbsp;Freckled nest-eggs thou shalt see
-&nbsp;&nbsp;&nbsp;&nbsp;Hatching in the hawthorn-tree,
-&nbsp;&nbsp;&nbsp;&nbsp;When the hen-birds wing doth rest
-&nbsp;&nbsp;&nbsp;&nbsp;Quiet on her mossy nest;
-&nbsp;&nbsp;&nbsp;&nbsp;Then the hurry and alarm
-&nbsp;&nbsp;&nbsp;&nbsp;When the bee-hive casts its swarm;
-&nbsp;&nbsp;&nbsp;&nbsp;Acorns ripe down-pattering,
-&nbsp;&nbsp;&nbsp;&nbsp;While the autumn breezes sing.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Oh, sweet Fancy! let her loose;
-&nbsp;&nbsp;&nbsp;&nbsp;Every thing is spoilt by use:
-&nbsp;&nbsp;&nbsp;&nbsp;Wheres the cheek that doth not fade,
-&nbsp;&nbsp;&nbsp;&nbsp;Too much gazd at? Wheres the maid
-&nbsp;&nbsp;&nbsp;&nbsp;Whose lip mature is ever new?
-&nbsp;&nbsp;&nbsp;&nbsp;Wheres the eye, however blue,
-&nbsp;&nbsp;&nbsp;&nbsp;Doth not weary? Wheres the face
-&nbsp;&nbsp;&nbsp;&nbsp;One would meet in every place?
-&nbsp;&nbsp;&nbsp;&nbsp;Wheres the voice, however soft,
-&nbsp;&nbsp;&nbsp;&nbsp;One would hear so very oft?
-&nbsp;&nbsp;&nbsp;&nbsp;At a touch sweet Pleasure melteth
-&nbsp;&nbsp;&nbsp;&nbsp;Like to bubbles when rain pelteth.
-&nbsp;&nbsp;&nbsp;&nbsp;Let, then, winged Fancy find
-&nbsp;&nbsp;&nbsp;&nbsp;Thee a mistress to thy mind:
-&nbsp;&nbsp;&nbsp;&nbsp;Dulcet-eyd as Ceres daughter,
-&nbsp;&nbsp;&nbsp;&nbsp;Ere the God of Torment taught her
-&nbsp;&nbsp;&nbsp;&nbsp;How to frown and how to chide;
-&nbsp;&nbsp;&nbsp;&nbsp;With a waist and with a side
-&nbsp;&nbsp;&nbsp;&nbsp;White as Hebes, when her zone
-&nbsp;&nbsp;&nbsp;&nbsp;Slipt its golden clasp, and down
-&nbsp;&nbsp;&nbsp;&nbsp;Fell her kirtle to her feet,
-&nbsp;&nbsp;&nbsp;&nbsp;While she held the goblet sweet
-&nbsp;&nbsp;&nbsp;&nbsp;And Jove grew languid. Break the mesh
-&nbsp;&nbsp;&nbsp;&nbsp;Of the Fancys silken leash;
-&nbsp;&nbsp;&nbsp;&nbsp;Quickly break her prison-string
-&nbsp;&nbsp;&nbsp;&nbsp;And such joys as these shell bring. 
-&nbsp;&nbsp;&nbsp;&nbsp;Let the winged Fancy roam,
-&nbsp;&nbsp;&nbsp;&nbsp;Pleasure never is at home. 
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;How many bards gild the lapses of time!
+&nbsp;&nbsp;&nbsp;&nbsp;A few of them have ever been the food
+&nbsp;&nbsp;&nbsp;&nbsp;Of my delighted fancy, I could brood
+&nbsp;&nbsp;&nbsp;&nbsp;Over their beauties, earthly, or sublime:
+&nbsp;&nbsp;&nbsp;&nbsp;And often, when I sit me down to rhyme,
+&nbsp;&nbsp;&nbsp;&nbsp;These will in throngs before my mind intrude:
+&nbsp;&nbsp;&nbsp;&nbsp;But no confusion, no disturbance rude
+&nbsp;&nbsp;&nbsp;&nbsp;Do they occasion; 'tis a pleasing chime.
+&nbsp;&nbsp;&nbsp;&nbsp;So the unnumbered sounds that evening store;
+&nbsp;&nbsp;&nbsp;&nbsp;The songs of birds the whispering of the leaves
+&nbsp;&nbsp;&nbsp;&nbsp;The voice of waters the great bell that heaves
+&nbsp;&nbsp;&nbsp;&nbsp;With solemn sound, and thousand others more,
+&nbsp;&nbsp;&nbsp;&nbsp;That distance of recognizance bereaves,
+&nbsp;&nbsp;&nbsp;&nbsp;Makes pleasing music, and not wild uproar.
 </pre>

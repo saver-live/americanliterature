@@ -1,89 +1,366 @@
-<pre>
-L'eternite est une pendule, dont le balancier 
-dit et redit sans cesse ces deux mots seulement
-dans le silence des tombeaux:
-"Toujours! jamais! 
-Jamais! toujours!"
-                --JACQUES BRIDAINE.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Somewhat back from the village street
-&nbsp;&nbsp;&nbsp;&nbsp;Stands the old-fashioned country-seat.
-&nbsp;&nbsp;&nbsp;&nbsp;Across its antique portico
-&nbsp;&nbsp;&nbsp;&nbsp;Tall poplar-trees their shadows throw;
-&nbsp;&nbsp;&nbsp;&nbsp;And from its station in the hall
-&nbsp;&nbsp;&nbsp;&nbsp;An ancient timepiece says to all,--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Forever--never!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Never--forever!"
-
-&nbsp;&nbsp;&nbsp;&nbsp;Half-way up the stairs it stands,
-&nbsp;&nbsp;&nbsp;&nbsp;And points and beckons with its hands
-&nbsp;&nbsp;&nbsp;&nbsp;From its case of massive oak,
-&nbsp;&nbsp;&nbsp;&nbsp;Like a monk, who, under his cloak,
-&nbsp;&nbsp;&nbsp;&nbsp;Crosses himself, and sighs, alas!
-&nbsp;&nbsp;&nbsp;&nbsp;With sorrowful voice to all who pass,--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Forever--never!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Never--forever!"
-
-&nbsp;&nbsp;&nbsp;&nbsp;By day its voice is low and light;
-&nbsp;&nbsp;&nbsp;&nbsp;But in the silent dead of night,
-&nbsp;&nbsp;&nbsp;&nbsp;Distinct as a passing footstep's fall,
-&nbsp;&nbsp;&nbsp;&nbsp;It echoes along the vacant hall,
-&nbsp;&nbsp;&nbsp;&nbsp;Along the ceiling, along the floor,
-&nbsp;&nbsp;&nbsp;&nbsp;And seems to say, at each chamber-door,--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Forever--never!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Never--forever!"
-
-&nbsp;&nbsp;&nbsp;&nbsp;Through days of sorrow and of mirth,
-&nbsp;&nbsp;&nbsp;&nbsp;Through days of death and days of birth,
-&nbsp;&nbsp;&nbsp;&nbsp;Through every swift vicissitude
-&nbsp;&nbsp;&nbsp;&nbsp;Of changeful time, unchanged it has stood,
-&nbsp;&nbsp;&nbsp;&nbsp;And as if, like God, it all things saw,
-&nbsp;&nbsp;&nbsp;&nbsp;It calmly repeats those words of awe,--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Forever--never!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Never--forever!"
-
-&nbsp;&nbsp;&nbsp;&nbsp;In that mansion used to be
-&nbsp;&nbsp;&nbsp;&nbsp;Free-hearted Hospitality;
-&nbsp;&nbsp;&nbsp;&nbsp;His great fires up the chimney roared;
-&nbsp;&nbsp;&nbsp;&nbsp;The stranger feasted at his board;
-&nbsp;&nbsp;&nbsp;&nbsp;But, like the skeleton at the feast,
-&nbsp;&nbsp;&nbsp;&nbsp;That warning timepiece never ceased,--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Forever--never!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Never--forever!"
-
-&nbsp;&nbsp;&nbsp;&nbsp;There groups of merry children played,
-&nbsp;&nbsp;&nbsp;&nbsp;There youths and maidens dreaming strayed;
-&nbsp;&nbsp;&nbsp;&nbsp;O precious hours! O golden prime,
-&nbsp;&nbsp;&nbsp;&nbsp;And affluence of love and time!
-&nbsp;&nbsp;&nbsp;&nbsp;Even as a Miser counts his gold,
-&nbsp;&nbsp;&nbsp;&nbsp;Those hours the ancient timepiece told,--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Forever--never!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Never--forever!"
-
-&nbsp;&nbsp;&nbsp;&nbsp;From that chamber, clothed in white,
-&nbsp;&nbsp;&nbsp;&nbsp;The bride came forth on her wedding night;
-&nbsp;&nbsp;&nbsp;&nbsp;There, in that silent room below,
-&nbsp;&nbsp;&nbsp;&nbsp;The dead lay in his shroud of snow;
-&nbsp;&nbsp;&nbsp;&nbsp;And in the hush that followed the prayer,
-&nbsp;&nbsp;&nbsp;&nbsp;Was heard the old clock on the stair,--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Forever--never!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Never--forever!"
-
-&nbsp;&nbsp;&nbsp;&nbsp;All are scattered now and fled,
-&nbsp;&nbsp;&nbsp;&nbsp;Some are married, some are dead;
-&nbsp;&nbsp;&nbsp;&nbsp;And when I ask, with throbs of pain.
-&nbsp;&nbsp;&nbsp;&nbsp;"Ah! when shall they all meet again?"
-&nbsp;&nbsp;&nbsp;&nbsp;As in the days long since gone by,
-&nbsp;&nbsp;&nbsp;&nbsp;The ancient timepiece makes reply,--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Forever--never!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Never--forever!"
-
-&nbsp;&nbsp;&nbsp;&nbsp;Never here, forever there,
-&nbsp;&nbsp;&nbsp;&nbsp;Where all parting, pain, and care,
-&nbsp;&nbsp;&nbsp;&nbsp;And death, and time shall disappear,--
-&nbsp;&nbsp;&nbsp;&nbsp;Forever there, but never here!
-&nbsp;&nbsp;&nbsp;&nbsp;The horologe of Eternity
-&nbsp;&nbsp;&nbsp;&nbsp;Sayeth this incessantly,--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Forever--never!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Never--forever!"
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;Full of wrath was Hiawatha
+&nbsp;&nbsp;&nbsp;&nbsp;When he came into the village,
+&nbsp;&nbsp;&nbsp;&nbsp;Found the people in confusion,
+&nbsp;&nbsp;&nbsp;&nbsp;Heard of all the misdemeanors,
+&nbsp;&nbsp;&nbsp;&nbsp;All the malice and the mischief,
+&nbsp;&nbsp;&nbsp;&nbsp;Of the cunning Pau-Puk-Keewis.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hard his breath came through his nostrils,
+&nbsp;&nbsp;&nbsp;&nbsp;Through his teeth he buzzed and muttered
+&nbsp;&nbsp;&nbsp;&nbsp;Words of anger and resentment,
+&nbsp;&nbsp;&nbsp;&nbsp;Hot and humming, like a hornet.
+&nbsp;&nbsp;&nbsp;&nbsp;"I will slay this Pau-Puk-Keewis,
+&nbsp;&nbsp;&nbsp;&nbsp;Slay this mischief-maker!" said he.
+&nbsp;&nbsp;&nbsp;&nbsp;"Not so long and wide the world is,
+&nbsp;&nbsp;&nbsp;&nbsp;Not so rude and rough the way is,
+&nbsp;&nbsp;&nbsp;&nbsp;That my wrath shall not attain him,
+&nbsp;&nbsp;&nbsp;&nbsp;That my vengeance shall not reach him!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Then in swift pursuit departed
+&nbsp;&nbsp;&nbsp;&nbsp;Hiawatha and the hunters
+&nbsp;&nbsp;&nbsp;&nbsp;On the trail of Pau-Puk-Keewis,
+&nbsp;&nbsp;&nbsp;&nbsp;Through the forest, where he passed it,
+&nbsp;&nbsp;&nbsp;&nbsp;To the headlands where he rested;
+&nbsp;&nbsp;&nbsp;&nbsp;But they found not Pau-Puk-Keewis,
+&nbsp;&nbsp;&nbsp;&nbsp;Only in the trampled grasses,
+&nbsp;&nbsp;&nbsp;&nbsp;In the whortleberry-bushes,
+&nbsp;&nbsp;&nbsp;&nbsp;Found the couch where he had rested,
+&nbsp;&nbsp;&nbsp;&nbsp;Found the impress of his body.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the lowlands far beneath them,
+&nbsp;&nbsp;&nbsp;&nbsp;From the Muskoday, the meadow,
+&nbsp;&nbsp;&nbsp;&nbsp;Pau-Puk-Keewis, turning backward,
+&nbsp;&nbsp;&nbsp;&nbsp;Made a gesture of defiance,
+&nbsp;&nbsp;&nbsp;&nbsp;Made a gesture of derision;
+&nbsp;&nbsp;&nbsp;&nbsp;And aloud cried Hiawatha,
+&nbsp;&nbsp;&nbsp;&nbsp;From the summit of the mountains:
+&nbsp;&nbsp;&nbsp;&nbsp;"Not so long and wide the world is,
+&nbsp;&nbsp;&nbsp;&nbsp;Not so rude and rough the way is,
+&nbsp;&nbsp;&nbsp;&nbsp;But my wrath shall overtake you,
+&nbsp;&nbsp;&nbsp;&nbsp;And my vengeance shall attain you!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Over rock and over river,
+&nbsp;&nbsp;&nbsp;&nbsp;Through bush, and brake, and forest,
+&nbsp;&nbsp;&nbsp;&nbsp;Ran the cunning Pau-Puk-Keewis;
+&nbsp;&nbsp;&nbsp;&nbsp;Like an antelope he bounded,
+&nbsp;&nbsp;&nbsp;&nbsp;Till he came unto a streamlet
+&nbsp;&nbsp;&nbsp;&nbsp;In the middle of the forest,
+&nbsp;&nbsp;&nbsp;&nbsp;To a streamlet still and tranquil,
+&nbsp;&nbsp;&nbsp;&nbsp;That had overflowed its margin,
+&nbsp;&nbsp;&nbsp;&nbsp;To a dam made by the beavers,
+&nbsp;&nbsp;&nbsp;&nbsp;To a pond of quiet water,
+&nbsp;&nbsp;&nbsp;&nbsp;Where knee-deep the trees were standing,
+&nbsp;&nbsp;&nbsp;&nbsp;Where the water lilies floated,
+&nbsp;&nbsp;&nbsp;&nbsp;Where the rushes waved and whispered.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On the dam stood Pau-Puk-Keewis,
+&nbsp;&nbsp;&nbsp;&nbsp;On the dam of trunks and branches,
+&nbsp;&nbsp;&nbsp;&nbsp;Through whose chinks the water spouted,
+&nbsp;&nbsp;&nbsp;&nbsp;O'er whose summit flowed the streamlet.
+&nbsp;&nbsp;&nbsp;&nbsp;From the bottom rose the beaver,
+&nbsp;&nbsp;&nbsp;&nbsp;Looked with two great eyes of wonder,
+&nbsp;&nbsp;&nbsp;&nbsp;Eyes that seemed to ask a question,
+&nbsp;&nbsp;&nbsp;&nbsp;At the stranger, Pau-Puk-Keewis.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On the dam stood Pau-Puk-Keewis,
+&nbsp;&nbsp;&nbsp;&nbsp;O'er his ankles flowed the streamlet,
+&nbsp;&nbsp;&nbsp;&nbsp;Flowed the bright and silvery water,
+&nbsp;&nbsp;&nbsp;&nbsp;And he spake unto the beaver,
+&nbsp;&nbsp;&nbsp;&nbsp;With a smile he spake in this wise:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"O my friend Ahmeek, the beaver,
+&nbsp;&nbsp;&nbsp;&nbsp;Cool and pleasant is the water;
+&nbsp;&nbsp;&nbsp;&nbsp;Let me dive into the water,
+&nbsp;&nbsp;&nbsp;&nbsp;Let me rest there in your lodges;
+&nbsp;&nbsp;&nbsp;&nbsp;Change me, too, into a beaver!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cautiously replied the beaver,
+&nbsp;&nbsp;&nbsp;&nbsp;With reserve he thus made answer:
+&nbsp;&nbsp;&nbsp;&nbsp;"Let me first consult the others,
+&nbsp;&nbsp;&nbsp;&nbsp;Let me ask the other beavers."
+&nbsp;&nbsp;&nbsp;&nbsp;Down he sank into the water,
+&nbsp;&nbsp;&nbsp;&nbsp;Heavily sank he, as a stone sinks,
+&nbsp;&nbsp;&nbsp;&nbsp;Down among the leaves and branches,
+&nbsp;&nbsp;&nbsp;&nbsp;Brown and matted at the bottom.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On the dam stood Pau-Puk-Keewis,
+&nbsp;&nbsp;&nbsp;&nbsp;O'er his ankles flowed the streamlet,
+&nbsp;&nbsp;&nbsp;&nbsp;Spouted through the chinks below him,
+&nbsp;&nbsp;&nbsp;&nbsp;Dashed upon the stones beneath him,
+&nbsp;&nbsp;&nbsp;&nbsp;Spread serene and calm before him,
+&nbsp;&nbsp;&nbsp;&nbsp;And the sunshine and the shadows
+&nbsp;&nbsp;&nbsp;&nbsp;Fell in flecks and gleams upon him,
+&nbsp;&nbsp;&nbsp;&nbsp;Fell in little shining patches,
+&nbsp;&nbsp;&nbsp;&nbsp;Through the waving, rustling branches.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the bottom rose the beavers,
+&nbsp;&nbsp;&nbsp;&nbsp;Silently above the surface
+&nbsp;&nbsp;&nbsp;&nbsp;Rose one head and then another,
+&nbsp;&nbsp;&nbsp;&nbsp;Till the pond seemed full of beavers,
+&nbsp;&nbsp;&nbsp;&nbsp;Full of black and shining faces.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To the beavers Pau-Puk-Keewis
+&nbsp;&nbsp;&nbsp;&nbsp;Spake entreating, said in this wise:
+&nbsp;&nbsp;&nbsp;&nbsp;"Very pleasant is your dwelling,
+&nbsp;&nbsp;&nbsp;&nbsp;O my friends! and safe from danger;
+&nbsp;&nbsp;&nbsp;&nbsp;Can you not, with all your cunning,
+&nbsp;&nbsp;&nbsp;&nbsp;All your wisdom and contrivance,
+&nbsp;&nbsp;&nbsp;&nbsp;Change me, too, into a beaver?"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Yes!" replied Ahmeek, the beaver,
+&nbsp;&nbsp;&nbsp;&nbsp;He the King of all the beavers,
+&nbsp;&nbsp;&nbsp;&nbsp;"Let yourself slide down among us,
+&nbsp;&nbsp;&nbsp;&nbsp;Down into the tranquil water."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Down into the pond among them
+&nbsp;&nbsp;&nbsp;&nbsp;Silently sank Pau-Puk-Keewis;
+&nbsp;&nbsp;&nbsp;&nbsp;Black became his shirt of deer-skin,
+&nbsp;&nbsp;&nbsp;&nbsp;Black his moccasins and leggings,
+&nbsp;&nbsp;&nbsp;&nbsp;In a broad black tail behind him
+&nbsp;&nbsp;&nbsp;&nbsp;Spread his fox-tails and his fringes;
+&nbsp;&nbsp;&nbsp;&nbsp;He was changed into a beaver.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Make me large," said Pau-Puk-Keewis,
+&nbsp;&nbsp;&nbsp;&nbsp;"Make me large and make me larger,
+&nbsp;&nbsp;&nbsp;&nbsp;Larger than the other beavers."
+&nbsp;&nbsp;&nbsp;&nbsp;"Yes," the beaver chief responded,
+&nbsp;&nbsp;&nbsp;&nbsp;"When our lodge below you enter,
+&nbsp;&nbsp;&nbsp;&nbsp;In our wigwam we will make you
+&nbsp;&nbsp;&nbsp;&nbsp;Ten times larger than the others."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thus into the clear, brown water
+&nbsp;&nbsp;&nbsp;&nbsp;Silently sank Pau-Puk-Keewis:
+&nbsp;&nbsp;&nbsp;&nbsp;Found the bottom covered over
+&nbsp;&nbsp;&nbsp;&nbsp;With the trunks of trees and branches,
+&nbsp;&nbsp;&nbsp;&nbsp;Hoards of food against the winter,
+&nbsp;&nbsp;&nbsp;&nbsp;Piles and heaps against the famine;
+&nbsp;&nbsp;&nbsp;&nbsp;Found the lodge with arching doorway,
+&nbsp;&nbsp;&nbsp;&nbsp;Leading into spacious chambers.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Here they made him large and larger,
+&nbsp;&nbsp;&nbsp;&nbsp;Made him largest of the beavers,
+&nbsp;&nbsp;&nbsp;&nbsp;Ten times larger than the others.
+&nbsp;&nbsp;&nbsp;&nbsp;"You shall be our ruler," said they;
+&nbsp;&nbsp;&nbsp;&nbsp;"Chief and King of all the beavers."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But not long had Pau-Puk-Keewis
+&nbsp;&nbsp;&nbsp;&nbsp;Sat in state among the beavers,
+&nbsp;&nbsp;&nbsp;&nbsp;When there came a voice of warning
+&nbsp;&nbsp;&nbsp;&nbsp;From the watchman at his station
+&nbsp;&nbsp;&nbsp;&nbsp;In the water-flags and lilies,
+&nbsp;&nbsp;&nbsp;&nbsp;Saying, "Here Is Hiawatha!
+&nbsp;&nbsp;&nbsp;&nbsp;Hiawatha with his hunters!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then they heard a cry above them,
+&nbsp;&nbsp;&nbsp;&nbsp;Heard a shouting and a tramping,
+&nbsp;&nbsp;&nbsp;&nbsp;Heard a crashing and a rushing,
+&nbsp;&nbsp;&nbsp;&nbsp;And the water round and o'er them
+&nbsp;&nbsp;&nbsp;&nbsp;Sank and sucked away in eddies,
+&nbsp;&nbsp;&nbsp;&nbsp;And they knew their dam was broken.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On the lodge's roof the hunters
+&nbsp;&nbsp;&nbsp;&nbsp;Leaped, and broke it all asunder;
+&nbsp;&nbsp;&nbsp;&nbsp;Streamed the sunshine through the crevice,
+&nbsp;&nbsp;&nbsp;&nbsp;Sprang the beavers through the doorway,
+&nbsp;&nbsp;&nbsp;&nbsp;Hid themselves in deeper water,
+&nbsp;&nbsp;&nbsp;&nbsp;In the channel of the streamlet;
+&nbsp;&nbsp;&nbsp;&nbsp;But the mighty Pau-Puk-Keewis
+&nbsp;&nbsp;&nbsp;&nbsp;Could not pass beneath the doorway;
+&nbsp;&nbsp;&nbsp;&nbsp;He was puffed with pride and feeding,
+&nbsp;&nbsp;&nbsp;&nbsp;He was swollen like a bladder.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Through the roof looked Hiawatha,
+&nbsp;&nbsp;&nbsp;&nbsp;Cried aloud, "O Pau-Puk-Keewis
+&nbsp;&nbsp;&nbsp;&nbsp;Vain are all your craft and cunning,
+&nbsp;&nbsp;&nbsp;&nbsp;Vain your manifold disguises!
+&nbsp;&nbsp;&nbsp;&nbsp;Well I know you, Pau-Puk-Keewis!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With their clubs they beat and bruised him,
+&nbsp;&nbsp;&nbsp;&nbsp;Beat to death poor Pau-Puk-Keewis,
+&nbsp;&nbsp;&nbsp;&nbsp;Pounded him as maize is pounded,
+&nbsp;&nbsp;&nbsp;&nbsp;Till his skull was crushed to pieces.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Six tall hunters, lithe and limber,
+&nbsp;&nbsp;&nbsp;&nbsp;Bore him home on poles and branches,
+&nbsp;&nbsp;&nbsp;&nbsp;Bore the body of the beaver;
+&nbsp;&nbsp;&nbsp;&nbsp;But the ghost, the Jeebi in him,
+&nbsp;&nbsp;&nbsp;&nbsp;Thought and felt as Pau-Puk-Keewis,
+&nbsp;&nbsp;&nbsp;&nbsp;Still lived on as Pau-Puk-Keewis.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And it fluttered, strove, and struggled,
+&nbsp;&nbsp;&nbsp;&nbsp;Waving hither, waving thither,
+&nbsp;&nbsp;&nbsp;&nbsp;As the curtains of a wigwam
+&nbsp;&nbsp;&nbsp;&nbsp;Struggle with their thongs of deer-skin,
+&nbsp;&nbsp;&nbsp;&nbsp;When the wintry wind is blowing;
+&nbsp;&nbsp;&nbsp;&nbsp;Till it drew itself together,
+&nbsp;&nbsp;&nbsp;&nbsp;Till it rose up from the body,
+&nbsp;&nbsp;&nbsp;&nbsp;Till it took the form and features
+&nbsp;&nbsp;&nbsp;&nbsp;Of the cunning Pau-Puk-Keewis
+&nbsp;&nbsp;&nbsp;&nbsp;Vanishing into the forest.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But the wary Hiawatha
+&nbsp;&nbsp;&nbsp;&nbsp;Saw the figure ere it vanished,
+&nbsp;&nbsp;&nbsp;&nbsp;Saw the form of Pau-Puk-Keewis
+&nbsp;&nbsp;&nbsp;&nbsp;Glide into the soft blue shadow
+&nbsp;&nbsp;&nbsp;&nbsp;Of the pine-trees of the forest;
+&nbsp;&nbsp;&nbsp;&nbsp;Toward the squares of white beyond it,
+&nbsp;&nbsp;&nbsp;&nbsp;Toward an opening in the forest.
+&nbsp;&nbsp;&nbsp;&nbsp;Like a wind it rushed and panted,
+&nbsp;&nbsp;&nbsp;&nbsp;Bending all the boughs before it,
+&nbsp;&nbsp;&nbsp;&nbsp;And behind it, as the rain comes,
+&nbsp;&nbsp;&nbsp;&nbsp;Came the steps of Hiawatha.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To a lake with many islands
+&nbsp;&nbsp;&nbsp;&nbsp;Came the breathless Pau-Puk-Keewis,
+&nbsp;&nbsp;&nbsp;&nbsp;Where among the water-lilies
+&nbsp;&nbsp;&nbsp;&nbsp;Pishnekuh, the brant, were sailing;
+&nbsp;&nbsp;&nbsp;&nbsp;Through the tufts of rushes floating,
+&nbsp;&nbsp;&nbsp;&nbsp;Steering through the reedy islands.
+&nbsp;&nbsp;&nbsp;&nbsp;Now their broad black beaks they lifted,
+&nbsp;&nbsp;&nbsp;&nbsp;Now they plunged beneath the water,
+&nbsp;&nbsp;&nbsp;&nbsp;Now they darkened in the shadow,
+&nbsp;&nbsp;&nbsp;&nbsp;Now they brightened in the sunshine.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Pishnekuh!" cried Pau-Puk-Keewis,
+&nbsp;&nbsp;&nbsp;&nbsp;"Pishnekuh! my brothers!" said he,
+&nbsp;&nbsp;&nbsp;&nbsp;"Change me to a brant with plumage,
+&nbsp;&nbsp;&nbsp;&nbsp;With a shining neck and feathers,
+&nbsp;&nbsp;&nbsp;&nbsp;Make me large, and make me larger,
+&nbsp;&nbsp;&nbsp;&nbsp;Ten times larger than the others."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Straightway to a brant they changed him,
+&nbsp;&nbsp;&nbsp;&nbsp;With two huge and dusky pinions,
+&nbsp;&nbsp;&nbsp;&nbsp;With a bosom smooth and rounded,
+&nbsp;&nbsp;&nbsp;&nbsp;With a bill like two great paddles,
+&nbsp;&nbsp;&nbsp;&nbsp;Made him larger than the others,
+&nbsp;&nbsp;&nbsp;&nbsp;Ten times larger than the largest,
+&nbsp;&nbsp;&nbsp;&nbsp;Just as, shouting from the forest,
+&nbsp;&nbsp;&nbsp;&nbsp;On the shore stood Hiawatha.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Up they rose with cry and clamor,
+&nbsp;&nbsp;&nbsp;&nbsp;With a whir and beat of pinions,
+&nbsp;&nbsp;&nbsp;&nbsp;Rose up from the reedy Islands,
+&nbsp;&nbsp;&nbsp;&nbsp;From the water-flags and lilies.
+&nbsp;&nbsp;&nbsp;&nbsp;And they said to Pau-Puk-Keewis:
+&nbsp;&nbsp;&nbsp;&nbsp;"In your flying, look not downward,
+&nbsp;&nbsp;&nbsp;&nbsp;Take good heed and look not downward,
+&nbsp;&nbsp;&nbsp;&nbsp;Lest some strange mischance should happen,
+&nbsp;&nbsp;&nbsp;&nbsp;Lest some great mishap befall you!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fast and far they fled to northward,
+&nbsp;&nbsp;&nbsp;&nbsp;Fast and far through mist and sunshine,
+&nbsp;&nbsp;&nbsp;&nbsp;Fed among the moors and fen-lands,
+&nbsp;&nbsp;&nbsp;&nbsp;Slept among the reeds and rushes.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On the morrow as they journeyed,
+&nbsp;&nbsp;&nbsp;&nbsp;Buoyed and lifted by the South-wind,
+&nbsp;&nbsp;&nbsp;&nbsp;Wafted onward by the South-wind,
+&nbsp;&nbsp;&nbsp;&nbsp;Blowing fresh and strong behind them,
+&nbsp;&nbsp;&nbsp;&nbsp;Rose a sound of human voices,
+&nbsp;&nbsp;&nbsp;&nbsp;Rose a clamor from beneath them,
+&nbsp;&nbsp;&nbsp;&nbsp;From the lodges of a village,
+&nbsp;&nbsp;&nbsp;&nbsp;From the people miles beneath them.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the people of the village
+&nbsp;&nbsp;&nbsp;&nbsp;Saw the flock of brant with wonder,
+&nbsp;&nbsp;&nbsp;&nbsp;Saw the wings of Pau-Puk-Keewis
+&nbsp;&nbsp;&nbsp;&nbsp;Flapping far up in the ether,
+&nbsp;&nbsp;&nbsp;&nbsp;Broader than two doorway curtains.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pau-Puk-Keewis heard the shouting,
+&nbsp;&nbsp;&nbsp;&nbsp;Knew the voice of Hiawatha,
+&nbsp;&nbsp;&nbsp;&nbsp;Knew the outcry of Iagoo,
+&nbsp;&nbsp;&nbsp;&nbsp;And, forgetful of the warning,
+&nbsp;&nbsp;&nbsp;&nbsp;Drew his neck in, and looked downward,
+&nbsp;&nbsp;&nbsp;&nbsp;And the wind that blew behind him
+&nbsp;&nbsp;&nbsp;&nbsp;Caught his mighty fan of feathers,
+&nbsp;&nbsp;&nbsp;&nbsp;Sent him wheeling, whirling downward!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All in vain did Pau-Puk-Keewis
+&nbsp;&nbsp;&nbsp;&nbsp;Struggle to regain his balance!
+&nbsp;&nbsp;&nbsp;&nbsp;Whirling round and round and downward,
+&nbsp;&nbsp;&nbsp;&nbsp;He beheld in turn the village
+&nbsp;&nbsp;&nbsp;&nbsp;And in turn the flock above him,
+&nbsp;&nbsp;&nbsp;&nbsp;Saw the village coming nearer,
+&nbsp;&nbsp;&nbsp;&nbsp;And the flock receding farther,
+&nbsp;&nbsp;&nbsp;&nbsp;Heard the voices growing louder,
+&nbsp;&nbsp;&nbsp;&nbsp;Heard the shouting and the laughter;
+&nbsp;&nbsp;&nbsp;&nbsp;Saw no more the flocks above him,
+&nbsp;&nbsp;&nbsp;&nbsp;Only saw the earth beneath him;
+&nbsp;&nbsp;&nbsp;&nbsp;Dead out of the empty heaven,
+&nbsp;&nbsp;&nbsp;&nbsp;Dead among the shouting people,
+&nbsp;&nbsp;&nbsp;&nbsp;With a heavy sound and sullen,
+&nbsp;&nbsp;&nbsp;&nbsp;Fell the brant with broken pinions.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But his soul, his ghost, his shadow,
+&nbsp;&nbsp;&nbsp;&nbsp;Still survived as Pau-Puk-Keewis,
+&nbsp;&nbsp;&nbsp;&nbsp;Took again the form and features
+&nbsp;&nbsp;&nbsp;&nbsp;Of the handsome Yenadizze,
+&nbsp;&nbsp;&nbsp;&nbsp;And again went rushing onward,
+&nbsp;&nbsp;&nbsp;&nbsp;Followed fast by Hiawatha,
+&nbsp;&nbsp;&nbsp;&nbsp;Crying: "Not so wide the world is,
+&nbsp;&nbsp;&nbsp;&nbsp;Not so long and rough the way is,
+&nbsp;&nbsp;&nbsp;&nbsp;But my wrath shall overtake you,
+&nbsp;&nbsp;&nbsp;&nbsp;But my vengeance shall attain you!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And so near he came, so near him,
+&nbsp;&nbsp;&nbsp;&nbsp;That his hand was stretched to seize him,
+&nbsp;&nbsp;&nbsp;&nbsp;His right hand to seize and hold him,
+&nbsp;&nbsp;&nbsp;&nbsp;When the cunning Pau-Puk-Keewis
+&nbsp;&nbsp;&nbsp;&nbsp;Whirled and spun about in circles,
+&nbsp;&nbsp;&nbsp;&nbsp;Fanned the air into a whirlwind,
+&nbsp;&nbsp;&nbsp;&nbsp;Danced the dust and leaves about him,
+&nbsp;&nbsp;&nbsp;&nbsp;And amid the whirling eddies
+&nbsp;&nbsp;&nbsp;&nbsp;Sprang into a hollow oak-tree,
+&nbsp;&nbsp;&nbsp;&nbsp;Changed himself into a serpent,
+&nbsp;&nbsp;&nbsp;&nbsp;Gliding out through root and rubbish.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With his right hand Hiawatha
+&nbsp;&nbsp;&nbsp;&nbsp;Smote amain the hollow oak-tree,
+&nbsp;&nbsp;&nbsp;&nbsp;Rent it into shreds and splinters,
+&nbsp;&nbsp;&nbsp;&nbsp;Left it lying there in fragments.
+&nbsp;&nbsp;&nbsp;&nbsp;But in vain; for Pau-Puk-Keewis,
+&nbsp;&nbsp;&nbsp;&nbsp;Once again in human figure,
+&nbsp;&nbsp;&nbsp;&nbsp;Full in sight ran on before him,
+&nbsp;&nbsp;&nbsp;&nbsp;Sped away in gust and whirlwind,
+&nbsp;&nbsp;&nbsp;&nbsp;On the shores of Gitche Gumee,
+&nbsp;&nbsp;&nbsp;&nbsp;Westward by the Big-Sea-Water,
+&nbsp;&nbsp;&nbsp;&nbsp;Came unto the rocky headlands,
+&nbsp;&nbsp;&nbsp;&nbsp;To the Pictured Rocks of sandstone,
+&nbsp;&nbsp;&nbsp;&nbsp;Looking over lake and landscape.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the Old Man of the Mountain,
+&nbsp;&nbsp;&nbsp;&nbsp;He the Manito of Mountains,
+&nbsp;&nbsp;&nbsp;&nbsp;Opened wide his rocky doorways,
+&nbsp;&nbsp;&nbsp;&nbsp;Opened wide his deep abysses,
+&nbsp;&nbsp;&nbsp;&nbsp;Giving Pau-Puk-Keewis shelter
+&nbsp;&nbsp;&nbsp;&nbsp;In his caverns dark and dreary,
+&nbsp;&nbsp;&nbsp;&nbsp;Bidding Pau-Puk-Keewis welcome
+&nbsp;&nbsp;&nbsp;&nbsp;To his gloomy lodge of sandstone.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There without stood Hiawatha,
+&nbsp;&nbsp;&nbsp;&nbsp;Found the doorways closed against him,
+&nbsp;&nbsp;&nbsp;&nbsp;With his mittens, Minjekahwun,
+&nbsp;&nbsp;&nbsp;&nbsp;Smote great caverns in the sandstone,
+&nbsp;&nbsp;&nbsp;&nbsp;Cried aloud in tones of thunder,
+&nbsp;&nbsp;&nbsp;&nbsp;"Open! I am Hiawatha!"
+&nbsp;&nbsp;&nbsp;&nbsp;But the Old Man of the Mountain
+&nbsp;&nbsp;&nbsp;&nbsp;Opened not, and made no answer
+&nbsp;&nbsp;&nbsp;&nbsp;From the silent crags of sandstone,
+&nbsp;&nbsp;&nbsp;&nbsp;From the gloomy rock abysses.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then he raised his hands to heaven,
+&nbsp;&nbsp;&nbsp;&nbsp;Called imploring on the tempest,
+&nbsp;&nbsp;&nbsp;&nbsp;Called Waywassimo, the lightning,
+&nbsp;&nbsp;&nbsp;&nbsp;And the thunder, Annemeekee;
+&nbsp;&nbsp;&nbsp;&nbsp;And they came with night and darkness,
+&nbsp;&nbsp;&nbsp;&nbsp;Sweeping down the Big-Sea-Water
+&nbsp;&nbsp;&nbsp;&nbsp;From the distant Thunder Mountains;
+&nbsp;&nbsp;&nbsp;&nbsp;And the trembling Pau-Puk-Keewis
+&nbsp;&nbsp;&nbsp;&nbsp;Heard the footsteps of the thunder,
+&nbsp;&nbsp;&nbsp;&nbsp;Saw the red eyes of the lightning,
+&nbsp;&nbsp;&nbsp;&nbsp;Was afraid, and crouched and trembled.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then Waywassimo, the lightning,
+&nbsp;&nbsp;&nbsp;&nbsp;Smote the doorways of the caverns,
+&nbsp;&nbsp;&nbsp;&nbsp;With his war-club smote the doorways,
+&nbsp;&nbsp;&nbsp;&nbsp;Smote the jutting crags of sandstone,
+&nbsp;&nbsp;&nbsp;&nbsp;And the thunder, Annemeekee,
+&nbsp;&nbsp;&nbsp;&nbsp;Shouted down into the caverns,
+&nbsp;&nbsp;&nbsp;&nbsp;Saying, "Where is Pau-Puk-Keewis!"
+&nbsp;&nbsp;&nbsp;&nbsp;And the crags fell, and beneath them
+&nbsp;&nbsp;&nbsp;&nbsp;Dead among the rocky ruins
+&nbsp;&nbsp;&nbsp;&nbsp;Lay the cunning Pau-Puk-Keewis,
+&nbsp;&nbsp;&nbsp;&nbsp;Lay the handsome Yenadizze,
+&nbsp;&nbsp;&nbsp;&nbsp;Slain in his own human figure.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ended were his wild adventures,
+&nbsp;&nbsp;&nbsp;&nbsp;Ended were his tricks and gambols,
+&nbsp;&nbsp;&nbsp;&nbsp;Ended all his craft and cunning,
+&nbsp;&nbsp;&nbsp;&nbsp;Ended all his mischief-making,
+&nbsp;&nbsp;&nbsp;&nbsp;All his gambling and his dancing,
+&nbsp;&nbsp;&nbsp;&nbsp;All his wooing of the maidens.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then the noble Hiawatha
+&nbsp;&nbsp;&nbsp;&nbsp;Took his soul, his ghost, his shadow,
+&nbsp;&nbsp;&nbsp;&nbsp;Spake and said: "O Pau-Puk-Keewis,
+&nbsp;&nbsp;&nbsp;&nbsp;Never more in human figure
+&nbsp;&nbsp;&nbsp;&nbsp;Shall you search for new adventures;
+&nbsp;&nbsp;&nbsp;&nbsp;Never more with jest and laughter
+&nbsp;&nbsp;&nbsp;&nbsp;Dance the dust and leaves in whirlwinds;
+&nbsp;&nbsp;&nbsp;&nbsp;But above there in the heavens
+&nbsp;&nbsp;&nbsp;&nbsp;You shall soar and sail in circles;
+&nbsp;&nbsp;&nbsp;&nbsp;I will change you to an eagle,
+&nbsp;&nbsp;&nbsp;&nbsp;To Keneu, the great war-eagle,
+&nbsp;&nbsp;&nbsp;&nbsp;Chief of all the fowls with feathers,
+&nbsp;&nbsp;&nbsp;&nbsp;Chief of Hiawatha's chickens."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the name of Pau-Puk-Keewis
+&nbsp;&nbsp;&nbsp;&nbsp;Lingers still among the people,
+&nbsp;&nbsp;&nbsp;&nbsp;Lingers still among the singers,
+&nbsp;&nbsp;&nbsp;&nbsp;And among the story-tellers;
+&nbsp;&nbsp;&nbsp;&nbsp;And in Winter, when the snow-flakes
+&nbsp;&nbsp;&nbsp;&nbsp;Whirl in eddies round the lodges,
+&nbsp;&nbsp;&nbsp;&nbsp;When the wind in gusty tumult
+&nbsp;&nbsp;&nbsp;&nbsp;O'er the smoke-flue pipes and whistles,
+&nbsp;&nbsp;&nbsp;&nbsp;"There," they cry, "comes Pau-Puk-Keewis;
+&nbsp;&nbsp;&nbsp;&nbsp;He is dancing through the village,
+&nbsp;&nbsp;&nbsp;&nbsp;He is gathering in his harvest!"
 </pre>

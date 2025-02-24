@@ -1,30 +1,15 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;Hither hither, love
-&nbsp;&nbsp;&nbsp;&nbsp;'Tis a shady mead
-&nbsp;&nbsp;&nbsp;&nbsp;Hither, hither, love!
-&nbsp;&nbsp;&nbsp;&nbsp;Let us feed and feed!
-
-&nbsp;&nbsp;&nbsp;&nbsp;Hither, hither, sweet
-&nbsp;&nbsp;&nbsp;&nbsp;'Tis a cowslip bed
-&nbsp;&nbsp;&nbsp;&nbsp;Hither, hither, sweet!
-&nbsp;&nbsp;&nbsp;&nbsp;'Tis with dew bespread!
-
-&nbsp;&nbsp;&nbsp;&nbsp;Hither, hither, dear
-&nbsp;&nbsp;&nbsp;&nbsp;By the breath of life,
-&nbsp;&nbsp;&nbsp;&nbsp;Hither, hither, dear!
-&nbsp;&nbsp;&nbsp;&nbsp;Be the summer's wife!
-
-&nbsp;&nbsp;&nbsp;&nbsp;Though one moment's pleasure
-&nbsp;&nbsp;&nbsp;&nbsp;In one moment flies
-&nbsp;&nbsp;&nbsp;&nbsp;Though the passion's treasure
-&nbsp;&nbsp;&nbsp;&nbsp;In one moment dies;
-
-&nbsp;&nbsp;&nbsp;&nbsp;Yet it has not passed,
-&nbsp;&nbsp;&nbsp;&nbsp;Think how near, how near!
-&nbsp;&nbsp;&nbsp;&nbsp;And while it doth last,
-&nbsp;&nbsp;&nbsp;&nbsp;Think how dear, how dear!
-
-&nbsp;&nbsp;&nbsp;&nbsp;Hither, hither, hither
-&nbsp;&nbsp;&nbsp;&nbsp;Love its boon has sent
-&nbsp;&nbsp;&nbsp;&nbsp;If I die and wither
-&nbsp;&nbsp;&nbsp;&nbsp;I shall die content!
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;Time's sea hath been five years at its slow ebb,
+&nbsp;&nbsp;&nbsp;&nbsp;Long hours have to and fro let creep the sand,
+&nbsp;&nbsp;&nbsp;&nbsp;Since I was tangled in thy beauty's web,
+&nbsp;&nbsp;&nbsp;&nbsp;And snared by the ungloving of thine hand.
+&nbsp;&nbsp;&nbsp;&nbsp;And yet I never look on midnight sky,
+&nbsp;&nbsp;&nbsp;&nbsp;But I behold thine eyes' well memory'd light;
+&nbsp;&nbsp;&nbsp;&nbsp;I cannot look upon the rose's dye,
+&nbsp;&nbsp;&nbsp;&nbsp;But to thy cheek my soul doth take its flight.
+&nbsp;&nbsp;&nbsp;&nbsp;I cannot look on any budding flower,
+&nbsp;&nbsp;&nbsp;&nbsp;But my fond ear, in fancy at thy lips
+&nbsp;&nbsp;&nbsp;&nbsp;And hearkening for a love-sound, doth devour
+&nbsp;&nbsp;&nbsp;&nbsp;Its sweets in the wrong sense: Thou dost eclipse
+&nbsp;&nbsp;&nbsp;&nbsp;Every delight with sweet remembering,
+&nbsp;&nbsp;&nbsp;&nbsp;And grief unto my darling joys dost bring.
 </pre>

@@ -1,6 +1,15 @@
-<pre>
-&nbsp;&nbsp;&nbsp;&nbsp;Soft through the silent air descend the feathery snow-flakes;
-&nbsp;&nbsp;&nbsp;&nbsp;White are the distant hills, white are the neighboring fields;
-&nbsp;&nbsp;&nbsp;&nbsp;Only the marshes are brown, and the river rolling among them
-&nbsp;&nbsp;&nbsp;&nbsp;Weareth the leaden hue seen in the eyes of the blind.
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;Where are the Poets, unto whom belong
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Olympian heights; whose singing shafts were sent
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Straight to the mark, and not from bows half bent,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But with the utmost tension of the thong?
+&nbsp;&nbsp;&nbsp;&nbsp;Where are the stately argosies of song,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Whose rushing keels made music as they went
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sailing in search of some new continent,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With all sail set, and steady winds and strong?
+&nbsp;&nbsp;&nbsp;&nbsp;Perhaps there lives some dreamy boy, untaught
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In schools, some graduate of the field or street,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Who shall become a master of the art,
+&nbsp;&nbsp;&nbsp;&nbsp;An admiral sailing the high seas of thought,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fearless and first and steering with his fleet
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For lands not yet laid down in any chart.
 </pre>

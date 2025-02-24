@@ -1,61 +1,143 @@
-<pre>We've got the cholerer in camp, it's worse than forty fights;
-We're dyin' in the wilderness the same as Isrulites.
-It's before us, an' be'ind us, an' we cannot get away,
-An' the doctor's just reported we've ten more to-day!
- 
-Oh, strike your camp an' go, the Bugle's callin',
-The Rains are fallin',
-The dead are bushed an' stoned to keep 'em safe below.
-The Band's a-doin' all she knows to cheer us;
-The Chaplain's gone and prayed to Gawd to 'ear us,
-To 'ear us,
-O Lord, for it's a-killin' of us so!
- 
-Since August, when it started, it's been stickin' to our tail,
-Though they've 'ad us out by marches an' they've 'ad us back by rail;
-But it runs as fast as troop trains, and we cannot get away;
-An' the sick-list to the Colonel makes ten more to-day.
- 
-There ain't no fun in women nor there ain't no bite to drink;
-It's much too wet for shootin'; we can only march and think;
-An' at evenin', down the nullahs, we can 'ear the jackals say,
-"Get up, you rotten beggars, you've ten more to-day!"
- 
-'Twould make a monkey cough to see our way o' doin' things,
-Lieutenants takin' companies an' captains takin' wings,
-An' Lances actin' Sergeants, eight file to obey,
-For we've lots o' quick promotion on ten deaths a day!
- 
-Our Colonel's white an' twitterly, 'e gets no sleep nor food,
-But mucks about in 'orspital where nothing does no good.
-'E sends us 'eaps o' comforts, all bought from 'is pay,
-But there aren't much comfort 'andy on ten deaths a day.
- 
-Our Chaplain's got a banjo, an' a skinny mule 'e rides,
-An' the stuff 'e says an' sings us, Lord, it makes us split our sides!
-With 'is black coat-tails a-bobbin' to Ta-ra-ra Boom-der-ay!
-'E's the proper kind o' padre for ten deaths a day.
- 
-An' Father Victor 'elps 'im with our Roman Catholicks,
-He knows an 'eap of Irish songs an' rummy conjurin' tricks;
-An' the two they works together when it comes to play or pray;
-So we keep the ball a-rollin' on ten deaths a day.
- 
-We've got the cholerer in camp, we've got it 'ot an' sweet.
-It ain't no Christmas dinner, but it's 'elped an' we must eat.
-We've gone beyond the funkin', 'cause we've found it doesn't pay,
-An' we're rockin' round the Districk on ten deaths a day!
- 
-Then strike your camp an' go, the Rains are fallin',
-The Bugle's callin'!
-The dead are bushed an' stoned to keep 'em safe below!
-An' them that do not like it they can lump it,
-An' them that cannot stand it they can jump it;
-We've got to die somewhere, some way, some'ow,
-We might as well begin to do it now!
-Then, Number One, let down the tent-pole slow,
-Knock out the pegs an' 'old the corners, so!
-Fold in the flies, furl up the ropes, an' stow!
-Oh, strike, oh, strike your camp an' go!
-(Gawd 'elp us!)
+<pre>ACT II. SCENE 2.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;The pavilion in the Gardens. Enter FERDINAND and the KING
+
+&nbsp;&nbsp;&nbsp;&nbsp;FERDINAND. Your tiercels too long at hack, Sir. Hes no eyass
+&nbsp;&nbsp;&nbsp;&nbsp;But a passage-hawk that footed ere we caught him,
+&nbsp;&nbsp;&nbsp;&nbsp;Dangerously free o the air. Faith were he mine
+&nbsp;&nbsp;&nbsp;&nbsp;(As mines the glove he binds to for his tirings)
+&nbsp;&nbsp;&nbsp;&nbsp;Id fly him with a make-hawk. Hes in yarak
+&nbsp;&nbsp;&nbsp;&nbsp;Plumed to the very point. So manned so, weathered!
+&nbsp;&nbsp;&nbsp;&nbsp;Give him the firmament God made him for
+&nbsp;&nbsp;&nbsp;&nbsp;And what shall take the air of him?
+
+&nbsp;&nbsp;&nbsp;&nbsp;THE KING. A young wing yet
+&nbsp;&nbsp;&nbsp;&nbsp;Bold, overbold on the perch but, think you, Ferdinand,
+&nbsp;&nbsp;&nbsp;&nbsp;He can endure the raw skies yonder? Cozen
+&nbsp;&nbsp;&nbsp;&nbsp;Advantage out of the teeth of the hurricane?
+&nbsp;&nbsp;&nbsp;&nbsp;Choose his own mate against the lammer-geier?
+&nbsp;&nbsp;&nbsp;&nbsp;Ride out a night-long tempest, hold his pitch
+&nbsp;&nbsp;&nbsp;&nbsp;Between the lightning and the cloud it leaps from,
+&nbsp;&nbsp;&nbsp;&nbsp;Never too pressed to kill?
+
+&nbsp;&nbsp;&nbsp;&nbsp;FERDINAND. Ill answer for him.
+&nbsp;&nbsp;&nbsp;&nbsp;Bating all parable, I know the Prince.
+&nbsp;&nbsp;&nbsp;&nbsp;Theres a bleak devil in the young, my Lord;
+&nbsp;&nbsp;&nbsp;&nbsp;God put it there to save em from their elders
+&nbsp;&nbsp;&nbsp;&nbsp;And break their fathers heart, but bear them scatheless
+&nbsp;&nbsp;&nbsp;&nbsp;Through mire and thorns and blood if need be. Think
+&nbsp;&nbsp;&nbsp;&nbsp;What our prime saw! Such glory, such achievements
+&nbsp;&nbsp;&nbsp;&nbsp;As now our children, wondering at, examine
+&nbsp;&nbsp;&nbsp;&nbsp;Themselves to see if they shall hardly equal.
+&nbsp;&nbsp;&nbsp;&nbsp;But what cared we while we wrought the wonders? Nothing!
+&nbsp;&nbsp;&nbsp;&nbsp;The rampant deed contented.
+
+&nbsp;&nbsp;&nbsp;&nbsp;THE KING. Little enough. God knows! But afterwards., after,
+&nbsp;&nbsp;&nbsp;&nbsp;Then comes the reckoning. I would save him that.
+
+&nbsp;&nbsp;&nbsp;&nbsp;FERDINAND. Save him dry scars that ache of winternights,
+&nbsp;&nbsp;&nbsp;&nbsp;Worn out self-pity and as much of knowledge
+&nbsp;&nbsp;&nbsp;&nbsp;As makes old men fear judgment? Then loose him, loose him
+&nbsp;&nbsp;&nbsp;&nbsp;A Gods name loose him to adventure early!
+&nbsp;&nbsp;&nbsp;&nbsp;And trust some random pike, or half-backed horse,
+&nbsp;&nbsp;&nbsp;&nbsp;Besides whats caught in Italy, to save him.
+
+&nbsp;&nbsp;&nbsp;&nbsp;THE KING. I know. I know. And yet. . . . What stirs in the garden?
+
+&nbsp;&nbsp;&nbsp;&nbsp;Enter GOW and a GARDENER bearing the Princes body
+
+&nbsp;&nbsp;&nbsp;&nbsp;FERDINAND. (Gods give me patience!) Gow and a gardener
+&nbsp;&nbsp;&nbsp;&nbsp;Bearing some load along in the dusk to the dunghill.
+&nbsp;&nbsp;&nbsp;&nbsp;Nay, a dead branch,&nbsp;&nbsp;&nbsp;&nbsp;But as I said, the Prince, ,
+
+&nbsp;&nbsp;&nbsp;&nbsp;THE KING. Theyve laid it down. Strange they should work so late.
+
+&nbsp;&nbsp;&nbsp;&nbsp;GOW (setting down the body). Heark, you unsanctified fool while I set out our story. We found it, this side the North Park wall which it had climbed to pluck nectarines from the alley. Heark again! There was a nectarine in its hand when we found it, and the naughty brick that slipped from the coping beneath its foot and so caused its death, lies now under the wall for the King to see.
+
+&nbsp;&nbsp;&nbsp;&nbsp;THE KING (above). The King to see! Why should he? Whos the man?
+
+&nbsp;&nbsp;&nbsp;&nbsp;GOW. That is your tale. Swerve from it by so much as the breadth of my dagger and heres your instant reward. You heard not, saw not, and by the Horns of ninefold-cuckolded Jupiter you thought not nor dreamed not anything more or other!
+
+&nbsp;&nbsp;&nbsp;&nbsp;THE KING. Ninefold-cuckolded Jupiter. Thats a rare oath! Shall we look closer?
+
+&nbsp;&nbsp;&nbsp;&nbsp;FERDINAND. Not yet, my Lord! (I cannot hear him breathe.)
+
+&nbsp;&nbsp;&nbsp;&nbsp;GARDENER. The North Park wall? It was so. Plucking nectarines. It shall be. But how shall I say if any ask why our Lady the Queen, ,
+
+&nbsp;&nbsp;&nbsp;&nbsp;GOW (stabs him). Thus! Hie after the Prince and tell him yare the first fruits of his nectarine tree. Bleed there behind the laurels.
+
+&nbsp;&nbsp;&nbsp;&nbsp;THE KING. Why did Gow buffet the clown? What said he? Ill go look.
+
+&nbsp;&nbsp;&nbsp;&nbsp;FERDINAND (above). Save yourself! It is the King!
+
+&nbsp;&nbsp;&nbsp;&nbsp;Enter the KING and FERDINAND to GOW
+
+&nbsp;&nbsp;&nbsp;&nbsp;GOW. God save you! This was the Prince!
+
+&nbsp;&nbsp;&nbsp;&nbsp;THE KING. The Prince! Not a dead branch? (Uncovers the face.)
+&nbsp;&nbsp;&nbsp;&nbsp;My flesh and blood! My son! my son! my son!
+
+&nbsp;&nbsp;&nbsp;&nbsp;FERDINAND (to Gow). I had feared something of this. And that fool yonder?
+
+&nbsp;&nbsp;&nbsp;&nbsp;GOW. Dead, or as good. He cannot speak.
+
+&nbsp;&nbsp;&nbsp;&nbsp;FERDINAND. Better so.
+
+&nbsp;&nbsp;&nbsp;&nbsp;THE KING. Loosed to adventure early! Tell the tale.
+
+&nbsp;&nbsp;&nbsp;&nbsp;GOW. Saddest truth alack! I came upon him not a half hour since, fallen from the North Park wall over against the Deerpark side, dead, dead!, a nectarine in his hand that the dear lad must have climbed for, and plucked the very instant, look you, that a brick slipped on the coping. Tis there now. So I lifted him, but his neck was as you see, and already cold.
+
+&nbsp;&nbsp;&nbsp;&nbsp;THE KING. Oh, very cold. But why should he have troubled to climb? He was free of all the fruit in my garden God knows! . . . What, Gow?
+
+&nbsp;&nbsp;&nbsp;&nbsp;GOW. Surely, God knows!
+
+&nbsp;&nbsp;&nbsp;&nbsp;THE KING. A lads trick. But I love him the better for it . . . . True, hes past loving . . . . And now we must tell our Queen. What a coil at the days end! Shell grieve for him. Not as I shall, Ferdinand, but as youth for youth. They were much of the same age. Playmate for playmate. See, he wears her colours. That is the knot she gave him last, last . . . . Oh God! When was yesterday?
+
+&nbsp;&nbsp;&nbsp;&nbsp;FERDINAND. Come in! Come in, my Lord. Theres a dew falling.
+
+&nbsp;&nbsp;&nbsp;&nbsp;THE KING. Hell take no harm of it. Ill follow presently.
+&nbsp;&nbsp;&nbsp;&nbsp;Hes all his mothers now and none of mine,
+&nbsp;&nbsp;&nbsp;&nbsp;Her very face on the bride-pillow. Yet I tricked her.
+&nbsp;&nbsp;&nbsp;&nbsp;But that was later, and she never guessed.
+&nbsp;&nbsp;&nbsp;&nbsp;I do not think he sinned much, hes too young,
+&nbsp;&nbsp;&nbsp;&nbsp;Much the same age as my Queen. God must not judge him
+&nbsp;&nbsp;&nbsp;&nbsp;Too hardly for such slips as youth may fall in.
+&nbsp;&nbsp;&nbsp;&nbsp;But Ill entreat that Throne.
+&nbsp;&nbsp;&nbsp;&nbsp;(Prays by the body.)
+
+&nbsp;&nbsp;&nbsp;&nbsp;GOW. The Heavens hold up still. Earth opens not and this dews mere water. What shall a man think of it all? (To GARDENER.) Not dead yet, sirrah? I bade you follow the Prince. Despatch!
+
+&nbsp;&nbsp;&nbsp;&nbsp;GARDENER. Some kind soul pluck out the dagger. Why did you slay me? Id done no wrong. Id ha kept it secret till my dying day. But not now, not now! Im dying. The Prince fell from the Queens chamber window. I saw it in the nut-alley. He was, ,
+
+&nbsp;&nbsp;&nbsp;&nbsp;FERDINAND. But what made you in the nut-alley at that hour?
+
+&nbsp;&nbsp;&nbsp;&nbsp;GARDENER. No wrong. No more than another mans wife. Jocasta of the still-room. Shed kissed me good-night too; but thats over with the rest . . . . Ive stumbled on the Princes beastly loves, and I pay for all. Let me pass!
+
+&nbsp;&nbsp;&nbsp;&nbsp;GOW. Count it your fortune, honest man. You would have revealed it to your woman at the next meeting. You fleshmongers are all one feather. (Plucks out the dagger.)
+&nbsp;&nbsp;&nbsp;&nbsp;Go in peace and lay your death to Fortunes door. Hes sped, thank Fortune!
+
+&nbsp;&nbsp;&nbsp;&nbsp;FERDINAND. Who knows not Fortune, glutted on easy thrones,
+&nbsp;&nbsp;&nbsp;&nbsp;Stealing from feasts as rare to coney-catch
+&nbsp;&nbsp;&nbsp;&nbsp;Privily in the hedgerows for a clown,
+&nbsp;&nbsp;&nbsp;&nbsp;With that same cruel-lustful hand and eye,
+&nbsp;&nbsp;&nbsp;&nbsp;Those nails and wedges, that one hammer and lead,
+&nbsp;&nbsp;&nbsp;&nbsp;And the very gerb of long-stored lightning loosed.
+&nbsp;&nbsp;&nbsp;&nbsp;Yesterday gainst some King.
+
+&nbsp;&nbsp;&nbsp;&nbsp;THE KING. I have pursued with prayers where my heart warns me
+&nbsp;&nbsp;&nbsp;&nbsp;My soul shall overtake,
+
+&nbsp;&nbsp;&nbsp;&nbsp;Enter the QUEEN
+
+&nbsp;&nbsp;&nbsp;&nbsp;THE KING. Look not! Wait till I tell you, dearest. . . .
+&nbsp;&nbsp;&nbsp;&nbsp;Air! . . .
+&nbsp;&nbsp;&nbsp;&nbsp;Loosed to adventure early
+&nbsp;&nbsp;&nbsp;&nbsp;. . . I go late. (Dies.)
+
+&nbsp;&nbsp;&nbsp;&nbsp;GOW. So! God hath cut off the Prince in his pleasures. Gow, to save the King, hath silenced one poor fool who knew how it befell, and, now the Kings dead, needs only that the Queen should kill Gow and alls safe for her this side o the judgment . . . . Señor Ferdinand, the winds easterly. Im for the road.
+
+&nbsp;&nbsp;&nbsp;&nbsp;FERDINAND. My horse is at the gate. God speed you. Whither?
+
+&nbsp;&nbsp;&nbsp;&nbsp;GOW. To the Duke, if the Queen does not lay hands on me before. However it goes, I charge you bear witness, Señor Ferdinand, I served the old King faithfully. To the death, Señor Ferdinand, to the death!
 </pre>

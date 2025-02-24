@@ -1,15 +1,43 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;Say, lad, have you things to do?
-&nbsp;&nbsp;&nbsp;&nbsp;Quick then, while your day's at prime.
-&nbsp;&nbsp;&nbsp;&nbsp;Quick, and if 'tis work for two,
-&nbsp;&nbsp;&nbsp;&nbsp;Here am I, man: now's your time.
+<pre>
+&nbsp;&nbsp;&nbsp;&nbsp;When summer's end is nighing
+&nbsp;&nbsp;&nbsp;&nbsp;And skies at evening cloud,
+&nbsp;&nbsp;&nbsp;&nbsp;I muse on change and fortune
+&nbsp;&nbsp;&nbsp;&nbsp;And all the feats I vowed
+&nbsp;&nbsp;&nbsp;&nbsp;When I was young and proud.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Send me now, and I shall go;
-&nbsp;&nbsp;&nbsp;&nbsp;Call me, I shall hear you call;
-&nbsp;&nbsp;&nbsp;&nbsp;Use me ere they lay me low
-&nbsp;&nbsp;&nbsp;&nbsp;Where a man's no use at all;
+&nbsp;&nbsp;&nbsp;&nbsp;The weathercock at sunset
+&nbsp;&nbsp;&nbsp;&nbsp;Would lose the slanted ray,
+&nbsp;&nbsp;&nbsp;&nbsp;And I would climb the beacon
+&nbsp;&nbsp;&nbsp;&nbsp;That looked to Wales away
+&nbsp;&nbsp;&nbsp;&nbsp;And saw the last of day.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Ere the wholesome flesh decay,
-&nbsp;&nbsp;&nbsp;&nbsp;And the willing nerve be numb,
-&nbsp;&nbsp;&nbsp;&nbsp;And the lips lack breath to say,
-&nbsp;&nbsp;&nbsp;&nbsp;"No, my lad, I cannot come."
+&nbsp;&nbsp;&nbsp;&nbsp;From hill and cloud and heaven
+&nbsp;&nbsp;&nbsp;&nbsp;The hues of evening died;
+&nbsp;&nbsp;&nbsp;&nbsp;Night welled through lane and hollow
+&nbsp;&nbsp;&nbsp;&nbsp;And hushed the countryside,
+&nbsp;&nbsp;&nbsp;&nbsp;But I had youth and pride.
+
+&nbsp;&nbsp;&nbsp;&nbsp;And I with earth and nightfall
+&nbsp;&nbsp;&nbsp;&nbsp;In converse high would stand,
+&nbsp;&nbsp;&nbsp;&nbsp;Late, till the west was ashen
+&nbsp;&nbsp;&nbsp;&nbsp;And darkness hard at hand,
+&nbsp;&nbsp;&nbsp;&nbsp;And the eye lost the land.
+
+&nbsp;&nbsp;&nbsp;&nbsp;The year might age, and cloudy
+&nbsp;&nbsp;&nbsp;&nbsp;The lessening day might close,
+&nbsp;&nbsp;&nbsp;&nbsp;But air of other summers
+&nbsp;&nbsp;&nbsp;&nbsp;Breathed from beyond the snows,
+&nbsp;&nbsp;&nbsp;&nbsp;And I had hope of those.
+
+&nbsp;&nbsp;&nbsp;&nbsp;They came and were and are not
+&nbsp;&nbsp;&nbsp;&nbsp;And come no more anew;
+&nbsp;&nbsp;&nbsp;&nbsp;And all the years and seasons
+&nbsp;&nbsp;&nbsp;&nbsp;That ever can ensue
+&nbsp;&nbsp;&nbsp;&nbsp;Must now be worse and few.
+
+&nbsp;&nbsp;&nbsp;&nbsp;So here's an end of roaming
+&nbsp;&nbsp;&nbsp;&nbsp;On eves when autumn nighs:
+&nbsp;&nbsp;&nbsp;&nbsp;The ear too fondly listens
+&nbsp;&nbsp;&nbsp;&nbsp;For summer's parting sighs,
+&nbsp;&nbsp;&nbsp;&nbsp;And then the heart replies.
 </pre>

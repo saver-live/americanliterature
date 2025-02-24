@@ -1,60 +1,34 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;Leafless are the trees; their purple branches
-&nbsp;&nbsp;&nbsp;&nbsp;Spread themselves abroad, like reefs of coral,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rising silent
-&nbsp;&nbsp;&nbsp;&nbsp;In the Red Sea of the Winter sunset.
+<pre>
+In dark fens of the Dismal Swamp
+The hunted Negro lay;
+He saw the fire of the midnight camp,
+And heard at times a horse's tramp
+And a bloodhound's distant bay.
+Where will-o'-the-wisps and glowworms shine,
+In bulrush and in brake;
+Where waving mosses shroud the pine,
+And the cedar grows, and the poisonous vine
+Is spotted like the snake;[Pg 19]
+Where hardly a human foot could pass,
+Or a human heart would dare,
+On the quaking turf of the green morass
+He crouched in the rank and tangled grass,
+Like a wild beast in his lair.
+A poor old slave, infirm and lame;
+Great scars deformed his face;
+On his forehead he bore the brand of shame,
+And the rags, that hid his mangled frame,
+Were the livery of disgrace.
+All things above were bright and fair,
+All things were glad and free;
+Lithe squirrels darted here and there,
+And wild birds filled the echoing air
+With songs of Liberty![Pg 20]
+On him alone was the doom of pain,
+From the morning of his birth;
+On him alone the curse of Cain
+Fell, like a flail on the garnered grain,
+And struck him to the earth!
 
-&nbsp;&nbsp;&nbsp;&nbsp;From the hundred chimneys of the village,
-&nbsp;&nbsp;&nbsp;&nbsp;Like the Afreet in the Arabian story,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Smoky columns
-&nbsp;&nbsp;&nbsp;&nbsp;Tower aloft into the air of amber.
 
-&nbsp;&nbsp;&nbsp;&nbsp;At the window winks the flickering fire-light;
-&nbsp;&nbsp;&nbsp;&nbsp;Here and there the lamps of evening glimmer,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Social watch-fires
-&nbsp;&nbsp;&nbsp;&nbsp;Answering one another through the darkness.
-
-&nbsp;&nbsp;&nbsp;&nbsp;On the hearth the lighted logs are glowing,
-&nbsp;&nbsp;&nbsp;&nbsp;And like Ariel in the cloven pine-tree
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For its freedom
-&nbsp;&nbsp;&nbsp;&nbsp;Groans and sighs the air imprisoned in them.
-
-&nbsp;&nbsp;&nbsp;&nbsp;By the fireside there are old men seated,
-&nbsp;&nbsp;&nbsp;&nbsp;Seeing ruined cities in the ashes,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Asking sadly
-&nbsp;&nbsp;&nbsp;&nbsp;Of the Past what it can ne'er restore them.
-
-&nbsp;&nbsp;&nbsp;&nbsp;By the fireside there are youthful dreamers,
-&nbsp;&nbsp;&nbsp;&nbsp;Building castles fair, with stately stairways,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Asking blindly
-&nbsp;&nbsp;&nbsp;&nbsp;Of the Future what it cannot give them.
-
-&nbsp;&nbsp;&nbsp;&nbsp;By the fireside tragedies are acted
-&nbsp;&nbsp;&nbsp;&nbsp;In whose scenes appear two actors only,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wife and husband,
-&nbsp;&nbsp;&nbsp;&nbsp;And above them God the sole spectator.
-
-&nbsp;&nbsp;&nbsp;&nbsp;By the fireside there are peace and comfort,
-&nbsp;&nbsp;&nbsp;&nbsp;Wives and children, with fair, thoughtful faces,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Waiting, watching
-&nbsp;&nbsp;&nbsp;&nbsp;For a well-known footstep in the passage.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Each man's chimney is his Golden Mile-stone;
-&nbsp;&nbsp;&nbsp;&nbsp;Is the central point, from which he measures
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Every distance
-&nbsp;&nbsp;&nbsp;&nbsp;Through the gateways of the world around him.
-
-&nbsp;&nbsp;&nbsp;&nbsp;In his farthest wanderings still he sees it;
-&nbsp;&nbsp;&nbsp;&nbsp;Hears the talking flame, the answering night-wind,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As he heard them
-&nbsp;&nbsp;&nbsp;&nbsp;When he sat with those who were, but are not.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Happy he whom neither wealth nor fashion,
-&nbsp;&nbsp;&nbsp;&nbsp;Nor the march of the encroaching city,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Drives an exile
-&nbsp;&nbsp;&nbsp;&nbsp;From the hearth of his ancestral homestead.
-
-&nbsp;&nbsp;&nbsp;&nbsp;We may build more splendid habitations,
-&nbsp;&nbsp;&nbsp;&nbsp;Fill our rooms with paintings and with sculptures,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But we cannot
-&nbsp;&nbsp;&nbsp;&nbsp;Buy with gold the old associations!
 </pre>

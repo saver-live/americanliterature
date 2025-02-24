@@ -1,16 +1,7 @@
-<pre>
-&nbsp;&nbsp;&nbsp;&nbsp;St. Botolph's Town!&nbsp;&nbsp;&nbsp;&nbsp;Hither across the plains
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And fens of Lincolnshire, in garb austere,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There came a Saxon monk, and founded here
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Priory, pillaged by marauding Danes,
-&nbsp;&nbsp;&nbsp;&nbsp;So that thereof no vestige now remains;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Only a name, that, spoken loud and clear,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And echoed in another hemisphere,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Survives the sculptured walls and painted panes.
-&nbsp;&nbsp;&nbsp;&nbsp;St. Botolph's Town!&nbsp;&nbsp;&nbsp;&nbsp;Far over leagues of land
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And leagues of sea looks forth its noble tower,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And far around the chiming bells are heard;
-&nbsp;&nbsp;&nbsp;&nbsp;So may that sacred name forever stand
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A landmark, and a symbol of the power,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That lies concentred in a single word.
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;O traveller, stay thy weary feet;
+&nbsp;&nbsp;&nbsp;&nbsp;Drink of this fountain, pure and sweet;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It flows for rich and poor the same.
+&nbsp;&nbsp;&nbsp;&nbsp;Then go thy way, remembering still
+&nbsp;&nbsp;&nbsp;&nbsp;The wayside well beneath the hill,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The cup of water in His name.
 </pre>

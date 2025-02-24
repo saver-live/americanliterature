@@ -1,5 +1,4 @@
-<pre>
-<i>[Chorus]</i>
+<pre><i>[Chorus]</i>
 
 Yankee Doodle went to town
 A-riding on a pony,
@@ -22,7 +21,7 @@ As thick as hasty pudding.
  <div class="responsive-embed-16by9-iframe-youtube">
         
   <div class="embed-responsive embed-responsive-16by9">
-          <iframe class="embed-responsive-item" src="//www.youtube.com/embed/ca8va-5JL5U" allowfullscreen></iframe>
+          <iframe allowfullscreen class="embed-responsive-item" src="//www.youtube.com/embed/ca8va-5JL5U"></iframe>
         
   </div>
       
@@ -35,7 +34,7 @@ As rich as Squire David,
 And what they wasted every day,
 I wish it could be saved.
 
-<img alt="A.M. Willard, Yankee Doodle, Spirit of '76" title="A.M. Willard, Yankee Doodle, Spirit of '76" itemprop="image" src="https://assets.americanliterature.com/al/images/poem/yankee-doodle.jpeg" style="max-width:400px; float:center; margin-right: 12px; margin-bottom: 12px;" data-pagespeed-url-hash="957826043" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<img alt="A.M. Willard, Yankee Doodle, Spirit of '76" itemprop="image" src="https://assets.americanliterature.com/al/images/poem/yankee-doodle.jpeg" style="max-width:400px; float:center; margin-right: 12px; margin-bottom: 12px;" title="A.M. Willard, Yankee Doodle, Spirit of '76" data-pagespeed-url-hash="957826043" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
 
 <i>[Chorus]</i>
 

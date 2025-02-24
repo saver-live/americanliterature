@@ -1,0 +1,4 @@
+<p>The fields are chill, the sparse rain has stopped;<br> The colours of Spring teem on every side.<br> With leaping fish the blue pond is full;<br> With singing thrushes the green boughs droop.<br> The flowers of the field have dabbled their powdered cheeks;<br> The mountain grasses are bent level at the waist.<br> By the bamboo stream the last fragment of cloud<br> Blown by the wind slowly scatters away.<br></p>
+<div class="poet" itemprop="author">
+ Li Po
+</div>

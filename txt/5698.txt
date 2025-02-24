@@ -1,16 +1,35 @@
-<pre>
-&nbsp;&nbsp;&nbsp;&nbsp;"A soldier of the Union mustered out,"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Is the inscription on an unknown grave
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At Newport News, beside the salt-sea wave,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nameless and dateless; sentinel or scout
-&nbsp;&nbsp;&nbsp;&nbsp;Shot down in skirmish, or disastrous rout
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of battle, when the loud artillery drave
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Its iron wedges through the ranks of brave
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And doomed battalions, storming the redoubt.
-&nbsp;&nbsp;&nbsp;&nbsp;Thou unknown hero sleeping by the sea
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In thy forgotten grave! with secret shame
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I feel my pulses beat, my forehead burn,
-&nbsp;&nbsp;&nbsp;&nbsp;When I remember thou hast given for me
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All that thou hadst, thy life, thy very name,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And I can give thee nothing in return.
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;By his evening fire the artist
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pondered o'er his secret shame;
+&nbsp;&nbsp;&nbsp;&nbsp;Baffled, weary, and disheartened,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Still he mused, and dreamed of fame.
+
+&nbsp;&nbsp;&nbsp;&nbsp;'T was an image of the Virgin
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That had tasked his utmost skill;
+&nbsp;&nbsp;&nbsp;&nbsp;But, alas! his fair ideal
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vanished and escaped him still.
+
+&nbsp;&nbsp;&nbsp;&nbsp;From a distant Eastern island
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Had the precious wood been brought
+&nbsp;&nbsp;&nbsp;&nbsp;Day and night the anxious master
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At his toil untiring wrought;
+
+&nbsp;&nbsp;&nbsp;&nbsp;Till, discouraged and desponding,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sat he now in shadows deep,
+&nbsp;&nbsp;&nbsp;&nbsp;And the day's humiliation
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Found oblivion in sleep.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Then a voice cried, "Rise, O master!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the burning brand of oak
+&nbsp;&nbsp;&nbsp;&nbsp;Shape the thought that stirs within thee!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the startled artist woke,--
+
+&nbsp;&nbsp;&nbsp;&nbsp;Woke, and from the smoking embers
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seized and quenched the glowing wood;
+&nbsp;&nbsp;&nbsp;&nbsp;And therefrom he carved an image,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And he saw that it was good.
+
+&nbsp;&nbsp;&nbsp;&nbsp;O thou sculptor, painter, poet!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Take this lesson to thy heart:
+&nbsp;&nbsp;&nbsp;&nbsp;That is best which lieth nearest;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shape from that thy work of art.
 </pre>

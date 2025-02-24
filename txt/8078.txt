@@ -1,18 +1,16 @@
-<pre> What does little birdie say
-In her nest at peep of day?
-Let me fly, says little birdie,
-Mother, let me fly away.
-Birdie, rest a little longer,
-Till thy little wings are stronger.
-So she rests a little longer,
-Then she flies away.
-
-What does little baby say,
-In her bed at peep of day?
-Baby says, like little birdie,
-Let me rise and fly away.
-Baby, sleep a little longer,
-Till thy little limbs are stronger.
-If she sleeps a little longer,
-Baby too shall fly away. 
+<pre>Below the thunders of the upper deep,
+Far far beneath in the abysmal sea,
+His ancient, dreamless, uninvaded sleep
+The Kraken sleepeth: faintest sunlights flee
+About his shadowy sides: above him swell
+Huge sponges of millennial growth and height;
+And far away into the sickly light,
+From many a wondrous grot and secret cell
+Unnumbered and enormous polypi
+Winnow with giant fins the slumbering green.
+There hath he lain for ages and will lie
+Battering upon huge seaworms in his sleep,
+Until the latter fire shall heat the deep;
+Then once by men and angels to be seen,
+In roaring he shall rise and on the surface die.
 </pre>

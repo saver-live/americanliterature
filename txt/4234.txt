@@ -1,45 +1,15 @@
-<pre>I.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Shed no tear! oh, shed no tear!
-&nbsp;&nbsp;&nbsp;&nbsp;The flower will bloom another year.
-&nbsp;&nbsp;&nbsp;&nbsp;Weep no more! oh, weep no more!
-&nbsp;&nbsp;&nbsp;&nbsp;Young buds sleep in the root's white core.
-&nbsp;&nbsp;&nbsp;&nbsp;Dry your eyes! oh, dry your eyes!
-&nbsp;&nbsp;&nbsp;&nbsp;For I was taught in Paradise
-&nbsp;&nbsp;&nbsp;&nbsp;To ease my breast of melodies,
-&nbsp;&nbsp;&nbsp;&nbsp;Shed no tear.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Overhead! look overhead!
-&nbsp;&nbsp;&nbsp;&nbsp;'Mong the blossoms white and red
-&nbsp;&nbsp;&nbsp;&nbsp;Look up, look up! I flutter now
-&nbsp;&nbsp;&nbsp;&nbsp;On this fresh pomegranate bough.
-&nbsp;&nbsp;&nbsp;&nbsp;See me! 'tis this silvery bill
-&nbsp;&nbsp;&nbsp;&nbsp;Ever cures the good man's ill.
-&nbsp;&nbsp;&nbsp;&nbsp;Shed no tear! oh, shed no tear!
-&nbsp;&nbsp;&nbsp;&nbsp;The flower will bloom another year.
-&nbsp;&nbsp;&nbsp;&nbsp;Adieu, adieu, I fly adieu!
-&nbsp;&nbsp;&nbsp;&nbsp;I vanish in the heavens blue,
-&nbsp;&nbsp;&nbsp;&nbsp;Adieu, adieu!
-
-II.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Ah! woe is me! poor silver-wing!
-&nbsp;&nbsp;&nbsp;&nbsp;That I must chant thy lady's dirge,
-&nbsp;&nbsp;&nbsp;&nbsp;And death to this fair haunt of spring,
-&nbsp;&nbsp;&nbsp;&nbsp;Of melody, and streams of flowery verge,
-&nbsp;&nbsp;&nbsp;&nbsp;Poor silver-wing! ah! woe is me!
-&nbsp;&nbsp;&nbsp;&nbsp;That I must see
-&nbsp;&nbsp;&nbsp;&nbsp;These blossoms snow upon thy lady's pall!
-&nbsp;&nbsp;&nbsp;&nbsp;Go, pretty page! and in her ear
-&nbsp;&nbsp;&nbsp;&nbsp;Whisper that the hour is near!
-&nbsp;&nbsp;&nbsp;&nbsp;Softly tell her not to fear
-&nbsp;&nbsp;&nbsp;&nbsp;Such calm favonian burial!
-&nbsp;&nbsp;&nbsp;&nbsp;Go, pretty page! and soothly tell,
-&nbsp;&nbsp;&nbsp;&nbsp;The blossoms hang by a melting spell,
-&nbsp;&nbsp;&nbsp;&nbsp;And fall they must, ere a star wink thrice
-&nbsp;&nbsp;&nbsp;&nbsp;Upon her closed eyes,
-&nbsp;&nbsp;&nbsp;&nbsp;That now in vain are weeping their last tears,
-&nbsp;&nbsp;&nbsp;&nbsp;At sweet life leaving, and these arbours green,
-&nbsp;&nbsp;&nbsp;&nbsp;Rich dowry from the Spirit of the Spheres,
-&nbsp;&nbsp;&nbsp;&nbsp;Alas! poor Queen!
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;Many the wonders I this day have seen:
+&nbsp;&nbsp;&nbsp;&nbsp;The sun, when first he kissed away the tears
+&nbsp;&nbsp;&nbsp;&nbsp;That filled the eyes of Morn; the laurelled peers
+&nbsp;&nbsp;&nbsp;&nbsp;Who from the feathery gold of evening lean; 
+&nbsp;&nbsp;&nbsp;&nbsp;The ocean with its vastness, its blue green,
+&nbsp;&nbsp;&nbsp;&nbsp;Its ships, its rocks, its caves, its hopes, its fears,
+&nbsp;&nbsp;&nbsp;&nbsp;Its voice mysterious, which whoso hears
+&nbsp;&nbsp;&nbsp;&nbsp;Must think on what will be, and what has been.
+&nbsp;&nbsp;&nbsp;&nbsp;E'en now, dear George, while this for you I write,
+&nbsp;&nbsp;&nbsp;&nbsp;Cynthia is from her silken curtains peeping
+&nbsp;&nbsp;&nbsp;&nbsp;So scantly, that it seems her bridal night,
+&nbsp;&nbsp;&nbsp;&nbsp;And she her half-discovered revels keeping.
+&nbsp;&nbsp;&nbsp;&nbsp;But what, without the social thought of thee,
+&nbsp;&nbsp;&nbsp;&nbsp;Would be the wonders of the sky and sea?
 </pre>

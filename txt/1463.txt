@@ -1,1 +1,1 @@
-<p><a href="the-anniversary">The Anniversary</a></p><p style="margin-top: 26px;"> Return to the <a href="/author/anton-chekhov">Anton Chekhov</a> library. </p>
+<p><a href="the-proposal">The Proposal</a></p><p style="margin-top: 26px;"> Return to the <a href="/author/anton-chekhov">Anton Chekhov</a> library. </p>

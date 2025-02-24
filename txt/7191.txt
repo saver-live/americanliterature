@@ -1,1 +1,17 @@
-<p>Shakespeare's comedy features the courtship of Petruchio and Katherina, the play's namesake head-strong "shrew." Other characters include Lucentio, Hortencio, and Christopher Sly (who is the drunken tinker for whose benefit this "play in a play" is staged in the Induction). Shakespeare wrote <cite class="al-title">The Taming of the Shrew</cite> after <cite class="al-title"><a href="/author/william-shakespeare/play/romeo-and-juliet/summary">Romeo and Juliet</a></cite>, between 1590-1592. <br><i>Painting by Edward Robert Hughes, The Shrew Katherina, 1898</i>.</p><p><img alt="Edward Robert Hughes, Shakespeare's The Taming of the Shrew Katharina, 1898" title="Edward Robert Hughes, Shakespeare's The Taming of the Shrew Katharina, 1898" itemprop="image" src="https://assets.americanliterature.com/al/images/play/the-taming-of-the-shrew.jpg" style="max-width:450px; float:right; margin-right: 12px; margin-bottom: 12px;" data-pagespeed-url-hash="2277033566" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"> </p><p><a href="dramatis-personae">Dramatis Personae</a></p><p><a href="induction-scene-i">Induction - Scene I</a></p><p><a href="induction-scene-ii">Induction - Scene II</a></p><p><a href="act-i-scene-i-padua-a-public-place">Act I - Scene I Padua. A Public Place</a></p><p><a href="act-i-scene-ii-padua-before-hortensios-house">Act I - Scene II Padua. Before Hortensio's House</a></p><p><a href="act-ii-scene-i-padua-baptistas-house">ACT II - Scene I Padua. Baptista's House</a></p><p><a href="act-iii-scene-i-padua-baptistas-house">ACT III - Scene I Padua. Baptista's House</a></p><p><a href="act-iii-scene-ii-padua-before-baptistas-house">Act III - Scene II Padua. Before Baptista's House</a></p><p><a href="act-iv-scene-i-petruchios-country-house">Act IV - Scene I Petruchio's Country House</a></p><p><a href="act-iv-scene-ii-padua-before-baptistas-house">Act IV - Scene II Padua. Before Baptista's House</a></p><p><a href="act-iv-scene-iii-petruchios-house">Act IV - Scene III Petruchio's House</a></p><p><a href="act-iv-scene-iv-padua-before-baptistas-house">Act IV - Scene IV Padua. Before Baptista's House</a></p><p><a href="act-iv-scene-v-a-public-road">Act IV - Scene V A Public Road</a></p><p><a href="act-v-scene-i-padua-before-lucentios-house">Act V - Scene I Padua. Before Lucentio's House</a></p><p><a href="act-v-scene-ii-lucentios-house">Act V - Scene II Lucentio's House</a></p><p style="margin-top: 26px;"> Return to the <a href="/author/william-shakespeare">William Shakespeare</a> library. </p>
+<pre>
+  But be contented when that fell arrest,
+  Without all bail shall carry me away,
+  My life hath in this line some interest,
+  Which for memorial still with thee shall stay.
+  When thou reviewest this, thou dost review,
+  The very part was consecrate to thee,
+  The earth can have but earth, which is his due,
+  My spirit is thine the better part of me,
+  So then thou hast but lost the dregs of life,
+  The prey of worms, my body being dead,
+  The coward conquest of a wretch's knife,
+  Too base of thee to be remembered,
+    The worth of that, is that which it contains,
+    And that is this, and this with thee remains.
+
+</pre>

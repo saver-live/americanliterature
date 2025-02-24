@@ -1,48 +1,15 @@
-<pre>
-The shades of night were falling fast,
-As through an Alpine village passed
-A youth, who bore, 'mid snow and ice,
-A banner with the strange device,
-       Excelsior!
-His brow was sad; his eye beneath,
-Flashed like a falchion from its sheath,
-And like a silver clarion rung
-The accents of that unknown tongue,
-       Excelsior!
-In happy homes he saw the light
-Of household fires gleam warm and bright;
-Above, the spectral glaciers shone,
-And from his lips escaped a groan,
-       Excelsior!
-"Try not the Pass!" the old man said:
-"Dark lowers the tempest overhead,
-The roaring torrent is deep and wide!
-And loud that clarion voice replied,
-       Excelsior!
-"Oh stay," the maiden said, "and rest
-Thy weary head upon this breast!"
-A tear stood in his bright blue eye,
-But still he answered, with a sigh,
-       Excelsior!
-"Beware the pine-tree's withered branch!
-Beware the awful avalanche!"
-This was the peasant's last Good-night,
-A voice replied, far up the height,
-        Excelsior!
-At break of day, as heavenward
-The pious monks of Saint Bernard
-Uttered the oft-repeated prayer,
-A voice cried through the startled air,
-       Excelsior!
-A traveller, by the faithful hound,
-Half-buried in the snow was found,
-Still grasping in his hand of ice
-That banner with the strange device,
-       Excelsior!
-There in the twilight cold and gray,
-Lifeless, but beautiful, he lay,
-And from the sky, serene and far,
-A voice fell, like a falling star,
-       Excelsior!
-
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;Into the darkness and the hush of night
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Slowly the landscape sinks, and fades away,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And with it fade the phantoms of the day,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The ghosts of men and things, that haunt the light,
+&nbsp;&nbsp;&nbsp;&nbsp;The crowd, the clamor, the pursuit, the flight,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The unprofitable splendor and display,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The agitations, and the cares that prey
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Upon our hearts, all vanish out of sight.
+&nbsp;&nbsp;&nbsp;&nbsp;The better life begins; the world no more
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Molests us; all its records we erase
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the dull common-place book of our lives,
+&nbsp;&nbsp;&nbsp;&nbsp;That like a palimpsest is written o'er
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With trivial incidents of time and place,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And lo! the ideal, hidden beneath, revives.
 </pre>

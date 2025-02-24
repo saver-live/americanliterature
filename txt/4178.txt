@@ -1,1 +1,45 @@
-<p><cite class="al-title">Ulysses</cite> (1922) is considered by many to be the finest and foremost modernist novel ever written. On the surface, the book simply follows Leopold Bloom, during an ordinary day in Dublin, on June 16, 1904. Bibliophiles celebrate "Bloomsday" by reading it in its entirety on this anniversary date. </p><p>Joyce's most well-known novel remains firmly ensconced at the top of <cite class="al-title">The Modern Library's 100 Best Novels of the 20th Century</cite>. <cite class="al-title">Ulysses</cite> parallels <a href="/author/homer/bio-books-stories">Homer</a>'s epic poem, <cite class="al-title"><a href="/author/homer/book/the-odyssey/summary">The Odyssey</a></cite> in its characters and events. The novel was originally serialized in America in <cite class="al-periodical">The Little Review</cite> from March 1918 to December 1920, before being published as a novel in 1922. </p><p> Loading the book with experimental prose and following a stream-of-consciousness approach, Joyce adopted a rather cheeky attitude. Published without much structure, in just three parts, the book presented an often confusing read. Joyce himself declared that he had, <i>"put in so many enigmas and puzzles that it will keep the professors busy for centuries arguing over what I meant."</i> </p><p> Though not included in the original text, later editions structure the novel into eighteen episodes. The text presented here follows the episodic structure from the Linati and Gilbert schema). Every episode has a thematic character correspondence to <a href="/author/homer/bio-books-stories">Homer</a>'s poem, <cite class="al-title"><a href="/author/homer/book/the-odyssey/summary">The Odyssey</a></cite>; Leopold Bloom to Odysseus, Molly Bloom to Penelope, and Stephen Dedalus to Telemachus.</p><p><a href="episode-1-telemachus">Episode 1 - Telemachus</a></p><p><a href="episode-2-nestor">Episode 2 - Nestor</a></p><p><a href="episode-3-proteus">Episode 3 - Proteus</a></p><p><a href="episode-4-calypso">Episode 4 - Calypso</a></p><p><a href="episode-5-lotus-eaters">Episode 5 - Lotus Eaters</a></p><p><a href="episode-6-hades">Episode 6 - Hades</a></p><p><a href="episode-7-aeolus">Episode 7 - Aeolus</a></p><p><a href="episode-8-lestrygonians">Episode 8 - Lestrygonians</a></p><p><a href="episode-9-scylla-and-charybdis">Episode 9 - Scylla And Charybdis</a></p><p><a href="episode-10-wandering-rocks">Episode 10 - Wandering Rocks</a></p><p><a href="episode-11-sirens">Episode 11 - Sirens</a></p><p><a href="episode-12-cyclops">Episode 12 - Cyclops</a></p><p><a href="episode-13-nausicca">Episode 13 - Nausicca</a></p><p><a href="episode-14-oxen-of-the-sun">Episode 14 - Oxen Of The Sun</a></p><p><a href="episode-15-circe">Episode 15 - Circe</a></p><p><a href="episode-16-eumaeus">Episode 16 - Eumaeus</a></p><p><a href="episode-17-ithaca">Episode 17 - Ithaca</a></p><p><a href="episode-18-penelope">Episode 18 - Penelope</a></p><p style="margin-top: 26px;"> Return to the <a href="/author/james-joyce">James Joyce</a> library. </p>
+<pre>I.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Shed no tear! oh, shed no tear!
+&nbsp;&nbsp;&nbsp;&nbsp;The flower will bloom another year.
+&nbsp;&nbsp;&nbsp;&nbsp;Weep no more! oh, weep no more!
+&nbsp;&nbsp;&nbsp;&nbsp;Young buds sleep in the root's white core.
+&nbsp;&nbsp;&nbsp;&nbsp;Dry your eyes! oh, dry your eyes!
+&nbsp;&nbsp;&nbsp;&nbsp;For I was taught in Paradise
+&nbsp;&nbsp;&nbsp;&nbsp;To ease my breast of melodies,
+&nbsp;&nbsp;&nbsp;&nbsp;Shed no tear.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Overhead! look overhead!
+&nbsp;&nbsp;&nbsp;&nbsp;'Mong the blossoms white and red
+&nbsp;&nbsp;&nbsp;&nbsp;Look up, look up! I flutter now
+&nbsp;&nbsp;&nbsp;&nbsp;On this fresh pomegranate bough.
+&nbsp;&nbsp;&nbsp;&nbsp;See me! 'tis this silvery bill
+&nbsp;&nbsp;&nbsp;&nbsp;Ever cures the good man's ill.
+&nbsp;&nbsp;&nbsp;&nbsp;Shed no tear! oh, shed no tear!
+&nbsp;&nbsp;&nbsp;&nbsp;The flower will bloom another year.
+&nbsp;&nbsp;&nbsp;&nbsp;Adieu, adieu, I fly adieu!
+&nbsp;&nbsp;&nbsp;&nbsp;I vanish in the heavens blue,
+&nbsp;&nbsp;&nbsp;&nbsp;Adieu, adieu!
+
+II.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Ah! woe is me! poor silver-wing!
+&nbsp;&nbsp;&nbsp;&nbsp;That I must chant thy lady's dirge,
+&nbsp;&nbsp;&nbsp;&nbsp;And death to this fair haunt of spring,
+&nbsp;&nbsp;&nbsp;&nbsp;Of melody, and streams of flowery verge,
+&nbsp;&nbsp;&nbsp;&nbsp;Poor silver-wing! ah! woe is me!
+&nbsp;&nbsp;&nbsp;&nbsp;That I must see
+&nbsp;&nbsp;&nbsp;&nbsp;These blossoms snow upon thy lady's pall!
+&nbsp;&nbsp;&nbsp;&nbsp;Go, pretty page! and in her ear
+&nbsp;&nbsp;&nbsp;&nbsp;Whisper that the hour is near!
+&nbsp;&nbsp;&nbsp;&nbsp;Softly tell her not to fear
+&nbsp;&nbsp;&nbsp;&nbsp;Such calm favonian burial!
+&nbsp;&nbsp;&nbsp;&nbsp;Go, pretty page! and soothly tell,
+&nbsp;&nbsp;&nbsp;&nbsp;The blossoms hang by a melting spell,
+&nbsp;&nbsp;&nbsp;&nbsp;And fall they must, ere a star wink thrice
+&nbsp;&nbsp;&nbsp;&nbsp;Upon her closed eyes,
+&nbsp;&nbsp;&nbsp;&nbsp;That now in vain are weeping their last tears,
+&nbsp;&nbsp;&nbsp;&nbsp;At sweet life leaving, and these arbours green,
+&nbsp;&nbsp;&nbsp;&nbsp;Rich dowry from the Spirit of the Spheres,
+&nbsp;&nbsp;&nbsp;&nbsp;Alas! poor Queen!
+</pre>

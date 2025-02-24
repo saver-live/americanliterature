@@ -1,42 +1,15 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;Under Mount Etna he lies,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It is slumber, it is not death;
-&nbsp;&nbsp;&nbsp;&nbsp;For he struggles at times to arise,
-&nbsp;&nbsp;&nbsp;&nbsp;And above him the lurid skies
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Are hot with his fiery breath.
-
-&nbsp;&nbsp;&nbsp;&nbsp;The crags are piled on his breast,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The earth is heaped on his head;
-&nbsp;&nbsp;&nbsp;&nbsp;But the groans of his wild unrest,
-&nbsp;&nbsp;&nbsp;&nbsp;Though smothered and half suppressed,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Are heard, and he is not dead.
-
-&nbsp;&nbsp;&nbsp;&nbsp;And the nations far away
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Are watching with eager eyes;
-&nbsp;&nbsp;&nbsp;&nbsp;They talk together and say,
-&nbsp;&nbsp;&nbsp;&nbsp;"To-morrow, perhaps to-day,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Euceladus will arise!"
-
-&nbsp;&nbsp;&nbsp;&nbsp;And the old gods, the austere
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oppressors in their strength,
-&nbsp;&nbsp;&nbsp;&nbsp;Stand aghast and white with fear
-&nbsp;&nbsp;&nbsp;&nbsp;At the ominous sounds they hear,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And tremble, and mutter, "At length!"
-
-&nbsp;&nbsp;&nbsp;&nbsp;Ah me! for the land that is sown
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With the harvest of despair!
-&nbsp;&nbsp;&nbsp;&nbsp;Where the burning cinders, blown
-&nbsp;&nbsp;&nbsp;&nbsp;From the lips of the overthrown
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Enceladus, fill the air.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Where ashes are heaped in drifts
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Over vineyard and field and town,
-&nbsp;&nbsp;&nbsp;&nbsp;Whenever he starts and lifts
-&nbsp;&nbsp;&nbsp;&nbsp;His head through the blackened rifts
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of the crags that keep him down.
-
-&nbsp;&nbsp;&nbsp;&nbsp;See, see! the red light shines!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'T is the glare of his awful eyes!
-&nbsp;&nbsp;&nbsp;&nbsp;And the storm-wind shouts through the pines
-&nbsp;&nbsp;&nbsp;&nbsp;Of Alps and of Apennines,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Enceladus, arise!"
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;Like two cathedral towers these stately pines
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uplift their fretted summits tipped with cones;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The arch beneath them is not built with stones,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Art but Nature traced these lovely lines,
+&nbsp;&nbsp;&nbsp;&nbsp;And carved this graceful arabesque of vines;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No organ but the wind here sighs and moans,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No sepulchre conceals a martyr's bones.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No marble bishop on his tomb reclines.
+&nbsp;&nbsp;&nbsp;&nbsp;Enter! the pavement, carpeted with leaves,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gives back a softened echo to thy tread!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Listen! the choir is singing; all the birds,
+&nbsp;&nbsp;&nbsp;&nbsp;In leafy galleries beneath the eaves,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Are singing! listen, ere the sound be fled,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And learn there may be worship with out words.
 </pre>

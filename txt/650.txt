@@ -1,0 +1,4 @@
+<p>I came here a wanderer<br> thinking of home,<br> remembering my far away Ch'ang-an.<br> And then, from deep in Yellow Crane Pavillion,<br> I heard a beautiful bamboo flute<br> play "Falling Plum Blossoms."<br> It was late spring in a city by the river.<br></p>
+<div class="poet" itemprop="author">
+ Li Po
+</div>

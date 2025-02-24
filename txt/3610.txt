@@ -1,1 +1,46 @@
-<p><a href="chapter-i">Chapter I</a></p><p><a href="chapter-ii">Chapter II</a></p><p><a href="chapter-iii">Chapter III</a></p><p><a href="chapter-iv">Chapter IV</a></p><p><a href="chapter-v">Chapter V</a></p><p><a href="chapter-vi">Chapter VI</a></p><p><a href="chapter-vii">Chapter VII</a></p><p><a href="chapter-viii">Chapter VIII</a></p><p><a href="chapter-ix">Chapter IX</a></p><p><a href="chapter-x">Chapter X</a></p><p><a href="chapter-xi">Chapter XI</a></p><p><a href="chapter-xii">Chapter XII</a></p><p><a href="chapter-xiii">Chapter XIII</a></p><p><a href="chapter-xiv">Chapter XIV</a></p><p><a href="chapter-xv">Chapter XV</a></p><p><a href="chapter-xvi">Chapter XVI</a></p><p><a href="chapter-xvii">Chapter XVII</a></p><p><a href="chapter-xviii">Chapter XVIII</a></p><p><a href="chapter-xix">Chapter XIX</a></p><p><a href="chapter-xx">Chapter XX</a></p><p><a href="chapter-xxi">Chapter XXI</a></p><p><a href="chapter-xxii">Chapter XXII</a></p><p><a href="chapter-xxiii">Chapter XXIII</a></p><p><a href="chapter-xxiv">Chapter XXIV</a></p><p><a href="chapter-xxv">Chapter XXV</a></p><p><a href="chapter-xxvi">Chapter XXVI</a></p><p style="margin-top: 26px;"> Return to the <a href="/author/mary-jane-holmes">Mary Jane Holmes</a> library. </p>
+<pre>
+&nbsp;&nbsp;&nbsp;&nbsp;High the vanes of Shrewsbury gleam
+&nbsp;&nbsp;&nbsp;&nbsp;Islanded in Severn stream;
+&nbsp;&nbsp;&nbsp;&nbsp;The bridges from the steepled crest
+&nbsp;&nbsp;&nbsp;&nbsp;Cross the water east and west.
+
+&nbsp;&nbsp;&nbsp;&nbsp;The flag of morn in conqueror's state
+&nbsp;&nbsp;&nbsp;&nbsp;Enters at the English gate:
+&nbsp;&nbsp;&nbsp;&nbsp;The vanquished eve, as night prevails,
+&nbsp;&nbsp;&nbsp;&nbsp;Bleeds upon the road to Wales.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Ages since the vanquished bled
+&nbsp;&nbsp;&nbsp;&nbsp;Round my mother's marriage-bed;
+&nbsp;&nbsp;&nbsp;&nbsp;There the ravens feasted far
+&nbsp;&nbsp;&nbsp;&nbsp;About the open house of war:
+
+&nbsp;&nbsp;&nbsp;&nbsp;When Severn down to Buildwas ran
+&nbsp;&nbsp;&nbsp;&nbsp;Coloured with the death of man,
+&nbsp;&nbsp;&nbsp;&nbsp;Couched upon her brother's grave
+&nbsp;&nbsp;&nbsp;&nbsp;The Saxon got me on the slave.
+
+&nbsp;&nbsp;&nbsp;&nbsp;The sound of fight is silent long
+&nbsp;&nbsp;&nbsp;&nbsp;That began the ancient wrong;
+&nbsp;&nbsp;&nbsp;&nbsp;Long the voice of tears is still
+&nbsp;&nbsp;&nbsp;&nbsp;That wept of old the endless ill.
+
+&nbsp;&nbsp;&nbsp;&nbsp;In my heart it has not died,
+&nbsp;&nbsp;&nbsp;&nbsp;The war that sleeps on Severn side;
+&nbsp;&nbsp;&nbsp;&nbsp;They cease not fighting, east and west,
+&nbsp;&nbsp;&nbsp;&nbsp;On the marches of my breast.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Here the truceless armies yet
+&nbsp;&nbsp;&nbsp;&nbsp;Trample, rolled in blood and sweat;
+&nbsp;&nbsp;&nbsp;&nbsp;They kill and kill and never die;
+&nbsp;&nbsp;&nbsp;&nbsp;And I think that each is I.
+
+&nbsp;&nbsp;&nbsp;&nbsp;None will part us, none undo
+&nbsp;&nbsp;&nbsp;&nbsp;The knot that makes one flesh of two,
+&nbsp;&nbsp;&nbsp;&nbsp;Sick with hatred, sick with pain,
+&nbsp;&nbsp;&nbsp;&nbsp;Strangling-When shall we be slain?
+
+&nbsp;&nbsp;&nbsp;&nbsp;When shall I be dead and rid
+&nbsp;&nbsp;&nbsp;&nbsp;Of the wrong my father did?
+&nbsp;&nbsp;&nbsp;&nbsp;How long, how long, till spade and hearse
+&nbsp;&nbsp;&nbsp;&nbsp;Put to sleep my mother's curse?
+</pre>

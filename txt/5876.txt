@@ -1,60 +1,166 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;Saint Augustine! well hast thou said,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That of our vices we can frame
-&nbsp;&nbsp;&nbsp;&nbsp;A ladder, if we will but tread
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beneath our feet each deed of shame!
-
-&nbsp;&nbsp;&nbsp;&nbsp;All common things, each day's events,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That with the hour begin and end,
-&nbsp;&nbsp;&nbsp;&nbsp;Our pleasures and our discontents,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Are rounds by which we may ascend.
-
-&nbsp;&nbsp;&nbsp;&nbsp;The low desire, the base design,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That makes another's virtues less;
-&nbsp;&nbsp;&nbsp;&nbsp;The revel of the ruddy wine,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And all occasions of excess;
-
-&nbsp;&nbsp;&nbsp;&nbsp;The longing for ignoble things;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The strife for triumph more than truth;
-&nbsp;&nbsp;&nbsp;&nbsp;The hardening of the heart, that brings
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irreverence for the dreams of youth;
-
-&nbsp;&nbsp;&nbsp;&nbsp;All thoughts of ill; all evil deeds,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That have their root in thoughts of ill;
-&nbsp;&nbsp;&nbsp;&nbsp;Whatever hinders or impedes
-&nbsp;&nbsp;&nbsp;&nbsp; The action of the nobler will;--
-
-&nbsp;&nbsp;&nbsp;&nbsp;All these must first be trampled down
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beneath our feet, if we would gain
-&nbsp;&nbsp;&nbsp;&nbsp;In the bright fields of fair renown
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The right of eminent domain.
-
-&nbsp;&nbsp;&nbsp;&nbsp;We have not wings, we cannot soar;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But we have feet to scale and climb
-&nbsp;&nbsp;&nbsp;&nbsp;By slow degrees, by more and more,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The cloudy summits of our time.
-
-&nbsp;&nbsp;&nbsp;&nbsp;The mighty pyramids of stone
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That wedge-like cleave the desert airs,
-&nbsp;&nbsp;&nbsp;&nbsp;When nearer seen, and better known,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Are but gigantic flights of stairs.
-
-&nbsp;&nbsp;&nbsp;&nbsp;The distant mountains, that uprear
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Their solid bastions to the skies,
-&nbsp;&nbsp;&nbsp;&nbsp;Are crossed by pathways, that appear
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As we to higher levels rise.
-
-&nbsp;&nbsp;&nbsp;&nbsp;The heights by great men reached and kept
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Were not attained by sudden flight,
-&nbsp;&nbsp;&nbsp;&nbsp;But they, while their companions slept,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Were toiling upward in the night.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Standing on what too long we bore
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With shoulders bent and downcast eyes,
-&nbsp;&nbsp;&nbsp;&nbsp;We may discern--unseen before--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A path to higher destinies.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Nor deem the irrevocable Past,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As wholly wasted, wholly vain,
-&nbsp;&nbsp;&nbsp;&nbsp;If, rising on its wrecks, at last
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To something nobler we attain.
+<pre>
+<img alt="Song of Hiawatha cover" title="Song of Hiawatha cover" itemprop="image" src="https://assets.americanliterature.com/al/images/poem/the-song-of-hiawatha.jpg" style="max-width:400px; margin-right: 12px; margin-bottom: 12px;" data-pagespeed-url-hash="1953060810" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+&nbsp;&nbsp;&nbsp;&nbsp;On the Mountains of the Prairie,
+&nbsp;&nbsp;&nbsp;&nbsp;On the great Red Pipe-stone Quarry,
+&nbsp;&nbsp;&nbsp;&nbsp;Gitche Manito, the mighty,
+&nbsp;&nbsp;&nbsp;&nbsp;He the Master of Life, descending,
+&nbsp;&nbsp;&nbsp;&nbsp;On the red crags of the quarry
+&nbsp;&nbsp;&nbsp;&nbsp;Stood erect, and called the nations,
+&nbsp;&nbsp;&nbsp;&nbsp;Called the tribes of men together.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From his footprints flowed a river,
+&nbsp;&nbsp;&nbsp;&nbsp;Leaped into the light of morning,
+&nbsp;&nbsp;&nbsp;&nbsp;O'er the precipice plunging downward
+&nbsp;&nbsp;&nbsp;&nbsp;Gleamed like Ishkoodah, the comet.
+&nbsp;&nbsp;&nbsp;&nbsp;And the Spirit, stooping earthward,
+&nbsp;&nbsp;&nbsp;&nbsp;With his finger on the meadow
+&nbsp;&nbsp;&nbsp;&nbsp;Traced a winding pathway for it,
+&nbsp;&nbsp;&nbsp;&nbsp;Saying to it, "Run in this way!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the red stone of the quarry
+&nbsp;&nbsp;&nbsp;&nbsp;With his hand he broke a fragment,
+&nbsp;&nbsp;&nbsp;&nbsp;Moulded it into a pipe-head,
+&nbsp;&nbsp;&nbsp;&nbsp;Shaped and fashioned it with figures;
+&nbsp;&nbsp;&nbsp;&nbsp;From the margin of the river
+&nbsp;&nbsp;&nbsp;&nbsp;Took a long reed for a pipe-stem,
+&nbsp;&nbsp;&nbsp;&nbsp;With its dark green leaves upon it;
+&nbsp;&nbsp;&nbsp;&nbsp;Filled the pipe with bark of willow,
+&nbsp;&nbsp;&nbsp;&nbsp;With the bark of the red willow;
+&nbsp;&nbsp;&nbsp;&nbsp;Breathed upon the neighboring forest,
+&nbsp;&nbsp;&nbsp;&nbsp;Made its great boughs chafe together,
+&nbsp;&nbsp;&nbsp;&nbsp;Till in flame they burst and kindled;
+&nbsp;&nbsp;&nbsp;&nbsp;And erect upon the mountains,
+&nbsp;&nbsp;&nbsp;&nbsp;Gitche Manito, the mighty,
+&nbsp;&nbsp;&nbsp;&nbsp;Smoked the calumet, the Peace-Pipe,
+&nbsp;&nbsp;&nbsp;&nbsp;As a signal to the nations.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the smoke rose slowly, slowly,
+&nbsp;&nbsp;&nbsp;&nbsp;Through the tranquil air of morning,
+&nbsp;&nbsp;&nbsp;&nbsp;First a single line of darkness,
+&nbsp;&nbsp;&nbsp;&nbsp;Then a denser, bluer vapor,
+&nbsp;&nbsp;&nbsp;&nbsp;Then a snow-white cloud unfolding,
+&nbsp;&nbsp;&nbsp;&nbsp;Like the tree-tops of the forest,
+&nbsp;&nbsp;&nbsp;&nbsp;Ever rising, rising, rising,
+&nbsp;&nbsp;&nbsp;&nbsp;Till it touched the top of heaven,
+&nbsp;&nbsp;&nbsp;&nbsp;Till it broke against the heaven,
+&nbsp;&nbsp;&nbsp;&nbsp;And rolled outward all around it.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the Vale of Tawasentha,
+&nbsp;&nbsp;&nbsp;&nbsp;From the Valley of Wyoming,
+&nbsp;&nbsp;&nbsp;&nbsp;From the groves of Tuscaloosa,
+&nbsp;&nbsp;&nbsp;&nbsp;From the far-off Rocky Mountains,
+&nbsp;&nbsp;&nbsp;&nbsp;From the Northern lakes and rivers
+&nbsp;&nbsp;&nbsp;&nbsp;All the tribes beheld the signal,
+&nbsp;&nbsp;&nbsp;&nbsp;Saw the distant smoke ascending,
+&nbsp;&nbsp;&nbsp;&nbsp;The Pukwana of the Peace-Pipe.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the Prophets of the nations
+&nbsp;&nbsp;&nbsp;&nbsp;Said: "Behold it, the Pukwana!
+&nbsp;&nbsp;&nbsp;&nbsp;By the signal of the Peace-Pipe,
+&nbsp;&nbsp;&nbsp;&nbsp;Bending like a wand of willow,
+&nbsp;&nbsp;&nbsp;&nbsp;Waving like a hand that beckons,
+&nbsp;&nbsp;&nbsp;&nbsp;Gitche Manito, the mighty,
+&nbsp;&nbsp;&nbsp;&nbsp;Calls the tribes of men together,
+&nbsp;&nbsp;&nbsp;&nbsp;Calls the warriors to his council!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Down the rivers, o'er the prairies,
+&nbsp;&nbsp;&nbsp;&nbsp;Came the warriors of the nations,
+&nbsp;&nbsp;&nbsp;&nbsp;Came the Delawares and Mohawks,
+&nbsp;&nbsp;&nbsp;&nbsp;Came the Choctaws and Camanches,
+&nbsp;&nbsp;&nbsp;&nbsp;Came the Shoshonies and Blackfeet,
+&nbsp;&nbsp;&nbsp;&nbsp;Came the Pawnees and Omahas,
+&nbsp;&nbsp;&nbsp;&nbsp;Came the Mandans and Dacotahs,
+&nbsp;&nbsp;&nbsp;&nbsp;Came the Hurons and Ojibways,
+&nbsp;&nbsp;&nbsp;&nbsp;All the warriors drawn together
+&nbsp;&nbsp;&nbsp;&nbsp;By the signal of the Peace-Pipe,
+&nbsp;&nbsp;&nbsp;&nbsp;To the Mountains of the Prairie,
+&nbsp;&nbsp;&nbsp;&nbsp;To the great Red Pipe-stone Quarry.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And they stood there on the meadow,
+&nbsp;&nbsp;&nbsp;&nbsp;With their weapons and their war-gear,
+&nbsp;&nbsp;&nbsp;&nbsp;Painted like the leaves of Autumn,
+&nbsp;&nbsp;&nbsp;&nbsp;Painted like the sky of morning,
+&nbsp;&nbsp;&nbsp;&nbsp;Wildly glaring at each other;
+&nbsp;&nbsp;&nbsp;&nbsp;In their faces stern defiance,
+&nbsp;&nbsp;&nbsp;&nbsp;In their hearts the feuds of ages,
+&nbsp;&nbsp;&nbsp;&nbsp;The hereditary hatred,
+&nbsp;&nbsp;&nbsp;&nbsp;The ancestral thirst of vengeance.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gitche Manito, the mighty,
+&nbsp;&nbsp;&nbsp;&nbsp;The creator of the nations,
+&nbsp;&nbsp;&nbsp;&nbsp;Looked upon them with compassion,
+&nbsp;&nbsp;&nbsp;&nbsp;With paternal love and pity;
+&nbsp;&nbsp;&nbsp;&nbsp;Looked upon their wrath and wrangling
+&nbsp;&nbsp;&nbsp;&nbsp;But as quarrels among children,
+&nbsp;&nbsp;&nbsp;&nbsp;But as feuds and fights of children!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Over them he stretched his right hand,
+&nbsp;&nbsp;&nbsp;&nbsp;To subdue their stubborn natures,
+&nbsp;&nbsp;&nbsp;&nbsp;To allay their thirst and fever,
+&nbsp;&nbsp;&nbsp;&nbsp;By the shadow of his right hand;
+&nbsp;&nbsp;&nbsp;&nbsp;Spake to them with voice majestic
+&nbsp;&nbsp;&nbsp;&nbsp;As the sound of far-off waters,
+&nbsp;&nbsp;&nbsp;&nbsp;Falling into deep abysses,
+&nbsp;&nbsp;&nbsp;&nbsp;Warning, chiding, spake in this wise:--
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"O my children! my poor children!
+&nbsp;&nbsp;&nbsp;&nbsp;Listen to the words of wisdom,
+&nbsp;&nbsp;&nbsp;&nbsp;Listen to the words of warning,
+&nbsp;&nbsp;&nbsp;&nbsp;From the lips of the Great Spirit,
+&nbsp;&nbsp;&nbsp;&nbsp;From the Master of Life, who made you!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"I have given you lands to hunt in,
+&nbsp;&nbsp;&nbsp;&nbsp;I have given you streams to fish in,
+&nbsp;&nbsp;&nbsp;&nbsp;I have given you bear and bison,
+&nbsp;&nbsp;&nbsp;&nbsp;I have given you roe and reindeer,
+&nbsp;&nbsp;&nbsp;&nbsp;I have given you brant and beaver,
+&nbsp;&nbsp;&nbsp;&nbsp;Filled the marshes full of wild-fowl,
+&nbsp;&nbsp;&nbsp;&nbsp;Filled the rivers full of fishes:
+&nbsp;&nbsp;&nbsp;&nbsp;Why then are you not contented?
+&nbsp;&nbsp;&nbsp;&nbsp;Why then will you hunt each other?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"I am weary of your quarrels,
+&nbsp;&nbsp;&nbsp;&nbsp;Weary of your wars and bloodshed,
+&nbsp;&nbsp;&nbsp;&nbsp;Weary of your prayers for vengeance,
+&nbsp;&nbsp;&nbsp;&nbsp;Of your wranglings and dissensions;
+&nbsp;&nbsp;&nbsp;&nbsp;All your strength is in your union,
+&nbsp;&nbsp;&nbsp;&nbsp;All your danger is in discord;
+&nbsp;&nbsp;&nbsp;&nbsp;Therefore be at peace henceforward,
+&nbsp;&nbsp;&nbsp;&nbsp;And as brothers live together.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"I will send a Prophet to you,
+&nbsp;&nbsp;&nbsp;&nbsp;A Deliverer of the nations,
+&nbsp;&nbsp;&nbsp;&nbsp;Who shall guide you and shall teach you,
+&nbsp;&nbsp;&nbsp;&nbsp;Who shall toil and suffer with you.
+&nbsp;&nbsp;&nbsp;&nbsp;If you listen to his counsels,
+&nbsp;&nbsp;&nbsp;&nbsp;You will multiply and prosper;
+&nbsp;&nbsp;&nbsp;&nbsp;If his warnings pass unheeded,
+&nbsp;&nbsp;&nbsp;&nbsp;You will fade away and perish!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Bathe now in the stream before you,
+&nbsp;&nbsp;&nbsp;&nbsp;Wash the war-paint from your faces,
+&nbsp;&nbsp;&nbsp;&nbsp;Wash the blood-stains from your fingers,
+&nbsp;&nbsp;&nbsp;&nbsp;Bury your war-clubs and your weapons,
+&nbsp;&nbsp;&nbsp;&nbsp;Break the red stone from this quarry,
+&nbsp;&nbsp;&nbsp;&nbsp;Mould and make it into Peace-Pipes,
+&nbsp;&nbsp;&nbsp;&nbsp;Take the reeds that grow beside you,
+&nbsp;&nbsp;&nbsp;&nbsp;Deck them with your brightest feathers,
+&nbsp;&nbsp;&nbsp;&nbsp;Smoke the calumet together,
+&nbsp;&nbsp;&nbsp;&nbsp;And as brothers live henceforward!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then upon the ground the warriors
+&nbsp;&nbsp;&nbsp;&nbsp;Threw their cloaks and shirts of deer-skin,
+&nbsp;&nbsp;&nbsp;&nbsp;Threw their weapons and their war-gear,
+&nbsp;&nbsp;&nbsp;&nbsp;Leaped into the rushing river,
+&nbsp;&nbsp;&nbsp;&nbsp;Washed the war-paint from their faces.
+&nbsp;&nbsp;&nbsp;&nbsp;Clear above them flowed the water,
+&nbsp;&nbsp;&nbsp;&nbsp;Clear and limpid from the footprints
+&nbsp;&nbsp;&nbsp;&nbsp;Of the Master of Life descending;
+&nbsp;&nbsp;&nbsp;&nbsp;Dark below them flowed the water,
+&nbsp;&nbsp;&nbsp;&nbsp;Soiled and stained with streaks of crimson,
+&nbsp;&nbsp;&nbsp;&nbsp;As if blood were mingled with it!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the river came the warriors,
+&nbsp;&nbsp;&nbsp;&nbsp;Clean and washed from all their war-paint;
+&nbsp;&nbsp;&nbsp;&nbsp;On the banks their clubs they buried,
+&nbsp;&nbsp;&nbsp;&nbsp;Buried all their warlike weapons.
+&nbsp;&nbsp;&nbsp;&nbsp;Gitche Manito, the mighty,
+&nbsp;&nbsp;&nbsp;&nbsp;The Great Spirit, the creator,
+&nbsp;&nbsp;&nbsp;&nbsp;Smiled upon his helpless children!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And in silence all the warriors
+&nbsp;&nbsp;&nbsp;&nbsp;Broke the red stone of the quarry,
+&nbsp;&nbsp;&nbsp;&nbsp;Smoothed and formed it into Peace-Pipes,
+&nbsp;&nbsp;&nbsp;&nbsp;Broke the long reeds by the river,
+&nbsp;&nbsp;&nbsp;&nbsp;Decked them with their brightest feathers,
+&nbsp;&nbsp;&nbsp;&nbsp;And departed each one homeward,
+&nbsp;&nbsp;&nbsp;&nbsp;While the Master of Life, ascending,
+&nbsp;&nbsp;&nbsp;&nbsp;Through the opening of cloud-curtains,
+&nbsp;&nbsp;&nbsp;&nbsp;Through the doorways of the heaven,
+&nbsp;&nbsp;&nbsp;&nbsp;Vanished from before their faces,
+&nbsp;&nbsp;&nbsp;&nbsp;In the smoke that rolled around him,
+&nbsp;&nbsp;&nbsp;&nbsp;The Pukwana of the Peace-Pipe!
 </pre>

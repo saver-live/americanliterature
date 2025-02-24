@@ -1,121 +1,45 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;Far and wide among the nations
-&nbsp;&nbsp;&nbsp;&nbsp;Spread the name and fame of Kwasind;
-&nbsp;&nbsp;&nbsp;&nbsp;No man dared to strive with Kwasind,
-&nbsp;&nbsp;&nbsp;&nbsp;No man could compete with Kwasind.
-&nbsp;&nbsp;&nbsp;&nbsp;But the mischievous Puk-Wudjies,
-&nbsp;&nbsp;&nbsp;&nbsp;They the envious Little People,
-&nbsp;&nbsp;&nbsp;&nbsp;They the fairies and the pygmies,
-&nbsp;&nbsp;&nbsp;&nbsp;Plotted and conspired against him.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"If this hateful Kwasind," said they,
-&nbsp;&nbsp;&nbsp;&nbsp;"If this great, outrageous fellow
-&nbsp;&nbsp;&nbsp;&nbsp;Goes on thus a little longer,
-&nbsp;&nbsp;&nbsp;&nbsp;Tearing everything he touches,
-&nbsp;&nbsp;&nbsp;&nbsp;Rending everything to pieces,
-&nbsp;&nbsp;&nbsp;&nbsp;Filling all the world with wonder,
-&nbsp;&nbsp;&nbsp;&nbsp;What becomes of the Puk-Wudjies?
-&nbsp;&nbsp;&nbsp;&nbsp;Who will care for the Puk-Wudjies?
-&nbsp;&nbsp;&nbsp;&nbsp;He will tread us down like mushrooms,
-&nbsp;&nbsp;&nbsp;&nbsp;Drive us all into the water,
-&nbsp;&nbsp;&nbsp;&nbsp;Give our bodies to be eaten
-&nbsp;&nbsp;&nbsp;&nbsp;By the wicked Nee-ba-naw-baigs,
-&nbsp;&nbsp;&nbsp;&nbsp;By the Spirits of the water!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;So the angry Little People
-&nbsp;&nbsp;&nbsp;&nbsp;All conspired against the Strong Man,
-&nbsp;&nbsp;&nbsp;&nbsp;All conspired to murder Kwasind,
-&nbsp;&nbsp;&nbsp;&nbsp;Yes, to rid the world of Kwasind,
-&nbsp;&nbsp;&nbsp;&nbsp;The audacious, overbearing,
-&nbsp;&nbsp;&nbsp;&nbsp;Heartless, haughty, dangerous Kwasind!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now this wondrous strength of Kwasind
-&nbsp;&nbsp;&nbsp;&nbsp;In his crown alone was seated;
-&nbsp;&nbsp;&nbsp;&nbsp;In his crown too was his weakness;
-&nbsp;&nbsp;&nbsp;&nbsp;There alone could he be wounded,
-&nbsp;&nbsp;&nbsp;&nbsp;Nowhere else could weapon pierce him,
-&nbsp;&nbsp;&nbsp;&nbsp;Nowhere else could weapon harm him.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Even there the only weapon
-&nbsp;&nbsp;&nbsp;&nbsp;That could wound him, that could slay him,
-&nbsp;&nbsp;&nbsp;&nbsp;Was the seed-cone of the pine-tree,
-&nbsp;&nbsp;&nbsp;&nbsp;Was the blue cone of the fir-tree.
-&nbsp;&nbsp;&nbsp;&nbsp;This was Kwasind's fatal secret,
-&nbsp;&nbsp;&nbsp;&nbsp;Known to no man among mortals;
-&nbsp;&nbsp;&nbsp;&nbsp;But the cunning Little People,
-&nbsp;&nbsp;&nbsp;&nbsp;The Puk-Wudjies, knew the secret,
-&nbsp;&nbsp;&nbsp;&nbsp;Knew the only way to kill him.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;So they gathered cones together,
-&nbsp;&nbsp;&nbsp;&nbsp;Gathered seed-cones of the pine-tree,
-&nbsp;&nbsp;&nbsp;&nbsp;Gathered blue cones of the fir-tree,
-&nbsp;&nbsp;&nbsp;&nbsp;In the woods by Taquamenaw,
-&nbsp;&nbsp;&nbsp;&nbsp;Brought them to the river's margin,
-&nbsp;&nbsp;&nbsp;&nbsp;Heaped them in great piles together,
-&nbsp;&nbsp;&nbsp;&nbsp;Where the red rocks from the margin
-&nbsp;&nbsp;&nbsp;&nbsp;Jutting overhang the river.
-&nbsp;&nbsp;&nbsp;&nbsp;There they lay in wait for Kwasind,
-&nbsp;&nbsp;&nbsp;&nbsp;The malicious Little People.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'T was an afternoon in Summer;
-&nbsp;&nbsp;&nbsp;&nbsp;Very hot and still the air was,
-&nbsp;&nbsp;&nbsp;&nbsp;Very smooth the gliding river,
-&nbsp;&nbsp;&nbsp;&nbsp;Motionless the sleeping shadows:
-&nbsp;&nbsp;&nbsp;&nbsp;Insects glistened in the sunshine,
-&nbsp;&nbsp;&nbsp;&nbsp;Insects skated on the water,
-&nbsp;&nbsp;&nbsp;&nbsp;Filled the drowsy air with buzzing,
-&nbsp;&nbsp;&nbsp;&nbsp;With a far resounding war-cry.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Down the river came the Strong Man,
-&nbsp;&nbsp;&nbsp;&nbsp;In his birch canoe came Kwasind,
-&nbsp;&nbsp;&nbsp;&nbsp;Floating slowly down the current
-&nbsp;&nbsp;&nbsp;&nbsp;Of the sluggish Taquamenaw,
-&nbsp;&nbsp;&nbsp;&nbsp;Very languid with the weather,
-&nbsp;&nbsp;&nbsp;&nbsp;Very sleepy with the silence.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the overhanging branches,
-&nbsp;&nbsp;&nbsp;&nbsp;From the tassels of the birch-trees,
-&nbsp;&nbsp;&nbsp;&nbsp;Soft the Spirit of Sleep descended;
-&nbsp;&nbsp;&nbsp;&nbsp;By his airy hosts surrounded,
-&nbsp;&nbsp;&nbsp;&nbsp;His invisible attendants,
-&nbsp;&nbsp;&nbsp;&nbsp;Came the Spirit of Sleep, Nepahwin;
-&nbsp;&nbsp;&nbsp;&nbsp;Like a burnished Dush-kwo-ne-she,
-&nbsp;&nbsp;&nbsp;&nbsp;Like a dragon-fly, he hovered
-&nbsp;&nbsp;&nbsp;&nbsp;O'er the drowsy head of Kwasind.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To his ear there came a murmur
-&nbsp;&nbsp;&nbsp;&nbsp;As of waves upon a sea-shore,
-&nbsp;&nbsp;&nbsp;&nbsp;As of far-off tumbling waters,
-&nbsp;&nbsp;&nbsp;&nbsp;As of winds among the pine-trees;
-&nbsp;&nbsp;&nbsp;&nbsp;And he felt upon his forehead
-&nbsp;&nbsp;&nbsp;&nbsp;Blows of little airy war-clubs,
-&nbsp;&nbsp;&nbsp;&nbsp;Wielded by the slumbrous legions
-&nbsp;&nbsp;&nbsp;&nbsp;Of the Spirit of Sleep, Nepahwin,
-&nbsp;&nbsp;&nbsp;&nbsp;As of some one breathing on him.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At the first blow of their war-clubs,
-&nbsp;&nbsp;&nbsp;&nbsp;Fell a drowsiness on Kwasind;
-&nbsp;&nbsp;&nbsp;&nbsp;At the second blow they smote him,
-&nbsp;&nbsp;&nbsp;&nbsp;Motionless his paddle rested;
-&nbsp;&nbsp;&nbsp;&nbsp;At the third, before his vision
-&nbsp;&nbsp;&nbsp;&nbsp;Reeled the landscape into darkness,
-&nbsp;&nbsp;&nbsp;&nbsp;Very sound asleep was Kwasind.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;So he floated down the river,
-&nbsp;&nbsp;&nbsp;&nbsp;Like a blind man seated upright,
-&nbsp;&nbsp;&nbsp;&nbsp;Floated down the Taquamenaw,
-&nbsp;&nbsp;&nbsp;&nbsp;Underneath the trembling birch-trees,
-&nbsp;&nbsp;&nbsp;&nbsp;Underneath the wooded headlands,
-&nbsp;&nbsp;&nbsp;&nbsp;Underneath the war encampment
-&nbsp;&nbsp;&nbsp;&nbsp;Of the pygmies, the Puk-Wudjies.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There they stood, all armed and waiting,
-&nbsp;&nbsp;&nbsp;&nbsp;Hurled the pine-cones down upon him,
-&nbsp;&nbsp;&nbsp;&nbsp;Struck him on his brawny shoulders,
-&nbsp;&nbsp;&nbsp;&nbsp;On his crown defenceless struck him.
-&nbsp;&nbsp;&nbsp;&nbsp;"Death to Kwasind!" was the sudden
-&nbsp;&nbsp;&nbsp;&nbsp;War-cry of the Little People.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And he sideways swayed and tumbled,
-&nbsp;&nbsp;&nbsp;&nbsp;Sideways fell into the river,
-&nbsp;&nbsp;&nbsp;&nbsp;Plunged beneath the sluggish water
-&nbsp;&nbsp;&nbsp;&nbsp;Headlong, as an otter plunges;
-&nbsp;&nbsp;&nbsp;&nbsp;And the birch canoe, abandoned,
-&nbsp;&nbsp;&nbsp;&nbsp;Drifted empty down the river,
-&nbsp;&nbsp;&nbsp;&nbsp;Bottom upward swerved and drifted:
-&nbsp;&nbsp;&nbsp;&nbsp;Nothing more was seen of Kwasind.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But the memory of the Strong Man
-&nbsp;&nbsp;&nbsp;&nbsp;Lingered long among the people,
-&nbsp;&nbsp;&nbsp;&nbsp;And whenever through the forest
-&nbsp;&nbsp;&nbsp;&nbsp;Raged and roared the wintry tempest,
-&nbsp;&nbsp;&nbsp;&nbsp;And the branches, tossed and troubled,
-&nbsp;&nbsp;&nbsp;&nbsp;Creaked and groaned and split asunder,
-&nbsp;&nbsp;&nbsp;&nbsp;"Kwasind!" cried they; "that is Kwasind!
-&nbsp;&nbsp;&nbsp;&nbsp;He is gathering in his fire-wood!"
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;The ceaseless rain is falling fast,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And yonder gilded vane,
+&nbsp;&nbsp;&nbsp;&nbsp;Immovable for three days past,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Points to the misty main,
+
+&nbsp;&nbsp;&nbsp;&nbsp;It drives me in upon myself
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And to the fireside gleams,
+&nbsp;&nbsp;&nbsp;&nbsp;To pleasant books that crowd my shelf,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And still more pleasant dreams,
+
+&nbsp;&nbsp;&nbsp;&nbsp;I read whatever bards have sung
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of lands beyond the sea,
+&nbsp;&nbsp;&nbsp;&nbsp;And the bright days when I was young
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Come thronging back to me.
+
+&nbsp;&nbsp;&nbsp;&nbsp;In fancy I can hear again
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Alpine torrent's roar,
+&nbsp;&nbsp;&nbsp;&nbsp;The mule-bells on the hills of Spain,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The sea at Elsinore.
+
+&nbsp;&nbsp;&nbsp;&nbsp;I see the convent's gleaming wall
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rise from its groves of pine,
+&nbsp;&nbsp;&nbsp;&nbsp;And towers of old cathedrals tall,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And castles by the Rhine.
+
+&nbsp;&nbsp;&nbsp;&nbsp;I journey on by park and spire,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beneath centennial trees,
+&nbsp;&nbsp;&nbsp;&nbsp;Through fields with poppies all on fire,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And gleams of distant seas.
+
+&nbsp;&nbsp;&nbsp;&nbsp;I fear no more the dust and heat,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No more I feel fatigue,
+&nbsp;&nbsp;&nbsp;&nbsp;While journeying with another's feet
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O'er many a lengthening league.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Let others traverse sea and land,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And toil through various climes,
+&nbsp;&nbsp;&nbsp;&nbsp;I turn the world round with my hand
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reading these poets' rhymes.
+
+&nbsp;&nbsp;&nbsp;&nbsp;From them I learn whatever lies
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beneath each changing zone,
+&nbsp;&nbsp;&nbsp;&nbsp;And see, when looking with their eyes,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Better than with mine own.
 </pre>

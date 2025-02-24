@@ -1,0 +1,4 @@
+<p>The lovely Lo Fo of the western land <br> Plucks mulberry leaves by the waterside. <br> Across the green boughs stretches out her white hand; <br> In golden sunshine her rosy robe is dyed. <br> 'my silkworms are hungry, I cannot stay. <br> Tarry not with your five-horse cab, I pray.' <br></p>
+<div class="poet" itemprop="author">
+ Li Po
+</div>

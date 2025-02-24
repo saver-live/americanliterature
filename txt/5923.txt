@@ -1,225 +1,93 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;Never stoops the soaring vulture
-&nbsp;&nbsp;&nbsp;&nbsp;On his quarry in the desert,
-&nbsp;&nbsp;&nbsp;&nbsp;On the sick or wounded bison,
-&nbsp;&nbsp;&nbsp;&nbsp;But another vulture, watching
-&nbsp;&nbsp;&nbsp;&nbsp;From his high aerial look-out,
-&nbsp;&nbsp;&nbsp;&nbsp;Sees the downward plunge, and follows;
-&nbsp;&nbsp;&nbsp;&nbsp;And a third pursues the second,
-&nbsp;&nbsp;&nbsp;&nbsp;Coming from the invisible ether,
-&nbsp;&nbsp;&nbsp;&nbsp;First a speck, and then a vulture,
-&nbsp;&nbsp;&nbsp;&nbsp;Till the air is dark with pinions.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;So disasters come not singly;
-&nbsp;&nbsp;&nbsp;&nbsp;But as if they watched and waited,
-&nbsp;&nbsp;&nbsp;&nbsp;Scanning one another's motions,
-&nbsp;&nbsp;&nbsp;&nbsp;When the first descends, the others
-&nbsp;&nbsp;&nbsp;&nbsp;Follow, follow, gathering flock-wise
-&nbsp;&nbsp;&nbsp;&nbsp;Round their victim, sick and wounded,
-&nbsp;&nbsp;&nbsp;&nbsp;First a shadow, then a sorrow,
-&nbsp;&nbsp;&nbsp;&nbsp;Till the air is dark with anguish.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now, o'er all the dreary North-land,
-&nbsp;&nbsp;&nbsp;&nbsp;Mighty Peboan, the Winter,
-&nbsp;&nbsp;&nbsp;&nbsp;Breathing on the lakes and rivers,
-&nbsp;&nbsp;&nbsp;&nbsp;Into stone had changed their waters.
-&nbsp;&nbsp;&nbsp;&nbsp;From his hair he shook the snow-flakes,
-&nbsp;&nbsp;&nbsp;&nbsp;Till the plains were strewn with whiteness,
-&nbsp;&nbsp;&nbsp;&nbsp;One uninterrupted level,
-&nbsp;&nbsp;&nbsp;&nbsp;As if, stooping, the Creator
-&nbsp;&nbsp;&nbsp;&nbsp;With his hand had smoothed them over.
-&nbsp;&nbsp;&nbsp;&nbsp;Through the forest, wide and wailing,
-&nbsp;&nbsp;&nbsp;&nbsp;Roamed the hunter on his snow-shoes;
-&nbsp;&nbsp;&nbsp;&nbsp;In the village worked the women,
-&nbsp;&nbsp;&nbsp;&nbsp;Pounded maize, or dressed the deer-skin;
-&nbsp;&nbsp;&nbsp;&nbsp;And the young men played together
-&nbsp;&nbsp;&nbsp;&nbsp;On the ice the noisy ball-play,
-&nbsp;&nbsp;&nbsp;&nbsp;On the plain the dance of snow-shoes.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One dark evening, after sundown,
-&nbsp;&nbsp;&nbsp;&nbsp;In her wigwam Laughing Water
-&nbsp;&nbsp;&nbsp;&nbsp;Sat with old Nokomis, waiting
-&nbsp;&nbsp;&nbsp;&nbsp;For the steps of Hiawatha
-&nbsp;&nbsp;&nbsp;&nbsp;Homeward from the hunt returning.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On their faces gleamed the firelight,
-&nbsp;&nbsp;&nbsp;&nbsp;Painting them with streaks of crimson,
-&nbsp;&nbsp;&nbsp;&nbsp;In the eyes of old Nokomis
-&nbsp;&nbsp;&nbsp;&nbsp;Glimmered like the watery moonlight,
-&nbsp;&nbsp;&nbsp;&nbsp;In the eyes of Laughing Water
-&nbsp;&nbsp;&nbsp;&nbsp;Glistened like the sun in water;
-&nbsp;&nbsp;&nbsp;&nbsp;And behind them crouched their shadows
-&nbsp;&nbsp;&nbsp;&nbsp;In the corners of the wigwam,
-&nbsp;&nbsp;&nbsp;&nbsp;And the smoke in wreaths above them
-&nbsp;&nbsp;&nbsp;&nbsp;Climbed and crowded through the smoke-flue.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then the curtain of the doorway
-&nbsp;&nbsp;&nbsp;&nbsp;From without was slowly lifted;
-&nbsp;&nbsp;&nbsp;&nbsp;Brighter glowed the fire a moment,
-&nbsp;&nbsp;&nbsp;&nbsp;And a moment swerved the smoke-wreath,
-&nbsp;&nbsp;&nbsp;&nbsp;As two women entered softly,
-&nbsp;&nbsp;&nbsp;&nbsp;Passed the doorway uninvited,
-&nbsp;&nbsp;&nbsp;&nbsp;Without word of salutation,
-&nbsp;&nbsp;&nbsp;&nbsp;Without sign of recognition,
-&nbsp;&nbsp;&nbsp;&nbsp;Sat down in the farthest corner,
-&nbsp;&nbsp;&nbsp;&nbsp;Crouching low among the shadows.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From their aspect and their garments,
-&nbsp;&nbsp;&nbsp;&nbsp;Strangers seemed they in the village;
-&nbsp;&nbsp;&nbsp;&nbsp;Very pale and haggard were they,
-&nbsp;&nbsp;&nbsp;&nbsp;As they sat there sad and silent,
-&nbsp;&nbsp;&nbsp;&nbsp;Trembling, cowering with the shadows.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Was it the wind above the smoke-flue,
-&nbsp;&nbsp;&nbsp;&nbsp;Muttering down into the wigwam?
-&nbsp;&nbsp;&nbsp;&nbsp;Was it the owl, the Koko-koho,
-&nbsp;&nbsp;&nbsp;&nbsp;Hooting from the dismal forest?
-&nbsp;&nbsp;&nbsp;&nbsp;Sure a voice said in the silence:
-&nbsp;&nbsp;&nbsp;&nbsp;"These are corpses clad in garments,
-&nbsp;&nbsp;&nbsp;&nbsp;These are ghosts that come to haunt you,
-&nbsp;&nbsp;&nbsp;&nbsp;From the kingdom of Ponemah,
-&nbsp;&nbsp;&nbsp;&nbsp;From the land of the Hereafter!"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Homeward now came Hiawatha
-&nbsp;&nbsp;&nbsp;&nbsp;From his hunting in the forest,
-&nbsp;&nbsp;&nbsp;&nbsp;With the snow upon his tresses,
-&nbsp;&nbsp;&nbsp;&nbsp;And the red deer on his shoulders.
-&nbsp;&nbsp;&nbsp;&nbsp;At the feet of Laughing Water
-&nbsp;&nbsp;&nbsp;&nbsp;Down he threw his lifeless burden;
-&nbsp;&nbsp;&nbsp;&nbsp;Nobler, handsomer she thought him,
-&nbsp;&nbsp;&nbsp;&nbsp;Than when first he came to woo her,
-&nbsp;&nbsp;&nbsp;&nbsp;First threw down the deer before her,
-&nbsp;&nbsp;&nbsp;&nbsp;As a token of his wishes,
-&nbsp;&nbsp;&nbsp;&nbsp;As a promise of the future.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then he turned and saw the strangers,
-&nbsp;&nbsp;&nbsp;&nbsp;Cowering, crouching with the shadows;
-&nbsp;&nbsp;&nbsp;&nbsp;Said within himself, "Who are they?
-&nbsp;&nbsp;&nbsp;&nbsp;What strange guests has Minnehaha?"
-&nbsp;&nbsp;&nbsp;&nbsp;But he questioned not the strangers,
-&nbsp;&nbsp;&nbsp;&nbsp;Only spake to bid them welcome
-&nbsp;&nbsp;&nbsp;&nbsp;To his lodge, his food, his fireside.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When the evening meal was ready,
-&nbsp;&nbsp;&nbsp;&nbsp;And the deer had been divided,
-&nbsp;&nbsp;&nbsp;&nbsp;Both the pallid guests, the strangers,
-&nbsp;&nbsp;&nbsp;&nbsp;Springing from among the shadows,
-&nbsp;&nbsp;&nbsp;&nbsp;Seized upon the choicest portions,
-&nbsp;&nbsp;&nbsp;&nbsp;Seized the white fat of the roebuck,
-&nbsp;&nbsp;&nbsp;&nbsp;Set apart for Laughing Water,
-&nbsp;&nbsp;&nbsp;&nbsp;For the wife of Hiawatha;
-&nbsp;&nbsp;&nbsp;&nbsp;Without asking, without thanking,
-&nbsp;&nbsp;&nbsp;&nbsp;Eagerly devoured the morsels,
-&nbsp;&nbsp;&nbsp;&nbsp;Flitted back among the shadows
-&nbsp;&nbsp;&nbsp;&nbsp;In the corner of the wigwam.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Not a word spake Hiawatha,
-&nbsp;&nbsp;&nbsp;&nbsp;Not a motion made Nokomis,
-&nbsp;&nbsp;&nbsp;&nbsp;Not a gesture Laughing Water;
-&nbsp;&nbsp;&nbsp;&nbsp;Not a change came o'er their features;
-&nbsp;&nbsp;&nbsp;&nbsp;Only Minnehaha softly
-&nbsp;&nbsp;&nbsp;&nbsp;Whispered, saying, "They are famished;
-&nbsp;&nbsp;&nbsp;&nbsp;Let them do what best delights them;
-&nbsp;&nbsp;&nbsp;&nbsp;Let them eat, for they are famished."
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Many a daylight dawned and darkened,
-&nbsp;&nbsp;&nbsp;&nbsp;Many a night shook off the daylight
-&nbsp;&nbsp;&nbsp;&nbsp;As the pine shakes off the snow-flakes
-&nbsp;&nbsp;&nbsp;&nbsp;From the midnight of its branches;
-&nbsp;&nbsp;&nbsp;&nbsp;Day by day the guests unmoving
-&nbsp;&nbsp;&nbsp;&nbsp;Sat there silent in the wigwam;
-&nbsp;&nbsp;&nbsp;&nbsp;But by night, in storm or starlight,
-&nbsp;&nbsp;&nbsp;&nbsp;Forth they went into the forest,
-&nbsp;&nbsp;&nbsp;&nbsp;Bringing fire-wood to the wigwam,
-&nbsp;&nbsp;&nbsp;&nbsp;Bringing pine-cones for the burning,
-&nbsp;&nbsp;&nbsp;&nbsp;Always sad and always silent.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And whenever Hiawatha
-&nbsp;&nbsp;&nbsp;&nbsp;Came from fishing or from hunting,
-&nbsp;&nbsp;&nbsp;&nbsp;When the evening meal was ready,
-&nbsp;&nbsp;&nbsp;&nbsp;And the food had been divided,
-&nbsp;&nbsp;&nbsp;&nbsp;Gliding from their darksome corner,
-&nbsp;&nbsp;&nbsp;&nbsp;Came the pallid guests, the strangers,
-&nbsp;&nbsp;&nbsp;&nbsp;Seized upon the choicest portions
-&nbsp;&nbsp;&nbsp;&nbsp;Set aside for Laughing Water,
-&nbsp;&nbsp;&nbsp;&nbsp;And without rebuke or question
-&nbsp;&nbsp;&nbsp;&nbsp;Flitted back among the shadows.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Never once had Hiawatha
-&nbsp;&nbsp;&nbsp;&nbsp;By a word or look reproved them;
-&nbsp;&nbsp;&nbsp;&nbsp;Never once had old Nokomis
-&nbsp;&nbsp;&nbsp;&nbsp;Made a gesture of impatience;
-&nbsp;&nbsp;&nbsp;&nbsp;Never once had Laughing Water
-&nbsp;&nbsp;&nbsp;&nbsp;Shown resentment at the outrage.
-&nbsp;&nbsp;&nbsp;&nbsp;All had they endured in silence,
-&nbsp;&nbsp;&nbsp;&nbsp;That the rights of guest and stranger,
-&nbsp;&nbsp;&nbsp;&nbsp;That the virtue of free-giving,
-&nbsp;&nbsp;&nbsp;&nbsp;By a look might not be lessened,
-&nbsp;&nbsp;&nbsp;&nbsp;By a word might not be broken.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Once at midnight Hiawatha,
-&nbsp;&nbsp;&nbsp;&nbsp;Ever wakeful, ever watchful,
-&nbsp;&nbsp;&nbsp;&nbsp;In the wigwam, dimly lighted
-&nbsp;&nbsp;&nbsp;&nbsp;By the brands that still were burning,
-&nbsp;&nbsp;&nbsp;&nbsp;By the glimmering, flickering firelight
-&nbsp;&nbsp;&nbsp;&nbsp;Heard a sighing, oft repeated,
-&nbsp;&nbsp;&nbsp;&nbsp;Heard a sobbing, as of sorrow.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From his couch rose Hiawatha,
-&nbsp;&nbsp;&nbsp;&nbsp;From his shaggy hides of bison,
-&nbsp;&nbsp;&nbsp;&nbsp;Pushed aside the deer-skin curtain,
-&nbsp;&nbsp;&nbsp;&nbsp;Saw the pallid guests, the shadows,
-&nbsp;&nbsp;&nbsp;&nbsp;Sitting upright on their couches,
-&nbsp;&nbsp;&nbsp;&nbsp;Weeping in the silent midnight.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And he said: "O guests! why is it
-&nbsp;&nbsp;&nbsp;&nbsp;That your hearts are so afflicted,
-&nbsp;&nbsp;&nbsp;&nbsp;That you sob so in the midnight?
-&nbsp;&nbsp;&nbsp;&nbsp;Has perchance the old Nokomis,
-&nbsp;&nbsp;&nbsp;&nbsp;Has my wife, my Minnehaha,
-&nbsp;&nbsp;&nbsp;&nbsp;Wronged or grieved you by unkindness,
-&nbsp;&nbsp;&nbsp;&nbsp;Failed in hospitable duties?"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then the shadows ceased from weeping,
-&nbsp;&nbsp;&nbsp;&nbsp;Ceased from sobbing and lamenting,
-&nbsp;&nbsp;&nbsp;&nbsp;And they said, with gentle voices:
-&nbsp;&nbsp;&nbsp;&nbsp;"We are ghosts of the departed,
-&nbsp;&nbsp;&nbsp;&nbsp;Souls of those who once were with you.
-&nbsp;&nbsp;&nbsp;&nbsp;From the realms of Chibiabos
-&nbsp;&nbsp;&nbsp;&nbsp;Hither have we come to try you,
-&nbsp;&nbsp;&nbsp;&nbsp;Hither have we come to warn you.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Cries of grief and lamentation
-&nbsp;&nbsp;&nbsp;&nbsp;Reach us in the Blessed Islands;
-&nbsp;&nbsp;&nbsp;&nbsp;Cries of anguish from the living,
-&nbsp;&nbsp;&nbsp;&nbsp;Calling back their friends departed,
-&nbsp;&nbsp;&nbsp;&nbsp;Sadden us with useless sorrow.
-&nbsp;&nbsp;&nbsp;&nbsp;Therefore have we come to try you;
-&nbsp;&nbsp;&nbsp;&nbsp;No one knows us, no one heeds us.
-&nbsp;&nbsp;&nbsp;&nbsp;We are but a burden to you,
-&nbsp;&nbsp;&nbsp;&nbsp;And we see that the departed
-&nbsp;&nbsp;&nbsp;&nbsp;Have no place among the living.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Think of this, O Hiawatha!
-&nbsp;&nbsp;&nbsp;&nbsp;Speak of it to all the people,
-&nbsp;&nbsp;&nbsp;&nbsp;That henceforward and forever
-&nbsp;&nbsp;&nbsp;&nbsp;They no more with lamentations
-&nbsp;&nbsp;&nbsp;&nbsp;Sadden the souls of the departed
-&nbsp;&nbsp;&nbsp;&nbsp;In the Islands of the Blessed.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Do not lay such heavy burdens
-&nbsp;&nbsp;&nbsp;&nbsp;In the graves of those you bury,
-&nbsp;&nbsp;&nbsp;&nbsp;Not such weight of furs and wampum,
-&nbsp;&nbsp;&nbsp;&nbsp;Not such weight of pots and kettles,
-&nbsp;&nbsp;&nbsp;&nbsp;For the spirits faint beneath them.
-&nbsp;&nbsp;&nbsp;&nbsp;Only give them food to carry,
-&nbsp;&nbsp;&nbsp;&nbsp;Only give them fire to light them.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Four days is the spirit's journey
-&nbsp;&nbsp;&nbsp;&nbsp;To the land of ghosts and shadows,
-&nbsp;&nbsp;&nbsp;&nbsp;Four its lonely night encampments;
-&nbsp;&nbsp;&nbsp;&nbsp;Four times must their fires be lighted.
-&nbsp;&nbsp;&nbsp;&nbsp;Therefore, when the dead are buried,
-&nbsp;&nbsp;&nbsp;&nbsp;Let a fire, as night approaches,
-&nbsp;&nbsp;&nbsp;&nbsp;Four times on the grave be kindled,
-&nbsp;&nbsp;&nbsp;&nbsp;That the soul upon its journey
-&nbsp;&nbsp;&nbsp;&nbsp;May not lack the cheerful firelight,
-&nbsp;&nbsp;&nbsp;&nbsp;May not grope about in darkness.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Farewell, noble Hiawatha!
-&nbsp;&nbsp;&nbsp;&nbsp;We have put you to the trial,
-&nbsp;&nbsp;&nbsp;&nbsp;To the proof have put your patience,
-&nbsp;&nbsp;&nbsp;&nbsp;By the insult of our presence,
-&nbsp;&nbsp;&nbsp;&nbsp;By the outrage of our actions.
-&nbsp;&nbsp;&nbsp;&nbsp;We have found you great and noble.
-&nbsp;&nbsp;&nbsp;&nbsp;Fail not in the greater trial,
-&nbsp;&nbsp;&nbsp;&nbsp;Faint not in the harder struggle."
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When they ceased, a sudden darkness
-&nbsp;&nbsp;&nbsp;&nbsp;Fell and filled the silent wigwam.
-&nbsp;&nbsp;&nbsp;&nbsp;Hiawatha heard a rustle
-&nbsp;&nbsp;&nbsp;&nbsp;As of garments trailing by him,
-&nbsp;&nbsp;&nbsp;&nbsp;Heard the curtain of the doorway
-&nbsp;&nbsp;&nbsp;&nbsp;Lifted by a hand he saw not,
-&nbsp;&nbsp;&nbsp;&nbsp;Felt the cold breath of the night air,
-&nbsp;&nbsp;&nbsp;&nbsp;For a moment saw the starlight;
-&nbsp;&nbsp;&nbsp;&nbsp;But he saw the ghosts no longer,
-&nbsp;&nbsp;&nbsp;&nbsp;Saw no more the wandering spirits
-&nbsp;&nbsp;&nbsp;&nbsp;From the kingdom of Ponemah,
-&nbsp;&nbsp;&nbsp;&nbsp;From the land of the Hereafter.
+<pre>
+
+It was the schooner Hesperus,
+   That sailed the wintry sea;
+And the skipper had taken his little daughter,
+   To bear him company.
+Blue were her eyes as the fairy-flax,
+   Her cheeks like the dawn of day,
+And her bosom white as the hawthorn buds,
+   That ope in the month of May.
+The skipper he stood beside the helm,
+   His pipe was in his month,
+And he watched how the veering flaw did blow
+   The smoke now West, now South.
+Then up and spake an old Sailor,
+   Had sailed to the Spanish Main,
+"I pray thee, put into yonder port,
+   For I fear a hurricane.
+"Last night, the moon had a golden ring,
+   And to-night no moon we see!"
+The skipper, he blew a whiff from his pipe,
+   And a scornful laugh laughed he.
+Colder and louder blew the wind,
+   A gale from the Northeast.
+The snow fell hissing in the brine,
+   And the billows frothed like yeast.
+Down came the storm, and smote amain
+   The vessel in its strength;
+She shuddered and paused, like a frighted steed,
+   Then leaped her cable's length.
+"Come hither! come hither! my little daughter,
+   And do not tremble so;
+For I can weather the roughest gale
+   That ever wind did blow."
+He wrapped her warm in his seaman's coat
+   Against the stinging blast;
+He cut a rope from a broken spar,
+   And bound her to the mast.
+"O father! I hear the church-bells ring,
+   O say, what may it be?"
+ "'Tis a fog-bell on a rock-bound coast!"—
+   And he steered for the open sea.
+"O father! I hear the sound of guns,
+   O say, what may it be?"
+"Some ship in distress, that cannot live
+   In such an angry sea!"
+"O father! I see a gleaming light
+   O say, what may it be?"
+But the father answered never a word,
+   A frozen corpse was he.
+Lashed to the helm, all stiff and stark,
+   With his face turned to the skies,
+The lantern gleamed through the gleaming snow
+   On his fixed and glassy eyes.
+Then the maiden clasped her hands and prayed
+   That saved she might be;
+And she thought of Christ, who stilled the wave,
+   On the Lake of Galilee.
+And fast through the midnight dark and drear,
+   Through the whistling sleet and snow,
+Like a sheeted ghost, the vessel swept
+   Tow'rds the reef of Norman's Woe.
+And ever the fitful gusts between
+   A sound came from the land;
+It was the sound of the trampling surf
+   On the rocks and the hard sea-sand.
+The breakers were right beneath her bows,
+   She drifted a dreary wreck,
+And a whooping billow swept the crew
+   Like icicles from her deck.
+She struck where the white and fleecy waves
+   Looked soft as carded wool,
+But the cruel rocks, they gored her side
+   Like the horns of an angry bull.
+Her rattling shrouds, all sheathed in ice,
+   With the masts went by the board;
+Like a vessel of glass, she stove and sank,
+   Ho! ho! the breakers roared!
+At daybreak, on the bleak sea-beach,
+   A fisherman stood aghast,
+To see the form of a maiden fair,
+   Lashed close to a drifting mast.
+The salt sea was frozen on her breast,
+   The salt tears in her eyes;
+And he saw her hair, like the brown sea-weed,
+   On the billows fall and rise.
+Such was the wreck of the Hesperus,
+   In the midnight and the snow!
+Christ save us all from a death like this,
+   On the reef of Norman's Woe!
+
+
 </pre>

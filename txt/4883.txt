@@ -1,103 +1,48 @@
-<pre>"Now this is the price of a stirrup-cup,"
-The kneeling doctor said.
-And syne he bade them take him up,
-For he saw that the man was dead.
-
-They took him up, and they laid him down
-( And, oh, he did not stir ),
-And they had him into the nearest town
-To wait the Coroner.
-
-They drew the dead-cloth over the face,
-They closed the doors upon,
-And the cars that were parked in the market-place
-Made talk of it anon.
-
-Then up and spake a Daimler wide,
-That carries the slatted tank:
-"'Tis we must purge the country-side
-And no man will us thank.
-
-"For while they pray at Holy Kirk
-The souls should turn from sin,
-We cock our bonnets to the work,
-And gather the drunken in.
-
-"And if we spare them for the nonce,
-Or their comrades jack them free,
-They learn more under our dumb-irons
-Than they learned at time mother's knee."
-
-Then up and spake an Armstrong bold,
-And Siddeley, was his name:
-"I saw a man lie stark and cold
-By Grantham as I came.
-
-"There was a blind turn by a brook,
-A guard-rail and a fail:
-But the drunken loon that overtook
-He got no hurt at all!
-
-"I ha' trodden the wet road and the dry
-But and the shady lane;'
-And why the guiltless soul should die,
-Good reason find I nane."
-
-Then up and spake the Babe Austin
-Had barely room for two
-"'Tis time and place that make the sin,
-And not the deed they do.
-
-"For when a man drives with his dear,
-I ha' seen it come to pass
-That an arm too close or a lip too near
-Has killed both lad and lass.
-
-"There was a car at eventide
-And a sidelings kiss to steal
-The God knows how the couple died,
-But I mind the inquest weel.
-
-"I have trodden the black tar and the heath
-But and the cobble-stone;
-And why the young go to their death,
-Good reason find I none."
-
-Then spake a Morris from Oxenford,
-('Was keen to a Cowley Friar ):
-"How shall we judge the ways of the Lord
-That are but steel and fire?
-
-
-"Between the oil-pits under earth
-And the levin-spark from the skies,
-We but adventure and go forth
-As our man shall devise:
-
-"And if he have drunken a hoop too deep,
-No kinship can us move
-To draw him home in his market-sleep
-Or spare his waiting love.
-
-"There is never a lane in all England
-Where a mellow man can go,
-But he must look on either hand
-And back and front also.
-
-"But he must busk him every tide,
-At prick of horn, to leap
-Either to hide in ditch beside
-Or in the bankes steep.
-
-"And whether he walk in drink or muse,
-Or for his love be bound,
-We have no wit to mark and chuse,
-But needs must slay or wound."
-
-- - - - - - - - - - 
-
-They drew the dead-cloth from its face.
-The Crowner looked thereon;
-And the cars that were parked in the market-place
-Went all their ways anon.
+<pre>'Ave you 'eard o' the Widow at Windsor
+With a hairy gold crown on 'er 'ead?
+She 'as ships on the foam she 'as millions at 'ome,
+An' she pays us poor beggars in red.
+(Ow, poor beggars in red!)
+There's 'er nick on the cavalry 'orses,
+There's 'er mark on the medical stores
+An' 'er troopers you'll find with a fair wind be'ind
+That takes us to various wars.
+(Poor beggars! barbarious wars!)
+Then 'ere's to the Widow at Windsor,
+An' 'ere's to the stores an' the guns,
+The men an' the 'orses what makes up the forces
+O' Missis Victorier's sons.
+(Poor beggars! Victorier's sons!)
+ 
+Walk wide o' the Widow at Windsor,
+For 'alf o' Creation she owns:
+We 'ave bought 'er the same with the sword an' the flame,
+An' we've salted it down with our bones.
+(Poor beggars! it's blue with our bones!)
+Hands off o' the sons o' the Widow,
+Hands off o' the goods in 'er shop,
+For the Kings must come down an' the Emperors frown
+When the Widow at Windsor says "Stop"!
+(Poor beggars! we're sent to say "Stop"!)
+Then 'ere's to the Lodge o' the Widow,
+From the Pole to the Tropics it runs
+To the Lodge that we tile with the rank an' the file,
+An' open in form with the guns.
+(Poor beggars! it's always they guns!)
+ 
+We 'ave 'eard o' the Widow at Windsor,
+It's safest to let 'er alone:
+For 'er sentries we stand by the sea an' the land
+Wherever the bugles are blown.
+(Poor beggars! an' don't we get blown!)
+Take 'old o' the Wings o' the Mornin',
+An' flop round the earth till you're dead;
+But you won't get away from the tune that they play
+To the bloomin' old rag over'ead.
+(Poor beggars! it's 'ot over'ead!)
+Then 'ere's to the sons o' the Widow,
+Wherever, 'owever they roam.
+'Ere's all they desire, an' if they require
+A speedy return to their 'ome.
+(Poor beggars! they'll never see 'ome!)
 </pre>

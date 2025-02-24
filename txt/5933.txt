@@ -1,217 +1,24 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;In those days the Evil Spirits,
-&nbsp;&nbsp;&nbsp;&nbsp;All the Manitos of mischief,
-&nbsp;&nbsp;&nbsp;&nbsp;Fearing Hiawatha's wisdom,
-&nbsp;&nbsp;&nbsp;&nbsp;And his love for Chibiabos,
-&nbsp;&nbsp;&nbsp;&nbsp;Jealous of their faithful friendship,
-&nbsp;&nbsp;&nbsp;&nbsp;And their noble words and actions,
-&nbsp;&nbsp;&nbsp;&nbsp;Made at length a league against them,
-&nbsp;&nbsp;&nbsp;&nbsp;To molest them and destroy them.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hiawatha, wise and wary,
-&nbsp;&nbsp;&nbsp;&nbsp;Often said to Chibiabos,
-&nbsp;&nbsp;&nbsp;&nbsp;"O my brother! do not leave me,
-&nbsp;&nbsp;&nbsp;&nbsp;Lest the Evil Spirits harm you!"
-&nbsp;&nbsp;&nbsp;&nbsp;Chibiabos, young and heedless,
-&nbsp;&nbsp;&nbsp;&nbsp;Laughing shook his coal-black tresses,
-&nbsp;&nbsp;&nbsp;&nbsp;Answered ever sweet and childlike,
-&nbsp;&nbsp;&nbsp;&nbsp;"Do not fear for me, O brother!
-&nbsp;&nbsp;&nbsp;&nbsp;Harm and evil come not near me!"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Once when Peboan, the Winter,
-&nbsp;&nbsp;&nbsp;&nbsp;Roofed with ice the Big-Sea-Water,
-&nbsp;&nbsp;&nbsp;&nbsp;When the snow-flakes, whirling downward,
-&nbsp;&nbsp;&nbsp;&nbsp;Hissed among the withered oak-leaves,
-&nbsp;&nbsp;&nbsp;&nbsp;Changed the pine-trees into wigwams,
-&nbsp;&nbsp;&nbsp;&nbsp;Covered all the earth with silence,--
-&nbsp;&nbsp;&nbsp;&nbsp;Armed with arrows, shod with snow-shoes,
-&nbsp;&nbsp;&nbsp;&nbsp;Heeding not his brother's warning,
-&nbsp;&nbsp;&nbsp;&nbsp;Fearing not the Evil Spirits,
-&nbsp;&nbsp;&nbsp;&nbsp;Forth to hunt the deer with antlers
-&nbsp;&nbsp;&nbsp;&nbsp;All alone went Chibiabos.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Right across the Big-Sea-Water
-&nbsp;&nbsp;&nbsp;&nbsp;Sprang with speed the deer before him.
-&nbsp;&nbsp;&nbsp;&nbsp;With the wind and snow he followed,
-&nbsp;&nbsp;&nbsp;&nbsp;O'er the treacherous ice he followed,
-&nbsp;&nbsp;&nbsp;&nbsp;Wild with all the fierce commotion
-&nbsp;&nbsp;&nbsp;&nbsp;And the rapture of the hunting.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But beneath, the Evil Spirits
-&nbsp;&nbsp;&nbsp;&nbsp;Lay in ambush, waiting for him,
-&nbsp;&nbsp;&nbsp;&nbsp;Broke the treacherous ice beneath him,
-&nbsp;&nbsp;&nbsp;&nbsp;Dragged him downward to the bottom,
-&nbsp;&nbsp;&nbsp;&nbsp;Buried in the sand his body.
-&nbsp;&nbsp;&nbsp;&nbsp;Unktahee, the god of water,
-&nbsp;&nbsp;&nbsp;&nbsp;He the god of the Dacotahs,
-&nbsp;&nbsp;&nbsp;&nbsp;Drowned him in the deep abysses
-&nbsp;&nbsp;&nbsp;&nbsp;Of the lake of Gitche Gumee.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the headlands Hiawatha
-&nbsp;&nbsp;&nbsp;&nbsp;Sent forth such a wail of anguish,
-&nbsp;&nbsp;&nbsp;&nbsp;Such a fearful lamentation,
-&nbsp;&nbsp;&nbsp;&nbsp;That the bison paused to listen,
-&nbsp;&nbsp;&nbsp;&nbsp;And the wolves howled from the prairies,
-&nbsp;&nbsp;&nbsp;&nbsp;And the thunder in the distance
-&nbsp;&nbsp;&nbsp;&nbsp;Starting answered "Baim-wawa!"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then his face with black he painted,
-&nbsp;&nbsp;&nbsp;&nbsp;With his robe his head he covered,
-&nbsp;&nbsp;&nbsp;&nbsp;In his wigwam sat lamenting,
-&nbsp;&nbsp;&nbsp;&nbsp;Seven long weeks he sat lamenting,
-&nbsp;&nbsp;&nbsp;&nbsp;Uttering still this moan of sorrow:--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"He is dead, the sweet musician!
-&nbsp;&nbsp;&nbsp;&nbsp;He the sweetest of all singers!
-&nbsp;&nbsp;&nbsp;&nbsp;He has gone from us forever,
-&nbsp;&nbsp;&nbsp;&nbsp;He has moved a little nearer
-&nbsp;&nbsp;&nbsp;&nbsp;To the Master of all music,
-&nbsp;&nbsp;&nbsp;&nbsp;To the Master of all singing!
-&nbsp;&nbsp;&nbsp;&nbsp;O my brother, Chibiabos!"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the melancholy fir-trees
-&nbsp;&nbsp;&nbsp;&nbsp;Waved their dark green fans above him,
-&nbsp;&nbsp;&nbsp;&nbsp;Waved their purple cones above him,
-&nbsp;&nbsp;&nbsp;&nbsp;Sighing with him to console him,
-&nbsp;&nbsp;&nbsp;&nbsp;Mingling with his lamentation
-&nbsp;&nbsp;&nbsp;&nbsp;Their complaining, their lamenting.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Came the Spring, and all the forest
-&nbsp;&nbsp;&nbsp;&nbsp;Looked in vain for Chibiabos;
-&nbsp;&nbsp;&nbsp;&nbsp;Sighed the rivulet, Sebowisha,
-&nbsp;&nbsp;&nbsp;&nbsp;Sighed the rushes in the meadow.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the tree-tops sang the bluebird,
-&nbsp;&nbsp;&nbsp;&nbsp;Sang the bluebird, the Owaissa,
-&nbsp;&nbsp;&nbsp;&nbsp;"Chibiabos! Chibiabos!
-&nbsp;&nbsp;&nbsp;&nbsp;He is dead, the sweet musician!"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the wigwam sang the robin,
-&nbsp;&nbsp;&nbsp;&nbsp;Sang the robin, the Opechee,
-&nbsp;&nbsp;&nbsp;&nbsp;"Chibiabos! Chibiabos!
-&nbsp;&nbsp;&nbsp;&nbsp;He is dead, the sweetest singer!"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And at night through all the forest
-&nbsp;&nbsp;&nbsp;&nbsp;Went the whippoorwill complaining,
-&nbsp;&nbsp;&nbsp;&nbsp;Wailing went the Wawonaissa,
-&nbsp;&nbsp;&nbsp;&nbsp;"Chibiabos! Chibiabos!
-&nbsp;&nbsp;&nbsp;&nbsp;He is dead, the sweet musician!
-&nbsp;&nbsp;&nbsp;&nbsp;He the sweetest of all singers!"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then the Medicine-men, the Medas,
-&nbsp;&nbsp;&nbsp;&nbsp;The magicians, the Wabenos,
-&nbsp;&nbsp;&nbsp;&nbsp;And the Jossakeeds, the Prophets,
-&nbsp;&nbsp;&nbsp;&nbsp;Came to visit Hiawatha;
-&nbsp;&nbsp;&nbsp;&nbsp;Built a Sacred Lodge beside him,
-&nbsp;&nbsp;&nbsp;&nbsp;To appease him, to console him,
-&nbsp;&nbsp;&nbsp;&nbsp;Walked in silent, grave procession,
-&nbsp;&nbsp;&nbsp;&nbsp;Bearing each a pouch of healing,
-&nbsp;&nbsp;&nbsp;&nbsp;Skin of beaver, lynx, or otter,
-&nbsp;&nbsp;&nbsp;&nbsp;Filled with magic roots and simples,
-&nbsp;&nbsp;&nbsp;&nbsp;Filled with very potent medicines.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When he heard their steps approaching,
-&nbsp;&nbsp;&nbsp;&nbsp;Hiawatha ceased lamenting,
-&nbsp;&nbsp;&nbsp;&nbsp;Called no more on Chibiabos;
-&nbsp;&nbsp;&nbsp;&nbsp;Naught he questioned, naught he answered,
-&nbsp;&nbsp;&nbsp;&nbsp;But his mournful head uncovered,
-&nbsp;&nbsp;&nbsp;&nbsp;From his face the mourning colors
-&nbsp;&nbsp;&nbsp;&nbsp;Washed he slowly and in silence,
-&nbsp;&nbsp;&nbsp;&nbsp;Slowly and in silence followed
-&nbsp;&nbsp;&nbsp;&nbsp;Onward to the Sacred Wigwam.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There a magic drink they gave him,
-&nbsp;&nbsp;&nbsp;&nbsp;Made of Nahma-wusk, the spearmint,
-&nbsp;&nbsp;&nbsp;&nbsp;And Wabeno-wusk, the yarrow,
-&nbsp;&nbsp;&nbsp;&nbsp;Roots of power, and herbs of healing;
-&nbsp;&nbsp;&nbsp;&nbsp;Beat their drums, and shook their rattles;
-&nbsp;&nbsp;&nbsp;&nbsp;Chanted singly and in chorus,
-&nbsp;&nbsp;&nbsp;&nbsp;Mystic songs like these, they chanted.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"I myself, myself! behold me!
-&nbsp;&nbsp;&nbsp;&nbsp;'T is the great Gray Eagle talking;
-&nbsp;&nbsp;&nbsp;&nbsp;Come, ye white crows, come and hear him!
-&nbsp;&nbsp;&nbsp;&nbsp;The loud-speaking thunder helps me;
-&nbsp;&nbsp;&nbsp;&nbsp;All the unseen spirits help me;
-&nbsp;&nbsp;&nbsp;&nbsp;I can hear their voices calling,
-&nbsp;&nbsp;&nbsp;&nbsp;All around the sky I hear them!
-&nbsp;&nbsp;&nbsp;&nbsp;I can blow you strong, my brother,
-&nbsp;&nbsp;&nbsp;&nbsp;I can heal you, Hiawatha!"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Hi-au-ha!" replied the chorus,
-&nbsp;&nbsp;&nbsp;&nbsp;"Way-ha-way!" the mystic chorus.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Friends of mine are all the serpents!
-&nbsp;&nbsp;&nbsp;&nbsp;Hear me shake my skin of hen-hawk!
-&nbsp;&nbsp;&nbsp;&nbsp;Mahng, the white loon, I can kill him;
-&nbsp;&nbsp;&nbsp;&nbsp;I can shoot your heart and kill it!
-&nbsp;&nbsp;&nbsp;&nbsp;I can blow you strong, my brother,
-&nbsp;&nbsp;&nbsp;&nbsp;I can heal you, Hiawatha!"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Hi-au-ha!" replied the chorus,
-&nbsp;&nbsp;&nbsp;&nbsp;"Way-ha-way!" the mystic chorus.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"I myself, myself! the prophet!
-&nbsp;&nbsp;&nbsp;&nbsp;When I speak the wigwam trembles,
-&nbsp;&nbsp;&nbsp;&nbsp;Shakes the Sacred Lodge with terror,
-&nbsp;&nbsp;&nbsp;&nbsp;Hands unseen begin to shake it!
-&nbsp;&nbsp;&nbsp;&nbsp;When I walk, the sky I tread on
-&nbsp;&nbsp;&nbsp;&nbsp;Bends and makes a noise beneath me!
-&nbsp;&nbsp;&nbsp;&nbsp;I can blow you strong, my brother!
-&nbsp;&nbsp;&nbsp;&nbsp;Rise and speak, O Hiawatha!"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Hi-au-ha!" replied the chorus,
-&nbsp;&nbsp;&nbsp;&nbsp;"Way-ha-way!" the mystic chorus.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then they shook their medicine-pouches
-&nbsp;&nbsp;&nbsp;&nbsp;O'er the head of Hiawatha,
-&nbsp;&nbsp;&nbsp;&nbsp;Danced their medicine-dance around him;
-&nbsp;&nbsp;&nbsp;&nbsp;And upstarting wild and haggard,
-&nbsp;&nbsp;&nbsp;&nbsp;Like a man from dreams awakened,
-&nbsp;&nbsp;&nbsp;&nbsp;He was healed of all his madness.
-&nbsp;&nbsp;&nbsp;&nbsp;As the clouds are swept from heaven,
-&nbsp;&nbsp;&nbsp;&nbsp;Straightway from his brain departed
-&nbsp;&nbsp;&nbsp;&nbsp;All his moody melancholy;
-&nbsp;&nbsp;&nbsp;&nbsp;As the ice is swept from rivers,
-&nbsp;&nbsp;&nbsp;&nbsp;Straightway from his heart departed
-&nbsp;&nbsp;&nbsp;&nbsp;All his sorrow and affliction.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then they summoned Chibiabos
-&nbsp;&nbsp;&nbsp;&nbsp;From his grave beneath the waters,
-&nbsp;&nbsp;&nbsp;&nbsp;From the sands of Gitche Gumee
-&nbsp;&nbsp;&nbsp;&nbsp;Summoned Hiawatha's brother.
-&nbsp;&nbsp;&nbsp;&nbsp;And so mighty was the magic
-&nbsp;&nbsp;&nbsp;&nbsp;Of that cry and invocation,
-&nbsp;&nbsp;&nbsp;&nbsp;That he heard it as he lay there
-&nbsp;&nbsp;&nbsp;&nbsp;Underneath the Big-Sea-Water;
-&nbsp;&nbsp;&nbsp;&nbsp;From the sand he rose and listened,
-&nbsp;&nbsp;&nbsp;&nbsp;Heard the music and the singing,
-&nbsp;&nbsp;&nbsp;&nbsp;Came, obedient to the summons,
-&nbsp;&nbsp;&nbsp;&nbsp;To the doorway of the wigwam,
-&nbsp;&nbsp;&nbsp;&nbsp;But to enter they forbade him.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Through a chink a coal they gave him,
-&nbsp;&nbsp;&nbsp;&nbsp;Through the door a burning fire-brand;
-&nbsp;&nbsp;&nbsp;&nbsp;Ruler in the Land of Spirits,
-&nbsp;&nbsp;&nbsp;&nbsp;Ruler o'er the dead, they made him,
-&nbsp;&nbsp;&nbsp;&nbsp;Telling him a fire to kindle
-&nbsp;&nbsp;&nbsp;&nbsp;For all those that died thereafter,
-&nbsp;&nbsp;&nbsp;&nbsp;Camp-fires for their night encampments
-&nbsp;&nbsp;&nbsp;&nbsp;On their solitary journey
-&nbsp;&nbsp;&nbsp;&nbsp;To the kingdom of Ponemah,
-&nbsp;&nbsp;&nbsp;&nbsp;To the land of the Hereafter.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the village of his childhood,
-&nbsp;&nbsp;&nbsp;&nbsp;From the homes of those who knew him,
-&nbsp;&nbsp;&nbsp;&nbsp;Passing silent through the forest,
-&nbsp;&nbsp;&nbsp;&nbsp;Like a smoke-wreath wafted sideways,
-&nbsp;&nbsp;&nbsp;&nbsp;Slowly vanished Chibiabos!
-&nbsp;&nbsp;&nbsp;&nbsp;Where he passed, the branches moved not,
-&nbsp;&nbsp;&nbsp;&nbsp;Where he trod, the grasses bent not,
-&nbsp;&nbsp;&nbsp;&nbsp;And the fallen leaves of last year
-&nbsp;&nbsp;&nbsp;&nbsp;Made no sound beneath his footstep.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Four whole days he journeyed onward
-&nbsp;&nbsp;&nbsp;&nbsp;Down the pathway of the dead men;
-&nbsp;&nbsp;&nbsp;&nbsp;On the dead-man's strawberry feasted,
-&nbsp;&nbsp;&nbsp;&nbsp;Crossed the melancholy river,
-&nbsp;&nbsp;&nbsp;&nbsp;On the swinging log he crossed it,
-&nbsp;&nbsp;&nbsp;&nbsp;Came unto the Lake of Silver,
-&nbsp;&nbsp;&nbsp;&nbsp;In the Stone Canoe was carried
-&nbsp;&nbsp;&nbsp;&nbsp;To the Islands of the Blessed,
-&nbsp;&nbsp;&nbsp;&nbsp;To the land of ghosts and shadows.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On that journey, moving slowly,
-&nbsp;&nbsp;&nbsp;&nbsp;Many weary spirits saw he,
-&nbsp;&nbsp;&nbsp;&nbsp;Panting under heavy burdens,
-&nbsp;&nbsp;&nbsp;&nbsp;Laden with war-clubs, bows and arrows,
-&nbsp;&nbsp;&nbsp;&nbsp;Robes of fur, and pots and kettles,
-&nbsp;&nbsp;&nbsp;&nbsp;And with food that friends had given
-&nbsp;&nbsp;&nbsp;&nbsp;For that solitary journey.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Ay! why do the living," said they,
-&nbsp;&nbsp;&nbsp;&nbsp;"Lay such heavy burdens on us!
-&nbsp;&nbsp;&nbsp;&nbsp;Better were it to go naked,
-&nbsp;&nbsp;&nbsp;&nbsp;Better were it to go fasting,
-&nbsp;&nbsp;&nbsp;&nbsp;Than to bear such heavy burdens
-&nbsp;&nbsp;&nbsp;&nbsp;On our long and weary journey!"
-&nbsp;&nbsp;&nbsp;&nbsp;Forth then issued Hiawatha,
-&nbsp;&nbsp;&nbsp;&nbsp;Wandered eastward, wandered westward,
-&nbsp;&nbsp;&nbsp;&nbsp;Teaching men the use of simples
-&nbsp;&nbsp;&nbsp;&nbsp;And the antidotes for poisons,
-&nbsp;&nbsp;&nbsp;&nbsp;And the cure of all diseases.
-&nbsp;&nbsp;&nbsp;&nbsp;Thus was first made known to mortals
-&nbsp;&nbsp;&nbsp;&nbsp;All the mystery of Medamin,
-&nbsp;&nbsp;&nbsp;&nbsp;All the sacred art of healing.
+<pre>
+The pages of thy book I read,
+And as I closed each one,
+My heart, responding, ever said,
+"Servant of God! well done!"
+Well done! Thy words are great and bold;
+At times they seem to me,
+Like Luther's, in the days of old,
+Half-battles for the free.[Pg 10]
+Go on, until this land revokes
+The old and chartered Lie,
+The feudal curse, whose whips and yokes
+Insult humanity.
+A voice is ever at thy side
+Speaking in tones of might,
+Like the prophetic voice, that cried
+To John in Patmos, "Write!"
+Write! and tell out this bloody tale;
+Record this dire eclipse,
+This Day of Wrath, this Endless Wail,
+This dread Apocalypse!
+
+
 </pre>

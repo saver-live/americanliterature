@@ -1,34 +1,19 @@
 <pre>
-In dark fens of the Dismal Swamp
-The hunted Negro lay;
-He saw the fire of the midnight camp,
-And heard at times a horse's tramp
-And a bloodhound's distant bay.
-Where will-o'-the-wisps and glowworms shine,
-In bulrush and in brake;
-Where waving mosses shroud the pine,
-And the cedar grows, and the poisonous vine
-Is spotted like the snake;[Pg 19]
-Where hardly a human foot could pass,
-Or a human heart would dare,
-On the quaking turf of the green morass
-He crouched in the rank and tangled grass,
-Like a wild beast in his lair.
-A poor old slave, infirm and lame;
-Great scars deformed his face;
-On his forehead he bore the brand of shame,
-And the rags, that hid his mangled frame,
-Were the livery of disgrace.
-All things above were bright and fair,
-All things were glad and free;
-Lithe squirrels darted here and there,
-And wild birds filled the echoing air
-With songs of Liberty![Pg 20]
-On him alone was the doom of pain,
-From the morning of his birth;
-On him alone the curse of Cain
-Fell, like a flail on the garnered grain,
-And struck him to the earth!
+&nbsp;&nbsp;&nbsp;&nbsp;The tide rises, the tide falls,
+&nbsp;&nbsp;&nbsp;&nbsp;The twilight darkens, the curlew calls;
+&nbsp;&nbsp;&nbsp;&nbsp;Along the sea-sands damp and brown
+&nbsp;&nbsp;&nbsp;&nbsp;The traveller hastens toward the town,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And the tide rises, the tide falls.
 
+&nbsp;&nbsp;&nbsp;&nbsp;Darkness settles on roofs and walls,
+&nbsp;&nbsp;&nbsp;&nbsp;But the sea in the darkness calls and calls;
+&nbsp;&nbsp;&nbsp;&nbsp;The little waves, with their soft, white hands,
+&nbsp;&nbsp;&nbsp;&nbsp;Efface the footprints in the sands,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the tide rises, the tide falls.
 
+&nbsp;&nbsp;&nbsp;&nbsp;The morning breaks; the steeds in their stalls
+&nbsp;&nbsp;&nbsp;&nbsp;Stamp and neigh, as the hostler calls;
+&nbsp;&nbsp;&nbsp;&nbsp;The day returns, but nevermore
+&nbsp;&nbsp;&nbsp;&nbsp;Returns the traveller to the shore,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And the tide rises, the tide falls.
 </pre>

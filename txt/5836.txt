@@ -1,52 +1,30 @@
-<pre>
-I have read, in some old, marvellous tale,
-  Some legend strange and vague,
-That a midnight host of spectres pale
-  Beleaguered the walls of Prague.
-Beside the Moldau's rushing stream,
-  With the wan moon overhead,
-There stood, as in an awful dream,
-  The army of the dead.
-White as a sea-fog, landward bound,
-  The spectral camp was seen,
-And, with a sorrowful, deep sound,
-  The river flowed between.
-No other voice nor sound was there,
-  No drum, nor sentry's pace;
-The mist-like banners clasped the air,
-  As clouds with clouds embrace.
-But when the old cathedral bell
-  Proclaimed the morning prayer,
-The white pavilions rose and fell
-  On the alarmed air.
-Down the broad valley fast and far
-  The troubled army fled;
-Up rose the glorious morning star,
-  The ghastly host was dead.
-I have read, in the marvellous heart of man,
-  That strange and mystic scroll,
-That an army of phantoms vast and wan
-  Beleaguer the human soul.
-Encamped beside Life's rushing stream,
-  In Fancy's misty light,
-Gigantic shapes and shadows gleam
-  Portentous through the night.
-Upon its midnight battle-ground
-  The spectral camp is seen,
-And, with a sorrowful, deep sound,
-  Flows the River of Life between.
-No other voice nor sound is there,
-  In the army of the grave;
-No other challenge breaks the air,
-  But the rushing of Life's wave.
-And when the solemn and deep churchbell
-  Entreats the soul to pray,
-The midnight phantoms feel the spell,
-  The shadows sweep away.
-Down the broad Vale of Tears afar
-  The spectral camp is fled;
-Faith shineth as a morning star,
-  Our ghastly fears are dead.
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;The old house by the lindens
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stood silent in the shade,
+&nbsp;&nbsp;&nbsp;&nbsp;And on the gravelled pathway
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The light and shadow played.
 
+&nbsp;&nbsp;&nbsp;&nbsp;I saw the nursery windows
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wide open to the air;
+&nbsp;&nbsp;&nbsp;&nbsp;But the faces of the children,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They were no longer there.
 
+&nbsp;&nbsp;&nbsp;&nbsp;The large Newfoundland house-dog
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Was standing by the door;
+&nbsp;&nbsp;&nbsp;&nbsp;He looked for his little playmates,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Who would return no more.
+
+&nbsp;&nbsp;&nbsp;&nbsp;They walked not under the lindens,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They played not in the hall;
+&nbsp;&nbsp;&nbsp;&nbsp;But shadow, and silence, and sadness
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Were hanging over all.
+
+&nbsp;&nbsp;&nbsp;&nbsp;The birds sang in the branches,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With sweet, familiar tone;
+&nbsp;&nbsp;&nbsp;&nbsp;But the voices of the children
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Will be heard in dreams alone!
+
+&nbsp;&nbsp;&nbsp;&nbsp;And the boy that walked beside me,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He could not understand
+&nbsp;&nbsp;&nbsp;&nbsp;Why closer in mine, ah! closer,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I pressed his warm, soft hand!
 </pre>

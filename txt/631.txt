@@ -1,0 +1,4 @@
+<p>Mountain flowers open in our faces.<br> You and I are triply lost in wine.<br> I am drunk, my friend, sleepy. Rise and go.<br> With your dawn lute, return, if you wish, and stay. <br></p>
+<div class="poet" itemprop="author">
+ Li Po
+</div>

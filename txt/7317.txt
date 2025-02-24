@@ -1,17 +1,1 @@
-<pre>
-  If my dear love were but the child of state,
-  It might for Fortune's bastard be unfathered,
-  As subject to time's love or to time's hate,
-  Weeds among weeds, or flowers with flowers gathered.
-  No it was builded far from accident,
-  It suffers not in smiling pomp, nor falls
-  Under the blow of thralled discontent,
-  Whereto th' inviting time our fashion calls:
-  It fears not policy that heretic,
-  Which works on leases of short-numbered hours,
-  But all alone stands hugely politic,
-  That it nor grows with heat, nor drowns with showers.
-    To this I witness call the fools of time,
-    Which die for goodness, who have lived for crime.
-
-</pre>
+<p><span class="al-title">Antigone</span> is the third in the series of Theban plays by Sophocles, though it was the first written in the series (about 441 BC). Its title is the daughter/sister of Oedipus, and his mother Jocasta (yes, it's complicated and tragic). We recommend reading all three plays, though they are considered distinct pieces of literature and should be analyzed individually. The other two Theban plays are <a class al-title href="https://americanliterature.com/author/sophocles/play/oedipus-the-king/summary">Opedipus the King</a>, followed by <a class al-title href="https://americanliterature.com/author/sophocles/play/oedipus-at-colonus/summary">Oedipus at Colonus</a>.</p><p><img alt="Oedipus at Colonus-draft" title="Sophocles manuscript" itemprop="image" src="https://assets.americanliterature.com/al/images/play/oedipus-the-king.jpg" style="max-width:400px; float:left; margin-right: 12px; margin-bottom: 10px;" data-pagespeed-url-hash="3690757061" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"> </p><p><a href="argument">ARGUMENT</a></p><p><a href="dramatis-personae">DRAMATIS PERSONAE</a></p><p><a href="antigone">ANTIGONE</a></p><p style="margin-top: 26px;"> Return to the <a href="/author/sophocles">Sophocles</a> library. </p>

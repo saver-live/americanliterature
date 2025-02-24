@@ -1,1530 +1,1522 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;Times followed one another. Came a morn
-&nbsp;&nbsp;&nbsp;&nbsp;I stood upon the brink of twenty years,
-&nbsp;&nbsp;&nbsp;&nbsp;And looked before and after, as I stood
-&nbsp;&nbsp;&nbsp;&nbsp;Woman and artist, either incomplete,
-&nbsp;&nbsp;&nbsp;&nbsp;Both credulous of completion. There I held
-&nbsp;&nbsp;&nbsp;&nbsp;The whole creation in my little cup,
-&nbsp;&nbsp;&nbsp;&nbsp;And smiled with thirsty lips before I drank
-&nbsp;&nbsp;&nbsp;&nbsp;"Good health to you and me, sweet neighbour mine,
-&nbsp;&nbsp;&nbsp;&nbsp;And all these peoples."
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;Aurora Leigh, be humble. Shall I hope
+&nbsp;&nbsp;&nbsp;&nbsp;To speak my poems in mysterious tune
+&nbsp;&nbsp;&nbsp;&nbsp;With man and nature? with the lava-lymph
+&nbsp;&nbsp;&nbsp;&nbsp;That trickles from successive galaxies
+&nbsp;&nbsp;&nbsp;&nbsp;Still drop by drop adown the finger of God
+&nbsp;&nbsp;&nbsp;&nbsp;In still new worlds? with summer-days in this
+&nbsp;&nbsp;&nbsp;&nbsp;That scarce dare breathe they are so beautiful?
+&nbsp;&nbsp;&nbsp;&nbsp;With spring's delicious trouble in the ground,
+&nbsp;&nbsp;&nbsp;&nbsp;Tormented by the quickened blood of roots,
+&nbsp;&nbsp;&nbsp;&nbsp;And softly pricked by golden crocus-sheaves
+&nbsp;&nbsp;&nbsp;&nbsp;In token of the harvest-time of flowers?
+&nbsp;&nbsp;&nbsp;&nbsp;With winters and with autumns, and beyond
+&nbsp;&nbsp;&nbsp;&nbsp;With the human heart's large seasons, when it hopes
+&nbsp;&nbsp;&nbsp;&nbsp;And fears, joys, grieves, and loves? with all that strain
+&nbsp;&nbsp;&nbsp;&nbsp;Of sexual passion, which devours the flesh
+&nbsp;&nbsp;&nbsp;&nbsp;In a sacrament of souls? with mother's breasts
+&nbsp;&nbsp;&nbsp;&nbsp;Which, round the new-made creatures hanging there,
+&nbsp;&nbsp;&nbsp;&nbsp;Throb luminous and harmonious like pure spheres?
+&nbsp;&nbsp;&nbsp;&nbsp;With multitudinous life, and finally
+&nbsp;&nbsp;&nbsp;&nbsp;With the great escapings of ecstatic souls,
+&nbsp;&nbsp;&nbsp;&nbsp;Who, in a rush of too long prisoned flame,
+&nbsp;&nbsp;&nbsp;&nbsp;Their radiant faces upward, burn away
+&nbsp;&nbsp;&nbsp;&nbsp;This dark of the body, issuing on a world
+&nbsp;&nbsp;&nbsp;&nbsp;Beyond our mortal? can I speak my verse
+&nbsp;&nbsp;&nbsp;&nbsp;So plainly in tune to these things and the rest
+&nbsp;&nbsp;&nbsp;&nbsp;That men shall feel it catch them on the quick
+&nbsp;&nbsp;&nbsp;&nbsp;As having the same warrant over them
+&nbsp;&nbsp;&nbsp;&nbsp;To hold and move them if they will or no,
+&nbsp;&nbsp;&nbsp;&nbsp;Alike imperious as the primal rhythm
+&nbsp;&nbsp;&nbsp;&nbsp;Of that theurgic nature? I must fail,
+&nbsp;&nbsp;&nbsp;&nbsp;Who fail at the beginning to hold and move
+&nbsp;&nbsp;&nbsp;&nbsp;One man, and he my cousin, and he my friend,
+&nbsp;&nbsp;&nbsp;&nbsp;And he born tender, made intelligent,
+&nbsp;&nbsp;&nbsp;&nbsp;Inclined to ponder the precipitous sides
+&nbsp;&nbsp;&nbsp;&nbsp;Of difficult questions; yet, obtuse to me,
+&nbsp;&nbsp;&nbsp;&nbsp;Of me, incurious! likes me very well,
+&nbsp;&nbsp;&nbsp;&nbsp;And wishes me a paradise of good,
+&nbsp;&nbsp;&nbsp;&nbsp;Good looks, good means, and good digestion, ay,
+&nbsp;&nbsp;&nbsp;&nbsp;But otherwise evades me, puts me off
+&nbsp;&nbsp;&nbsp;&nbsp;With kindness, with a tolerant gentleness,
+&nbsp;&nbsp;&nbsp;&nbsp;Too light a book for a grave man's reading! Go,
+&nbsp;&nbsp;&nbsp;&nbsp;Aurora Leigh: be humble.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;I was glad, that day;
-&nbsp;&nbsp;&nbsp;&nbsp;The June was in me, with its multitudes
-&nbsp;&nbsp;&nbsp;&nbsp;Of nightingales all singing in the dark,
-&nbsp;&nbsp;&nbsp;&nbsp;And rosebuds reddening where the calyx split.
-&nbsp;&nbsp;&nbsp;&nbsp;I felt so young, so strong, so sure of God!
-&nbsp;&nbsp;&nbsp;&nbsp;So glad, I could not choose be very wise!
-&nbsp;&nbsp;&nbsp;&nbsp;And, old at twenty, was inclined to pull
-&nbsp;&nbsp;&nbsp;&nbsp;My childhood backward in a childish jest
-&nbsp;&nbsp;&nbsp;&nbsp;To see the face of 't once more, and farewell!
-&nbsp;&nbsp;&nbsp;&nbsp;In which fantastic mood I bounded forth
-&nbsp;&nbsp;&nbsp;&nbsp;At early morning, would not wait so long
-&nbsp;&nbsp;&nbsp;&nbsp;As even to snatch my bonnet by the strings,
-&nbsp;&nbsp;&nbsp;&nbsp;But, brushing a green trail across the lawn
-&nbsp;&nbsp;&nbsp;&nbsp;With my gown in the dew, took will and way
-&nbsp;&nbsp;&nbsp;&nbsp;Among the acacias of the shrubberies,
-&nbsp;&nbsp;&nbsp;&nbsp;To fly my fancies in the open air
-&nbsp;&nbsp;&nbsp;&nbsp;And keep my birthday, till my aunt awoke
-&nbsp;&nbsp;&nbsp;&nbsp;To stop good dreams. Meanwhile I murmured on
-&nbsp;&nbsp;&nbsp;&nbsp;As honeyed bees keep humming to themselves,
-&nbsp;&nbsp;&nbsp;&nbsp;"The worthiest poets have remained uncrowned
-&nbsp;&nbsp;&nbsp;&nbsp;Till death has bleached their foreheads to the bone;
-&nbsp;&nbsp;&nbsp;&nbsp;And so with me it must be unless I prove
-&nbsp;&nbsp;&nbsp;&nbsp;Unworthy of the grand adversity,
-&nbsp;&nbsp;&nbsp;&nbsp;And certainly I would not fail so much.
-&nbsp;&nbsp;&nbsp;&nbsp;What, therefore, if I crown myself to-day
-&nbsp;&nbsp;&nbsp;&nbsp;In sport, not pride, to learn the feel of it,
-&nbsp;&nbsp;&nbsp;&nbsp;Before my brows be numbed as Dante's own
-&nbsp;&nbsp;&nbsp;&nbsp;To all the tender pricking of such leaves?
-&nbsp;&nbsp;&nbsp;&nbsp;Such leaves! what leaves?"
+&nbsp;&nbsp;&nbsp;&nbsp;There it is,
+&nbsp;&nbsp;&nbsp;&nbsp;We women are too apt to look to one,
+&nbsp;&nbsp;&nbsp;&nbsp;Which proves a certain impotence in art.
+&nbsp;&nbsp;&nbsp;&nbsp;We strain our natures at doing something great,
+&nbsp;&nbsp;&nbsp;&nbsp;Far less because it's something great to do,
+&nbsp;&nbsp;&nbsp;&nbsp;Than haply that we, so, commend ourselves
+&nbsp;&nbsp;&nbsp;&nbsp;As being not small, and more appreciable
+&nbsp;&nbsp;&nbsp;&nbsp;To some one friend. We must have mediators
+&nbsp;&nbsp;&nbsp;&nbsp;Betwixt our highest conscience and the judge;
+&nbsp;&nbsp;&nbsp;&nbsp;Some sweet saint's blood must quicken in our palms,
+&nbsp;&nbsp;&nbsp;&nbsp;Or all the life in heaven seems slow and cold:
+&nbsp;&nbsp;&nbsp;&nbsp;Good only being perceived as the end of good,
+&nbsp;&nbsp;&nbsp;&nbsp;And God alone pleased, that's too poor, we think,
+&nbsp;&nbsp;&nbsp;&nbsp;And not enough for us by any means.
+&nbsp;&nbsp;&nbsp;&nbsp;Ay Romney, I remember, told me once
+&nbsp;&nbsp;&nbsp;&nbsp;We miss the abstract when we comprehend.
+&nbsp;&nbsp;&nbsp;&nbsp;We miss it most when we aspire, and fail.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;I pulled the branches down
-&nbsp;&nbsp;&nbsp;&nbsp;To choose from.
+&nbsp;&nbsp;&nbsp;&nbsp;Yet, so, I will not. This vile woman's way
+&nbsp;&nbsp;&nbsp;&nbsp;Of trailing garments shall not trip me up:
+&nbsp;&nbsp;&nbsp;&nbsp;I'll have no traffic with the personal thought
+&nbsp;&nbsp;&nbsp;&nbsp;In Art's pure temple. Must I work in vain,
+&nbsp;&nbsp;&nbsp;&nbsp;Without the approbation of a man?
+&nbsp;&nbsp;&nbsp;&nbsp;It cannot be; it shall not. Fame itself,
+&nbsp;&nbsp;&nbsp;&nbsp;That approbation of the general race,
+&nbsp;&nbsp;&nbsp;&nbsp;Presents a poor end (though the arrow speed
+&nbsp;&nbsp;&nbsp;&nbsp;Shot straight with vigorous finger to the white),
+&nbsp;&nbsp;&nbsp;&nbsp;And the highest fame was never reached except
+&nbsp;&nbsp;&nbsp;&nbsp;By what was aimed above it. Art for art,
+&nbsp;&nbsp;&nbsp;&nbsp;And good for God Himself, the essential Good!
+&nbsp;&nbsp;&nbsp;&nbsp;We'll keep our aims sublime, our eyes erect,
+&nbsp;&nbsp;&nbsp;&nbsp;Although our woman-hands should shake and fail;
+&nbsp;&nbsp;&nbsp;&nbsp;And if we fail . . . But must we?
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;"Not the bay! I choose no bay
-&nbsp;&nbsp;&nbsp;&nbsp;(The fates deny us if we are overbold),
-&nbsp;&nbsp;&nbsp;&nbsp;Nor myrtle which means chiefly love; and love
-&nbsp;&nbsp;&nbsp;&nbsp;Is something awful which one dares not touch
-&nbsp;&nbsp;&nbsp;&nbsp;So early o' mornings. This verbena strains
-&nbsp;&nbsp;&nbsp;&nbsp;The point of passionate fragrance; and hard by,
-&nbsp;&nbsp;&nbsp;&nbsp;This guelder-rose, at far too slight a beck
-&nbsp;&nbsp;&nbsp;&nbsp;Of the wind, will toss about her flower-apples.
-&nbsp;&nbsp;&nbsp;&nbsp;Ah there's my choice, that ivy on the wall,
-&nbsp;&nbsp;&nbsp;&nbsp;That headlong ivy! not a leaf will grow
-&nbsp;&nbsp;&nbsp;&nbsp;But thinking of a wreath. Large leaves, smooth leaves,
-&nbsp;&nbsp;&nbsp;&nbsp;Serrated like my vines, and half as green.
-&nbsp;&nbsp;&nbsp;&nbsp;I like such ivy, bold to leap a height
-&nbsp;&nbsp;&nbsp;&nbsp;'Twas strong to climb; as good to grow on graves
-&nbsp;&nbsp;&nbsp;&nbsp;As twist about a thyrsus; pretty too
-&nbsp;&nbsp;&nbsp;&nbsp;(And that's not ill) when twisted round a comb."
-&nbsp;&nbsp;&nbsp;&nbsp;Thus speaking to myself, half singing it,
-&nbsp;&nbsp;&nbsp;&nbsp;Because some thoughts are fashioned like a bell
-&nbsp;&nbsp;&nbsp;&nbsp;To ring with once being touched, I drew a wreath
-&nbsp;&nbsp;&nbsp;&nbsp;Drenched, blinding me with dew, across my brow,
-&nbsp;&nbsp;&nbsp;&nbsp;And fastening it behind so, turning faced
-&nbsp;&nbsp;&nbsp;&nbsp;. . . My public! cousin Romney with a mouth
-&nbsp;&nbsp;&nbsp;&nbsp;Twice graver than his eyes.
+&nbsp;&nbsp;&nbsp;&nbsp;Shall I fail?
+&nbsp;&nbsp;&nbsp;&nbsp;The Greeks said grandly in their tragic phrase,
+&nbsp;&nbsp;&nbsp;&nbsp;"Let no one be called happy till his death."
+&nbsp;&nbsp;&nbsp;&nbsp;To which I add, Let no one till his death
+&nbsp;&nbsp;&nbsp;&nbsp;Be called unhappy. Measure not the work
+&nbsp;&nbsp;&nbsp;&nbsp;Until the day's out and the labour done,
+&nbsp;&nbsp;&nbsp;&nbsp;Then bring your gauges. If the day's work's scant,
+&nbsp;&nbsp;&nbsp;&nbsp;Why, call it scant; affect no compromise;
+&nbsp;&nbsp;&nbsp;&nbsp;And, in that we have nobly striven at least,
+&nbsp;&nbsp;&nbsp;&nbsp;Deal with us nobly, women though we be,
+&nbsp;&nbsp;&nbsp;&nbsp;And honour us with truth if not with praise.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;I stood there fixed,
-&nbsp;&nbsp;&nbsp;&nbsp;My arms up, like the caryatid, sole
-&nbsp;&nbsp;&nbsp;&nbsp;Of some abolished temple, helplessly
-&nbsp;&nbsp;&nbsp;&nbsp;Persistent in a gesture which derides
-&nbsp;&nbsp;&nbsp;&nbsp;A former purpose. Yet my blush was flame,
-&nbsp;&nbsp;&nbsp;&nbsp;As if from flax, not stone.
+&nbsp;&nbsp;&nbsp;&nbsp;My ballads prospered; but the ballad's race
+&nbsp;&nbsp;&nbsp;&nbsp;Is rapid for a poet who bears weights
+&nbsp;&nbsp;&nbsp;&nbsp;Of thought and golden image. He can stand
+&nbsp;&nbsp;&nbsp;&nbsp;Like Atlas, in the sonnet, and support
+&nbsp;&nbsp;&nbsp;&nbsp;His own heavens pregnant with dynastic stars;
+&nbsp;&nbsp;&nbsp;&nbsp;But then he must stand still, nor take a step.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;"Aurora Leigh,
-&nbsp;&nbsp;&nbsp;&nbsp;The earliest of Auroras!"
+&nbsp;&nbsp;&nbsp;&nbsp;In that descriptive poem called "The Hills,"
+&nbsp;&nbsp;&nbsp;&nbsp;The prospects were too far and indistinct.
+&nbsp;&nbsp;&nbsp;&nbsp;'Tis true my critics said "A fine view, that!"
+&nbsp;&nbsp;&nbsp;&nbsp;The public scarcely cared to climb my book
+&nbsp;&nbsp;&nbsp;&nbsp;For even the finest, and the public's right;
+&nbsp;&nbsp;&nbsp;&nbsp;A tree's mere firewood, unless humanised,
+&nbsp;&nbsp;&nbsp;&nbsp;Which well the Greeks knew when they stirred its bark
+&nbsp;&nbsp;&nbsp;&nbsp;With close-pressed bosoms of subsiding nymphs,
+&nbsp;&nbsp;&nbsp;&nbsp;And made the forest-rivers garrulous
+&nbsp;&nbsp;&nbsp;&nbsp;With babble of gods. For us, we are called to mark
+&nbsp;&nbsp;&nbsp;&nbsp;A still more intimate humanity
+&nbsp;&nbsp;&nbsp;&nbsp;In this inferior nature, or ourselves
+&nbsp;&nbsp;&nbsp;&nbsp;Must fall like dead leaves trodden underfoot
+&nbsp;&nbsp;&nbsp;&nbsp;By veritable artists. Earth (shut up
+&nbsp;&nbsp;&nbsp;&nbsp;By Adam, like a fakir in a box
+&nbsp;&nbsp;&nbsp;&nbsp;Left too long buried) remained stiff and dry,
+&nbsp;&nbsp;&nbsp;&nbsp;A mere dumb corpse, till Christ the Lord came down,
+&nbsp;&nbsp;&nbsp;&nbsp;Unlocked the doors, forced open the blank eyes,
+&nbsp;&nbsp;&nbsp;&nbsp;And used His kingly chrism to straighten out
+&nbsp;&nbsp;&nbsp;&nbsp;The leathery tongue turned back into the throat;
+&nbsp;&nbsp;&nbsp;&nbsp;Since when, she lives, remembers, palpitates
+&nbsp;&nbsp;&nbsp;&nbsp;In every limb, aspires in every breath,
+&nbsp;&nbsp;&nbsp;&nbsp;Embraces infinite relations. Now
+&nbsp;&nbsp;&nbsp;&nbsp;We want no half-gods, Panomphæan Joves,
+&nbsp;&nbsp;&nbsp;&nbsp;Fauns, Naiads, Tritons, Oreads and the rest,
+&nbsp;&nbsp;&nbsp;&nbsp;To take possession of a senseless world
+&nbsp;&nbsp;&nbsp;&nbsp;To unnatural vampire-uses. See the earth,
+&nbsp;&nbsp;&nbsp;&nbsp;The body of our body, the green earth,
+&nbsp;&nbsp;&nbsp;&nbsp;Indubitably human like this flesh
+&nbsp;&nbsp;&nbsp;&nbsp;And these articulated veins through which
+&nbsp;&nbsp;&nbsp;&nbsp;Our heart drives blood. There's not a flower of spring
+&nbsp;&nbsp;&nbsp;&nbsp;That dies ere June but vaunts itself allied
+&nbsp;&nbsp;&nbsp;&nbsp;By issue and symbol, by significance
+&nbsp;&nbsp;&nbsp;&nbsp;And correspondence, to that spirit-world
+&nbsp;&nbsp;&nbsp;&nbsp;Outside the limits of our space and time,
+&nbsp;&nbsp;&nbsp;&nbsp;Whereto we are bound. Let poets give it voice
+&nbsp;&nbsp;&nbsp;&nbsp;With human meanings, else they miss the thought,
+&nbsp;&nbsp;&nbsp;&nbsp;And henceforth step down lower, stand confessed
+&nbsp;&nbsp;&nbsp;&nbsp;Instructed poorly for interpreters,
+&nbsp;&nbsp;&nbsp;&nbsp;Thrown out by an easy cowslip in the text.
+&nbsp;&nbsp;&nbsp;&nbsp;Even so my pastoral failed: it was a book
+&nbsp;&nbsp;&nbsp;&nbsp;Of surface-pictures pretty, cold, and false
+&nbsp;&nbsp;&nbsp;&nbsp;With literal transcript, the worse done, I think,
+&nbsp;&nbsp;&nbsp;&nbsp;For being not ill-done: let me set my mark
+&nbsp;&nbsp;&nbsp;&nbsp;Against such doings, and do otherwise.
+&nbsp;&nbsp;&nbsp;&nbsp;This strikes me. If the public whom we know
+&nbsp;&nbsp;&nbsp;&nbsp;Could catch me at such admissions, I should pass
+&nbsp;&nbsp;&nbsp;&nbsp;For being right modest. Yet how proud we are,
+&nbsp;&nbsp;&nbsp;&nbsp;In daring to look down upon ourselves!
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Hand stretched out
-&nbsp;&nbsp;&nbsp;&nbsp;I clasped, as shipwrecked men will clasp a hand,
-&nbsp;&nbsp;&nbsp;&nbsp;Indifferent to the sort of palm. The tide
-&nbsp;&nbsp;&nbsp;&nbsp;Had caught me at my pastime, writing down
-&nbsp;&nbsp;&nbsp;&nbsp;My foolish name too near upon the sea
-&nbsp;&nbsp;&nbsp;&nbsp;Which drowned me with a blush as foolish. "You,
-&nbsp;&nbsp;&nbsp;&nbsp;My cousin!"
+&nbsp;&nbsp;&nbsp;&nbsp;The critics say that epics have died out
+&nbsp;&nbsp;&nbsp;&nbsp;With Agamemnon and the goat-nursed gods;
+&nbsp;&nbsp;&nbsp;&nbsp;I'll not believe it. I could never deem,
+&nbsp;&nbsp;&nbsp;&nbsp;As Payne Knight did (the mythic mountaineer
+&nbsp;&nbsp;&nbsp;&nbsp;Who travelled higher than he was born to live,
+&nbsp;&nbsp;&nbsp;&nbsp;And showed sometimes the goitre in his throat
+&nbsp;&nbsp;&nbsp;&nbsp;Discoursing of an image seen through fog),
+&nbsp;&nbsp;&nbsp;&nbsp;That Homer's heroes measured twelve feet high.
+&nbsp;&nbsp;&nbsp;&nbsp;They were but men: his Helen's hair turned grey
+&nbsp;&nbsp;&nbsp;&nbsp;Like any plain Miss Smith's who wears a front;
+&nbsp;&nbsp;&nbsp;&nbsp;And Hector's infant whimpered at a plume
+&nbsp;&nbsp;&nbsp;&nbsp;As yours last Friday at a turkey-cock.
+&nbsp;&nbsp;&nbsp;&nbsp;All actual heroes are essential men,
+&nbsp;&nbsp;&nbsp;&nbsp;And all men possible heroes: every age,
+&nbsp;&nbsp;&nbsp;&nbsp;Heroic in proportions, double-faced,
+&nbsp;&nbsp;&nbsp;&nbsp;Looks backward and before, expects a morn
+&nbsp;&nbsp;&nbsp;&nbsp;And claims an epos.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;The smile died out in his eyes
-&nbsp;&nbsp;&nbsp;&nbsp;And dropped upon his lips, a cold dead weight,
-&nbsp;&nbsp;&nbsp;&nbsp;For just a moment, "Here's a book I found!
-&nbsp;&nbsp;&nbsp;&nbsp;No name writ on it poems, by the form;
-&nbsp;&nbsp;&nbsp;&nbsp;Some Greek upon the margin, lady's Greek
-&nbsp;&nbsp;&nbsp;&nbsp;Without the accents. Read it? Not a word.
-&nbsp;&nbsp;&nbsp;&nbsp;I saw at once the thing had witchcraft in't,
-&nbsp;&nbsp;&nbsp;&nbsp;Whereof the reading calls up dangerous spirits:
-&nbsp;&nbsp;&nbsp;&nbsp;I rather bring it to the witch."
+&nbsp;&nbsp;&nbsp;&nbsp;Ay, but every age
+&nbsp;&nbsp;&nbsp;&nbsp;Appears to souls who live in't (ask Carlyle)
+&nbsp;&nbsp;&nbsp;&nbsp;Most unheroic. Ours, for instance, ours:
+&nbsp;&nbsp;&nbsp;&nbsp;The thinkers scout it, and the poets abound
+&nbsp;&nbsp;&nbsp;&nbsp;Who scorn to touch it with a finger-tip:
+&nbsp;&nbsp;&nbsp;&nbsp;A pewter age, mixed metal, silver-washed;
+&nbsp;&nbsp;&nbsp;&nbsp;An age of scum, spooned off the richer past,
+&nbsp;&nbsp;&nbsp;&nbsp;An age of patches for old gaberdines,
+&nbsp;&nbsp;&nbsp;&nbsp;An age of mere transition, meaning nought
+&nbsp;&nbsp;&nbsp;&nbsp;Except that what succeeds must shame it quite
+&nbsp;&nbsp;&nbsp;&nbsp;If God please. That's wrong thinking, to my mind,
+&nbsp;&nbsp;&nbsp;&nbsp;And wrong thoughts make poor poems.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;"My book.
-&nbsp;&nbsp;&nbsp;&nbsp;You found it" . . .
+&nbsp;&nbsp;&nbsp;&nbsp;Every age,
+&nbsp;&nbsp;&nbsp;&nbsp;Through being beheld too close, is ill-discerned
+&nbsp;&nbsp;&nbsp;&nbsp;By those who have not lived past it. We'll suppose
+&nbsp;&nbsp;&nbsp;&nbsp;Mount Athos carved, as Alexander schemed,
+&nbsp;&nbsp;&nbsp;&nbsp;To some colossal statue of a man.
+&nbsp;&nbsp;&nbsp;&nbsp;The peasants, gathering brushwood in his ear,
+&nbsp;&nbsp;&nbsp;&nbsp;Had guessed as little as the browsing goats
+&nbsp;&nbsp;&nbsp;&nbsp;Of form or feature of humanity
+&nbsp;&nbsp;&nbsp;&nbsp;Up there, in fact, had travelled five miles off
+&nbsp;&nbsp;&nbsp;&nbsp;Or ere the giant image broke on them,
+&nbsp;&nbsp;&nbsp;&nbsp;Full human profile, nose and chin distinct,
+&nbsp;&nbsp;&nbsp;&nbsp;Mouth, muttering rhythms of silence up the sky
+&nbsp;&nbsp;&nbsp;&nbsp;And fed at evening with the blood of suns;
+&nbsp;&nbsp;&nbsp;&nbsp;Grand torso, hand, that flung perpetually
+&nbsp;&nbsp;&nbsp;&nbsp;The largesse of a silver river down
+&nbsp;&nbsp;&nbsp;&nbsp;To all the country pastures. 'Tis even thus
+&nbsp;&nbsp;&nbsp;&nbsp;With times we live in, evermore too great
+&nbsp;&nbsp;&nbsp;&nbsp;To be apprehended near.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;"In the hollow by the stream
-&nbsp;&nbsp;&nbsp;&nbsp;That beech leans down into of which you said
-&nbsp;&nbsp;&nbsp;&nbsp;The Oread in it has a Naiad's heart
-&nbsp;&nbsp;&nbsp;&nbsp;And pines for waters."
+&nbsp;&nbsp;&nbsp;&nbsp;But poets should
+&nbsp;&nbsp;&nbsp;&nbsp;Exert a double vision; should have eyes
+&nbsp;&nbsp;&nbsp;&nbsp;To see near things as comprehensively
+&nbsp;&nbsp;&nbsp;&nbsp;As if afar they took their point of sight,
+&nbsp;&nbsp;&nbsp;&nbsp;And distant things as intimately deep
+&nbsp;&nbsp;&nbsp;&nbsp;As if they touched them. Let us strive for this.
+&nbsp;&nbsp;&nbsp;&nbsp;I do distrust the poet who discerns
+&nbsp;&nbsp;&nbsp;&nbsp;No character or glory in his times,
+&nbsp;&nbsp;&nbsp;&nbsp;And trundles back his soul five hundred years,
+&nbsp;&nbsp;&nbsp;&nbsp;Past moat and drawbridge, into a castle-court,
+&nbsp;&nbsp;&nbsp;&nbsp;To sing oh, not of lizard or of toad
+&nbsp;&nbsp;&nbsp;&nbsp;Alive i' the ditch there, 'twere excusable,
+&nbsp;&nbsp;&nbsp;&nbsp;But of some black chief, half knight, half sheep-lifter,
+&nbsp;&nbsp;&nbsp;&nbsp;Some beauteous dame, half chattel and half queen,
+&nbsp;&nbsp;&nbsp;&nbsp;As dead as must be, for the greater part,
+&nbsp;&nbsp;&nbsp;&nbsp;The poems made on their chivalric bones;
+&nbsp;&nbsp;&nbsp;&nbsp;And that's no wonder: death inherits death.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;Nay, if there's room for poets in this world
+&nbsp;&nbsp;&nbsp;&nbsp;A little overgrown (I think there is),
+&nbsp;&nbsp;&nbsp;&nbsp;Their sole work is to represent the age,
+&nbsp;&nbsp;&nbsp;&nbsp;Their age, not Charlemagne's, this live, throbbing age,
+&nbsp;&nbsp;&nbsp;&nbsp;That brawls, cheats, maddens, calculates, aspires,
+&nbsp;&nbsp;&nbsp;&nbsp;And spends more passion, more heroic heat,
+&nbsp;&nbsp;&nbsp;&nbsp;Betwixt the mirrors of its drawing-rooms,
+&nbsp;&nbsp;&nbsp;&nbsp;Than Roland with his knights at Roncesvalles.
+&nbsp;&nbsp;&nbsp;&nbsp;To flinch from modern varnish, coat or flounce,
+&nbsp;&nbsp;&nbsp;&nbsp;Cry out for togas and the picturesque,
+&nbsp;&nbsp;&nbsp;&nbsp;Is fatal, foolish too. King Arthur's self
+&nbsp;&nbsp;&nbsp;&nbsp;Was commonplace to Lady Guenever;
+&nbsp;&nbsp;&nbsp;&nbsp;And Camelot to minstrels seemed as flat
+&nbsp;&nbsp;&nbsp;&nbsp;As Fleet Street to our poets.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;Never flinch,
+&nbsp;&nbsp;&nbsp;&nbsp;But still, unscrupulously epic, catch
+&nbsp;&nbsp;&nbsp;&nbsp;Upon the burning lava of a song
+&nbsp;&nbsp;&nbsp;&nbsp;The full-veined, heaving, double-breasted Age:
+&nbsp;&nbsp;&nbsp;&nbsp;That, when the next shall come, the men of that
+&nbsp;&nbsp;&nbsp;&nbsp;May touch the impress with reverent hand, and say
+&nbsp;&nbsp;&nbsp;&nbsp;"Behold, behold the paps we all have sucked!
+&nbsp;&nbsp;&nbsp;&nbsp;This bosom seems to beat still, or at least
+&nbsp;&nbsp;&nbsp;&nbsp;It sets ours beating: this is living art,
+&nbsp;&nbsp;&nbsp;&nbsp;Which thus presents and thus records true life."
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;What form is best for poems? Let me think
+&nbsp;&nbsp;&nbsp;&nbsp;Of forms less, and the external. Trust the spirit,
+&nbsp;&nbsp;&nbsp;&nbsp;As sovran nature does, to make the form;
+&nbsp;&nbsp;&nbsp;&nbsp;For otherwise we only imprison spirit
+&nbsp;&nbsp;&nbsp;&nbsp;And not embody. Inward evermore
+&nbsp;&nbsp;&nbsp;&nbsp;To outward, so in life, and so in art
+&nbsp;&nbsp;&nbsp;&nbsp;Which still is life.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp; Five acts to make a play.
+&nbsp;&nbsp;&nbsp;&nbsp;And why not fifteen? why not ten? or seven?
+&nbsp;&nbsp;&nbsp;&nbsp;What matter for the number of the leaves,
+&nbsp;&nbsp;&nbsp;&nbsp;Supposing the tree lives and grows? exact
+&nbsp;&nbsp;&nbsp;&nbsp;The literal unities of time and place,
+&nbsp;&nbsp;&nbsp;&nbsp;When 'tis the essence of passion to ignore
+&nbsp;&nbsp;&nbsp;&nbsp;Both time and place? Absurd. Keep up the fire,
+&nbsp;&nbsp;&nbsp;&nbsp;And leave the generous flames to shape themselves.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;'Tis true the stage requires obsequiousness
+&nbsp;&nbsp;&nbsp;&nbsp;To this or that convention; "exit" here
+&nbsp;&nbsp;&nbsp;&nbsp;And "enter" there; the points for clapping, fixed,
+&nbsp;&nbsp;&nbsp;&nbsp;Like Jacob's white-peeled rods before the rams,
+&nbsp;&nbsp;&nbsp;&nbsp;And all the close-curled imagery clipped
+&nbsp;&nbsp;&nbsp;&nbsp;In manner of their fleece at shearing-time.
+&nbsp;&nbsp;&nbsp;&nbsp;Forget to prick the galleries to the heart
+&nbsp;&nbsp;&nbsp;&nbsp;Precisely at the fourth act, culminate
+&nbsp;&nbsp;&nbsp;&nbsp;Our five pyramidal acts with one act more,
+&nbsp;&nbsp;&nbsp;&nbsp;We're lost so: Shakespeare's ghost could scarcely plead
+&nbsp;&nbsp;&nbsp;&nbsp;Against our just damnation. Stand aside;
+&nbsp;&nbsp;&nbsp;&nbsp;We'll muse for comfort that, last century,
+&nbsp;&nbsp;&nbsp;&nbsp;On this same tragic stage on which we have failed,
+&nbsp;&nbsp;&nbsp;&nbsp;A wigless Hamlet would have failed the same.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;And whosoever writes good poetry,
+&nbsp;&nbsp;&nbsp;&nbsp;Looks just to art. He does not write for you
+&nbsp;&nbsp;&nbsp;&nbsp;Or me, for London or for Edinburgh;
+&nbsp;&nbsp;&nbsp;&nbsp;He will not suffer the best critic known
+&nbsp;&nbsp;&nbsp;&nbsp;To step into his sunshine of free thought
+&nbsp;&nbsp;&nbsp;&nbsp;And self-absorbed conception and exact
+&nbsp;&nbsp;&nbsp;&nbsp;An inch-long swerving of the holy lines.
+&nbsp;&nbsp;&nbsp;&nbsp;If virtue done for popularity
+&nbsp;&nbsp;&nbsp;&nbsp;Defiles like vice, can art, for praise or hire,
+&nbsp;&nbsp;&nbsp;&nbsp;Still keep its splendour and remain pure art?
+&nbsp;&nbsp;&nbsp;&nbsp;Eschew such serfdom. What the poet writes,
+&nbsp;&nbsp;&nbsp;&nbsp;He writes: mankind accepts it if it suits,
+&nbsp;&nbsp;&nbsp;&nbsp;And that's success: if not, the poem's passed
+&nbsp;&nbsp;&nbsp;&nbsp;From hand to hand, and yet from hand to hand
+&nbsp;&nbsp;&nbsp;&nbsp;Until the unborn snatch it, crying out
+&nbsp;&nbsp;&nbsp;&nbsp;In pity on their fathers' being so dull,
+&nbsp;&nbsp;&nbsp;&nbsp;And that's success too.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;I will write no plays;
+&nbsp;&nbsp;&nbsp;&nbsp;Because the drama, less sublime in this,
+&nbsp;&nbsp;&nbsp;&nbsp;Makes lower appeals, submits more menially,
+&nbsp;&nbsp;&nbsp;&nbsp;Adopts the standard of the public taste
+&nbsp;&nbsp;&nbsp;&nbsp;To chalk its height on, wears a dog-chain round
+&nbsp;&nbsp;&nbsp;&nbsp;Its regal neck, and learns to carry and fetch
+&nbsp;&nbsp;&nbsp;&nbsp;The fashions of the day to please the day,
+&nbsp;&nbsp;&nbsp;&nbsp;Fawns close on pit and boxes, who clap hands
+&nbsp;&nbsp;&nbsp;&nbsp;Commending chiefly its docility
+&nbsp;&nbsp;&nbsp;&nbsp;And humour in stage-tricks, or else indeed
+&nbsp;&nbsp;&nbsp;&nbsp;Gets hissed at, howled at, stamped at like a dog,
+&nbsp;&nbsp;&nbsp;&nbsp;Or worse, we'll say. For dogs, unjustly kicked,
+&nbsp;&nbsp;&nbsp;&nbsp;Yell, bite at need; but if your dramatist
+&nbsp;&nbsp;&nbsp;&nbsp;(Being wronged by some five hundred nobodies
+&nbsp;&nbsp;&nbsp;&nbsp;Because their grosser brains most naturally
+&nbsp;&nbsp;&nbsp;&nbsp;Misjudge the fineness of his subtle wit)
+&nbsp;&nbsp;&nbsp;&nbsp;Shows teeth an almond's breadth, protests the length
+&nbsp;&nbsp;&nbsp;&nbsp;Of a modest phrase, "My gentle countrymen,
+&nbsp;&nbsp;&nbsp;&nbsp;"There's something in it haply of your fault,"
+&nbsp;&nbsp;&nbsp;&nbsp;Why then, besides five hundred nobodies,
+&nbsp;&nbsp;&nbsp;&nbsp;He'll have five thousand and five thousand more
+&nbsp;&nbsp;&nbsp;&nbsp;Against him, the whole public, all the hoofs
+&nbsp;&nbsp;&nbsp;&nbsp;Of King Saul's father's asses, in full drove,
+&nbsp;&nbsp;&nbsp;&nbsp;And obviously deserve it. He appealed
+&nbsp;&nbsp;&nbsp;&nbsp;To these, and why say more if they condemn,
+&nbsp;&nbsp;&nbsp;&nbsp;Than if they praise him? Weep, my Æschylus,
+&nbsp;&nbsp;&nbsp;&nbsp;But low and far, upon Sicilian shores!
+&nbsp;&nbsp;&nbsp;&nbsp;For since 'twas Athens (so I read the myth)
+&nbsp;&nbsp;&nbsp;&nbsp;Who gave commission to that fatal weight
+&nbsp;&nbsp;&nbsp;&nbsp;The tortoise, cold and hard, to drop on thee
+&nbsp;&nbsp;&nbsp;&nbsp;And crush thee, better cover thy bald head;
+&nbsp;&nbsp;&nbsp;&nbsp;She'll hear the softest hum of Hyblan bee
+&nbsp;&nbsp;&nbsp;&nbsp;Before thy loudest protestation!
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;Then
+&nbsp;&nbsp;&nbsp;&nbsp;The risk's still worse upon the modern stage.
+&nbsp;&nbsp;&nbsp;&nbsp;I could not, for so little, accept success,
+&nbsp;&nbsp;&nbsp;&nbsp;Nor would I risk so much, in ease and calm,
+&nbsp;&nbsp;&nbsp;&nbsp;For manifester gains: let those who prize,
+&nbsp;&nbsp;&nbsp;&nbsp;Pursue them: I stand off. And yet, forbid
+&nbsp;&nbsp;&nbsp;&nbsp;That any irreverent fancy or conceit
+&nbsp;&nbsp;&nbsp;&nbsp;Should litter in the Drama's throne-room where
+&nbsp;&nbsp;&nbsp;&nbsp;The rulers of our art, in whose full veins
+&nbsp;&nbsp;&nbsp;&nbsp;Dynastic glories mingle, sit in strength
+&nbsp;&nbsp;&nbsp;&nbsp;And do their kingly work, conceive, command,
+&nbsp;&nbsp;&nbsp;&nbsp;And, from the imagination's crucial heat,
+&nbsp;&nbsp;&nbsp;&nbsp;Catch up their men and women all a-flame
+&nbsp;&nbsp;&nbsp;&nbsp;For action, all alive and forced to prove
+&nbsp;&nbsp;&nbsp;&nbsp;Their life by living out heart, brain, and nerve,
+&nbsp;&nbsp;&nbsp;&nbsp;Until mankind makes witness, "These be men
+&nbsp;&nbsp;&nbsp;&nbsp;As we are," and vouchsafes the greeting due
+&nbsp;&nbsp;&nbsp;&nbsp;To Imogen and Juliet sweetest kin
+&nbsp;&nbsp;&nbsp;&nbsp;On art's side.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;'Tis that, honouring to its worth
+&nbsp;&nbsp;&nbsp;&nbsp;The drama, I would fear to keep it down
+&nbsp;&nbsp;&nbsp;&nbsp;To the level of the footlights. Dies no more
+&nbsp;&nbsp;&nbsp;&nbsp;The sacrificial goat, for Bacchus slain,
+&nbsp;&nbsp;&nbsp;&nbsp;His filmed eyes fluttered by the whirling white
+&nbsp;&nbsp;&nbsp;&nbsp;Of choral vestures, troubled in his blood,
+&nbsp;&nbsp;&nbsp;&nbsp;While tragic voices that clanged keen as swords,
+&nbsp;&nbsp;&nbsp;&nbsp;Leapt high together with the altar-flame
+&nbsp;&nbsp;&nbsp;&nbsp;And made the blue air wink. The waxen mask,
+&nbsp;&nbsp;&nbsp;&nbsp;Which set the grand still front of Themis' son
+&nbsp;&nbsp;&nbsp;&nbsp;Upon the puckered visage of a player,
+&nbsp;&nbsp;&nbsp;&nbsp;The buskin, which he rose upon and moved,
+&nbsp;&nbsp;&nbsp;&nbsp;As some tall ship first conscious of the wind
+&nbsp;&nbsp;&nbsp;&nbsp;Sweeps slowly past the piers, the mouthpiece, where
+&nbsp;&nbsp;&nbsp;&nbsp;The mere man's voice with all its breaths and breaks
+&nbsp;&nbsp;&nbsp;&nbsp;Went sheathed in brass, and clashed on even heights
+&nbsp;&nbsp;&nbsp;&nbsp;Its phrasèd thunders, these things are no more,
+&nbsp;&nbsp;&nbsp;&nbsp;Which once were. And concluding, which is clear,
+&nbsp;&nbsp;&nbsp;&nbsp;The growing drama has outgrown such toys
+&nbsp;&nbsp;&nbsp;&nbsp;Of simulated stature, face, and speech,
+&nbsp;&nbsp;&nbsp;&nbsp;It also peradventure may outgrow
+&nbsp;&nbsp;&nbsp;&nbsp;The simulation of the painted scene,
+&nbsp;&nbsp;&nbsp;&nbsp;Boards, actors, prompters, gaslight, and costume,
+&nbsp;&nbsp;&nbsp;&nbsp;And take for a worthier stage the soul itself,
+&nbsp;&nbsp;&nbsp;&nbsp;Its shifting fancies and celestial lights,
+&nbsp;&nbsp;&nbsp;&nbsp;With all its grand orchestral silences
+&nbsp;&nbsp;&nbsp;&nbsp;To keep the pauses of its rhythmic sounds.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;Alas, I still see something to be done,
+&nbsp;&nbsp;&nbsp;&nbsp;And what I do falls short of what I see,
+&nbsp;&nbsp;&nbsp;&nbsp;Though I waste myself on doing. Long green days,
+&nbsp;&nbsp;&nbsp;&nbsp;Worn bare of grass and sunshine, long calm nights
+&nbsp;&nbsp;&nbsp;&nbsp;From which the silken sleeps were fretted out,
+&nbsp;&nbsp;&nbsp;&nbsp;Be witness for me, with no amateur's
+&nbsp;&nbsp;&nbsp;&nbsp;Irreverent haste and busy idleness
+&nbsp;&nbsp;&nbsp;&nbsp;I set myself to art! What then? what's done?
+&nbsp;&nbsp;&nbsp;&nbsp;What's done, at last?
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;Behold, at last, a book.
+&nbsp;&nbsp;&nbsp;&nbsp;If life-blood's necessary, which it is,
+&nbsp;&nbsp;&nbsp;&nbsp;(By that blue vein athrob on Mahomet's brow,
+&nbsp;&nbsp;&nbsp;&nbsp;Each prophet-poet's book must show man's blood!)
+&nbsp;&nbsp;&nbsp;&nbsp;If life-blood's fertilising, I wrung mine
+&nbsp;&nbsp;&nbsp;&nbsp;On every leaf of this, unless the drops
+&nbsp;&nbsp;&nbsp;&nbsp;Slid heavily on one side and left it dry.
+&nbsp;&nbsp;&nbsp;&nbsp;That chances often: many a fervid man
+&nbsp;&nbsp;&nbsp;&nbsp;Writes books as cold and flat as graveyard stones
+&nbsp;&nbsp;&nbsp;&nbsp;From which the lichen's scraped; and if Saint Preux
+&nbsp;&nbsp;&nbsp;&nbsp;Had written his own letters, as he might,
+&nbsp;&nbsp;&nbsp;&nbsp;We had never wept to think of the little mole
+&nbsp;&nbsp;&nbsp;&nbsp;'Neath Julie's drooping eyelid. Passion is
+&nbsp;&nbsp;&nbsp;&nbsp;But something suffered, after all.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;While Art
+&nbsp;&nbsp;&nbsp;&nbsp;Sets action on the top of suffering:
+&nbsp;&nbsp;&nbsp;&nbsp;The artist's part is both to be and do,
+&nbsp;&nbsp;&nbsp;&nbsp;Transfixing with a special, central power
+&nbsp;&nbsp;&nbsp;&nbsp;The flat experience of the common man,
+&nbsp;&nbsp;&nbsp;&nbsp;And turning outward, with a sudden wrench,
+&nbsp;&nbsp;&nbsp;&nbsp;Half agony, half ecstasy, the thing
+&nbsp;&nbsp;&nbsp;&nbsp;He feels the inmost, never felt the less
+&nbsp;&nbsp;&nbsp;&nbsp;Because he sings it. Does a torch less burn
+&nbsp;&nbsp;&nbsp;&nbsp;For burning next reflectors of blue steel,
+&nbsp;&nbsp;&nbsp;&nbsp;That he should be the colder for his place
+&nbsp;&nbsp;&nbsp;&nbsp;'Twixt two incessant fires, his personal life's
+&nbsp;&nbsp;&nbsp;&nbsp;And that intense refraction which burns back
+&nbsp;&nbsp;&nbsp;&nbsp;Perpetually against him from the round
+&nbsp;&nbsp;&nbsp;&nbsp;Of crystal conscience he was born into
+&nbsp;&nbsp;&nbsp;&nbsp;If artist-born? O sorrowful great gift
+&nbsp;&nbsp;&nbsp;&nbsp;Conferred on poets, of a twofold life,
+&nbsp;&nbsp;&nbsp;&nbsp;When one life has been found enough for pain!
+&nbsp;&nbsp;&nbsp;&nbsp;We, staggering 'neath our burden as mere men,
+&nbsp;&nbsp;&nbsp;&nbsp;Being called to stand up straight as demigods,
+&nbsp;&nbsp;&nbsp;&nbsp;Support the intolerable strain and stress
+&nbsp;&nbsp;&nbsp;&nbsp;Of the universal, and send clearly up,
+&nbsp;&nbsp;&nbsp;&nbsp;With voices broken by the human sob,
+&nbsp;&nbsp;&nbsp;&nbsp;Our poems to find rhymes among the stars!
+&nbsp;&nbsp;&nbsp;&nbsp;But soft, a "poet" is a word soon said,
+&nbsp;&nbsp;&nbsp;&nbsp;A book's a thing soon written. Nay, indeed,
+&nbsp;&nbsp;&nbsp;&nbsp;The more the poet shall be questionable,
+&nbsp;&nbsp;&nbsp;&nbsp;The more unquestionably comes his book.
+&nbsp;&nbsp;&nbsp;&nbsp;And this of mine well, granting to myself
+&nbsp;&nbsp;&nbsp;&nbsp;Some passion in it, furrowing up the flats,
+&nbsp;&nbsp;&nbsp;&nbsp;Mere passion will not prove a volume worth
+&nbsp;&nbsp;&nbsp;&nbsp;Its gall and rags even. Bubbles round a keel
+&nbsp;&nbsp;&nbsp;&nbsp;Mean nought, excepting that the vessel moves.
+&nbsp;&nbsp;&nbsp;&nbsp;There's more than passion goes to make a man
+&nbsp;&nbsp;&nbsp;&nbsp;Or book, which is a man too.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;I am sad.
+&nbsp;&nbsp;&nbsp;&nbsp;I wonder if Pygmalion had these doubts
+&nbsp;&nbsp;&nbsp;&nbsp;And, feeling the hard marble first relent,
+&nbsp;&nbsp;&nbsp;&nbsp;Grow supple to the straining of his arms,
+&nbsp;&nbsp;&nbsp;&nbsp;And tingle through its cold to his burning lip,
+&nbsp;&nbsp;&nbsp;&nbsp;Supposed his senses mocked, supposed the toil
+&nbsp;&nbsp;&nbsp;&nbsp;Of stretching past the known and seen to reach
+&nbsp;&nbsp;&nbsp;&nbsp;The archetypal Beauty out of sight,
+&nbsp;&nbsp;&nbsp;&nbsp;Had made his heart beat fast enough for two,
+&nbsp;&nbsp;&nbsp;&nbsp;And with his own life dazed and blinded him!
+&nbsp;&nbsp;&nbsp;&nbsp;Not so; Pygmalion loved, and whoso loves
+&nbsp;&nbsp;&nbsp;&nbsp;Believes the impossible.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;But I am sad:
+&nbsp;&nbsp;&nbsp;&nbsp;I cannot thoroughly love a work of mine,
+&nbsp;&nbsp;&nbsp;&nbsp;Since none seems worthy of my thought and hope
+&nbsp;&nbsp;&nbsp;&nbsp;More highly mated. He has shot them down,
+&nbsp;&nbsp;&nbsp;&nbsp;My Phoebus Apollo, soul within my soul,
+&nbsp;&nbsp;&nbsp;&nbsp;Who judges, by the attempted, what's attained,
+&nbsp;&nbsp;&nbsp;&nbsp;And with the silver arrow from his height
+&nbsp;&nbsp;&nbsp;&nbsp;Has struck down all my works before my face
+&nbsp;&nbsp;&nbsp;&nbsp;While I said nothing. Is there aught to say?
+&nbsp;&nbsp;&nbsp;&nbsp;I called the artist but a greatened man.
+&nbsp;&nbsp;&nbsp;&nbsp;He may be childless also, like a man.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;I laboured on alone. The wind and dust
+&nbsp;&nbsp;&nbsp;&nbsp;And sun of the world beat blistering in my face;
+&nbsp;&nbsp;&nbsp;&nbsp;And hope, now for me, now against me, dragged
+&nbsp;&nbsp;&nbsp;&nbsp;My spirits onward, as some fallen balloon,
+&nbsp;&nbsp;&nbsp;&nbsp;Which, whether caught by blossoming tree or bare,
+&nbsp;&nbsp;&nbsp;&nbsp;Is torn alike. I sometimes touched my aim,
+&nbsp;&nbsp;&nbsp;&nbsp;Or seemed, and generous souls cried out "Be strong,
+&nbsp;&nbsp;&nbsp;&nbsp;Take courage; now you're on our level, now!
+&nbsp;&nbsp;&nbsp;&nbsp;The next step saves you!" I was flushed with praise,
+&nbsp;&nbsp;&nbsp;&nbsp;But, pausing just a moment to draw breath,
+&nbsp;&nbsp;&nbsp;&nbsp;I could not choose but murmur to myself
+&nbsp;&nbsp;&nbsp;&nbsp;"Is this all? all that's done? and all that's gained?
+&nbsp;&nbsp;&nbsp;&nbsp;If this then be success, 'tis dismaller
+&nbsp;&nbsp;&nbsp;&nbsp;Than any failure."
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;O my God, my God,
+&nbsp;&nbsp;&nbsp;&nbsp;O supreme Artist, who as sole return
+&nbsp;&nbsp;&nbsp;&nbsp;For all the cosmic wonder of Thy work,
+&nbsp;&nbsp;&nbsp;&nbsp;Demandest of us just a word . . . a name,
+&nbsp;&nbsp;&nbsp;&nbsp;"My Father!" thou hast knowledge, only thou,
+&nbsp;&nbsp;&nbsp;&nbsp;How dreary 'tis for women to sit still,
+&nbsp;&nbsp;&nbsp;&nbsp;On winter nights by solitary fires,
+&nbsp;&nbsp;&nbsp;&nbsp;And hear the nations praising them far off,
+&nbsp;&nbsp;&nbsp;&nbsp;Too far! ay, praising our quick sense of love,
+&nbsp;&nbsp;&nbsp;&nbsp;Our very heart of passionate womanhood,
+&nbsp;&nbsp;&nbsp;&nbsp;Which could not beat so in the verse without
+&nbsp;&nbsp;&nbsp;&nbsp;Being present also in the unkissed lips
+&nbsp;&nbsp;&nbsp;&nbsp;And eyes undried because there's none to ask
+&nbsp;&nbsp;&nbsp;&nbsp;The reason they grew moist.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;To sit alone
+&nbsp;&nbsp;&nbsp;&nbsp;And think for comfort how, that very night,
+&nbsp;&nbsp;&nbsp;&nbsp;Affianced lovers, leaning face to face
+&nbsp;&nbsp;&nbsp;&nbsp;With sweet half-listenings for each other's breath,
+&nbsp;&nbsp;&nbsp;&nbsp;Are reading haply from a page of ours,
+&nbsp;&nbsp;&nbsp;&nbsp;To pause with a thrill (as if their cheeks had touched)
+&nbsp;&nbsp;&nbsp;&nbsp;When such a stanza, level to their mood,
+&nbsp;&nbsp;&nbsp;&nbsp;Seems floating their own thought out "So I feel
+&nbsp;&nbsp;&nbsp;&nbsp;For thee," "And I, for thee: this poet knows
+&nbsp;&nbsp;&nbsp;&nbsp;What everlasting love is!" how, that night,
+&nbsp;&nbsp;&nbsp;&nbsp;Some father, issuing from the misty roads
+&nbsp;&nbsp;&nbsp;&nbsp;Upon the luminous round of lamp and hearth
+&nbsp;&nbsp;&nbsp;&nbsp;And happy children, having caught up first
+&nbsp;&nbsp;&nbsp;&nbsp;The youngest there until it shrink and shriek
+&nbsp;&nbsp;&nbsp;&nbsp;To feel the cold chin prick its dimples through
+&nbsp;&nbsp;&nbsp;&nbsp;With winter from the hills, may throw i' the lap
+&nbsp;&nbsp;&nbsp;&nbsp;Of the eldest (who has learnt to drop her lids
+&nbsp;&nbsp;&nbsp;&nbsp;To hide some sweetness newer than last year's)
+&nbsp;&nbsp;&nbsp;&nbsp;Our book and cry, . . . "Ah you, you care for rhymes;
+&nbsp;&nbsp;&nbsp;&nbsp;So here be rhymes to pore on under trees,
+&nbsp;&nbsp;&nbsp;&nbsp;When April comes to let you! I've been told
+&nbsp;&nbsp;&nbsp;&nbsp;They are not idle as so many are,
+&nbsp;&nbsp;&nbsp;&nbsp;But set hearts beating pure as well as fast.
+&nbsp;&nbsp;&nbsp;&nbsp;'Tis yours, the book; I'll write your name in it,
+&nbsp;&nbsp;&nbsp;&nbsp;That so you may not lose, however lost
+&nbsp;&nbsp;&nbsp;&nbsp;In poet's lore and charming reverie,
+&nbsp;&nbsp;&nbsp;&nbsp;The thought of how your father thought of you
+&nbsp;&nbsp;&nbsp;&nbsp;In riding from the town."
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;To have our books
+&nbsp;&nbsp;&nbsp;&nbsp;Appraised by love, associated with love,
+&nbsp;&nbsp;&nbsp;&nbsp;While we sit loveless! is it hard, you think?
+&nbsp;&nbsp;&nbsp;&nbsp;At least 'tis mournful. Fame, indeed, 'twas said,
+&nbsp;&nbsp;&nbsp;&nbsp;Means simply love. It was a man said that:
+&nbsp;&nbsp;&nbsp;&nbsp;And then, there's love and love: the love of all
+&nbsp;&nbsp;&nbsp;&nbsp;(To risk in turn a woman's paradox)
+&nbsp;&nbsp;&nbsp;&nbsp;Is but a small thing to the love of one.
+&nbsp;&nbsp;&nbsp;&nbsp;You bid a hungry child be satisfied
+&nbsp;&nbsp;&nbsp;&nbsp;With a heritage of many corn-fields: nay,
+&nbsp;&nbsp;&nbsp;&nbsp;He says he's hungry, he would rather have
+&nbsp;&nbsp;&nbsp;&nbsp;That little barley-cake you keep from him
+&nbsp;&nbsp;&nbsp;&nbsp;While reckoning up his harvests. So with us
+&nbsp;&nbsp;&nbsp;&nbsp;(Here, Romney, too, we fail to generalise):
+&nbsp;&nbsp;&nbsp;&nbsp;We're hungry.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;Hungry! but it's pitiful
+&nbsp;&nbsp;&nbsp;&nbsp;To wail like unweaned babes and suck our thumbs
+&nbsp;&nbsp;&nbsp;&nbsp;Because we're hungry. Who, in all this world
+&nbsp;&nbsp;&nbsp;&nbsp;(Wherein we are haply set to pray and fast
+&nbsp;&nbsp;&nbsp;&nbsp;And learn what good is by its opposite),
+&nbsp;&nbsp;&nbsp;&nbsp;Has never hungered? Woe to him who has found
+&nbsp;&nbsp;&nbsp;&nbsp;The meal enough! if Ugolino's full,
+&nbsp;&nbsp;&nbsp;&nbsp;His teeth have crunched some foul unnatural thing,
+&nbsp;&nbsp;&nbsp;&nbsp;For here satiety proves penury
+&nbsp;&nbsp;&nbsp;&nbsp;More utterly irremediable. And since
+&nbsp;&nbsp;&nbsp;&nbsp;We needs must hunger, better, for man's love,
+&nbsp;&nbsp;&nbsp;&nbsp;Than God's truth! better, for companions sweet,
+&nbsp;&nbsp;&nbsp;&nbsp;Than great convictions! let us bear our weights,
+&nbsp;&nbsp;&nbsp;&nbsp;Preferring dreary hearths to desert souls.
+&nbsp;&nbsp;&nbsp;&nbsp;Well, well! they say we're envious, we who rhyme;
+&nbsp;&nbsp;&nbsp;&nbsp;But I, because I am a woman perhaps
+&nbsp;&nbsp;&nbsp;&nbsp;And so rhyme ill, am ill at envying.
+&nbsp;&nbsp;&nbsp;&nbsp;I never envied Graham his breadth of style,
+&nbsp;&nbsp;&nbsp;&nbsp;Which gives you, with a random smutch or two
+&nbsp;&nbsp;&nbsp;&nbsp;(Near-sighted critics analyse to smutch),
+&nbsp;&nbsp;&nbsp;&nbsp;Such delicate perspectives of full life:
+&nbsp;&nbsp;&nbsp;&nbsp;Nor Belmore, for the unity of aim
+&nbsp;&nbsp;&nbsp;&nbsp;To which he cuts his cedarn poems, fine
+&nbsp;&nbsp;&nbsp;&nbsp;As sketchers do their pencils: nor Mark Gage,
+&nbsp;&nbsp;&nbsp;&nbsp;For that caressing colour and trancing tone
+&nbsp;&nbsp;&nbsp;&nbsp;Whereby you're swept away and melted in
+&nbsp;&nbsp;&nbsp;&nbsp;The sensual element, which with a back wave
+&nbsp;&nbsp;&nbsp;&nbsp;Restores you to the level of pure souls
+&nbsp;&nbsp;&nbsp;&nbsp;And leaves you with Plotinus. None of these,
+&nbsp;&nbsp;&nbsp;&nbsp;For native gifts or popular applause,
+&nbsp;&nbsp;&nbsp;&nbsp;I've envied; but for this, that when by chance
+&nbsp;&nbsp;&nbsp;&nbsp;Says some one, "There goes Belmore, a great man!
+&nbsp;&nbsp;&nbsp;&nbsp;He leaves clean work behind him, and requires
+&nbsp;&nbsp;&nbsp;&nbsp;No sweeper up of the chips," . . . a girl I know,
+&nbsp;&nbsp;&nbsp;&nbsp;Who answers nothing, save with her brown eyes,
+&nbsp;&nbsp;&nbsp;&nbsp;Smiles unaware as if a guardian saint
+&nbsp;&nbsp;&nbsp;&nbsp;Smiled in her: for this, too, that Gage comes home
+&nbsp;&nbsp;&nbsp;&nbsp;And lays his last book's prodigal review
+&nbsp;&nbsp;&nbsp;&nbsp;Upon his mother's knee, where, years ago,
+&nbsp;&nbsp;&nbsp;&nbsp;He laid his childish spelling-book and learned
+&nbsp;&nbsp;&nbsp;&nbsp;To chirp and peck the letters from her mouth,
+&nbsp;&nbsp;&nbsp;&nbsp;As young birds must. "Well done," she murmured then;
+&nbsp;&nbsp;&nbsp;&nbsp;She will not say it now more wonderingly:
+&nbsp;&nbsp;&nbsp;&nbsp;And yet the last "Well done" will touch him more,
+&nbsp;&nbsp;&nbsp;&nbsp;As catching up to-day and yesterday
+&nbsp;&nbsp;&nbsp;&nbsp;In a perfect chord of love: and so, Mark Gage,
+&nbsp;&nbsp;&nbsp;&nbsp;I envy you your mother! and you, Graham,
+&nbsp;&nbsp;&nbsp;&nbsp;Because you have a wife who loves you so,
+&nbsp;&nbsp;&nbsp;&nbsp;She half forgets, at moments, to be proud
+&nbsp;&nbsp;&nbsp;&nbsp;Of being Graham's wife, until a friend observes,
+&nbsp;&nbsp;&nbsp;&nbsp;"The boy here has his father's massive brow
+&nbsp;&nbsp;&nbsp;&nbsp;Done small in wax . . . if we push back the curls."
+&nbsp;&nbsp;&nbsp;&nbsp;Who loves me? Dearest father, mother sweet,
+&nbsp;&nbsp;&nbsp;&nbsp;I speak the names out sometimes by myself,
+&nbsp;&nbsp;&nbsp;&nbsp;And make the silence shiver. They sound strange,
+&nbsp;&nbsp;&nbsp;&nbsp;As Hindostanee to an Ind-born man
+&nbsp;&nbsp;&nbsp;&nbsp;Accustomed many years to English speech;
+&nbsp;&nbsp;&nbsp;&nbsp;Or lovely poet-words grown obsolete,
+&nbsp;&nbsp;&nbsp;&nbsp;Which will not leave off singing. Up in heaven
+&nbsp;&nbsp;&nbsp;&nbsp;I have my father, with my mother's face
+&nbsp;&nbsp;&nbsp;&nbsp;Beside him in a blotch of heavenly light;
+&nbsp;&nbsp;&nbsp;&nbsp;No more for earth's familiar, household use,
+&nbsp;&nbsp;&nbsp;&nbsp;No more. The best verse written by this hand
+&nbsp;&nbsp;&nbsp;&nbsp;Can never reach them where they sit, to seem
+&nbsp;&nbsp;&nbsp;&nbsp;Well done to them. Death quite unfellows us,
+&nbsp;&nbsp;&nbsp;&nbsp;Sets dreadful odds betwixt the live and dead,
+&nbsp;&nbsp;&nbsp;&nbsp;And makes us part as those at Babel did
+&nbsp;&nbsp;&nbsp;&nbsp;Through sudden ignorance of a common tongue.
+&nbsp;&nbsp;&nbsp;&nbsp;A living Cæsar would not dare to play
+&nbsp;&nbsp;&nbsp;&nbsp;At bowls with such as my dead father is.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;And yet this may be less so than appears,
+&nbsp;&nbsp;&nbsp;&nbsp;This change and separation. Sparrows five
+&nbsp;&nbsp;&nbsp;&nbsp;For just two farthings, and God cares for each.
+&nbsp;&nbsp;&nbsp;&nbsp;If God is not too great for little cares,
+&nbsp;&nbsp;&nbsp;&nbsp;Is any creature, because gone to God?
+&nbsp;&nbsp;&nbsp;&nbsp;I've seen some men, veracious, nowise mad,
+&nbsp;&nbsp;&nbsp;&nbsp;Who have thought or dreamed, declared and testified
+&nbsp;&nbsp;&nbsp;&nbsp;They heard the Dead a-ticking like a clock
+&nbsp;&nbsp;&nbsp;&nbsp;Which strikes the hours of the eternities,
+&nbsp;&nbsp;&nbsp;&nbsp;Beside them, with their natural ears, and known
+&nbsp;&nbsp;&nbsp;&nbsp;That human spirits feel the human way
+&nbsp;&nbsp;&nbsp;&nbsp;And hate the unreasoning awe which waves them off
+&nbsp;&nbsp;&nbsp;&nbsp;From possible communion. It may be.
+&nbsp;&nbsp;&nbsp;&nbsp;At least, earth separates as well as heaven.
+&nbsp;&nbsp;&nbsp;&nbsp;For instance, I have not seen Romney Leigh
+&nbsp;&nbsp;&nbsp;&nbsp;Full eighteen months . . . add six, you get two years.
+&nbsp;&nbsp;&nbsp;&nbsp;They say he's very busy with good works,
+&nbsp;&nbsp;&nbsp;&nbsp;Has parted Leigh Hall into almshouses.
+&nbsp;&nbsp;&nbsp;&nbsp;He made one day an almshouse of his heart,
+&nbsp;&nbsp;&nbsp;&nbsp;Which ever since is loose upon the latch
+&nbsp;&nbsp;&nbsp;&nbsp;For those who pull the string. I never did.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;It always makes me sad to go abroad,
+&nbsp;&nbsp;&nbsp;&nbsp;And now I'm sadder that I went to-night
+&nbsp;&nbsp;&nbsp;&nbsp;Among the lights and talkers at Lord Howe's.
+&nbsp;&nbsp;&nbsp;&nbsp;His wife is gracious, with her glossy braids,
+&nbsp;&nbsp;&nbsp;&nbsp;And even voice, and gorgeous eyeballs, calm
+&nbsp;&nbsp;&nbsp;&nbsp;As her other jewels. If she's somewhat cold,
+&nbsp;&nbsp;&nbsp;&nbsp;Who wonders, when her blood has stood so long
+&nbsp;&nbsp;&nbsp;&nbsp;In the ducal reservoir she calls her line
+&nbsp;&nbsp;&nbsp;&nbsp;By no means arrogantly? she's not proud;
+&nbsp;&nbsp;&nbsp;&nbsp;Not prouder than the swan is of the lake
+&nbsp;&nbsp;&nbsp;&nbsp;He has always swum in; 'tis her element;
+&nbsp;&nbsp;&nbsp;&nbsp;And so she takes it with a natural grace,
+&nbsp;&nbsp;&nbsp;&nbsp;Ignoring tadpoles. She just knows perhaps
+&nbsp;&nbsp;&nbsp;&nbsp;There are who travel without outriders,
+&nbsp;&nbsp;&nbsp;&nbsp;Which isn't her fault. Ah, to watch her face,
+&nbsp;&nbsp;&nbsp;&nbsp;When good Lord Howe expounds his theories
+&nbsp;&nbsp;&nbsp;&nbsp;Of social justice and equality!
+&nbsp;&nbsp;&nbsp;&nbsp;'Tis curious, what a tender, tolerant bend
+&nbsp;&nbsp;&nbsp;&nbsp;Her neck takes: for she loves him, likes his talk,
+&nbsp;&nbsp;&nbsp;&nbsp;"Such clever talk that dear, odd Algernon!"
+&nbsp;&nbsp;&nbsp;&nbsp;She listens on, exactly as if he talked
+&nbsp;&nbsp;&nbsp;&nbsp;Some Scandinavian myth of Lemures,
+&nbsp;&nbsp;&nbsp;&nbsp;Too pretty to dispute, and too absurd.
+&nbsp;&nbsp;&nbsp;&nbsp;She's gracious to me as her husband's friend,
+&nbsp;&nbsp;&nbsp;&nbsp;And would be gracious were I not a Leigh,
+&nbsp;&nbsp;&nbsp;&nbsp;Being used to smile just so, without her eyes,
+&nbsp;&nbsp;&nbsp;&nbsp;On Joseph Strangways the Leeds mesmerist,
+&nbsp;&nbsp;&nbsp;&nbsp;And Delia Dobbs the lecturer from "the States"
+&nbsp;&nbsp;&nbsp;&nbsp;Upon the "Woman's question." Then, for him,
+&nbsp;&nbsp;&nbsp;&nbsp;I like him; he's my friend. And all the rooms
+&nbsp;&nbsp;&nbsp;&nbsp;Were full of crinkling silks that swept about
+&nbsp;&nbsp;&nbsp;&nbsp;The fine dust of most subtle courtesies.
+&nbsp;&nbsp;&nbsp;&nbsp;What then? why then, we come home to be sad.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;How lovely, One I love not looked to-night!
+&nbsp;&nbsp;&nbsp;&nbsp;She's very pretty, Lady Waldemar.
+&nbsp;&nbsp;&nbsp;&nbsp;Her maid must use both hands to twist that coil
+&nbsp;&nbsp;&nbsp;&nbsp;Of tresses, then be careful lest the rich
+&nbsp;&nbsp;&nbsp;&nbsp;Bronze rounds should slip: she missed, though, a grey hair,
+&nbsp;&nbsp;&nbsp;&nbsp;A single one, I saw it; otherwise
+&nbsp;&nbsp;&nbsp;&nbsp;The woman looked immortal. How they told,
+&nbsp;&nbsp;&nbsp;&nbsp;Those alabaster shoulders and bare breasts,
+&nbsp;&nbsp;&nbsp;&nbsp;On which the pearls, drowned out of sight in milk,
+&nbsp;&nbsp;&nbsp;&nbsp;Were lost, excepting for the ruby-clasp!
+&nbsp;&nbsp;&nbsp;&nbsp;They split the amaranth velvet-bodice down
+&nbsp;&nbsp;&nbsp;&nbsp;To the waist or nearly, with the audacious press
+&nbsp;&nbsp;&nbsp;&nbsp;Of full-breathed beauty. If the heart within
+&nbsp;&nbsp;&nbsp;&nbsp;Were half as white! but, if it were, perhaps
+&nbsp;&nbsp;&nbsp;&nbsp;The breast were closer covered and the sight
+&nbsp;&nbsp;&nbsp;&nbsp;Less aspectable by half, too.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;I heard
+&nbsp;&nbsp;&nbsp;&nbsp;The young man with the German student's look
+&nbsp;&nbsp;&nbsp;&nbsp;A sharp face, like a knife in a cleft stick,
+&nbsp;&nbsp;&nbsp;&nbsp;Which shot up straight against the parting line
+&nbsp;&nbsp;&nbsp;&nbsp;So equally dividing the long hair,
+&nbsp;&nbsp;&nbsp;&nbsp;Say softly to his neighbour (thirty-five
+&nbsp;&nbsp;&nbsp;&nbsp;And mediæval), "Look that way, Sir Blaise.
+&nbsp;&nbsp;&nbsp;&nbsp;She's Lady Waldemar to the left in red
+&nbsp;&nbsp;&nbsp;&nbsp;Whom Romney Leigh, our ablest man just now,
+&nbsp;&nbsp;&nbsp;&nbsp;Is soon about to marry."
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;Then replied
+&nbsp;&nbsp;&nbsp;&nbsp;Sir Blaise Delorme, with quiet, priestlike voice,
+&nbsp;&nbsp;&nbsp;&nbsp;Too used to syllable damnations round
+&nbsp;&nbsp;&nbsp;&nbsp;To make a natural emphasis worth while:
+&nbsp;&nbsp;&nbsp;&nbsp;"Is Leigh your ablest man? the same, I think,
+&nbsp;&nbsp;&nbsp;&nbsp;Once jilted by a recreant pretty maid
+&nbsp;&nbsp;&nbsp;&nbsp;Adopted from the people? Now, in change,
+&nbsp;&nbsp;&nbsp;&nbsp;He seems to have plucked a flower from the other side
+&nbsp;&nbsp;&nbsp;&nbsp;Of the social hedge."
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;"A flower, a flower," exclaimed
+&nbsp;&nbsp;&nbsp;&nbsp;My German student, his own eyes full-blown
+&nbsp;&nbsp;&nbsp;&nbsp;Bent on her. He was twenty, certainly.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;Sir Blaise resumed with gentle arrogance,
+&nbsp;&nbsp;&nbsp;&nbsp;As if he had dropped his alms into a hat
+&nbsp;&nbsp;&nbsp;&nbsp;And gained the right to counsel, "My young friend,
+&nbsp;&nbsp;&nbsp;&nbsp;I doubt your ablest man's ability
+&nbsp;&nbsp;&nbsp;&nbsp;To get the least good or help meet for him,
+&nbsp;&nbsp;&nbsp;&nbsp;For pagan phalanstery or Christian home,
+&nbsp;&nbsp;&nbsp;&nbsp;From such a flowery creature."
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Beautiful!"
+&nbsp;&nbsp;&nbsp;&nbsp;My student murmured rapt, "Mark how she stirs!
+&nbsp;&nbsp;&nbsp;&nbsp;Just waves her head, as if a flower indeed,
+&nbsp;&nbsp;&nbsp;&nbsp;Touched far off by the vain breath of our talk."
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;At which that bilious Grimwald (he who writes
+&nbsp;&nbsp;&nbsp;&nbsp;For the Renovator), who had seemed absorbed
+&nbsp;&nbsp;&nbsp;&nbsp;Upon the table-book of autographs
+&nbsp;&nbsp;&nbsp;&nbsp;(I dare say mentally he crunched the bones
+&nbsp;&nbsp;&nbsp;&nbsp;Of all those writers, wishing them alive
+&nbsp;&nbsp;&nbsp;&nbsp;To feel his tooth in earnest), turned short round
+&nbsp;&nbsp;&nbsp;&nbsp;With low carnivorous laugh, "A flower, of course!
+&nbsp;&nbsp;&nbsp;&nbsp;She neither sews nor spins, and takes no thought
+&nbsp;&nbsp;&nbsp;&nbsp;Of her garments . . . falling off."
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;The student flinched;
+&nbsp;&nbsp;&nbsp;&nbsp;Sir Blaise, the same; then both, drawing back their chairs
+&nbsp;&nbsp;&nbsp;&nbsp;As if they spied black-beetles on the floor,
+&nbsp;&nbsp;&nbsp;&nbsp;Pursued their talk, without a word being thrown
+&nbsp;&nbsp;&nbsp;&nbsp;To the critic.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;Good Sir Blaise's brow is high
+&nbsp;&nbsp;&nbsp;&nbsp;And noticeably narrow: a strong wind,
+&nbsp;&nbsp;&nbsp;&nbsp;You fancy, might unroof him suddenly,
+&nbsp;&nbsp;&nbsp;&nbsp;And blow that great top attic off his head
+&nbsp;&nbsp;&nbsp;&nbsp;So piled with feudal relics. You admire
+&nbsp;&nbsp;&nbsp;&nbsp;His nose in profile, though you miss his chin;
+&nbsp;&nbsp;&nbsp;&nbsp;But, though you miss his chin, you seldom miss
+&nbsp;&nbsp;&nbsp;&nbsp;His ebon cross worn innermostly (carved
+&nbsp;&nbsp;&nbsp;&nbsp;For penance by a saintly Styrian monk
+&nbsp;&nbsp;&nbsp;&nbsp;Whose flesh was too much with him), slipping through
+&nbsp;&nbsp;&nbsp;&nbsp;Some unaware unbuttoned casualty
+&nbsp;&nbsp;&nbsp;&nbsp;Of the under-waistcoat. With an absent air
+&nbsp;&nbsp;&nbsp;&nbsp;Sir Blaise sat fingering it and speaking low,
+&nbsp;&nbsp;&nbsp;&nbsp;While I, upon the sofa, heard it all.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;"My dear young friend, if we could bear our eyes,
+&nbsp;&nbsp;&nbsp;&nbsp;Like blessedest Saint Lucy, on a plate,
+&nbsp;&nbsp;&nbsp;&nbsp;They would not trick us into choosing wives,
+&nbsp;&nbsp;&nbsp;&nbsp;As doublets, by the colour. Otherwise
+&nbsp;&nbsp;&nbsp;&nbsp;Our fathers chose, and therefore, when they had hung
+&nbsp;&nbsp;&nbsp;&nbsp;Their household keys about a lady's waist,
+&nbsp;&nbsp;&nbsp;&nbsp;The sense of duty gave her dignity;
+&nbsp;&nbsp;&nbsp;&nbsp;She kept her bosom holy to her babes,
+&nbsp;&nbsp;&nbsp;&nbsp;And, if a moralist reproved her dress,
+&nbsp;&nbsp;&nbsp;&nbsp;'Twas 'Too much starch!' and not 'Too little lawn!'"
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Now, pshaw!" returned the other in a heat,
+&nbsp;&nbsp;&nbsp;&nbsp;A little fretted by being called "young friend,"
+&nbsp;&nbsp;&nbsp;&nbsp;Or so I took it, "for Saint Lucy's sake,
+&nbsp;&nbsp;&nbsp;&nbsp;If she's the saint to swear by, let us leave
+&nbsp;&nbsp;&nbsp;&nbsp;Our fathers, plagued enough about our sons!"
+&nbsp;&nbsp;&nbsp;&nbsp;(He stroked his beardless chin) "yes, plagued, sir, plagued:
+&nbsp;&nbsp;&nbsp;&nbsp;The future generations lie on us
+&nbsp;&nbsp;&nbsp;&nbsp;As heavy as the nightmare of a seer;
+&nbsp;&nbsp;&nbsp;&nbsp;Our meat and drink grow painful prophecy:
+&nbsp;&nbsp;&nbsp;&nbsp;I ask you, have we leisure, if we liked,
+&nbsp;&nbsp;&nbsp;&nbsp;To hollow out our weary hands to keep
+&nbsp;&nbsp;&nbsp;&nbsp;Your intermittent rushlight of the past
+&nbsp;&nbsp;&nbsp;&nbsp;From draughts in lobbies? Prejudice of sex
+&nbsp;&nbsp;&nbsp;&nbsp;And marriage-law . . . the socket drops them through
+&nbsp;&nbsp;&nbsp;&nbsp;While we two speak, however may protest
+&nbsp;&nbsp;&nbsp;&nbsp;Some over-delicate nostrils like your own,
+&nbsp;&nbsp;&nbsp;&nbsp;'Gainst odours thence arising."
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;"You are young,"
+&nbsp;&nbsp;&nbsp;&nbsp;Sir Blaise objected.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp; "If I am," he said
+&nbsp;&nbsp;&nbsp;&nbsp;With fire, "though somewhat less so than I seem,
+&nbsp;&nbsp;&nbsp;&nbsp;The young run on before, and see the thing
+&nbsp;&nbsp;&nbsp;&nbsp;That's coming. Reverence for the young, I cry.
+&nbsp;&nbsp;&nbsp;&nbsp;In that new church for which the world's near ripe,
+&nbsp;&nbsp;&nbsp;&nbsp;You'll have the younger in the Elder's chair,
+&nbsp;&nbsp;&nbsp;&nbsp;Presiding with his ivory front of hope
+&nbsp;&nbsp;&nbsp;&nbsp;O'er foreheads clawed by cruel carrion-birds
+&nbsp;&nbsp;&nbsp;&nbsp;Of life's experience."
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Pray your blessing, sir,"
+&nbsp;&nbsp;&nbsp;&nbsp;Sir Blaise replied good-humouredly, "I plucked
+&nbsp;&nbsp;&nbsp;&nbsp;A silver hair this morning from my beard,
+&nbsp;&nbsp;&nbsp;&nbsp;Which left me your inferior. Would I were
+&nbsp;&nbsp;&nbsp;&nbsp;Eighteen and worthy to admonish you!
+&nbsp;&nbsp;&nbsp;&nbsp;If young men of your order run before
+&nbsp;&nbsp;&nbsp;&nbsp;To see such sights as sexual prejudice
+&nbsp;&nbsp;&nbsp;&nbsp;And marriage-law dissolved, in plainer words,
+&nbsp;&nbsp;&nbsp;&nbsp;A general concubinage expressed
+&nbsp;&nbsp;&nbsp;&nbsp;In a universal pruriency, the thing
+&nbsp;&nbsp;&nbsp;&nbsp;Is scarce worth running fast for, and you'd gain
+&nbsp;&nbsp;&nbsp;&nbsp;By loitering with your elders."
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Ah," he said,
+&nbsp;&nbsp;&nbsp;&nbsp;"Who, getting to the top of Pisgah-hill,
+&nbsp;&nbsp;&nbsp;&nbsp;Can talk with one at bottom of the view,
+&nbsp;&nbsp;&nbsp;&nbsp;To make it comprehensible? Why, Leigh
+&nbsp;&nbsp;&nbsp;&nbsp;Himself, although our ablest man, I said,
+&nbsp;&nbsp;&nbsp;&nbsp;Is scarce advanced to see as far as this,
+&nbsp;&nbsp;&nbsp;&nbsp;Which some are: he takes up imperfectly
+&nbsp;&nbsp;&nbsp;&nbsp;The social question by one handle leaves
+&nbsp;&nbsp;&nbsp;&nbsp;The rest to trail. A Christian socialist
+&nbsp;&nbsp;&nbsp;&nbsp;Is Romney Leigh, you understand."
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Not I.
+&nbsp;&nbsp;&nbsp;&nbsp;I disbelieve in Christian-pagans, much
+&nbsp;&nbsp;&nbsp;&nbsp;As you in women-fishes. If we mix
+&nbsp;&nbsp;&nbsp;&nbsp;Two colours, we lose both, and make a third
+&nbsp;&nbsp;&nbsp;&nbsp;Distinct from either. Mark you! to mistake
+&nbsp;&nbsp;&nbsp;&nbsp;A colour is the sign of a sick brain,
+&nbsp;&nbsp;&nbsp;&nbsp;And mine, I thank the saints, is clear and cool:
+&nbsp;&nbsp;&nbsp;&nbsp;A neutral tint is here impossible.
+&nbsp;&nbsp;&nbsp;&nbsp;The church, and by the church I mean, of course,
+&nbsp;&nbsp;&nbsp;&nbsp;The catholic, apostolic, mother-church,
+&nbsp;&nbsp;&nbsp;&nbsp;Draws lines as plain and straight as her own walls,
+&nbsp;&nbsp;&nbsp;&nbsp;Inside of which are Christians, obviously.
+&nbsp;&nbsp;&nbsp;&nbsp;And outside . . . dogs."
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;"We thank you. Well I know
+&nbsp;&nbsp;&nbsp;&nbsp;The ancient mother-church would fain still bite,
+&nbsp;&nbsp;&nbsp;&nbsp;For all her toothless gums, as Leigh himself
+&nbsp;&nbsp;&nbsp;&nbsp;Would fain be a Christian still, for all his wit.
+&nbsp;&nbsp;&nbsp;&nbsp;Pass that; you two may settle it, for me.
+&nbsp;&nbsp;&nbsp;&nbsp;You're slow in England. In a month I learnt
+&nbsp;&nbsp;&nbsp;&nbsp;At Göttingen enough philosophy
+&nbsp;&nbsp;&nbsp;&nbsp;To stock your English schools for fifty years;
+&nbsp;&nbsp;&nbsp;&nbsp;Pass that, too. Here alone, I stop you short,
+&nbsp;&nbsp;&nbsp;&nbsp;Supposing a true man like Leigh could stand
+&nbsp;&nbsp;&nbsp;&nbsp;Unequal in the stature of his life
+&nbsp;&nbsp;&nbsp;&nbsp;To the height of his opinions. Choose a wife
+&nbsp;&nbsp;&nbsp;&nbsp;Because of a smooth skin? not he, not he!
+&nbsp;&nbsp;&nbsp;&nbsp;He'd rail at Venus' self for creaking shoes,
+&nbsp;&nbsp;&nbsp;&nbsp;Unless she walked his way of righteousness:
+&nbsp;&nbsp;&nbsp;&nbsp;And if he takes a Venus Meretrix
+&nbsp;&nbsp;&nbsp;&nbsp;(No imputation on the lady there),
+&nbsp;&nbsp;&nbsp;&nbsp;Be sure that, by some sleight of Christian art,
+&nbsp;&nbsp;&nbsp;&nbsp;He has metamorphosed and converted her
+&nbsp;&nbsp;&nbsp;&nbsp;To a Blessed Virgin."
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Soft!" Sir Blaise drew breath
+&nbsp;&nbsp;&nbsp;&nbsp;As if it hurt him, "Soft! no blasphemy,
+&nbsp;&nbsp;&nbsp;&nbsp;I pray you!"
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;"The first Christians did the thing:
+&nbsp;&nbsp;&nbsp;&nbsp;Why not the last?" asked he of Göttingen,
+&nbsp;&nbsp;&nbsp;&nbsp;With just that shade of sneering on the lip
+&nbsp;&nbsp;&nbsp;&nbsp;Compensates for the lagging of the beard,
+&nbsp;&nbsp;&nbsp;&nbsp;"And so the case is. If that fairest fair
+&nbsp;&nbsp;&nbsp;&nbsp;Is talked of as the future wife of Leigh,
+&nbsp;&nbsp;&nbsp;&nbsp;She's talked of too, at least as certainly,
+&nbsp;&nbsp;&nbsp;&nbsp;As Leigh's disciple. You may find her name
+&nbsp;&nbsp;&nbsp;&nbsp;On all his missions and commissions, schools,
+&nbsp;&nbsp;&nbsp;&nbsp;Asylums, hospitals, he had her down,
+&nbsp;&nbsp;&nbsp;&nbsp;With other ladies whom her starry lead
+&nbsp;&nbsp;&nbsp;&nbsp;Persuaded from their spheres, to his country-place
+&nbsp;&nbsp;&nbsp;&nbsp;In Shropshire, to the famed phalanstery
+&nbsp;&nbsp;&nbsp;&nbsp;At Leigh Hall, christianised from Fourier's own
+&nbsp;&nbsp;&nbsp;&nbsp;(In which he has planted out his sapling stocks
+&nbsp;&nbsp;&nbsp;&nbsp;Of knowledge into social nurseries),
+&nbsp;&nbsp;&nbsp;&nbsp;And there, they say, she has tarried half a week,
+&nbsp;&nbsp;&nbsp;&nbsp;And milked the cows, and churned, and pressed the curd,
+&nbsp;&nbsp;&nbsp;&nbsp;And said 'my sister' to the lowest drab
+&nbsp;&nbsp;&nbsp;&nbsp;Of all the assembled castaways; such girls!
+&nbsp;&nbsp;&nbsp;&nbsp;Ay, sided with them at the washing-tub
+&nbsp;&nbsp;&nbsp;&nbsp;Conceive, Sir Blaise, those naked perfect arms,
+&nbsp;&nbsp;&nbsp;&nbsp;Round glittering arms, plunged elbow-deep in suds,
+&nbsp;&nbsp;&nbsp;&nbsp;Like wild swans hid in lilies all a-shake."
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;Lord Howe came up. "What, talking poetry
+&nbsp;&nbsp;&nbsp;&nbsp;So near the image of the unfavouring Muse?
+&nbsp;&nbsp;&nbsp;&nbsp;That's you, Miss Leigh: I've watched you half an hour
+&nbsp;&nbsp;&nbsp;&nbsp;Precisely as I watched the statue called
+&nbsp;&nbsp;&nbsp;&nbsp;A Pallas in the Vatican; you mind
+&nbsp;&nbsp;&nbsp;&nbsp;The face, Sir Blaise? intensely calm and sad,
+&nbsp;&nbsp;&nbsp;&nbsp;As wisdom cut it off from fellowship,
+&nbsp;&nbsp;&nbsp;&nbsp;But that spoke louder. Not a word from you!
+&nbsp;&nbsp;&nbsp;&nbsp;And these two gentlemen were bold, I marked,
+&nbsp;&nbsp;&nbsp;&nbsp;And unabashed by even your silence."
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Ah,"
+&nbsp;&nbsp;&nbsp;&nbsp;Said I, "my dear Lord Howe, you shall not speak
+&nbsp;&nbsp;&nbsp;&nbsp;To a printing woman who has lost her place
+&nbsp;&nbsp;&nbsp;&nbsp;(The sweet safe corner of the household fire
+&nbsp;&nbsp;&nbsp;&nbsp;Behind the heads of children), compliments,
+&nbsp;&nbsp;&nbsp;&nbsp;As if she were a woman. We who have clipt
+&nbsp;&nbsp;&nbsp;&nbsp;The curls before our eyes may see at least
+&nbsp;&nbsp;&nbsp;&nbsp;As plain as men do. Speak out, man to man;
+&nbsp;&nbsp;&nbsp;&nbsp;No compliments, beseech you."
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Friend to friend,
+&nbsp;&nbsp;&nbsp;&nbsp;Let that be. We are sad to-night, I saw
+&nbsp;&nbsp;&nbsp;&nbsp;( Good night, Sir Blaise! ah, Smith he has slipped away),
+&nbsp;&nbsp;&nbsp;&nbsp;I saw you across the room, and stayed, Miss Leigh,
+&nbsp;&nbsp;&nbsp;&nbsp;To keep a crowd of lion-hunters off,
+&nbsp;&nbsp;&nbsp;&nbsp;With faces toward your jungle. There were three;
+&nbsp;&nbsp;&nbsp;&nbsp;A spacious lady, five feet ten and fat,
+&nbsp;&nbsp;&nbsp;&nbsp;Who has the devil in her (and there's room)
+&nbsp;&nbsp;&nbsp;&nbsp;For walking to and fro upon the earth,
+&nbsp;&nbsp;&nbsp;&nbsp;From Chipewa to China; she requires
+&nbsp;&nbsp;&nbsp;&nbsp;Your autograph upon a tinted leaf
+&nbsp;&nbsp;&nbsp;&nbsp;'Twixt Queen Pomare's and Emperor Soulouque's.
+&nbsp;&nbsp;&nbsp;&nbsp;Pray give it; she has energies, though fat:
+&nbsp;&nbsp;&nbsp;&nbsp;For me, I'd rather see a rick on fire
+&nbsp;&nbsp;&nbsp;&nbsp;Than such a woman angry. Then a youth
+&nbsp;&nbsp;&nbsp;&nbsp;Fresh from the backwoods, green as the underboughs,
+&nbsp;&nbsp;&nbsp;&nbsp;Asks modestly, Miss Leigh, to kiss your shoe,
+&nbsp;&nbsp;&nbsp;&nbsp;And adds, he has an epic in twelve parts,
+&nbsp;&nbsp;&nbsp;&nbsp;Which when you've read, you'll do it for his boot:
+&nbsp;&nbsp;&nbsp;&nbsp;All which I saved you, and absorb next week
+&nbsp;&nbsp;&nbsp;&nbsp;Both manuscript and man, because a lord
+&nbsp;&nbsp;&nbsp;&nbsp;Is still more potent than a poetess
+&nbsp;&nbsp;&nbsp;&nbsp;With any extreme republican. Ah, ah,
+&nbsp;&nbsp;&nbsp;&nbsp;You smile, at last, then."
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;"Thank you."
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;"Thanks to you
-&nbsp;&nbsp;&nbsp;&nbsp;My cousin! that I have seen you not too much
-&nbsp;&nbsp;&nbsp;&nbsp;Witch, scholar, poet, dreamer, and the rest,
-&nbsp;&nbsp;&nbsp;&nbsp;To be a woman also."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;With a glance
-&nbsp;&nbsp;&nbsp;&nbsp;The smile rose in his eyes again and touched
-&nbsp;&nbsp;&nbsp;&nbsp;The ivy on my forehead, light as air.
-&nbsp;&nbsp;&nbsp;&nbsp;I answered gravely "Poets needs must be
-&nbsp;&nbsp;&nbsp;&nbsp;Or men or women more's the pity."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"Ah,
-&nbsp;&nbsp;&nbsp;&nbsp;But men, and still less women, happily,
-&nbsp;&nbsp;&nbsp;&nbsp;Scarce need be poets. Keep to the green wreath,
-&nbsp;&nbsp;&nbsp;&nbsp;Since even dreaming of the stone and bronze
-&nbsp;&nbsp;&nbsp;&nbsp;Brings headaches, pretty cousin, and defiles
-&nbsp;&nbsp;&nbsp;&nbsp;The clean white morning dresses."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"So you judge!
-&nbsp;&nbsp;&nbsp;&nbsp;Because I love the beautiful I must
-&nbsp;&nbsp;&nbsp;&nbsp;Love pleasure chiefly, and be overcharged
-&nbsp;&nbsp;&nbsp;&nbsp;For ease and whiteness! well, you know the world,
-&nbsp;&nbsp;&nbsp;&nbsp;And only miss your cousin, 'tis not much.
-&nbsp;&nbsp;&nbsp;&nbsp;But learn this; I would rather take my part
-&nbsp;&nbsp;&nbsp;&nbsp;With God's Dead, who afford to walk in white
-&nbsp;&nbsp;&nbsp;&nbsp;Yet spread His glory, than keep quiet here
-&nbsp;&nbsp;&nbsp;&nbsp;And gather up my feet from even a step
-&nbsp;&nbsp;&nbsp;&nbsp;For fear to soil my gown in so much dust.
-&nbsp;&nbsp;&nbsp;&nbsp;I choose to walk at all risks. Here, if heads
-&nbsp;&nbsp;&nbsp;&nbsp;That hold a rhythmic thought, much ache perforce,
-&nbsp;&nbsp;&nbsp;&nbsp;For my part I choose headaches, and today's
-&nbsp;&nbsp;&nbsp;&nbsp;My birthday."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"Dear Aurora, choose instead
-&nbsp;&nbsp;&nbsp;&nbsp;To cure them. You have balsams."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"I perceive.
-&nbsp;&nbsp;&nbsp;&nbsp;The headache is too noble for my sex.
-&nbsp;&nbsp;&nbsp;&nbsp;You think the heartache would sound decenter,
-&nbsp;&nbsp;&nbsp;&nbsp;Since that's the woman's special, proper ache,
-&nbsp;&nbsp;&nbsp;&nbsp;And altogether tolerable, except
-&nbsp;&nbsp;&nbsp;&nbsp;To a woman."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;Saying which, I loosed my wreath,
-&nbsp;&nbsp;&nbsp;&nbsp;And swinging it beside me as I walked,
-&nbsp;&nbsp;&nbsp;&nbsp;Half-petulant, half-playful, as we walked,
-&nbsp;&nbsp;&nbsp;&nbsp;I sent a sidelong look to find his thought,
-&nbsp;&nbsp;&nbsp;&nbsp;As falcon set on falconer's finger may,
-&nbsp;&nbsp;&nbsp;&nbsp;With sidelong head, and startled, braving eye,
-&nbsp;&nbsp;&nbsp;&nbsp;Which means, "You'll see you'll see! I'll soon take flight,
-&nbsp;&nbsp;&nbsp;&nbsp;You shall not hinder." He, as shaking out
-&nbsp;&nbsp;&nbsp;&nbsp;His hand and answering "Fly then," did not speak,
-&nbsp;&nbsp;&nbsp;&nbsp;Except by such a gesture. Silently
-&nbsp;&nbsp;&nbsp;&nbsp;We paced, until, just coming into sight
-&nbsp;&nbsp;&nbsp;&nbsp;Of the house-windows, he abruptly caught
-&nbsp;&nbsp;&nbsp;&nbsp;At one end of the swinging wreath, and said
-&nbsp;&nbsp;&nbsp;&nbsp;"Aurora!" There I stopped short, breath and all.
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"Aurora, let's be serious, and throw by
-&nbsp;&nbsp;&nbsp;&nbsp;This game of head and heart. Life means, be sure,
-&nbsp;&nbsp;&nbsp;&nbsp;Both heart and head, both active, both complete,
-&nbsp;&nbsp;&nbsp;&nbsp;And both in earnest. Men and women make
-&nbsp;&nbsp;&nbsp;&nbsp;The world, as head and heart make human life.
-&nbsp;&nbsp;&nbsp;&nbsp;Work man, work woman, since there's work to do
-&nbsp;&nbsp;&nbsp;&nbsp;In this beleaguered earth, for head and heart,
-&nbsp;&nbsp;&nbsp;&nbsp;And thought can never do the work of love:
-&nbsp;&nbsp;&nbsp;&nbsp;But work for ends, I mean for uses, not
-&nbsp;&nbsp;&nbsp;&nbsp;For such sleek fringes (do you call them ends,
-&nbsp;&nbsp;&nbsp;&nbsp;Still less God's glory?) as we sew ourselves
-&nbsp;&nbsp;&nbsp;&nbsp;Upon the velvet of those baldaquins
-&nbsp;&nbsp;&nbsp;&nbsp;Held 'twixt us and the sun. That book of yours,
-&nbsp;&nbsp;&nbsp;&nbsp;I have not read a page of; but I toss
-&nbsp;&nbsp;&nbsp;&nbsp;A rose up it falls calyx down, you see!
-&nbsp;&nbsp;&nbsp;&nbsp;The chances are that, being a woman, young
-&nbsp;&nbsp;&nbsp;&nbsp;And pure, with such a pair of large, calm eyes,
-&nbsp;&nbsp;&nbsp;&nbsp;You write as well . . . and ill . . . upon the whole,
-&nbsp;&nbsp;&nbsp;&nbsp;As other women. If as well, what then?
-&nbsp;&nbsp;&nbsp;&nbsp;If even a little better, . . . still, what then?
-&nbsp;&nbsp;&nbsp;&nbsp;We want the Best in art now, or no art.
-&nbsp;&nbsp;&nbsp;&nbsp;The time is done for facile settings up
-&nbsp;&nbsp;&nbsp;&nbsp;Of minnow gods, nymphs here and tritons there;
-&nbsp;&nbsp;&nbsp;&nbsp;The polytheists have gone out in God,
-&nbsp;&nbsp;&nbsp;&nbsp;That unity of Bests. No best, no God!
-&nbsp;&nbsp;&nbsp;&nbsp;And so with art, we say. Give art's divine,
-&nbsp;&nbsp;&nbsp;&nbsp;Direct, indubitable, real as grief,
-&nbsp;&nbsp;&nbsp;&nbsp;Or leave us to the grief we grow ourselves
-&nbsp;&nbsp;&nbsp;&nbsp;Divine by overcoming with mere hope
-&nbsp;&nbsp;&nbsp;&nbsp;And most prosaic patience. You, you are young
-&nbsp;&nbsp;&nbsp;&nbsp;As Eve with nature's daybreak on her face,
-&nbsp;&nbsp;&nbsp;&nbsp;But this same world you are come to, dearest coz,
-&nbsp;&nbsp;&nbsp;&nbsp;Has done with keeping birthdays, saves her wreaths
-&nbsp;&nbsp;&nbsp;&nbsp;To hang upon her ruins, and forgets
-&nbsp;&nbsp;&nbsp;&nbsp;To rhyme the cry with which she still beats back
-&nbsp;&nbsp;&nbsp;&nbsp;Those savage, hungry dogs that hunt her down
-&nbsp;&nbsp;&nbsp;&nbsp;To the empty grave of Christ. The world's hard pressed:
-&nbsp;&nbsp;&nbsp;&nbsp;The sweat of labour in the early curse
-&nbsp;&nbsp;&nbsp;&nbsp;Has (turning acrid in six thousand years)
-&nbsp;&nbsp;&nbsp;&nbsp;Become the sweat of torture. Who has time,
-&nbsp;&nbsp;&nbsp;&nbsp;An hour's time . . . think! to sit upon a bank
-&nbsp;&nbsp;&nbsp;&nbsp;And hear the cymbal tinkle in white hands?
-&nbsp;&nbsp;&nbsp;&nbsp;When Egypt's slain, I say, let Miriam sing!
-&nbsp;&nbsp;&nbsp;&nbsp;Before where's Moses?"
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"Ah, exactly that.
-&nbsp;&nbsp;&nbsp;&nbsp;Where's Moses? is a Moses to be found?
-&nbsp;&nbsp;&nbsp;&nbsp;You'll seek him vainly in the bulrushes,
-&nbsp;&nbsp;&nbsp;&nbsp;While I in vain touch cymbals. Yet concede,
-&nbsp;&nbsp;&nbsp;&nbsp;Such sounding brass has done some actual good
-&nbsp;&nbsp;&nbsp;&nbsp;(The application in a woman's hand,
-&nbsp;&nbsp;&nbsp;&nbsp;If that were credible, being scarcely spoilt,)
-&nbsp;&nbsp;&nbsp;&nbsp;In colonising beehives."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"There it is!
-&nbsp;&nbsp;&nbsp;&nbsp;You play beside a death-bed like a child,
-&nbsp;&nbsp;&nbsp;&nbsp;Yet measure to yourself a prophet's place
-&nbsp;&nbsp;&nbsp;&nbsp;To teach the living. None of all these things
-&nbsp;&nbsp;&nbsp;&nbsp;Can women understand. You generalise
-&nbsp;&nbsp;&nbsp;&nbsp;Oh, nothing, not even grief! Your quick-breathed hearts,
-&nbsp;&nbsp;&nbsp;&nbsp;So sympathetic to the personal pang,
-&nbsp;&nbsp;&nbsp;&nbsp;Close on each separate knife-stroke, yielding up
-&nbsp;&nbsp;&nbsp;&nbsp;A whole life at each wound, incapable
-&nbsp;&nbsp;&nbsp;&nbsp;Of deepening, widening a large lap of life
-&nbsp;&nbsp;&nbsp;&nbsp;To hold the world-full woe. The human race
-&nbsp;&nbsp;&nbsp;&nbsp;To you means, such a child, or such a man,
-&nbsp;&nbsp;&nbsp;&nbsp;You saw one morning waiting in the cold,
-&nbsp;&nbsp;&nbsp;&nbsp;Beside that gate, perhaps. You gather up
-&nbsp;&nbsp;&nbsp;&nbsp;A few such cases, and when strong sometimes
-&nbsp;&nbsp;&nbsp;&nbsp;Will write of factories and of slaves, as if
-&nbsp;&nbsp;&nbsp;&nbsp;Your father were a negro, and your son
-&nbsp;&nbsp;&nbsp;&nbsp;A spinner in the mills. All's yours and you,
-&nbsp;&nbsp;&nbsp;&nbsp;All, coloured with your blood, or otherwise
-&nbsp;&nbsp;&nbsp;&nbsp;Just nothing to you. Why, I call you hard
-&nbsp;&nbsp;&nbsp;&nbsp;To general suffering. Here's the world half-blind
-&nbsp;&nbsp;&nbsp;&nbsp;With intellectual light, half-brutalised
-&nbsp;&nbsp;&nbsp;&nbsp;With civilisation, having caught the plague
-&nbsp;&nbsp;&nbsp;&nbsp;In silks from Tarsus, shrieking east and west
-&nbsp;&nbsp;&nbsp;&nbsp;Along a thousand railroads, mad with pain
-&nbsp;&nbsp;&nbsp;&nbsp;And sin too! . . . does one woman of you all
-&nbsp;&nbsp;&nbsp;&nbsp;(You who weep easily) grow pale to see
-&nbsp;&nbsp;&nbsp;&nbsp;This tiger shake his cage? does one of you
-&nbsp;&nbsp;&nbsp;&nbsp;Stand still from dancing, stop from stringing pearls,
-&nbsp;&nbsp;&nbsp;&nbsp;And pine and die because of the great sum
-&nbsp;&nbsp;&nbsp;&nbsp;Of universal anguish? Show me a tear
-&nbsp;&nbsp;&nbsp;&nbsp;Wet as Cordelia's, in eyes bright as yours,
-&nbsp;&nbsp;&nbsp;&nbsp;Because the world is mad. You cannot count,
-&nbsp;&nbsp;&nbsp;&nbsp;That you should weep for this account, not you!
-&nbsp;&nbsp;&nbsp;&nbsp;You weep for what you know. A red-haired child
-&nbsp;&nbsp;&nbsp;&nbsp;Sick in a fever, if you touch him once,
-&nbsp;&nbsp;&nbsp;&nbsp;Though but so little as with a finger-tip,
-&nbsp;&nbsp;&nbsp;&nbsp;Will set you weeping; but a million sick . . .
-&nbsp;&nbsp;&nbsp;&nbsp;You could as soon weep for the rule of three
-&nbsp;&nbsp;&nbsp;&nbsp;Or compound fractions. Therefore, this same world,
-&nbsp;&nbsp;&nbsp;&nbsp;Uncomprehended by you, must remain
-&nbsp;&nbsp;&nbsp;&nbsp;Uninfluenced by you. Women as you are,
-&nbsp;&nbsp;&nbsp;&nbsp;Mere women, personal and passionate,
-&nbsp;&nbsp;&nbsp;&nbsp;You give us doating mothers, and perfect wives,
-&nbsp;&nbsp;&nbsp;&nbsp;Sublime Madonnas, and enduring saints!
-&nbsp;&nbsp;&nbsp;&nbsp;We get no Christ from you, and verily
-&nbsp;&nbsp;&nbsp;&nbsp;We shall not get a poet, in my mind."
-&nbsp;&nbsp;&nbsp;&nbsp;"With which conclusion you conclude" . . .
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "But this,"
-&nbsp;&nbsp;&nbsp;&nbsp;That you, Aurora, with the large live brow
-&nbsp;&nbsp;&nbsp;&nbsp;And steady eyelids, cannot condescend
-&nbsp;&nbsp;&nbsp;&nbsp;To play at art, as children play at swords,
-&nbsp;&nbsp;&nbsp;&nbsp;To show a pretty spirit, chiefly admired
-&nbsp;&nbsp;&nbsp;&nbsp;Because true action is impossible.
-&nbsp;&nbsp;&nbsp;&nbsp;You never can be satisfied with praise
-&nbsp;&nbsp;&nbsp;&nbsp;Which men give women when they judge a book
-&nbsp;&nbsp;&nbsp;&nbsp;Not as mere work but as mere woman's work,
-&nbsp;&nbsp;&nbsp;&nbsp;Expressing the comparative respect
-&nbsp;&nbsp;&nbsp;&nbsp;Which means the absolute scorn. "Oh, excellent,
-&nbsp;&nbsp;&nbsp;&nbsp;"What grace, what facile turns, what fluent sweeps,
-&nbsp;&nbsp;&nbsp;&nbsp;"What delicate discernment . . . almost thought!
-&nbsp;&nbsp;&nbsp;&nbsp;"The book does honour to the sex, we hold.
-&nbsp;&nbsp;&nbsp;&nbsp;"Among our female authors we make room
-&nbsp;&nbsp;&nbsp;&nbsp;"For this fair writer, and congratulate
-&nbsp;&nbsp;&nbsp;&nbsp;"The country that produces in these times
-&nbsp;&nbsp;&nbsp;&nbsp;"Such women, competent to . . . spell."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Stop there,"
-&nbsp;&nbsp;&nbsp;&nbsp;I answered, burning through his thread of talk
-&nbsp;&nbsp;&nbsp;&nbsp;With a quick flame of emotion, "You have read
-&nbsp;&nbsp;&nbsp;&nbsp;My soul, if not my book, and argue well
-&nbsp;&nbsp;&nbsp;&nbsp;I would not condescend . . . we will not say
-&nbsp;&nbsp;&nbsp;&nbsp;To such a kind of praise (a worthless end
-&nbsp;&nbsp;&nbsp;&nbsp;Is praise of all kinds), but to such a use
-&nbsp;&nbsp;&nbsp;&nbsp;Of holy art and golden life. I am young,
-&nbsp;&nbsp;&nbsp;&nbsp;And peradventure weak you tell me so
-&nbsp;&nbsp;&nbsp;&nbsp;Through being a woman. And, for all the rest,
-&nbsp;&nbsp;&nbsp;&nbsp;Take thanks for justice. I would rather dance
-&nbsp;&nbsp;&nbsp;&nbsp;At fairs on tight-rope, till the babies dropped
-&nbsp;&nbsp;&nbsp;&nbsp;Their gingerbread for joy, than shift the types
-&nbsp;&nbsp;&nbsp;&nbsp;For tolerable verse, intolerable
-&nbsp;&nbsp;&nbsp;&nbsp;To men who act and suffer. Better far
-&nbsp;&nbsp;&nbsp;&nbsp;Pursue a frivolous trade by serious means,
-&nbsp;&nbsp;&nbsp;&nbsp;Than a sublime art frivolously."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"You,
-&nbsp;&nbsp;&nbsp;&nbsp;Choose nobler work than either, O moist eyes
-&nbsp;&nbsp;&nbsp;&nbsp;And hurrying lips and heaving heart! We are young,
-&nbsp;&nbsp;&nbsp;&nbsp;Aurora, you and I. The world, look round,
-&nbsp;&nbsp;&nbsp;&nbsp;The world, we're come to late, is swollen hard
-&nbsp;&nbsp;&nbsp;&nbsp;With perished generations and their sins:
-&nbsp;&nbsp;&nbsp;&nbsp;The civiliser's spade grinds horribly
-&nbsp;&nbsp;&nbsp;&nbsp;On dead men's bones, and cannot turn up soil
-&nbsp;&nbsp;&nbsp;&nbsp;That's otherwise than fetid. All success
-&nbsp;&nbsp;&nbsp;&nbsp;Proves partial failure; all advance implies
-&nbsp;&nbsp;&nbsp;&nbsp;What's left behind; all triumph, something crushed
-&nbsp;&nbsp;&nbsp;&nbsp;At the chariot-wheels; all government, some wrong:
-&nbsp;&nbsp;&nbsp;&nbsp;And rich men make the poor, who curse the rich,
-&nbsp;&nbsp;&nbsp;&nbsp;Who agonise together, rich and poor,
-&nbsp;&nbsp;&nbsp;&nbsp;Under and over, in the social spasm
-&nbsp;&nbsp;&nbsp;&nbsp;And crisis of the ages. Here's an age
-&nbsp;&nbsp;&nbsp;&nbsp;That makes its own vocation! here we have stepped
-&nbsp;&nbsp;&nbsp;&nbsp;Across the bounds of time! here's nought to see,
-&nbsp;&nbsp;&nbsp;&nbsp;But just the rich man and just Lazarus,
-&nbsp;&nbsp;&nbsp;&nbsp;And both in torments, with a mediate gulf,
-&nbsp;&nbsp;&nbsp;&nbsp;Though not a hint of Abraham's bosom. Who
-&nbsp;&nbsp;&nbsp;&nbsp;Being man, Aurora, can stand calmly by
-&nbsp;&nbsp;&nbsp;&nbsp;And view these things, and never tease his soul
-&nbsp;&nbsp;&nbsp;&nbsp;For some great cure? No physic for this grief,
-&nbsp;&nbsp;&nbsp;&nbsp;In all the earth and heavens too?"
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"You believe
-&nbsp;&nbsp;&nbsp;&nbsp;In God, for your part? ay? that He who makes
-&nbsp;&nbsp;&nbsp;&nbsp;Can make good things from ill things, best from worst,
-&nbsp;&nbsp;&nbsp;&nbsp;As men plant tulips upon dunghills when
-&nbsp;&nbsp;&nbsp;&nbsp;They wish them finest?"
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"True. A death-heat is
-&nbsp;&nbsp;&nbsp;&nbsp;The same as life-heat, to be accurate,
-&nbsp;&nbsp;&nbsp;&nbsp;And in all nature is no death at all,
-&nbsp;&nbsp;&nbsp;&nbsp;As men account of death, so long as God
-&nbsp;&nbsp;&nbsp;&nbsp;Stands witnessing for life perpetually,
-&nbsp;&nbsp;&nbsp;&nbsp;By being just God. That's abstract truth, I know,
-&nbsp;&nbsp;&nbsp;&nbsp;Philosophy, or sympathy with God:
-&nbsp;&nbsp;&nbsp;&nbsp;But I, I sympathise with man, not God
-&nbsp;&nbsp;&nbsp;&nbsp;(I think I was a man for chiefly this),
-&nbsp;&nbsp;&nbsp;&nbsp;And when I stand beside a dying bed,
-&nbsp;&nbsp;&nbsp;&nbsp;'Tis death to me. Observe, it had not much
-&nbsp;&nbsp;&nbsp;&nbsp;Consoled the race of mastodons to know,
-&nbsp;&nbsp;&nbsp;&nbsp;Before they went to fossil, that anon
-&nbsp;&nbsp;&nbsp;&nbsp;Their place would quicken with the elephant.
-&nbsp;&nbsp;&nbsp;&nbsp;They were not elephants but mastodons;
-&nbsp;&nbsp;&nbsp;&nbsp;And I, a man, as men are now and not
-&nbsp;&nbsp;&nbsp;&nbsp;As men may be hereafter, feel with men
-&nbsp;&nbsp;&nbsp;&nbsp;In the agonising present."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"Is it so,"
-&nbsp;&nbsp;&nbsp;&nbsp;I said, "my cousin? is the world so bad,
-&nbsp;&nbsp;&nbsp;&nbsp;While I hear nothing of it through the trees?
-&nbsp;&nbsp;&nbsp;&nbsp;The world was always evil, but so bad?"
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"So bad, Aurora. Dear, my soul is grey
-&nbsp;&nbsp;&nbsp;&nbsp;With poring over the long sum of ill;
-&nbsp;&nbsp;&nbsp;&nbsp;So much for vice, so much for discontent,
-&nbsp;&nbsp;&nbsp;&nbsp;So much for the necessities of power,
-&nbsp;&nbsp;&nbsp;&nbsp;So much for the connivances of fear,
-&nbsp;&nbsp;&nbsp;&nbsp;Coherent in statistical despairs
-&nbsp;&nbsp;&nbsp;&nbsp;With such a total of distracted life, . . .
-&nbsp;&nbsp;&nbsp;&nbsp;To see it down in figures on a page,
-&nbsp;&nbsp;&nbsp;&nbsp;Plain, silent, clear, as God sees through the earth
-&nbsp;&nbsp;&nbsp;&nbsp;The sense of all the graves, that's terrible
-&nbsp;&nbsp;&nbsp;&nbsp;For one who is not God, and cannot right
-&nbsp;&nbsp;&nbsp;&nbsp;The wrong he looks on. May I choose indeed,
-&nbsp;&nbsp;&nbsp;&nbsp;But vow away my years, my means, my aims,
-&nbsp;&nbsp;&nbsp;&nbsp;Among the helpers, if there's any help
-&nbsp;&nbsp;&nbsp;&nbsp;In such a social strait? The common blood
-&nbsp;&nbsp;&nbsp;&nbsp;That swings along my veins is strong enough
-&nbsp;&nbsp;&nbsp;&nbsp;To draw me to this duty."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;Then I spoke.
-&nbsp;&nbsp;&nbsp;&nbsp;"I have not stood long on the strand of life,
-&nbsp;&nbsp;&nbsp;&nbsp;And these salt waters have had scarcely time
-&nbsp;&nbsp;&nbsp;&nbsp;To creep so high up as to wet my feet:
-&nbsp;&nbsp;&nbsp;&nbsp;I cannot judge these tides I shall, perhaps.
-&nbsp;&nbsp;&nbsp;&nbsp;A woman's always younger than a man
-&nbsp;&nbsp;&nbsp;&nbsp;At equal years, because she is disallowed
-&nbsp;&nbsp;&nbsp;&nbsp;Maturing by the outdoor sun and air,
-&nbsp;&nbsp;&nbsp;&nbsp;And kept in long-clothes past the age to walk.
-&nbsp;&nbsp;&nbsp;&nbsp;Ah well, I know you men judge otherwise!
-&nbsp;&nbsp;&nbsp;&nbsp;You think a woman ripens, as a peach,
-&nbsp;&nbsp;&nbsp;&nbsp;In the cheeks chiefly. Pass it to me now;
-&nbsp;&nbsp;&nbsp;&nbsp;I'm young in age, and younger still, I think,
-&nbsp;&nbsp;&nbsp;&nbsp;As a woman. But a child may say amen
-&nbsp;&nbsp;&nbsp;&nbsp;To a bishop's prayer and feel the way it goes,
-&nbsp;&nbsp;&nbsp;&nbsp;And I, incapable to loose the knot
-&nbsp;&nbsp;&nbsp;&nbsp;Of social questions, can approve, applaud
-&nbsp;&nbsp;&nbsp;&nbsp;August compassion, Christian thoughts that shoot
-&nbsp;&nbsp;&nbsp;&nbsp;Beyond the vulgar white of personal aims.
-&nbsp;&nbsp;&nbsp;&nbsp;Accept my reverence."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;There he glowed on me
-&nbsp;&nbsp;&nbsp;&nbsp;With all his face and eyes. "No other help?"
-&nbsp;&nbsp;&nbsp;&nbsp;Said he "no more than so?"
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"What help?" I asked.
-&nbsp;&nbsp;&nbsp;&nbsp;"You'd scorn my help, as Nature's self, you say,
-&nbsp;&nbsp;&nbsp;&nbsp;Has scorned to put her music in my mouth
-&nbsp;&nbsp;&nbsp;&nbsp;Because a woman's. Do you now turn round
-&nbsp;&nbsp;&nbsp;&nbsp;And ask for what a woman cannot give?"
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"For what she only can, I turn and ask,"
-&nbsp;&nbsp;&nbsp;&nbsp;He answered, catching up my hands in his,
-&nbsp;&nbsp;&nbsp;&nbsp;And dropping on me from his high-eaved brow
-&nbsp;&nbsp;&nbsp;&nbsp;The full weight of his soul, "I ask for love,
-&nbsp;&nbsp;&nbsp;&nbsp;And that, she can; for life in fellowship
-&nbsp;&nbsp;&nbsp;&nbsp;Through bitter duties that, I know she can;
-&nbsp;&nbsp;&nbsp;&nbsp;For wifehood will she?"
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"Now," I said, "may God
-&nbsp;&nbsp;&nbsp;&nbsp;Be witness 'twixt us two!" and with the word,
-&nbsp;&nbsp;&nbsp;&nbsp;Meseemed I floated into a sudden light
-&nbsp;&nbsp;&nbsp;&nbsp;Above his stature, "am I proved too weak
-&nbsp;&nbsp;&nbsp;&nbsp;To stand alone, yet strong enough to bear
-&nbsp;&nbsp;&nbsp;&nbsp;Such leaners on my shoulder? poor to think,
-&nbsp;&nbsp;&nbsp;&nbsp;Yet rich enough to sympathise with thought?
-&nbsp;&nbsp;&nbsp;&nbsp;Incompetent to sing, as blackbirds can,
-&nbsp;&nbsp;&nbsp;&nbsp;Yet competent to love, like him?"
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;I paused;
-&nbsp;&nbsp;&nbsp;&nbsp;Perhaps I darkened, as the lighthouse will
-&nbsp;&nbsp;&nbsp;&nbsp;That turns upon the sea. "It's always so.
-&nbsp;&nbsp;&nbsp;&nbsp;Anything does for a wife."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"Aurora, dear,
-&nbsp;&nbsp;&nbsp;&nbsp;And dearly honoured," he pressed in at once
-&nbsp;&nbsp;&nbsp;&nbsp;With eager utterance, "you translate me ill.
-&nbsp;&nbsp;&nbsp;&nbsp;I do not contradict my thought of you
-&nbsp;&nbsp;&nbsp;&nbsp;Which is most reverent, with another thought
-&nbsp;&nbsp;&nbsp;&nbsp;Found less so. If your sex is weak for art
-&nbsp;&nbsp;&nbsp;&nbsp;(And I, who said so, did but honour you
-&nbsp;&nbsp;&nbsp;&nbsp;By using truth in courtship), it is strong
-&nbsp;&nbsp;&nbsp;&nbsp;For life and duty. Place your fecund heart
-&nbsp;&nbsp;&nbsp;&nbsp;In mine, and let us blossom for the world
-&nbsp;&nbsp;&nbsp;&nbsp;That wants love's colour in the grey of time.
-&nbsp;&nbsp;&nbsp;&nbsp;My talk, meanwhile, is arid to you, ay,
-&nbsp;&nbsp;&nbsp;&nbsp;Since all my talk can only set you where
-&nbsp;&nbsp;&nbsp;&nbsp;You look down coldly on the arena-heaps
-&nbsp;&nbsp;&nbsp;&nbsp;Of headless bodies, shapeless, indistinct!
-&nbsp;&nbsp;&nbsp;&nbsp;The Judgment-Angel scarce would find his way
-&nbsp;&nbsp;&nbsp;&nbsp;Through such a heap of generalised distress
-&nbsp;&nbsp;&nbsp;&nbsp;To the individual man with lips and eyes,
-&nbsp;&nbsp;&nbsp;&nbsp;Much less Aurora. Ah, my sweet, come down,
-&nbsp;&nbsp;&nbsp;&nbsp;And hand in hand we'll go where yours shall touch
-&nbsp;&nbsp;&nbsp;&nbsp;These victims, one by one! till, one by one,
-&nbsp;&nbsp;&nbsp;&nbsp;The formless, nameless trunk of every man
-&nbsp;&nbsp;&nbsp;&nbsp;Shall seem to wear a head with hair you know,
-&nbsp;&nbsp;&nbsp;&nbsp;And every woman catch your mother's face
-&nbsp;&nbsp;&nbsp;&nbsp;To melt you into passion."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"I am a girl,"
-&nbsp;&nbsp;&nbsp;&nbsp;I answered slowly; "you do well to name
-&nbsp;&nbsp;&nbsp;&nbsp;My mother's face. Though far too early, alas,
-&nbsp;&nbsp;&nbsp;&nbsp;God's hand did interpose 'twixt it and me,
-&nbsp;&nbsp;&nbsp;&nbsp;I know so much of love as used to shine
-&nbsp;&nbsp;&nbsp;&nbsp;In that face and another. Just so much;
-&nbsp;&nbsp;&nbsp;&nbsp;No more indeed at all. I have not seen
-&nbsp;&nbsp;&nbsp;&nbsp;So much love since, I pray you pardon me,
-&nbsp;&nbsp;&nbsp;&nbsp;As answers even to make a marriage with
-&nbsp;&nbsp;&nbsp;&nbsp;In this cold land of England. What you love
-&nbsp;&nbsp;&nbsp;&nbsp;Is not a woman, Romney, but a cause:
-&nbsp;&nbsp;&nbsp;&nbsp;You want a helpmate, not a mistress, sir,
-&nbsp;&nbsp;&nbsp;&nbsp;A wife to help your ends, in her no end.
-&nbsp;&nbsp;&nbsp;&nbsp;Your cause is noble, your ends excellent,
-&nbsp;&nbsp;&nbsp;&nbsp;But I, being most unworthy of these and that,
-&nbsp;&nbsp;&nbsp;&nbsp;Do otherwise conceive of love. Farewell."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"Farewell, Aurora? you reject me thus?"
-&nbsp;&nbsp;&nbsp;&nbsp;He said.
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"Sir, you were married long ago.
-&nbsp;&nbsp;&nbsp;&nbsp;You have a wife already whom you love,
-&nbsp;&nbsp;&nbsp;&nbsp;Your social theory. Bless you both, I say.
-&nbsp;&nbsp;&nbsp;&nbsp;For my part, I am scarcely meek enough
-&nbsp;&nbsp;&nbsp;&nbsp;To be the handmaid of a lawful spouse.
-&nbsp;&nbsp;&nbsp;&nbsp;Do I look a Hagar, think you?"
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"So you jest."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"Nay, so, I speak in earnest," I replied.
-&nbsp;&nbsp;&nbsp;&nbsp;"You treat of marriage too much like, at least,
-&nbsp;&nbsp;&nbsp;&nbsp;A chief apostle: you would bear with you
-&nbsp;&nbsp;&nbsp;&nbsp;A wife . . . a sister . . . shall we speak it out?
-&nbsp;&nbsp;&nbsp;&nbsp;A sister of charity."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"Then, must it be
-&nbsp;&nbsp;&nbsp;&nbsp;Indeed farewell? And was I so far wrong
-&nbsp;&nbsp;&nbsp;&nbsp;In hope and in illusion, when I took
-&nbsp;&nbsp;&nbsp;&nbsp;The woman to be nobler than the man,
-&nbsp;&nbsp;&nbsp;&nbsp;Yourself the noblest woman, in the use
-&nbsp;&nbsp;&nbsp;&nbsp;And comprehension of what love is, love,
-&nbsp;&nbsp;&nbsp;&nbsp;That generates the likeness of itself
-&nbsp;&nbsp;&nbsp;&nbsp;Through all heroic duties? so far wrong,
-&nbsp;&nbsp;&nbsp;&nbsp;In saying bluntly, venturing truth on love,
-&nbsp;&nbsp;&nbsp;&nbsp;'Come, human creature, love and work with me,'
-&nbsp;&nbsp;&nbsp;&nbsp;Instead of 'Lady, thou art wondrous fair,
-&nbsp;&nbsp;&nbsp;&nbsp;'And, where the Graces walk before, the Muse
-&nbsp;&nbsp;&nbsp;&nbsp;'Will follow at the lightning of their eyes,
-&nbsp;&nbsp;&nbsp;&nbsp;'And where the Muse walks, lovers need to creep:
-&nbsp;&nbsp;&nbsp;&nbsp;'Turn round and love me, or I die of love.'"
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;With quiet indignation I broke in.
-&nbsp;&nbsp;&nbsp;&nbsp;"You misconceive the question like a man,
-&nbsp;&nbsp;&nbsp;&nbsp;Who sees a woman as the complement
-&nbsp;&nbsp;&nbsp;&nbsp;Of his sex merely. You forget too much
-&nbsp;&nbsp;&nbsp;&nbsp;That every creature, female as the male,
-&nbsp;&nbsp;&nbsp;&nbsp;Stands single in responsible act and thought
-&nbsp;&nbsp;&nbsp;&nbsp;As also in birth and death. Whoever says
-&nbsp;&nbsp;&nbsp;&nbsp;To a loyal woman, 'Love and work with me,'
-&nbsp;&nbsp;&nbsp;&nbsp;Will get fair answers if the work and love,
-&nbsp;&nbsp;&nbsp;&nbsp;Being good themselves, are good for her the best
-&nbsp;&nbsp;&nbsp;&nbsp;She was born for. Women of a softer mood,
-&nbsp;&nbsp;&nbsp;&nbsp;Surprised by men when scarcely awake to life,
-&nbsp;&nbsp;&nbsp;&nbsp;Will sometimes only hear the first word, love,
-&nbsp;&nbsp;&nbsp;&nbsp;And catch up with it any kind of work,
-&nbsp;&nbsp;&nbsp;&nbsp;Indifferent, so that dear love go with it.
-&nbsp;&nbsp;&nbsp;&nbsp;I do not blame such women, though, for love,
-&nbsp;&nbsp;&nbsp;&nbsp;They pick much oakum; earth's fanatics make
-&nbsp;&nbsp;&nbsp;&nbsp;Too frequently heaven's saints. But me your work
-&nbsp;&nbsp;&nbsp;&nbsp;Is not the best for, nor your love the best,
-&nbsp;&nbsp;&nbsp;&nbsp;Nor able to commend the kind of work
-&nbsp;&nbsp;&nbsp;&nbsp;For love's sake merely. Ah, you force me, sir,
-&nbsp;&nbsp;&nbsp;&nbsp;To be overbold in speaking of myself:
-&nbsp;&nbsp;&nbsp;&nbsp;I too have my vocation, work to do,
-&nbsp;&nbsp;&nbsp;&nbsp;The heavens and earth have set me since I changed
-&nbsp;&nbsp;&nbsp;&nbsp;My father's face for theirs, and, though your world
-&nbsp;&nbsp;&nbsp;&nbsp;Were twice as wretched as you represent,
-&nbsp;&nbsp;&nbsp;&nbsp;Most serious work, most necessary work
-&nbsp;&nbsp;&nbsp;&nbsp;As any of the economists'. Reform,
-&nbsp;&nbsp;&nbsp;&nbsp;Make trade a Christian possibility,
-&nbsp;&nbsp;&nbsp;&nbsp;And individual right no general wrong;
-&nbsp;&nbsp;&nbsp;&nbsp;Wipe out earth's furrows of the Thine and Mine,
-&nbsp;&nbsp;&nbsp;&nbsp;And leave one green for men to play at bowls,
-&nbsp;&nbsp;&nbsp;&nbsp;With innings for them all! . . . What then, indeed,
-&nbsp;&nbsp;&nbsp;&nbsp;If mortals are not greater by the head
-&nbsp;&nbsp;&nbsp;&nbsp;Than any of their prosperities? what then,
-&nbsp;&nbsp;&nbsp;&nbsp;Unless the artist keep up open roads
-&nbsp;&nbsp;&nbsp;&nbsp;Betwixt the seen and unseen, bursting through
-&nbsp;&nbsp;&nbsp;&nbsp;The best of your conventions with his best,
-&nbsp;&nbsp;&nbsp;&nbsp;The speakable, imaginable best
-&nbsp;&nbsp;&nbsp;&nbsp;God bids him speak, to prove what lies beyond
-&nbsp;&nbsp;&nbsp;&nbsp;Both speech and imagination? A starved man
-&nbsp;&nbsp;&nbsp;&nbsp;Exceeds a fat beast: we'll not barter, sir,
-&nbsp;&nbsp;&nbsp;&nbsp;The beautiful for barley. And, even so,
-&nbsp;&nbsp;&nbsp;&nbsp;I hold you will not compass your poor ends
-&nbsp;&nbsp;&nbsp;&nbsp;Of barley-feeding and material ease,
-&nbsp;&nbsp;&nbsp;&nbsp;Without a poet's individualism
-&nbsp;&nbsp;&nbsp;&nbsp;To work your universal. It takes a soul,
-&nbsp;&nbsp;&nbsp;&nbsp;To move a body: it takes a high-souled man,
-&nbsp;&nbsp;&nbsp;&nbsp;To move the masses, even to a cleaner stye:
-&nbsp;&nbsp;&nbsp;&nbsp;It takes the ideal, to blow a hair's-breadth off
-&nbsp;&nbsp;&nbsp;&nbsp;The dust of the actual. Ah, your Fouriers failed,
-&nbsp;&nbsp;&nbsp;&nbsp;Because not poets enough to understand
-&nbsp;&nbsp;&nbsp;&nbsp;That life develops from within. For me,
-&nbsp;&nbsp;&nbsp;&nbsp;Perhaps I am not worthy, as you say,
-&nbsp;&nbsp;&nbsp;&nbsp;Of work like this: perhaps a woman's soul
-&nbsp;&nbsp;&nbsp;&nbsp;Aspires, and not creates: yet we aspire,
-&nbsp;&nbsp;&nbsp;&nbsp;And yet I'll try out your perhapses, sir,
-&nbsp;&nbsp;&nbsp;&nbsp;And if I fail . . . why, burn me up my straw
-&nbsp;&nbsp;&nbsp;&nbsp;Like other false works I'll not ask for grace;
-&nbsp;&nbsp;&nbsp;&nbsp;Your scorn is better, cousin Romney. I
-&nbsp;&nbsp;&nbsp;&nbsp;Who love my art, would never wish it lower
-&nbsp;&nbsp;&nbsp;&nbsp;To suit my stature. I may love my art.
-&nbsp;&nbsp;&nbsp;&nbsp;You'll grant that even a woman may love art,
-&nbsp;&nbsp;&nbsp;&nbsp;Seeing that to waste true love on anything
-&nbsp;&nbsp;&nbsp;&nbsp;Is womanly, past question."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;I retain
-&nbsp;&nbsp;&nbsp;&nbsp;The very last word which I said that day,
-&nbsp;&nbsp;&nbsp;&nbsp;As you the creaking of the door, years past,
-&nbsp;&nbsp;&nbsp;&nbsp;Which let upon you such disabling news
-&nbsp;&nbsp;&nbsp;&nbsp;You ever after have been graver. He,
-&nbsp;&nbsp;&nbsp;&nbsp;His eyes, the motions in his silent mouth,
-&nbsp;&nbsp;&nbsp;&nbsp;Were fiery points on which my words were caught,
-&nbsp;&nbsp;&nbsp;&nbsp;Transfixed for ever in my memory
-&nbsp;&nbsp;&nbsp;&nbsp;For his sake, not their own. And yet I know
-&nbsp;&nbsp;&nbsp;&nbsp;I did not love him . . . nor he me . . . that's sure . . .
-&nbsp;&nbsp;&nbsp;&nbsp;And what I said is unrepented of,
-&nbsp;&nbsp;&nbsp;&nbsp;As truth is always. Yet . . . a princely man!
-&nbsp;&nbsp;&nbsp;&nbsp;If hard to me, heroic for himself!
-&nbsp;&nbsp;&nbsp;&nbsp;He bears down on me through the slanting years,
-&nbsp;&nbsp;&nbsp;&nbsp;The stronger for the distance. If he had loved,
-&nbsp;&nbsp;&nbsp;&nbsp;Ay, loved me, with that retributive face, . . .
-&nbsp;&nbsp;&nbsp;&nbsp;I might have been a common woman now
-&nbsp;&nbsp;&nbsp;&nbsp;And happier, less known and less left alone,
-&nbsp;&nbsp;&nbsp;&nbsp;Perhaps a better woman after all,
-&nbsp;&nbsp;&nbsp;&nbsp;With chubby children hanging on my neck
-&nbsp;&nbsp;&nbsp;&nbsp;To keep me low and wise. Ah me, the vines
-&nbsp;&nbsp;&nbsp;&nbsp;That bear such fruit are proud to stoop with it.
-&nbsp;&nbsp;&nbsp;&nbsp;The palm stands upright in a realm of sand.
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;And I, who spoke the truth then, stand upright,
-&nbsp;&nbsp;&nbsp;&nbsp;Still worthy of having spoken out the truth,
-&nbsp;&nbsp;&nbsp;&nbsp;By being content I spoke it though it set
-&nbsp;&nbsp;&nbsp;&nbsp;Him there, me here. O woman's vile remorse,
-&nbsp;&nbsp;&nbsp;&nbsp;To hanker after a mere name, a show,
-&nbsp;&nbsp;&nbsp;&nbsp;A supposition, a potential love!
-&nbsp;&nbsp;&nbsp;&nbsp;Does every man who names love in our lives
-&nbsp;&nbsp;&nbsp;&nbsp;Become a power for that? is love's true thing
-&nbsp;&nbsp;&nbsp;&nbsp;So much best to us, that what personates love
-&nbsp;&nbsp;&nbsp;&nbsp;Is next best? A potential love, forsooth!
-&nbsp;&nbsp;&nbsp;&nbsp;I'm not so vile. No, no he cleaves, I think,
-&nbsp;&nbsp;&nbsp;&nbsp;This man, this image, chiefly for the wrong
-&nbsp;&nbsp;&nbsp;&nbsp;And shock he gave my life, in finding me
-&nbsp;&nbsp;&nbsp;&nbsp;Precisely where the devil of my youth
-&nbsp;&nbsp;&nbsp;&nbsp;Had set me, on those mountain-peaks of hope
-&nbsp;&nbsp;&nbsp;&nbsp;All glittering with the dawn-dew, all erect
-&nbsp;&nbsp;&nbsp;&nbsp;And famished for the noon, exclaiming, while
-&nbsp;&nbsp;&nbsp;&nbsp;I looked for empire and much tribute, "Come,
-&nbsp;&nbsp;&nbsp;&nbsp;I have some worthy work for thee below.
-&nbsp;&nbsp;&nbsp;&nbsp;Come, sweep my barns and keep my hospitals,
-&nbsp;&nbsp;&nbsp;&nbsp;And I will pay thee with a current coin
-&nbsp;&nbsp;&nbsp;&nbsp;Which men give women."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;As we spoke, the grass
-&nbsp;&nbsp;&nbsp;&nbsp;Was trod in haste beside us, and my aunt,
-&nbsp;&nbsp;&nbsp;&nbsp;With smile distorted by the sun, face, voice
-&nbsp;&nbsp;&nbsp;&nbsp;As much at issue with the summer-day
-&nbsp;&nbsp;&nbsp;&nbsp;As if you brought a candle out of doors,
-&nbsp;&nbsp;&nbsp;&nbsp;Broke in with "Romney, here! My child, entreat
-&nbsp;&nbsp;&nbsp;&nbsp;Your cousin to the house, and have your talk,
-&nbsp;&nbsp;&nbsp;&nbsp;If girls must talk upon their birthdays. Come."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;He answered for me calmly, with pale lips
-&nbsp;&nbsp;&nbsp;&nbsp;That seemed to motion for a smile in vain,
-&nbsp;&nbsp;&nbsp;&nbsp;"The talk is ended, madam, where we stand.
-&nbsp;&nbsp;&nbsp;&nbsp;Your brother's daughter has dismissed me here;
-&nbsp;&nbsp;&nbsp;&nbsp;And all my answer can be better said
-&nbsp;&nbsp;&nbsp;&nbsp;Beneath the trees, than wrong by such a word
-&nbsp;&nbsp;&nbsp;&nbsp;Your house's hospitalities. Farewell."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;With that he vanished. I could hear his heel
-&nbsp;&nbsp;&nbsp;&nbsp;Ring bluntly in the lane, as down he leapt
-&nbsp;&nbsp;&nbsp;&nbsp;The short way from us. Then a measured speech
-&nbsp;&nbsp;&nbsp;&nbsp;Withdrew me. "What means this, Aurora Leigh?
-&nbsp;&nbsp;&nbsp;&nbsp;My brother's daughter has dismissed my guests?"
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;The lion in me felt the keeper's voice
-&nbsp;&nbsp;&nbsp;&nbsp;Through all its quivering dewlaps; I was quelled
-&nbsp;&nbsp;&nbsp;&nbsp;Before her, meekened to the child she knew:
-&nbsp;&nbsp;&nbsp;&nbsp;I prayed her pardon, said "I had little thought
-&nbsp;&nbsp;&nbsp;&nbsp;To give dismissal to a guest of hers,
-&nbsp;&nbsp;&nbsp;&nbsp;In letting go a friend of mine who came
-&nbsp;&nbsp;&nbsp;&nbsp;To take me into service as a wife,
-&nbsp;&nbsp;&nbsp;&nbsp;No more than that, indeed."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"No more, no more?
-&nbsp;&nbsp;&nbsp;&nbsp;Pray Heaven," she answered, "that I was not mad.
-&nbsp;&nbsp;&nbsp;&nbsp;I could not mean to tell her to her face
-&nbsp;&nbsp;&nbsp;&nbsp;That Romney Leigh had asked me for a wife,
-&nbsp;&nbsp;&nbsp;&nbsp;And I refused him?"
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"Did he ask?" I said;
-&nbsp;&nbsp;&nbsp;&nbsp;"I think he rather stooped to take me up
-&nbsp;&nbsp;&nbsp;&nbsp;For certain uses which he found to do
-&nbsp;&nbsp;&nbsp;&nbsp;For something called a wife. He never asked."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"What stuff!" she answered; "are they queens, these girls?
-&nbsp;&nbsp;&nbsp;&nbsp;They must have mantles, stitched with twenty silks,
-&nbsp;&nbsp;&nbsp;&nbsp;Spread out upon the ground, before they'll step
-&nbsp;&nbsp;&nbsp;&nbsp;One footstep for the noblest lover born."
-&nbsp;&nbsp;&nbsp;&nbsp;"But I am born," I said with firmness, "I,
-&nbsp;&nbsp;&nbsp;&nbsp;To walk another way than his, dear aunt."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"You walk, you walk! A babe at thirteen months
-&nbsp;&nbsp;&nbsp;&nbsp;Will walk as well as you," she cried in haste,
-&nbsp;&nbsp;&nbsp;&nbsp;"Without a steadying finger. Why, you child,
-&nbsp;&nbsp;&nbsp;&nbsp;God help you, you are groping in the dark,
-&nbsp;&nbsp;&nbsp;&nbsp;For all this sunlight. You suppose, perhaps,
-&nbsp;&nbsp;&nbsp;&nbsp;That you, sole offspring of an opulent man,
-&nbsp;&nbsp;&nbsp;&nbsp;Are rich and free to choose a way to walk?
-&nbsp;&nbsp;&nbsp;&nbsp;You think, and it's a reasonable thought,
-&nbsp;&nbsp;&nbsp;&nbsp;That I, beside, being well to do in life,
-&nbsp;&nbsp;&nbsp;&nbsp;Will leave my handful in my niece's hand
-&nbsp;&nbsp;&nbsp;&nbsp;When death shall paralyse these fingers? Pray,
-&nbsp;&nbsp;&nbsp;&nbsp;Pray, child, albeit I know you love me not,
-&nbsp;&nbsp;&nbsp;&nbsp;As if you loved me, that I may not die!
-&nbsp;&nbsp;&nbsp;&nbsp;For when I die and leave you, out you go
-&nbsp;&nbsp;&nbsp;&nbsp;(Unless I make room for you in my grave),
-&nbsp;&nbsp;&nbsp;&nbsp;Unhoused, unfed, my dear poor brother's lamb
-&nbsp;&nbsp;&nbsp;&nbsp;(Ah heaven! that pains!) without a right to crop
-&nbsp;&nbsp;&nbsp;&nbsp;A single blade of grass beneath these trees,
-&nbsp;&nbsp;&nbsp;&nbsp;Or cast a lamb's small shadow on the lawn,
-&nbsp;&nbsp;&nbsp;&nbsp;Unfed, unfolded! Ah, my brother, here's
-&nbsp;&nbsp;&nbsp;&nbsp;The fruit you planted in your foreign loves!
-&nbsp;&nbsp;&nbsp;&nbsp;Ay, there's the fruit he planted! never look
-&nbsp;&nbsp;&nbsp;&nbsp;Astonished at me with your mother's eyes,
-&nbsp;&nbsp;&nbsp;&nbsp;For it was they who set you where you are,
-&nbsp;&nbsp;&nbsp;&nbsp;An undowered orphan. Child, your father's choice
-&nbsp;&nbsp;&nbsp;&nbsp;Of that said mother disinherited
-&nbsp;&nbsp;&nbsp;&nbsp;His daughter, his and hers. Men do not think
-&nbsp;&nbsp;&nbsp;&nbsp;Of sons and daughters, when they fall in love,
-&nbsp;&nbsp;&nbsp;&nbsp;So much more than of sisters; otherwise
-&nbsp;&nbsp;&nbsp;&nbsp;He would have paused to ponder what he did,
-&nbsp;&nbsp;&nbsp;&nbsp;And shrunk before that clause in the entail
-&nbsp;&nbsp;&nbsp;&nbsp;Excluding offspring by a foreign wife
-&nbsp;&nbsp;&nbsp;&nbsp;(The clause set up a hundred years ago
-&nbsp;&nbsp;&nbsp;&nbsp;By a Leigh who wedded a French dancing-girl
-&nbsp;&nbsp;&nbsp;&nbsp;And had his heart danced over in return);
-&nbsp;&nbsp;&nbsp;&nbsp;But this man shrank at nothing, never thought
-&nbsp;&nbsp;&nbsp;&nbsp;Of you, Aurora, any more than me
-&nbsp;&nbsp;&nbsp;&nbsp;Your mother must have been a pretty thing,
-&nbsp;&nbsp;&nbsp;&nbsp;For all the coarse Italian blacks and browns,
-&nbsp;&nbsp;&nbsp;&nbsp;To make a good man, which my brother was,
-&nbsp;&nbsp;&nbsp;&nbsp;Unchary of the duties to his house;
-&nbsp;&nbsp;&nbsp;&nbsp;But so it fell indeed. Our cousin Vane,
-&nbsp;&nbsp;&nbsp;&nbsp;Vane Leigh, the father of this Romney, wrote
-&nbsp;&nbsp;&nbsp;&nbsp;Directly on your birth, to Italy,
-&nbsp;&nbsp;&nbsp;&nbsp;'I ask your baby daughter for my son,
-&nbsp;&nbsp;&nbsp;&nbsp;In whom the entail now merges by the law.
-&nbsp;&nbsp;&nbsp;&nbsp;Betroth her to us out of love, instead
-&nbsp;&nbsp;&nbsp;&nbsp;Of colder reasons, and she shall not lose
-&nbsp;&nbsp;&nbsp;&nbsp;By love or law from henceforth' so he wrote;
-&nbsp;&nbsp;&nbsp;&nbsp;A generous cousin was my cousin Vane.
-&nbsp;&nbsp;&nbsp;&nbsp;Remember how he drew you to his knee
-&nbsp;&nbsp;&nbsp;&nbsp;The year you came here, just before he died,
-&nbsp;&nbsp;&nbsp;&nbsp;And hollowed out his hands to hold your cheeks,
-&nbsp;&nbsp;&nbsp;&nbsp;And wished them redder, you remember Vane.
-&nbsp;&nbsp;&nbsp;&nbsp;And now his son, who represents our house,
-&nbsp;&nbsp;&nbsp;&nbsp;And holds the fiefs and manors in his place,
-&nbsp;&nbsp;&nbsp;&nbsp;To whom reverts my pittance when I die
-&nbsp;&nbsp;&nbsp;&nbsp;(Except a few books and a pair of shawls),
-&nbsp;&nbsp;&nbsp;&nbsp;The boy is generous like him, and prepared
-&nbsp;&nbsp;&nbsp;&nbsp;To carry out his kindest word and thought
-&nbsp;&nbsp;&nbsp;&nbsp;To you, Aurora. Yes, a fine young man
-&nbsp;&nbsp;&nbsp;&nbsp;Is Romney Leigh; although the sun of youth
-&nbsp;&nbsp;&nbsp;&nbsp;Has shone too straight upon his brain, I know,
-&nbsp;&nbsp;&nbsp;&nbsp;And fevered him with dreams of doing good
-&nbsp;&nbsp;&nbsp;&nbsp;To good-for-nothing people. But a wife
-&nbsp;&nbsp;&nbsp;&nbsp;Will put all right, and stroke his temples cool
-&nbsp;&nbsp;&nbsp;&nbsp;With healthy touches." . . .
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;I broke in at that.
-&nbsp;&nbsp;&nbsp;&nbsp;I could not lift my heavy heart to breathe
-&nbsp;&nbsp;&nbsp;&nbsp;Till, then, but then I raised it, and it fell
-&nbsp;&nbsp;&nbsp;&nbsp;In broken words like these "No need to wait:
-&nbsp;&nbsp;&nbsp;&nbsp;The dream of doing good to . . . me, at least,
-&nbsp;&nbsp;&nbsp;&nbsp;Is ended, without waiting for a wife
-&nbsp;&nbsp;&nbsp;&nbsp;To cool the fever for him. We've escaped
-&nbsp;&nbsp;&nbsp;&nbsp;That danger, thank Heaven for it."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"You," she cried,
-&nbsp;&nbsp;&nbsp;&nbsp;"Have got a fever. What, I talk and talk
-&nbsp;&nbsp;&nbsp;&nbsp;An hour long to you, I instruct you how
-&nbsp;&nbsp;&nbsp;&nbsp;You cannot eat or drink or stand or sit
-&nbsp;&nbsp;&nbsp;&nbsp;Or even die, like any decent wretch
-&nbsp;&nbsp;&nbsp;&nbsp;In all this unroofed and unfurnished world,
-&nbsp;&nbsp;&nbsp;&nbsp;Without your cousin, and you still maintain
-&nbsp;&nbsp;&nbsp;&nbsp;There's room 'twixt him and you for flirting fans
-&nbsp;&nbsp;&nbsp;&nbsp;And running knots in eyebrows? You must have
-&nbsp;&nbsp;&nbsp;&nbsp;A pattern lover sighing on his knee?
-&nbsp;&nbsp;&nbsp;&nbsp;You do not count enough, a noble heart
-&nbsp;&nbsp;&nbsp;&nbsp;(Above book-patterns) which this very morn
-&nbsp;&nbsp;&nbsp;&nbsp;Unclosed itself in two dear fathers' names
-&nbsp;&nbsp;&nbsp;&nbsp;To embrace your orphaned life? Fie, fie! But stay,
-&nbsp;&nbsp;&nbsp;&nbsp;I write a word, and counteract this sin."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;She would have turned to leave me, but I clung.
-&nbsp;&nbsp;&nbsp;&nbsp;"O sweet my father's sister, hear my word
-&nbsp;&nbsp;&nbsp;&nbsp;Before you write yours. Cousin Vane did well,
-&nbsp;&nbsp;&nbsp;&nbsp;And cousin Romney well, and I well too,
-&nbsp;&nbsp;&nbsp;&nbsp;In casting back with all my strength and will
-&nbsp;&nbsp;&nbsp;&nbsp;The good they meant me. O my God, my God!
-&nbsp;&nbsp;&nbsp;&nbsp;God meant me good, too, when He hindered me
-&nbsp;&nbsp;&nbsp;&nbsp;From saying 'yes' this morning. If you write
-&nbsp;&nbsp;&nbsp;&nbsp;A word, it shall be 'no.' I say no, no!
-&nbsp;&nbsp;&nbsp;&nbsp;I tie up 'no' upon His altar-horns,
-&nbsp;&nbsp;&nbsp;&nbsp;Quite out of reach of perjury! At least
-&nbsp;&nbsp;&nbsp;&nbsp;My soul is not a pauper; I can live
-&nbsp;&nbsp;&nbsp;&nbsp;At least my soul's life, without alms from men;
-&nbsp;&nbsp;&nbsp;&nbsp;And if it must be in heaven instead of earth,
-&nbsp;&nbsp;&nbsp;&nbsp;Let heaven look to it, I am not afraid."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;She seized my hands with both hers, strained them fast,
-&nbsp;&nbsp;&nbsp;&nbsp;And drew her probing and unscrupulous eyes
-&nbsp;&nbsp;&nbsp;&nbsp;Right through me, body and heart. "Yet, foolish Sweet,
-&nbsp;&nbsp;&nbsp;&nbsp;You love this man. I've watched you when he came,
-&nbsp;&nbsp;&nbsp;&nbsp;And when he went, and when we've talked of him:
-&nbsp;&nbsp;&nbsp;&nbsp;I am not old for nothing; I can tell
-&nbsp;&nbsp;&nbsp;&nbsp;The weather-signs of love: you love this man."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;Girls blush sometimes because they are alive,
-&nbsp;&nbsp;&nbsp;&nbsp;Half wishing they were dead to save the shame.
-&nbsp;&nbsp;&nbsp;&nbsp;The sudden blush devours them, neck and brow;
-&nbsp;&nbsp;&nbsp;&nbsp;They have drawn too near the fire of life, like gnats,
-&nbsp;&nbsp;&nbsp;&nbsp;And flare up bodily, wings and all. What then?
-&nbsp;&nbsp;&nbsp;&nbsp;Who's sorry for a gnat . . . or girl?
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I blushed.
-&nbsp;&nbsp;&nbsp;&nbsp;I feel the brand upon my forehead now
-&nbsp;&nbsp;&nbsp;&nbsp;Strike hot, sear deep, as guiltless men may feel
-&nbsp;&nbsp;&nbsp;&nbsp;The felon's iron, say, and scorn the mark
-&nbsp;&nbsp;&nbsp;&nbsp;Of what they are not. Most illogical
-&nbsp;&nbsp;&nbsp;&nbsp;Irrational nature of our womanhood,
-&nbsp;&nbsp;&nbsp;&nbsp;That blushes one way, feels another way,
-&nbsp;&nbsp;&nbsp;&nbsp;And prays, perhaps, another! After all,
-&nbsp;&nbsp;&nbsp;&nbsp;We cannot be the equal of the male
-&nbsp;&nbsp;&nbsp;&nbsp;Who rules his blood a little.
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;For although
-&nbsp;&nbsp;&nbsp;&nbsp;I blushed indeed, as if I loved the man,
-&nbsp;&nbsp;&nbsp;&nbsp;And her incisive smile, accrediting
-&nbsp;&nbsp;&nbsp;&nbsp;That treason of false witness in my blush,
-&nbsp;&nbsp;&nbsp;&nbsp;Did bow me downward like a swathe of grass
-&nbsp;&nbsp;&nbsp;&nbsp;Below its level that struck me, I attest
-&nbsp;&nbsp;&nbsp;&nbsp;The conscious skies and all their daily suns,
-&nbsp;&nbsp;&nbsp;&nbsp;I think I loved him not, nor then, nor since,
-&nbsp;&nbsp;&nbsp;&nbsp;Nor ever. Do we love the schoolmaster,
-&nbsp;&nbsp;&nbsp;&nbsp;Being busy in the woods? much less, being poor,
-&nbsp;&nbsp;&nbsp;&nbsp;The overseer of the parish? Do we keep
-&nbsp;&nbsp;&nbsp;&nbsp;Our love to pay our debts with?
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;White and cold
-&nbsp;&nbsp;&nbsp;&nbsp;I grew next moment. As my blood recoiled
-&nbsp;&nbsp;&nbsp;&nbsp;From that imputed ignominy, I made
-&nbsp;&nbsp;&nbsp;&nbsp;My heart great with it. Then, at last, I spoke,
-&nbsp;&nbsp;&nbsp;&nbsp;Spoke veritable words but passionate,
-&nbsp;&nbsp;&nbsp;&nbsp;Too passionate perhaps . . . ground up with sobs
-&nbsp;&nbsp;&nbsp;&nbsp;To shapeless endings. She let fall my hands
-&nbsp;&nbsp;&nbsp;&nbsp;And took her smile off, in sedate disgust,
-&nbsp;&nbsp;&nbsp;&nbsp;As peradventure she had touched a snake,
-&nbsp;&nbsp;&nbsp;&nbsp;A dead snake, mind! and, turning round, replied,
-&nbsp;&nbsp;&nbsp;&nbsp;"We'll leave Italian manners, if you please.
-&nbsp;&nbsp;&nbsp;&nbsp;I think you had an English father, child,
-&nbsp;&nbsp;&nbsp;&nbsp;And ought to find it possible to speak
-&nbsp;&nbsp;&nbsp;&nbsp;A quiet 'yes' or 'no,' like English girls,
-&nbsp;&nbsp;&nbsp;&nbsp;Without convulsions. In another month
-&nbsp;&nbsp;&nbsp;&nbsp;We'll take another answer no, or yes."
-&nbsp;&nbsp;&nbsp;&nbsp;With that, she left me in the garden-walk.
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;I had a father! yes, but long ago
-&nbsp;&nbsp;&nbsp;&nbsp;How long it seemed that moment. Oh, how far,
-&nbsp;&nbsp;&nbsp;&nbsp;How far and safe, God, dost thou keep thy saints
-&nbsp;&nbsp;&nbsp;&nbsp;When once gone from us! We may call against
-&nbsp;&nbsp;&nbsp;&nbsp;The lighted windows of thy fair June-heaven
-&nbsp;&nbsp;&nbsp;&nbsp;Where all the souls are happy, and not one,
-&nbsp;&nbsp;&nbsp;&nbsp;Not even my father, look from work or play
-&nbsp;&nbsp;&nbsp;&nbsp;To ask, "Who is it that cries after us,
-&nbsp;&nbsp;&nbsp;&nbsp;Below there, in the dusk?" Yet formerly
-&nbsp;&nbsp;&nbsp;&nbsp;He turned his face upon me quick enough,
-&nbsp;&nbsp;&nbsp;&nbsp;If I said "father." Now I might cry loud;
-&nbsp;&nbsp;&nbsp;&nbsp;The little lark reached higher with his song
-&nbsp;&nbsp;&nbsp;&nbsp;Than I with crying. Oh, alone, alone,
-&nbsp;&nbsp;&nbsp;&nbsp;Not troubling any in heaven, nor any on earth,
-&nbsp;&nbsp;&nbsp;&nbsp;I stood there in the garden, and looked up
-&nbsp;&nbsp;&nbsp;&nbsp;The deaf blue sky that brings the roses out
-&nbsp;&nbsp;&nbsp;&nbsp;On such June mornings.
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;You who keep account
-&nbsp;&nbsp;&nbsp;&nbsp;Of crisis and transition in this life,
-&nbsp;&nbsp;&nbsp;&nbsp;Set down the first time Nature says plain "no"
-&nbsp;&nbsp;&nbsp;&nbsp;To some "yes" in you, and walks over you
-&nbsp;&nbsp;&nbsp;&nbsp;In gorgeous sweeps of scorn. We all begin
-&nbsp;&nbsp;&nbsp;&nbsp;By singing with the birds, and running fast
-&nbsp;&nbsp;&nbsp;&nbsp;With June-days, hand in hand: but once, for all,
-&nbsp;&nbsp;&nbsp;&nbsp;The birds must sing against us, and the sun
-&nbsp;&nbsp;&nbsp;&nbsp;Strike down upon us like a friend's sword caught
-&nbsp;&nbsp;&nbsp;&nbsp;By an enemy to slay us, while we read
-&nbsp;&nbsp;&nbsp;&nbsp;The dear name on the blade which bites at us!
-&nbsp;&nbsp;&nbsp;&nbsp;That's bitter and convincing: after that,
-&nbsp;&nbsp;&nbsp;&nbsp;We seldom doubt that something in the large
-&nbsp;&nbsp;&nbsp;&nbsp;Smooth order of creation, though no more
-&nbsp;&nbsp;&nbsp;&nbsp;Than haply a man's footstep, has gone wrong.
-&nbsp;&nbsp;&nbsp;&nbsp;Some tears fell down my cheeks, and then I smiled,
-&nbsp;&nbsp;&nbsp;&nbsp;As those smile who have no face in the world
-&nbsp;&nbsp;&nbsp;&nbsp;To smile back to them. I had lost a friend
-&nbsp;&nbsp;&nbsp;&nbsp;In Romney Leigh; the thing was sure a friend,
-&nbsp;&nbsp;&nbsp;&nbsp;Who had looked at me most gently now and then,
-&nbsp;&nbsp;&nbsp;&nbsp;And spoken of my favourite books, "our books,"
-&nbsp;&nbsp;&nbsp;&nbsp;With such a voice! Well, voice and look were now
-&nbsp;&nbsp;&nbsp;&nbsp;More utterly shut out from me I felt,
-&nbsp;&nbsp;&nbsp;&nbsp;Than even my father's. Romney now was turned
-&nbsp;&nbsp;&nbsp;&nbsp;To a benefactor, to a generous man,
-&nbsp;&nbsp;&nbsp;&nbsp;Who had tied himself to marry . . . me, instead
-&nbsp;&nbsp;&nbsp;&nbsp;Of such a woman, with low timorous lids
-&nbsp;&nbsp;&nbsp;&nbsp;He lifted with a sudden word one day,
-&nbsp;&nbsp;&nbsp;&nbsp;And left, perhaps, for my sake. Ah, self-tied
-&nbsp;&nbsp;&nbsp;&nbsp;By a contract, male Iphigenia bound
-&nbsp;&nbsp;&nbsp;&nbsp;At a fatal Aulis for the winds to change
-&nbsp;&nbsp;&nbsp;&nbsp;(But loose him, they'll not change), he well might seem
-&nbsp;&nbsp;&nbsp;&nbsp;A little cold and dominant in love!
-&nbsp;&nbsp;&nbsp;&nbsp;He had a right to be dogmatical,
-&nbsp;&nbsp;&nbsp;&nbsp;This poor, good Romney. Love, to him, was made
-&nbsp;&nbsp;&nbsp;&nbsp;A simple law-clause. If I married him,
-&nbsp;&nbsp;&nbsp;&nbsp;I should not dare to call my soul my own
-&nbsp;&nbsp;&nbsp;&nbsp;Which so he had bought and paid for: every thought
-&nbsp;&nbsp;&nbsp;&nbsp;And every heart-beat down there in the bill;
-&nbsp;&nbsp;&nbsp;&nbsp;Not one found honestly deductible
-&nbsp;&nbsp;&nbsp;&nbsp;From any use that pleased him! He might cut
-&nbsp;&nbsp;&nbsp;&nbsp;My body into coins to give away
-&nbsp;&nbsp;&nbsp;&nbsp;Among his other paupers; change my sons,
-&nbsp;&nbsp;&nbsp;&nbsp;While I stood dumb as Griseld, for black babes
-&nbsp;&nbsp;&nbsp;&nbsp;Or piteous foundlings; might unquestioned set
-&nbsp;&nbsp;&nbsp;&nbsp;My right hand teaching in the Ragged Schools,
-&nbsp;&nbsp;&nbsp;&nbsp;My left hand washing in the Public Baths,
-&nbsp;&nbsp;&nbsp;&nbsp;What time my angel of the Ideal stretched
-&nbsp;&nbsp;&nbsp;&nbsp;Both his to me in vain. I could not claim
-&nbsp;&nbsp;&nbsp;&nbsp;The poor right of a mouse in a trap, to squeal,
-&nbsp;&nbsp;&nbsp;&nbsp;And take so much as pity from myself.
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;Farewell, good Romney! if I loved you even,
-&nbsp;&nbsp;&nbsp;&nbsp;I could but ill afford to let you be
-&nbsp;&nbsp;&nbsp;&nbsp;So generous to me. Farewell, friend, since friend
-&nbsp;&nbsp;&nbsp;&nbsp;Betwixt us two, forsooth, must be a word
-&nbsp;&nbsp;&nbsp;&nbsp;So heavily overladen. And, since help
-&nbsp;&nbsp;&nbsp;&nbsp;Must come to me from those who love me not,
-&nbsp;&nbsp;&nbsp;&nbsp;Farewell, all helpers I must help myself,
-&nbsp;&nbsp;&nbsp;&nbsp;And am alone from henceforth. Then I stooped
-&nbsp;&nbsp;&nbsp;&nbsp;And lifted the soiled garland from the earth,
-&nbsp;&nbsp;&nbsp;&nbsp;And set it on my head as bitterly
-&nbsp;&nbsp;&nbsp;&nbsp;As when the Spanish monarch crowned the bones
-&nbsp;&nbsp;&nbsp;&nbsp;Of his dead love. So be it. I preserve
-&nbsp;&nbsp;&nbsp;&nbsp;That crown still, in the drawer there! 'twas the first.
-&nbsp;&nbsp;&nbsp;&nbsp;The rest are like it; those Olympian crowns,
-&nbsp;&nbsp;&nbsp;&nbsp;We run for, till we lose sight of the sun
-&nbsp;&nbsp;&nbsp;&nbsp;In the dust of the racing chariots!
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After that,
-&nbsp;&nbsp;&nbsp;&nbsp;Before the evening fell, I had a note,
-&nbsp;&nbsp;&nbsp;&nbsp;Which ran, "Aurora, sweet Chaldean, you read
-&nbsp;&nbsp;&nbsp;&nbsp;My meaning backward like your eastern books,
-&nbsp;&nbsp;&nbsp;&nbsp;While I am from the west, dear. Read me now
-&nbsp;&nbsp;&nbsp;&nbsp;A little plainer. Did you hate me quite
-&nbsp;&nbsp;&nbsp;&nbsp;But yesterday? I loved you for my part;
-&nbsp;&nbsp;&nbsp;&nbsp;I love you. If I spoke untenderly
-&nbsp;&nbsp;&nbsp;&nbsp;This morning, my beloved, pardon it;
-&nbsp;&nbsp;&nbsp;&nbsp;And comprehend me that I loved you so
-&nbsp;&nbsp;&nbsp;&nbsp;I set you on the level of my soul,
-&nbsp;&nbsp;&nbsp;&nbsp;And overwashed you with the bitter brine
-&nbsp;&nbsp;&nbsp;&nbsp;Of some habitual thoughts. Henceforth, my flower,
-&nbsp;&nbsp;&nbsp;&nbsp;Be planted out of reach of any such,
-&nbsp;&nbsp;&nbsp;&nbsp;And lean the side you please, with all your leaves!
-&nbsp;&nbsp;&nbsp;&nbsp;Write woman's verses and dream woman's dreams;
-&nbsp;&nbsp;&nbsp;&nbsp;But let me feel your perfume in my home
-&nbsp;&nbsp;&nbsp;&nbsp;To make my sabbath after working-days.
-&nbsp;&nbsp;&nbsp;&nbsp;Bloom out your youth beside me, be my wife."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;I wrote in answer "We Chaldeans discern
-&nbsp;&nbsp;&nbsp;&nbsp;Still farther than we read. I know your heart,
-&nbsp;&nbsp;&nbsp;&nbsp;And shut it like the holy book it is,
-&nbsp;&nbsp;&nbsp;&nbsp;Reserved for mild-eyed saints to pore upon
-&nbsp;&nbsp;&nbsp;&nbsp;Betwixt their prayers at vespers. Well, you're right,
-&nbsp;&nbsp;&nbsp;&nbsp;I did not surely hate you yesterday;
-&nbsp;&nbsp;&nbsp;&nbsp;And yet I do not love you enough to-day
-&nbsp;&nbsp;&nbsp;&nbsp;To wed you, cousin Romney. Take this word,
-&nbsp;&nbsp;&nbsp;&nbsp;And let it stop you as a generous man
-&nbsp;&nbsp;&nbsp;&nbsp;From speaking farther. You may tease, indeed,
-&nbsp;&nbsp;&nbsp;&nbsp;And blow about my feelings, or my leaves,
-&nbsp;&nbsp;&nbsp;&nbsp;And here's my aunt will help you with east winds
-&nbsp;&nbsp;&nbsp;&nbsp;And break a stalk, perhaps, tormenting me;
-&nbsp;&nbsp;&nbsp;&nbsp;But certain flowers grow near as deep as trees,
-&nbsp;&nbsp;&nbsp;&nbsp;And, cousin, you'll not move my root, not you,
-&nbsp;&nbsp;&nbsp;&nbsp;With all your confluent storms. Then let me grow
-&nbsp;&nbsp;&nbsp;&nbsp;Within my wayside hedge, and pass your way!
-&nbsp;&nbsp;&nbsp;&nbsp;This flower has never as much to say to you
-&nbsp;&nbsp;&nbsp;&nbsp;As the antique tomb which said to travellers, 'Pause,
-&nbsp;&nbsp;&nbsp;&nbsp;'Siste, viator.'" Ending thus, I sighed.
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;The next week passed in silence, so the next,
-&nbsp;&nbsp;&nbsp;&nbsp;And several after: Romney did not come
-&nbsp;&nbsp;&nbsp;&nbsp;Nor my aunt chide me. I lived on and on,
-&nbsp;&nbsp;&nbsp;&nbsp;As if my heart were kept beneath a glass,
-&nbsp;&nbsp;&nbsp;&nbsp;And everybody stood, all eyes and ears,
-&nbsp;&nbsp;&nbsp;&nbsp;To see and hear it tick. I could not sit,
-&nbsp;&nbsp;&nbsp;&nbsp;Nor walk, nor take a book, nor lay it down,
-&nbsp;&nbsp;&nbsp;&nbsp;Nor sew on steadily, nor drop a stitch,
-&nbsp;&nbsp;&nbsp;&nbsp;And a sigh with it, but I felt her looks
-&nbsp;&nbsp;&nbsp;&nbsp;Still cleaving to me, like the sucking asp
-&nbsp;&nbsp;&nbsp;&nbsp;To Cleopatra's breast, persistently
-&nbsp;&nbsp;&nbsp;&nbsp;Through the intermittent pantings. Being observed,
-&nbsp;&nbsp;&nbsp;&nbsp;When observation is not sympathy,
-&nbsp;&nbsp;&nbsp;&nbsp;Is just being tortured. If she said a word,
-&nbsp;&nbsp;&nbsp;&nbsp;A "thank you," or an "if it please you, dear,"
-&nbsp;&nbsp;&nbsp;&nbsp;She meant a commination, or, at best,
-&nbsp;&nbsp;&nbsp;&nbsp;An exorcism against the devildom
-&nbsp;&nbsp;&nbsp;&nbsp;Which plainly held me. So with all the house.
-&nbsp;&nbsp;&nbsp;&nbsp;Susannah could not stand and twist my hair
-&nbsp;&nbsp;&nbsp;&nbsp;Without such glancing at the looking-glass
-&nbsp;&nbsp;&nbsp;&nbsp;To see my face there, that she missed the plait.
-&nbsp;&nbsp;&nbsp;&nbsp;And John, I never sent my plate for soup,
-&nbsp;&nbsp;&nbsp;&nbsp;Or did not send it, but the foolish John
-&nbsp;&nbsp;&nbsp;&nbsp;Resolved the problem, 'twixt his napkined thumbs,
-&nbsp;&nbsp;&nbsp;&nbsp;Of what was signified by taking soup
-&nbsp;&nbsp;&nbsp;&nbsp;Or choosing mackerel. Neighbours who drooped in
-&nbsp;&nbsp;&nbsp;&nbsp;On morning visits, feeling a joint wrong,
-&nbsp;&nbsp;&nbsp;&nbsp;Smiled admonition, sat uneasily,
-&nbsp;&nbsp;&nbsp;&nbsp;And talked, with measured, emphasised reserve,
-&nbsp;&nbsp;&nbsp;&nbsp;Of parish news, like doctors to the sick,
-&nbsp;&nbsp;&nbsp;&nbsp;When not called in, as if, with leave to speak,
-&nbsp;&nbsp;&nbsp;&nbsp;They might say something. Nay, the very dog
-&nbsp;&nbsp;&nbsp;&nbsp;Would watch me from his sun-patch on the floor,
-&nbsp;&nbsp;&nbsp;&nbsp;In alternation with the large black fly
-&nbsp;&nbsp;&nbsp;&nbsp;Not yet in reach of snapping. So I lived.
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;A Roman died so; smeared with honey, teased
-&nbsp;&nbsp;&nbsp;&nbsp;By insects, stared to torture by the noon:
-&nbsp;&nbsp;&nbsp;&nbsp;And many patient souls 'neath English roofs
-&nbsp;&nbsp;&nbsp;&nbsp;Have died like Romans. I, in looking back,
-&nbsp;&nbsp;&nbsp;&nbsp;Wish only, now, I had borne the plague of all
-&nbsp;&nbsp;&nbsp;&nbsp;With meeker spirits than were rife at Rome.
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;For, on the sixth week, the dead sea broke up,
-&nbsp;&nbsp;&nbsp;&nbsp;Dashed suddenly through beneath the heel of Him
-&nbsp;&nbsp;&nbsp;&nbsp;Who stands upon the sea and earth and swears
-&nbsp;&nbsp;&nbsp;&nbsp;Time shall be nevermore. The clock struck nine
-&nbsp;&nbsp;&nbsp;&nbsp;That morning too, no lark was out of tune,
-&nbsp;&nbsp;&nbsp;&nbsp;The hidden farms among the hills breathed straight
-&nbsp;&nbsp;&nbsp;&nbsp;Their smoke toward heaven, the lime-tree scarcely stirred
-&nbsp;&nbsp;&nbsp;&nbsp;Beneath the blue weight of the cloudless sky,
-&nbsp;&nbsp;&nbsp;&nbsp;Though still the July air came floating through
-&nbsp;&nbsp;&nbsp;&nbsp;The woodbine at my window, in and out,
-&nbsp;&nbsp;&nbsp;&nbsp;With touches of the out-door country news
-&nbsp;&nbsp;&nbsp;&nbsp;For a bending forehead. There I sat, and wished
-&nbsp;&nbsp;&nbsp;&nbsp;That morning-truce of God would last till eve,
-&nbsp;&nbsp;&nbsp;&nbsp;Or longer. "Sleep," I thought, "late sleepers, sleep,
-&nbsp;&nbsp;&nbsp;&nbsp;And spare me yet the burden of your eyes."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;Then, suddenly, a single ghastly shriek
-&nbsp;&nbsp;&nbsp;&nbsp;Tore upward from the bottom of the house.
-&nbsp;&nbsp;&nbsp;&nbsp;Like one who wakens in a grave and shrieks,
-&nbsp;&nbsp;&nbsp;&nbsp;The still house seemed to shriek itself alive,
-&nbsp;&nbsp;&nbsp;&nbsp;And shudder through its passages and stairs
-&nbsp;&nbsp;&nbsp;&nbsp;With slam of doors and clash of bells. I sprang,
-&nbsp;&nbsp;&nbsp;&nbsp;I stood up in the middle of the room,
-&nbsp;&nbsp;&nbsp;&nbsp;And there confronted at my chamber-door
-&nbsp;&nbsp;&nbsp;&nbsp;A white face, shivering, ineffectual lips.
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"Come, come," they tried to utter, and I went:
-&nbsp;&nbsp;&nbsp;&nbsp;As if a ghost had drawn me at the point
-&nbsp;&nbsp;&nbsp;&nbsp;Of a fiery finger through the uneven dark,
-&nbsp;&nbsp;&nbsp;&nbsp;I went with reeling footsteps down the stair,
-&nbsp;&nbsp;&nbsp;&nbsp;Nor asked a question.
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;There she sat, my aunt,
-&nbsp;&nbsp;&nbsp;&nbsp;Bolt upright in the chair beside her bed,
-&nbsp;&nbsp;&nbsp;&nbsp;Whose pillow had no dint! she had used no bed
-&nbsp;&nbsp;&nbsp;&nbsp;For that night's sleeping, yet slept well. My God,
-&nbsp;&nbsp;&nbsp;&nbsp;The dumb derision of that grey, peaked face
-&nbsp;&nbsp;&nbsp;&nbsp;Concluded something grave against the sun,
-&nbsp;&nbsp;&nbsp;&nbsp;Which filled the chamber with its July burst
-&nbsp;&nbsp;&nbsp;&nbsp;When Susan drew the curtains ignorant
-&nbsp;&nbsp;&nbsp;&nbsp;Of who sat open-eyed behind her. There
-&nbsp;&nbsp;&nbsp;&nbsp;She sat . . . it sat . . . we said "she" yesterday . . .
-&nbsp;&nbsp;&nbsp;&nbsp;And held a letter with unbroken seal
-&nbsp;&nbsp;&nbsp;&nbsp;As Susan gave it to her hand last night:
-&nbsp;&nbsp;&nbsp;&nbsp;All night she had held it. If its news referred
-&nbsp;&nbsp;&nbsp;&nbsp;To duchies or to dunghills, not an inch
-&nbsp;&nbsp;&nbsp;&nbsp;She'd budge, 'twas obvious, for such worthless odds:
-&nbsp;&nbsp;&nbsp;&nbsp;Nor, though the stars were suns and overburned
-&nbsp;&nbsp;&nbsp;&nbsp;Their spheric limitations, swallowing up
-&nbsp;&nbsp;&nbsp;&nbsp;Like wax the azure spaces, could they force
-&nbsp;&nbsp;&nbsp;&nbsp;Those open eyes to wink once. What last sight
-&nbsp;&nbsp;&nbsp;&nbsp;Had left them blank and flat so, drawing out
-&nbsp;&nbsp;&nbsp;&nbsp;The faculty of vision from the roots,
-&nbsp;&nbsp;&nbsp;&nbsp;As nothing more, worth seeing, remained behind?
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;Were those the eyes that watched me, worried me?
-&nbsp;&nbsp;&nbsp;&nbsp;That dogged me up and down the hours and days,
-&nbsp;&nbsp;&nbsp;&nbsp;A beaten, breathless, miserable soul?
-&nbsp;&nbsp;&nbsp;&nbsp;And did I pray, a half-hour back, but so,
-&nbsp;&nbsp;&nbsp;&nbsp;To escape the burden of those eyes . . . those eyes?
-&nbsp;&nbsp;&nbsp;&nbsp;"Sleep late" I said?
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;Why, now, indeed, they sleep.
-&nbsp;&nbsp;&nbsp;&nbsp;God answers sharp and sudden on some prayers,
-&nbsp;&nbsp;&nbsp;&nbsp;And thrusts the thing we have prayed for in our face,
-&nbsp;&nbsp;&nbsp;&nbsp;A gauntlet with a gift in't. Every wish
-&nbsp;&nbsp;&nbsp;&nbsp;Is like a prayer, with God.
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;I had my wish,
-&nbsp;&nbsp;&nbsp;&nbsp;To read and meditate the thing I would,
-&nbsp;&nbsp;&nbsp;&nbsp;To fashion all my life upon my thought,
-&nbsp;&nbsp;&nbsp;&nbsp;And marry or not marry. Henceforth none
-&nbsp;&nbsp;&nbsp;&nbsp;Could disapprove me, vex me, hamper me.
-&nbsp;&nbsp;&nbsp;&nbsp;Full ground-room, in this desert newly made,
-&nbsp;&nbsp;&nbsp;&nbsp;For Babylon or Baalbec, when the breath,
-&nbsp;&nbsp;&nbsp;&nbsp;Now choked with sand, returns for building towns.
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;The heir came over on the funeral day,
-&nbsp;&nbsp;&nbsp;&nbsp;And we two cousins met before the dead,
-&nbsp;&nbsp;&nbsp;&nbsp;With two pale faces. Was it death or life
-&nbsp;&nbsp;&nbsp;&nbsp;That moved us? When the will was read and done,
-&nbsp;&nbsp;&nbsp;&nbsp;The official guests and witnesses withdrawn,
-&nbsp;&nbsp;&nbsp;&nbsp;We rose up in a silence almost hard,
-&nbsp;&nbsp;&nbsp;&nbsp;And looked at one another. Then I said,
-&nbsp;&nbsp;&nbsp;&nbsp;"Farewell, my cousin."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;But he touched, just touched
-&nbsp;&nbsp;&nbsp;&nbsp;My hatstrings, tied for going (at the door
-&nbsp;&nbsp;&nbsp;&nbsp;The carriage stood to take me), and said low,
-&nbsp;&nbsp;&nbsp;&nbsp;His voice a little unsteady through his smile,
-&nbsp;&nbsp;&nbsp;&nbsp;"Siste, viator."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"Is there time," I asked,
-&nbsp;&nbsp;&nbsp;&nbsp;"In these last days of railroads, to stop short
-&nbsp;&nbsp;&nbsp;&nbsp;Like Cæsar's chariot (weighing half a ton)
-&nbsp;&nbsp;&nbsp;&nbsp;On the Appian road, for morals?"
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"There is time,"
-&nbsp;&nbsp;&nbsp;&nbsp;He answered grave, "for necessary words,
-&nbsp;&nbsp;&nbsp;&nbsp;Inclusive, trust me, of no epitaph
-&nbsp;&nbsp;&nbsp;&nbsp;On man or act, my cousin. We have read
-&nbsp;&nbsp;&nbsp;&nbsp;A will, which gives you all the personal goods
-&nbsp;&nbsp;&nbsp;&nbsp;And funded moneys of your aunt."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"I thank
-&nbsp;&nbsp;&nbsp;&nbsp;Her memory for it. With three hundred pounds
-&nbsp;&nbsp;&nbsp;&nbsp;We buy, in England even, clear standing-room
-&nbsp;&nbsp;&nbsp;&nbsp;To stand and work in. Only two hours since,
-&nbsp;&nbsp;&nbsp;&nbsp;I fancied I was poor."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"And, cousin, still
-&nbsp;&nbsp;&nbsp;&nbsp;You're richer than you fancy. The will says,
-&nbsp;&nbsp;&nbsp;&nbsp;Three hundred pounds, and any other sum
-&nbsp;&nbsp;&nbsp;&nbsp;Of which the said testatrix dies possessed.
-&nbsp;&nbsp;&nbsp;&nbsp;I say she died possessed of other sums."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"Dear Romney, need we chronicle the pence?
-&nbsp;&nbsp;&nbsp;&nbsp;I'm richer than I thought that's evident.
-&nbsp;&nbsp;&nbsp;&nbsp;Enough so."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"Listen rather. You've to do
-&nbsp;&nbsp;&nbsp;&nbsp;With business and a cousin," he resumed,
-&nbsp;&nbsp;&nbsp;&nbsp;"And both, I fear, need patience. Here's the fact.
-&nbsp;&nbsp;&nbsp;&nbsp;The other sum (there is another sum,
-&nbsp;&nbsp;&nbsp;&nbsp;Unspecified in any will which dates
-&nbsp;&nbsp;&nbsp;&nbsp;After possession, yet bequeathed as much
-&nbsp;&nbsp;&nbsp;&nbsp;And clearly as those said three hundred pounds)
-&nbsp;&nbsp;&nbsp;&nbsp;Is thirty thousand. You will have it paid
-&nbsp;&nbsp;&nbsp;&nbsp;When? . . . where? My duty troubles you with words."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;He struck the iron when the bar was hot;
-&nbsp;&nbsp;&nbsp;&nbsp;No wonder if my eyes sent out some sparks.
-&nbsp;&nbsp;&nbsp;&nbsp;"Pause there! I thank you. You are delicate
-&nbsp;&nbsp;&nbsp;&nbsp;In glosing gifts; but I, who share your blood,
-&nbsp;&nbsp;&nbsp;&nbsp;Am rather made for giving, like yourself,
-&nbsp;&nbsp;&nbsp;&nbsp;Than taking, like your pensioners. Farewell."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;He stopped me with a gesture of calm pride.
-&nbsp;&nbsp;&nbsp;&nbsp;"A Leigh," he said, "gives largesse and gives love,
-&nbsp;&nbsp;&nbsp;&nbsp;But gloses never: if a Leigh could glose,
-&nbsp;&nbsp;&nbsp;&nbsp;He would not do it, moreover, to a Leigh,
-&nbsp;&nbsp;&nbsp;&nbsp;With blood trained up along nine centuries
-&nbsp;&nbsp;&nbsp;&nbsp;To hound and hate a lie from eyes like yours.
-&nbsp;&nbsp;&nbsp;&nbsp;And now we'll make the rest as clear: your aunt
-&nbsp;&nbsp;&nbsp;&nbsp;Possessed these moneys."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"You will make it clear,
-&nbsp;&nbsp;&nbsp;&nbsp;My cousin, as the honour of us both,
-&nbsp;&nbsp;&nbsp;&nbsp;Or one of us speaks vainly! that's not I.
-&nbsp;&nbsp;&nbsp;&nbsp;My aunt possessed this sum, inherited
-&nbsp;&nbsp;&nbsp;&nbsp;From whom, and when? bring documents, prove dates."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"Why now indeed you throw your bonnet off
-&nbsp;&nbsp;&nbsp;&nbsp;As if you had time left for a logarithm!
-&nbsp;&nbsp;&nbsp;&nbsp;The faith's the want. Dear cousin, give me faith,
-&nbsp;&nbsp;&nbsp;&nbsp;And you shall walk this road with silken shoes,
-&nbsp;&nbsp;&nbsp;&nbsp;As clean as any lady of our house
-&nbsp;&nbsp;&nbsp;&nbsp;Supposed the proudest. Oh, I comprehend
-&nbsp;&nbsp;&nbsp;&nbsp;The whole position from your point of sight.
-&nbsp;&nbsp;&nbsp;&nbsp;I oust you from your father's halls and lands
-&nbsp;&nbsp;&nbsp;&nbsp;And make you poor by getting rich that's law;
-&nbsp;&nbsp;&nbsp;&nbsp;Considering which, in common circumstance,
-&nbsp;&nbsp;&nbsp;&nbsp;You would not scruple to accept from me
-&nbsp;&nbsp;&nbsp;&nbsp;Some compensation, some sufficiency
-&nbsp;&nbsp;&nbsp;&nbsp;Of income that were justice; but, alas,
-&nbsp;&nbsp;&nbsp;&nbsp;I love you, that's mere nature; you reject
-&nbsp;&nbsp;&nbsp;&nbsp;My love, that's nature also; and at once,
-&nbsp;&nbsp;&nbsp;&nbsp;You cannot, from a suitor disallowed,
-&nbsp;&nbsp;&nbsp;&nbsp;A hand thrown back as mine is, into yours
-&nbsp;&nbsp;&nbsp;&nbsp;Receive a doit, a farthing, not for the world!
-&nbsp;&nbsp;&nbsp;&nbsp;That's woman's etiquette, and obviously
-&nbsp;&nbsp;&nbsp;&nbsp;Exceeds the claim of nature, law, and right,
-&nbsp;&nbsp;&nbsp;&nbsp;Unanswerable to all. I grant, you see,
-&nbsp;&nbsp;&nbsp;&nbsp;The case as you conceive it, leave you room
-&nbsp;&nbsp;&nbsp;&nbsp;To sweep your ample skirts of womanhood,
-&nbsp;&nbsp;&nbsp;&nbsp;While, standing humbly squeezed against the wall,
-&nbsp;&nbsp;&nbsp;&nbsp;I own myself excluded from being just,
-&nbsp;&nbsp;&nbsp;&nbsp;Restrained from paying indubitable debts,
-&nbsp;&nbsp;&nbsp;&nbsp;Because denied from giving you my soul.
-&nbsp;&nbsp;&nbsp;&nbsp;That's my misfortune! I submit to it
-&nbsp;&nbsp;&nbsp;&nbsp;As if, in some more reasonable age,
-&nbsp;&nbsp;&nbsp;&nbsp;'Twould not be less inevitable. Enough.
-&nbsp;&nbsp;&nbsp;&nbsp;You'll trust me, cousin, as a gentleman,
-&nbsp;&nbsp;&nbsp;&nbsp;To keep your honour, as you count it, pure,
-&nbsp;&nbsp;&nbsp;&nbsp;Your scruples (just as if I thought them wise)
-&nbsp;&nbsp;&nbsp;&nbsp;Safe and inviolate from gifts of mine."
-&nbsp;&nbsp;&nbsp;&nbsp;I answered mild but earnest. "I believe
-&nbsp;&nbsp;&nbsp;&nbsp;In no one's honour which another keeps,
-&nbsp;&nbsp;&nbsp;&nbsp;Nor man's nor woman's. As I keep, myself,
-&nbsp;&nbsp;&nbsp;&nbsp;My truth and my religion, I depute
-&nbsp;&nbsp;&nbsp;&nbsp;No father, though I had one this side death,
-&nbsp;&nbsp;&nbsp;&nbsp;Nor brother, though I had twenty, much less you,
-&nbsp;&nbsp;&nbsp;&nbsp;Though twice my cousin, and once Romney Leigh,
-&nbsp;&nbsp;&nbsp;&nbsp;To keep my honour pure. You face, to-day,
-&nbsp;&nbsp;&nbsp;&nbsp;A man who wants instruction, mark me, not
-&nbsp;&nbsp;&nbsp;&nbsp;A woman who wants protection. As to a man,
-&nbsp;&nbsp;&nbsp;&nbsp;Show manhood, speak out plainly, be precise
-&nbsp;&nbsp;&nbsp;&nbsp;With facts and dates. My aunt inherited
-&nbsp;&nbsp;&nbsp;&nbsp;This sum, you say "
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"I said she died possessed
-&nbsp;&nbsp;&nbsp;&nbsp;Of this, dear cousin."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"Not by heritage.
-&nbsp;&nbsp;&nbsp;&nbsp;Thank you: we're getting to the facts at last.
-&nbsp;&nbsp;&nbsp;&nbsp;Perhaps she played at commerce with a ship
-&nbsp;&nbsp;&nbsp;&nbsp;Which came in heavy with Australian gold?
-&nbsp;&nbsp;&nbsp;&nbsp;Or touched a lottery with her finger-end,
-&nbsp;&nbsp;&nbsp;&nbsp;Which tumbled on a sudden into her lap
-&nbsp;&nbsp;&nbsp;&nbsp;Some old Rhine tower or principality?
-&nbsp;&nbsp;&nbsp;&nbsp;Perhaps she had to do with a marine
-&nbsp;&nbsp;&nbsp;&nbsp;Sub-transatlantic railroad, which pre-pays
-&nbsp;&nbsp;&nbsp;&nbsp;As well as pre-supposes? or perhaps
-&nbsp;&nbsp;&nbsp;&nbsp;Some stale ancestral debt was after-paid
-&nbsp;&nbsp;&nbsp;&nbsp;By a hundred years, and took her by surprise?
-&nbsp;&nbsp;&nbsp;&nbsp;You shake your head, my cousin; I guess ill."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"You need not guess, Aurora, nor deride;
-&nbsp;&nbsp;&nbsp;&nbsp;The truth is not afraid of hurting you.
-&nbsp;&nbsp;&nbsp;&nbsp;You'll find no cause, in all your scruples, why
-&nbsp;&nbsp;&nbsp;&nbsp;Your aunt should cavil at a deed of gift
-&nbsp;&nbsp;&nbsp;&nbsp;'Twixt her and me."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"I thought so ah! a gift."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"You naturally thought so," he resumed.
-&nbsp;&nbsp;&nbsp;&nbsp;"A very natural gift."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"A gift, a gift!
-&nbsp;&nbsp;&nbsp;&nbsp;Her individual life being stranded high
-&nbsp;&nbsp;&nbsp;&nbsp;Above all want, approaching opulence,
-&nbsp;&nbsp;&nbsp;&nbsp;Too haughty was she to accept a gift
-&nbsp;&nbsp;&nbsp;&nbsp;Without some ultimate aim: ah, ah, I see,
-&nbsp;&nbsp;&nbsp;&nbsp;A gift intended plainly for her heirs,
-&nbsp;&nbsp;&nbsp;&nbsp;And so accepted . . . if accepted . . . ah,
-&nbsp;&nbsp;&nbsp;&nbsp;Indeed that might be; I am snared perhaps
-&nbsp;&nbsp;&nbsp;&nbsp;Just so. But, cousin, shall I pardon you,
-&nbsp;&nbsp;&nbsp;&nbsp;If thus you have caught me with a cruel springe?"
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;He answered gently, "Need you tremble and pant
-&nbsp;&nbsp;&nbsp;&nbsp;Like a netted lioness? is't my fault, mine,
-&nbsp;&nbsp;&nbsp;&nbsp;That you're a grand wild creature of the woods
-&nbsp;&nbsp;&nbsp;&nbsp;And hate the stall built for you? Any way,
-&nbsp;&nbsp;&nbsp;&nbsp;Though triply netted, need you glare at me?
-&nbsp;&nbsp;&nbsp;&nbsp;I do not hold the cords of such a net;
-&nbsp;&nbsp;&nbsp;&nbsp;You're free from me, Aurora!"
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"Now may God
-&nbsp;&nbsp;&nbsp;&nbsp;Deliver me from this strait! This gift of yours
-&nbsp;&nbsp;&nbsp;&nbsp;Was tendered . . . when? accepted . . . when?" I asked.
-&nbsp;&nbsp;&nbsp;&nbsp;"A month . . . a fortnight since? Six weeks ago
-&nbsp;&nbsp;&nbsp;&nbsp;It was not tendered; by a word she dropped
-&nbsp;&nbsp;&nbsp;&nbsp;I know it was not tendered nor received.
-&nbsp;&nbsp;&nbsp;&nbsp;When was it? bring your dates."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"What matters when?
-&nbsp;&nbsp;&nbsp;&nbsp;A half-hour ere she died, or a half-year,
-&nbsp;&nbsp;&nbsp;&nbsp;Secured the gift, maintains the heritage
-&nbsp;&nbsp;&nbsp;&nbsp;Inviolable with law. As easy pluck
-&nbsp;&nbsp;&nbsp;&nbsp;The golden stars from heaven's embroidered stole
-&nbsp;&nbsp;&nbsp;&nbsp;To pin them on the grey side of this earth,
-&nbsp;&nbsp;&nbsp;&nbsp;As make you poor again, thank God."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Net poor
-&nbsp;&nbsp;&nbsp;&nbsp;Nor clean again from henceforth, you thank God?
-&nbsp;&nbsp;&nbsp;&nbsp;Well, sir I ask you I insist at need,
-&nbsp;&nbsp;&nbsp;&nbsp;Vouchsafe the special date, the special date."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"The day before her death-day," he replied,
-&nbsp;&nbsp;&nbsp;&nbsp;"The gift was in her hands. We'll find that deed,
-&nbsp;&nbsp;&nbsp;&nbsp;And certify that date to you."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;As one
-&nbsp;&nbsp;&nbsp;&nbsp;Who has climbed a mountain-height and carried up
-&nbsp;&nbsp;&nbsp;&nbsp;His own heart climbing, panting in his throat
-&nbsp;&nbsp;&nbsp;&nbsp;With the toil of the ascent, takes breath at last,
-&nbsp;&nbsp;&nbsp;&nbsp;Looks back in triumph so I stood and looked.
-&nbsp;&nbsp;&nbsp;&nbsp;"Dear cousin Romney, we have reached the top
-&nbsp;&nbsp;&nbsp;&nbsp;Of this steep question, and may rest, I think.
-&nbsp;&nbsp;&nbsp;&nbsp;But first, I pray you pardon, that the shock
-&nbsp;&nbsp;&nbsp;&nbsp;And surge of natural feeling and event
-&nbsp;&nbsp;&nbsp;&nbsp;Has made me oblivious of acquainting you
-&nbsp;&nbsp;&nbsp;&nbsp;That this, this letter (unread, mark, still sealed),
-&nbsp;&nbsp;&nbsp;&nbsp;Was found enfolded in the poor dead hand:
-&nbsp;&nbsp;&nbsp;&nbsp;That spirit of hers had gone beyond the address,
-&nbsp;&nbsp;&nbsp;&nbsp;Which could not find her though you wrote it clear,
-&nbsp;&nbsp;&nbsp;&nbsp;I know your writing, Romney, recognise
-&nbsp;&nbsp;&nbsp;&nbsp;The open-hearted A, the liberal sweep
-&nbsp;&nbsp;&nbsp;&nbsp;Of the G. Now listen, let us understand:
-&nbsp;&nbsp;&nbsp;&nbsp;You will not find that famous deed of gift,
-&nbsp;&nbsp;&nbsp;&nbsp;Unless you find it in the letter here,
-&nbsp;&nbsp;&nbsp;&nbsp;Which, not being mine, I give you back. Refuse
-&nbsp;&nbsp;&nbsp;&nbsp;To take the letter? well then you and I,
-&nbsp;&nbsp;&nbsp;&nbsp;As writer and as heiress, open it
-&nbsp;&nbsp;&nbsp;&nbsp;Together, by your leave. Exactly so:
-&nbsp;&nbsp;&nbsp;&nbsp;The words in which the noble offering's made
-&nbsp;&nbsp;&nbsp;&nbsp;Are nobler still, my cousin; and, I own,
-&nbsp;&nbsp;&nbsp;&nbsp;The proudest and most delicate heart alive,
-&nbsp;&nbsp;&nbsp;&nbsp;Distracted from the measure of the gift
-&nbsp;&nbsp;&nbsp;&nbsp;By such a grace in giving, might accept
-&nbsp;&nbsp;&nbsp;&nbsp;Your largesse without thinking any more
-&nbsp;&nbsp;&nbsp;&nbsp;Of the burthen of it, than King Solomon
-&nbsp;&nbsp;&nbsp;&nbsp;Considered, when he wore his holy ring
-&nbsp;&nbsp;&nbsp;&nbsp;Charactered over with the ineffable spell,
-&nbsp;&nbsp;&nbsp;&nbsp;How many carats of fine gold made up
-&nbsp;&nbsp;&nbsp;&nbsp;Its money-value: so, Leigh gives to Leigh!
-&nbsp;&nbsp;&nbsp;&nbsp;Or rather, might have given, observe, for that's
-&nbsp;&nbsp;&nbsp;&nbsp;The point we come to. Here's a proof of gift,
-&nbsp;&nbsp;&nbsp;&nbsp;But here's no proof, sir, of acceptancy,
-&nbsp;&nbsp;&nbsp;&nbsp;But, rather, disproof. Death's black dust, being blown,
-&nbsp;&nbsp;&nbsp;&nbsp;Infiltrated through every secret fold
-&nbsp;&nbsp;&nbsp;&nbsp;Of this sealed letter by a puff of fate,
-&nbsp;&nbsp;&nbsp;&nbsp;Dried up for ever the fresh-written ink,
-&nbsp;&nbsp;&nbsp;&nbsp;Annulled the gift, disutilised the grace,
-&nbsp;&nbsp;&nbsp;&nbsp;And left these fragments."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;As I spoke, I tore
-&nbsp;&nbsp;&nbsp;&nbsp;The paper up and down, and down and up
-&nbsp;&nbsp;&nbsp;&nbsp;And crosswise, till it fluttered from my hands,
-&nbsp;&nbsp;&nbsp;&nbsp;As forest-leaves, stripped suddenly and rapt
-&nbsp;&nbsp;&nbsp;&nbsp;By a whirlwind on Valdarno, drop again,
-&nbsp;&nbsp;&nbsp;&nbsp;Drop slow, and strew the melancholy ground
-&nbsp;&nbsp;&nbsp;&nbsp;Before the amazèd hills . . . why, so, indeed,
-&nbsp;&nbsp;&nbsp;&nbsp;I'm writing like a poet, somewhat large
-&nbsp;&nbsp;&nbsp;&nbsp;In the type of the image, and exaggerate
-&nbsp;&nbsp;&nbsp;&nbsp;A small thing with a great thing, topping it:
-&nbsp;&nbsp;&nbsp;&nbsp;But then I'm thinking how his eyes looked, his,
-&nbsp;&nbsp;&nbsp;&nbsp;With what despondent and surprised reproach!
-&nbsp;&nbsp;&nbsp;&nbsp;I think the tears were in them as he looked;
-&nbsp;&nbsp;&nbsp;&nbsp;I think the manly mouth just trembled. Then
-&nbsp;&nbsp;&nbsp;&nbsp;He broke the silence.
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"I may ask, perhaps,
-&nbsp;&nbsp;&nbsp;&nbsp;Although no stranger . . . only Romney Leigh,
-&nbsp;&nbsp;&nbsp;&nbsp;Which means still less . . . than Vincent Carrington,
-&nbsp;&nbsp;&nbsp;&nbsp;Your plans in going hence, and where you go.
-&nbsp;&nbsp;&nbsp;&nbsp;This cannot be a secret."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"All my life
-&nbsp;&nbsp;&nbsp;&nbsp;Is open to you, cousin. I go hence
-&nbsp;&nbsp;&nbsp;&nbsp;To London, to the gathering-place of souls,
-&nbsp;&nbsp;&nbsp;&nbsp;To live mine straight out, vocally, in books;
-&nbsp;&nbsp;&nbsp;&nbsp;Harmoniously for others, if indeed
-&nbsp;&nbsp;&nbsp;&nbsp;A woman's soul, like man's, be wide enough
-&nbsp;&nbsp;&nbsp;&nbsp;To carry the whole octave (that's to prove),
-&nbsp;&nbsp;&nbsp;&nbsp;Or, if I fail, still purely for myself.
-&nbsp;&nbsp;&nbsp;&nbsp;Pray God be with me, Romney."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"Ah, poor child,
-&nbsp;&nbsp;&nbsp;&nbsp;Who fight against the mother's 'tiring hand,
-&nbsp;&nbsp;&nbsp;&nbsp;And choose the headsman's! May God change His world
-&nbsp;&nbsp;&nbsp;&nbsp;For your sake, sweet, and make it mild as heaven,
-&nbsp;&nbsp;&nbsp;&nbsp;And juster than I have found you."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;But I paused.
-&nbsp;&nbsp;&nbsp;&nbsp;"And you, my cousin?"
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"I," he said, "you ask?
-&nbsp;&nbsp;&nbsp;&nbsp;You care to ask? Well, girls have curious minds
-&nbsp;&nbsp;&nbsp;&nbsp;And fain would know the end of everything,
-&nbsp;&nbsp;&nbsp;&nbsp;Of cousins therefore with the rest. For me,
-&nbsp;&nbsp;&nbsp;&nbsp;Aurora, I've my work; you know my work;
-&nbsp;&nbsp;&nbsp;&nbsp;And, having missed this year some personal hope,
-&nbsp;&nbsp;&nbsp;&nbsp;I must beware the rather that I miss
-&nbsp;&nbsp;&nbsp;&nbsp;No reasonable duty. While you sing
-&nbsp;&nbsp;&nbsp;&nbsp;Your happy pastorals of the meads and trees,
-&nbsp;&nbsp;&nbsp;&nbsp;Bethink you that I go to impress and prove
-&nbsp;&nbsp;&nbsp;&nbsp;On stifled brains and deafened ears, stunned deaf,
-&nbsp;&nbsp;&nbsp;&nbsp;Crushed dull with grief, that nature sings itself,
-&nbsp;&nbsp;&nbsp;&nbsp;And needs no mediate poet, lute or voice,
-&nbsp;&nbsp;&nbsp;&nbsp;To make it vocal. While you ask of men
-&nbsp;&nbsp;&nbsp;&nbsp;Your audience, I may get their leave perhaps
-&nbsp;&nbsp;&nbsp;&nbsp;For hungry orphans to say audibly
-&nbsp;&nbsp;&nbsp;&nbsp;'We're hungry, see,' for beaten and bullied wives
-&nbsp;&nbsp;&nbsp;&nbsp;To hold their unweaned babies up in sight,
-&nbsp;&nbsp;&nbsp;&nbsp;Whom orphanage would better, and for all
-&nbsp;&nbsp;&nbsp;&nbsp;To speak and claim their portion . . . by no means
-&nbsp;&nbsp;&nbsp;&nbsp;Of the soil, . . . but of the sweat in tilling it;
-&nbsp;&nbsp;&nbsp;&nbsp;Since this is nowadays turned privilege,
-&nbsp;&nbsp;&nbsp;&nbsp;To have only God's curse on us, and not man's.
-&nbsp;&nbsp;&nbsp;&nbsp;Such work I have for doing, elbow-deep
-&nbsp;&nbsp;&nbsp;&nbsp;In social problems, as you tie your rhymes,
-&nbsp;&nbsp;&nbsp;&nbsp;To draw my uses to cohere with needs
-&nbsp;&nbsp;&nbsp;&nbsp;And bring the uneven world back to its round,
-&nbsp;&nbsp;&nbsp;&nbsp;Or, failing so much, fill up, bridge at least
-&nbsp;&nbsp;&nbsp;&nbsp;To smoother issues some abysmal cracks
-&nbsp;&nbsp;&nbsp;&nbsp;And feuds of earth, intestine heats have made
-&nbsp;&nbsp;&nbsp;&nbsp;To keep men separate, using sorry shifts
-&nbsp;&nbsp;&nbsp;&nbsp;Of hospitals, almshouses, infant schools,
-&nbsp;&nbsp;&nbsp;&nbsp;And other practical stuff of partial good
-&nbsp;&nbsp;&nbsp;&nbsp;You lovers of the beautiful and whole
-&nbsp;&nbsp;&nbsp;&nbsp;Despise by system."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;"I despise? The scorn
-&nbsp;&nbsp;&nbsp;&nbsp;Is yours, my cousin. Poets become such
-&nbsp;&nbsp;&nbsp;&nbsp;Through scorning nothing. You decry them for
-&nbsp;&nbsp;&nbsp;&nbsp;The good of beauty sung and taught by them,
-&nbsp;&nbsp;&nbsp;&nbsp;While they respect your practical partial good
-&nbsp;&nbsp;&nbsp;&nbsp;As being a part of beauty's self. Adieu!
-&nbsp;&nbsp;&nbsp;&nbsp;When God helps all the workers for His world,
-&nbsp;&nbsp;&nbsp;&nbsp;The singers shall have help of Him, not last."
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;He smiled as men smile when they will not speak
-&nbsp;&nbsp;&nbsp;&nbsp;Because of something bitter in the thought;
-&nbsp;&nbsp;&nbsp;&nbsp;And still I feel his melancholy eyes
-&nbsp;&nbsp;&nbsp;&nbsp;Look judgment on me. It is seven years since:
-&nbsp;&nbsp;&nbsp;&nbsp;I know not if 'twas pity or 'twas scorn
-&nbsp;&nbsp;&nbsp;&nbsp;Has made them so far-reaching: judge it ye
-&nbsp;&nbsp;&nbsp;&nbsp;Who have had to do with pity more than love
-&nbsp;&nbsp;&nbsp;&nbsp;And scorn than hatred. I am used, since then,
-&nbsp;&nbsp;&nbsp;&nbsp;To other ways, from equal men. But so,
-&nbsp;&nbsp;&nbsp;&nbsp;Even so, we let go hands, my cousin and I,
-&nbsp;&nbsp;&nbsp;&nbsp;And in between us rushed the torrent-world
-&nbsp;&nbsp;&nbsp;&nbsp;To blanch our faces like divided rocks,
-&nbsp;&nbsp;&nbsp;&nbsp;And bar for ever mutual sight and touch
-&nbsp;&nbsp;&nbsp;&nbsp;Except through swirl of spray and all that roar.
+&nbsp;&nbsp;&nbsp;&nbsp;"Leave the smile.
+&nbsp;&nbsp;&nbsp;&nbsp;I'll lose the thanks for't, ay, and throw you in
+&nbsp;&nbsp;&nbsp;&nbsp;My transatlantic girl, with golden eyes,
+&nbsp;&nbsp;&nbsp;&nbsp;That draw you to her splendid whiteness as
+&nbsp;&nbsp;&nbsp;&nbsp;The pistil of a water-lily draws,
+&nbsp;&nbsp;&nbsp;&nbsp;Adust with gold. Those girls across the sea
+&nbsp;&nbsp;&nbsp;&nbsp;Are tyrannously pretty, and I swore
+&nbsp;&nbsp;&nbsp;&nbsp;(She seemed to me an innocent, frank girl)
+&nbsp;&nbsp;&nbsp;&nbsp;To bring her to you for a woman's kiss,
+&nbsp;&nbsp;&nbsp;&nbsp;Not now, but on some other day or week:
+&nbsp;&nbsp;&nbsp;&nbsp;We'll call it perjury; I give her up."
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;"No, bring her."
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Now," said he, "you make it hard
+&nbsp;&nbsp;&nbsp;&nbsp;To touch such goodness with a grimy palm.
+&nbsp;&nbsp;&nbsp;&nbsp;I thought to tease you well, and fret you cross,
+&nbsp;&nbsp;&nbsp;&nbsp;And steel myself, when rightly vexed with you,
+&nbsp;&nbsp;&nbsp;&nbsp;For telling you a thing to tease you more."
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Of Romney?"
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;"No, no; nothing worse," he cried,
+&nbsp;&nbsp;&nbsp;&nbsp;"Of Romney Leigh than what is buzzed about,
+&nbsp;&nbsp;&nbsp;&nbsp;That he is taken in an eye-trap too,
+&nbsp;&nbsp;&nbsp;&nbsp;Like many half as wise. The thing I mean
+&nbsp;&nbsp;&nbsp;&nbsp;Refers to you, not him."
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Refers to me."
+&nbsp;&nbsp;&nbsp;&nbsp;He echoed, "Me! You sound it like a stone
+&nbsp;&nbsp;&nbsp;&nbsp;Dropped down a dry well very listlessly
+&nbsp;&nbsp;&nbsp;&nbsp;By one who never thinks about the toad
+&nbsp;&nbsp;&nbsp;&nbsp;Alive at the bottom. Presently perhaps
+&nbsp;&nbsp;&nbsp;&nbsp;You'll sound your 'me' more proudly till I shrink."
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Lord Howe's the toad, then, in this question?"
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Brief,
+&nbsp;&nbsp;&nbsp;&nbsp;We'll take it graver. Give me sofa-room,
+&nbsp;&nbsp;&nbsp;&nbsp;And quiet hearing. You know Eglinton,
+&nbsp;&nbsp;&nbsp;&nbsp;John Eglinton, of Eglinton in Kent?"
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Is he the toad? he's rather like the snail,
+&nbsp;&nbsp;&nbsp;&nbsp;Known chiefly for the house upon his back:
+&nbsp;&nbsp;&nbsp;&nbsp;Divide the man and house you kill the man;
+&nbsp;&nbsp;&nbsp;&nbsp;That's Eglinton of Eglinton, Lord Howe."
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;He answered grave. "A reputable man,
+&nbsp;&nbsp;&nbsp;&nbsp;An excellent landlord of the olden stamp,
+&nbsp;&nbsp;&nbsp;&nbsp;If somewhat slack in new philanthropies,
+&nbsp;&nbsp;&nbsp;&nbsp;Who keeps his birthdays with a tenants' dance,
+&nbsp;&nbsp;&nbsp;&nbsp;Is hard upon them when they miss the church
+&nbsp;&nbsp;&nbsp;&nbsp;Or hold their children back from catechism,
+&nbsp;&nbsp;&nbsp;&nbsp;But not ungentle when the agèd poor
+&nbsp;&nbsp;&nbsp;&nbsp;Pick sticks at hedge-sides: nay, I've heard him say
+&nbsp;&nbsp;&nbsp;&nbsp;'The old dame has a twinge because she stoops;
+&nbsp;&nbsp;&nbsp;&nbsp;That's punishment enough for felony.'"
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;"O tender-hearted landlord! may I take
+&nbsp;&nbsp;&nbsp;&nbsp;My long lease with him, when the time arrives
+&nbsp;&nbsp;&nbsp;&nbsp;For gathering winter-faggots!"
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;"He likes art,
+&nbsp;&nbsp;&nbsp;&nbsp;Buys books and pictures . . . of a certain kind;
+&nbsp;&nbsp;&nbsp;&nbsp;Neglects no patent duty; a good son" . . .
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;"To a most obedient mother. Born to wear
+&nbsp;&nbsp;&nbsp;&nbsp;His father's shoes, he wears her husband's too:
+&nbsp;&nbsp;&nbsp;&nbsp;Indeed I've heard it's touching. Dear Lord Howe,
+&nbsp;&nbsp;&nbsp;&nbsp;You shall not praise me so against your heart,
+&nbsp;&nbsp;&nbsp;&nbsp;When I'm at worst for praise and faggots."
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Be
+&nbsp;&nbsp;&nbsp;&nbsp;Less bitter with me, for . . . in short," he said,
+&nbsp;&nbsp;&nbsp;&nbsp;"I have a letter, which he urged me so
+&nbsp;&nbsp;&nbsp;&nbsp;To bring you . . . I could scarcely choose but yield;
+&nbsp;&nbsp;&nbsp;&nbsp;Insisting that a new love, passing through
+&nbsp;&nbsp;&nbsp;&nbsp;The hand of an old friendship, caught from it
+&nbsp;&nbsp;&nbsp;&nbsp;Some reconciling odour."
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Love, you say?
+&nbsp;&nbsp;&nbsp;&nbsp;My lord, I cannot love: I only find
+&nbsp;&nbsp;&nbsp;&nbsp;The rhyme for love, and that's not love, my lord.
+&nbsp;&nbsp;&nbsp;&nbsp;Take back your letter."
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Pause: you'll read it first?"
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;"I will not read it: it is stereotyped;
+&nbsp;&nbsp;&nbsp;&nbsp;The same he wrote to, anybody's name,
+&nbsp;&nbsp;&nbsp;&nbsp;Anne Blythe the actress, when she died so true,
+&nbsp;&nbsp;&nbsp;&nbsp;A duchess fainted in a private box:
+&nbsp;&nbsp;&nbsp;&nbsp;Pauline the dancer, after the great pas
+&nbsp;&nbsp;&nbsp;&nbsp;In which her little feet winked overhead
+&nbsp;&nbsp;&nbsp;&nbsp;Like other fire-flies, and amazed the pit:
+&nbsp;&nbsp;&nbsp;&nbsp;Or Baldinacci, when her F in alt
+&nbsp;&nbsp;&nbsp;&nbsp;Had touched the silver tops of heaven itself
+&nbsp;&nbsp;&nbsp;&nbsp;With such a pungent spirit-dart, the Queen
+&nbsp;&nbsp;&nbsp;&nbsp;Laid softly, each to each, her white-gloved palms,
+&nbsp;&nbsp;&nbsp;&nbsp;And sighed for joy: or else (I thank your friend)
+&nbsp;&nbsp;&nbsp;&nbsp;Aurora Leigh, when some indifferent rhymes,
+&nbsp;&nbsp;&nbsp;&nbsp;Like those the boys sang round the holy ox
+&nbsp;&nbsp;&nbsp;&nbsp;On Memphis-highway, chance perhaps to set
+&nbsp;&nbsp;&nbsp;&nbsp;Our Apis-public lowing. Oh, he wants,
+&nbsp;&nbsp;&nbsp;&nbsp;Instead of any worthy wife at home,
+&nbsp;&nbsp;&nbsp;&nbsp;A star upon his stage of Eglinton?
+&nbsp;&nbsp;&nbsp;&nbsp;Advise him that he is not overshrewd
+&nbsp;&nbsp;&nbsp;&nbsp;In being so little modest: a dropped star
+&nbsp;&nbsp;&nbsp;&nbsp;Makes bitter waters, says a Book I've read,
+&nbsp;&nbsp;&nbsp;&nbsp;And there's his unread letter."
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;"My dear friend,"
+&nbsp;&nbsp;&nbsp;&nbsp;Lord Howe began . . .
+
+
+&nbsp;&nbsp;&nbsp;&nbsp; In haste I tore the phrase.
+&nbsp;&nbsp;&nbsp;&nbsp;"You mean your friend of Eglinton, or me?"
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;"I mean you, you," he answered with some fire.
+&nbsp;&nbsp;&nbsp;&nbsp;"A happy life means prudent compromise;
+&nbsp;&nbsp;&nbsp;&nbsp;The tare runs through the farmer's garnered sheaves,
+&nbsp;&nbsp;&nbsp;&nbsp;And though the gleaner's apron holds pure wheat
+&nbsp;&nbsp;&nbsp;&nbsp;We count her poorer. Tare with wheat, we cry,
+&nbsp;&nbsp;&nbsp;&nbsp;And good with drawbacks. You, you love your art,
+&nbsp;&nbsp;&nbsp;&nbsp;And, certain of vocation, set your soul
+&nbsp;&nbsp;&nbsp;&nbsp;On utterance. Only, in this world we have made
+&nbsp;&nbsp;&nbsp;&nbsp;(They say God made it first, but if He did
+&nbsp;&nbsp;&nbsp;&nbsp;'Twas so long since, and, since, we have spoiled it so,
+&nbsp;&nbsp;&nbsp;&nbsp;He scarce would know it, if He looked this way,
+&nbsp;&nbsp;&nbsp;&nbsp;From hells we preach of, with the flames blown out),
+&nbsp;&nbsp;&nbsp;&nbsp;In this bad, twisted, topsy-turvy world
+&nbsp;&nbsp;&nbsp;&nbsp;Where all the heaviest wrongs get uppermost,
+&nbsp;&nbsp;&nbsp;&nbsp;In this uneven, unfostering England here,
+&nbsp;&nbsp;&nbsp;&nbsp;Where ledger-strokes and sword-strokes count indeed,
+&nbsp;&nbsp;&nbsp;&nbsp;But soul-strokes merely tell upon the flesh
+&nbsp;&nbsp;&nbsp;&nbsp;They strike from, it is hard to stand for art,
+&nbsp;&nbsp;&nbsp;&nbsp;Unless some golden tripod from the sea
+&nbsp;&nbsp;&nbsp;&nbsp;Be fished up, by Apollo's divine chance,
+&nbsp;&nbsp;&nbsp;&nbsp;To throne such feet as yours, my prophetess,
+&nbsp;&nbsp;&nbsp;&nbsp;At Delphi. Think, the god comes down as fierce
+&nbsp;&nbsp;&nbsp;&nbsp;As twenty bloodhounds, shakes you, strangles you,
+&nbsp;&nbsp;&nbsp;&nbsp;Until the oracular shriek shall ooze in froth!
+&nbsp;&nbsp;&nbsp;&nbsp;At best 'tis not all ease, at worst too hard:
+&nbsp;&nbsp;&nbsp;&nbsp;A place to stand on is a 'vantage gained,
+&nbsp;&nbsp;&nbsp;&nbsp;And here's your tripod. To be plain, dear friend,
+&nbsp;&nbsp;&nbsp;&nbsp;You're poor, except in what you richly give;
+&nbsp;&nbsp;&nbsp;&nbsp;You labour for your own bread painfully
+&nbsp;&nbsp;&nbsp;&nbsp;Or ere you pour our wine. For art's sake, pause."
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;I answered slow, as some wayfaring man,
+&nbsp;&nbsp;&nbsp;&nbsp;Who feels himself at night too far from home,
+&nbsp;&nbsp;&nbsp;&nbsp;Makes steadfast face against the bitter wind.
+&nbsp;&nbsp;&nbsp;&nbsp;"Is art so less a thing than virtue is,
+&nbsp;&nbsp;&nbsp;&nbsp;That artists first must cater for their ease
+&nbsp;&nbsp;&nbsp;&nbsp;Or ever they make issue past themselves
+&nbsp;&nbsp;&nbsp;&nbsp;To generous use? Alas, and is it so
+&nbsp;&nbsp;&nbsp;&nbsp;That we, who would be somewhat clean, must sweep
+&nbsp;&nbsp;&nbsp;&nbsp;Our ways as well as walk them, and no friend
+&nbsp;&nbsp;&nbsp;&nbsp;Confirm us nobly, 'Leave results to God,
+&nbsp;&nbsp;&nbsp;&nbsp;But you, be clean?' What! 'prudent compromise
+&nbsp;&nbsp;&nbsp;&nbsp;Makes acceptable life,' you say instead,
+&nbsp;&nbsp;&nbsp;&nbsp;You, you, Lord Howe? in things indifferent, well.
+&nbsp;&nbsp;&nbsp;&nbsp;For instance, compromise the wheaten bread
+&nbsp;&nbsp;&nbsp;&nbsp;For rye, the meat for lentils, silk for serge,
+&nbsp;&nbsp;&nbsp;&nbsp;And sleep on down, if needs, for sleep on straw;
+&nbsp;&nbsp;&nbsp;&nbsp;But there, end compromise. I will not bate
+&nbsp;&nbsp;&nbsp;&nbsp;One artist-dream on straw or down, my lord,
+&nbsp;&nbsp;&nbsp;&nbsp;Nor pinch my liberal soul, though I be poor,
+&nbsp;&nbsp;&nbsp;&nbsp;Nor cease to love high, though I live thus low."
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;So speaking, with less anger in my voice
+&nbsp;&nbsp;&nbsp;&nbsp;Than sorrow, I rose quickly to depart;
+&nbsp;&nbsp;&nbsp;&nbsp;While he, thrown back upon the noble shame
+&nbsp;&nbsp;&nbsp;&nbsp;Of such high-stumbling natures, murmured words,
+&nbsp;&nbsp;&nbsp;&nbsp;The right words after wrong ones. Ah, the man
+&nbsp;&nbsp;&nbsp;&nbsp;Is worthy, but so given to entertain
+&nbsp;&nbsp;&nbsp;&nbsp;Impossible plans of superhuman life,
+&nbsp;&nbsp;&nbsp;&nbsp;He sets his virtues on so raised a shelf,
+&nbsp;&nbsp;&nbsp;&nbsp;To keep them at the grand millennial height,
+&nbsp;&nbsp;&nbsp;&nbsp;He has to mount a stool to get at them;
+&nbsp;&nbsp;&nbsp;&nbsp;And, meantime, lives on quite the common way,
+&nbsp;&nbsp;&nbsp;&nbsp;With everybody's morals.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;As we passed,
+&nbsp;&nbsp;&nbsp;&nbsp;Lord Howe insisting that his friendly arm
+&nbsp;&nbsp;&nbsp;&nbsp;Should oar me across the sparkling brawling stream
+&nbsp;&nbsp;&nbsp;&nbsp;Which swept from room to room, we fell at once
+&nbsp;&nbsp;&nbsp;&nbsp;On Lady Waldemar. "Miss Leigh," she said,
+&nbsp;&nbsp;&nbsp;&nbsp;And gave me such a smile, so cold and bright,
+&nbsp;&nbsp;&nbsp;&nbsp;As if she tried it in a 'tiring glass
+&nbsp;&nbsp;&nbsp;&nbsp;And liked it, "all to-night I've strained at you
+&nbsp;&nbsp;&nbsp;&nbsp;As babes at baubles held up out of reach
+&nbsp;&nbsp;&nbsp;&nbsp;By spiteful nurses ('Never snatch,' they say),
+&nbsp;&nbsp;&nbsp;&nbsp;And there you sat, most perfectly shut in
+&nbsp;&nbsp;&nbsp;&nbsp;By good Sir Blaise and clever Mister Smith
+&nbsp;&nbsp;&nbsp;&nbsp;And then our dear Lord Howe! at last indeed
+&nbsp;&nbsp;&nbsp;&nbsp;I almost snatched. I have a world to speak
+&nbsp;&nbsp;&nbsp;&nbsp;About your cousin's place in Shropshire, where
+&nbsp;&nbsp;&nbsp;&nbsp;I've been to see his work . . . our work, you heard
+&nbsp;&nbsp;&nbsp;&nbsp;I went? . . . and of a letter yesterday,
+&nbsp;&nbsp;&nbsp;&nbsp;In which if I should read a page or two
+&nbsp;&nbsp;&nbsp;&nbsp;You might feel interest, though you're locked of course
+&nbsp;&nbsp;&nbsp;&nbsp;In literary toil. You'll like to hear
+&nbsp;&nbsp;&nbsp;&nbsp;Your last book lies at the phalanstery,
+&nbsp;&nbsp;&nbsp;&nbsp;As judged innocuous for the elder girls
+&nbsp;&nbsp;&nbsp;&nbsp;And younger women who still care for books.
+&nbsp;&nbsp;&nbsp;&nbsp;We all must read, you see, before we live,
+&nbsp;&nbsp;&nbsp;&nbsp;Till slowly the ineffable light comes up
+&nbsp;&nbsp;&nbsp;&nbsp;And, as it deepens, drowns the written word,
+&nbsp;&nbsp;&nbsp;&nbsp;So said your cousin, while we stood and felt
+&nbsp;&nbsp;&nbsp;&nbsp;A sunset from his favourite beech-tree seat.
+&nbsp;&nbsp;&nbsp;&nbsp;He might have been a poet if he would,
+&nbsp;&nbsp;&nbsp;&nbsp;But then he saw the higher thing at once
+&nbsp;&nbsp;&nbsp;&nbsp;And climbed to it. I think he looks well now,
+&nbsp;&nbsp;&nbsp;&nbsp;Has quite got over that unfortunate . . .
+&nbsp;&nbsp;&nbsp;&nbsp;Ah, ah . . . I know it moved you. Tender-heart!
+&nbsp;&nbsp;&nbsp;&nbsp;You took a liking to the wretched girl.
+&nbsp;&nbsp;&nbsp;&nbsp;Perhaps you thought the marriage suitable,
+&nbsp;&nbsp;&nbsp;&nbsp;Who knows? a poet hankers for romance,
+&nbsp;&nbsp;&nbsp;&nbsp;And so on. As for Romney Leigh, 'tis sure
+&nbsp;&nbsp;&nbsp;&nbsp;He never loved her, never. By the way,
+&nbsp;&nbsp;&nbsp;&nbsp;You have not heard of her . . .? quite out of sight,
+&nbsp;&nbsp;&nbsp;&nbsp;And out of saving? lost in every sense?"
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;She might have gone on talking half an hour
+&nbsp;&nbsp;&nbsp;&nbsp;And I stood still, and cold, and pale, I think,
+&nbsp;&nbsp;&nbsp;&nbsp;As a garden-statue a child pelts with snow
+&nbsp;&nbsp;&nbsp;&nbsp;For pretty pastime. Every now and then
+&nbsp;&nbsp;&nbsp;&nbsp;I put in "yes" or "no," I scarce knew why;
+&nbsp;&nbsp;&nbsp;&nbsp;The blind man walks wherever the dog pulls,
+&nbsp;&nbsp;&nbsp;&nbsp;And so I answered. Till Lord Howe broke in:
+&nbsp;&nbsp;&nbsp;&nbsp;"What penance takes the wretch who interrupts
+&nbsp;&nbsp;&nbsp;&nbsp;The talk of charming women? I, at last,
+&nbsp;&nbsp;&nbsp;&nbsp;Must brave it. Pardon, Lady Waldemar,
+&nbsp;&nbsp;&nbsp;&nbsp;The lady on my arm is tired, unwell,
+&nbsp;&nbsp;&nbsp;&nbsp;And loyally I've promised she shall say
+&nbsp;&nbsp;&nbsp;&nbsp;No harder word this evening than . . .good-night;
+&nbsp;&nbsp;&nbsp;&nbsp;The rest her face speaks for her." Then we went.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;And I breathe large at home. I drop my cloak,
+&nbsp;&nbsp;&nbsp;&nbsp;Unclasp my girdle, loose the band that ties
+&nbsp;&nbsp;&nbsp;&nbsp;My hair . . . now could I but unloose my soul!
+&nbsp;&nbsp;&nbsp;&nbsp;We are sepulchred alive in this close world,
+&nbsp;&nbsp;&nbsp;&nbsp;And want more room.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;The charming woman there
+&nbsp;&nbsp;&nbsp;&nbsp;This reckoning up and writing down her talk
+&nbsp;&nbsp;&nbsp;&nbsp;Affects me singularly. How she talked
+&nbsp;&nbsp;&nbsp;&nbsp;To pain me! woman's spite. You wear steel-mail:
+&nbsp;&nbsp;&nbsp;&nbsp;A woman takes a housewife from her breast
+&nbsp;&nbsp;&nbsp;&nbsp;And plucks the delicatest needle out
+&nbsp;&nbsp;&nbsp;&nbsp;As 'twere a rose, and pricks you carefully
+&nbsp;&nbsp;&nbsp;&nbsp;'Neath nails, 'neath eyelids, in your nostrils, say,
+&nbsp;&nbsp;&nbsp;&nbsp;A beast would roar so tortured, but a man,
+&nbsp;&nbsp;&nbsp;&nbsp;A human creature, must not, shall not flinch,
+&nbsp;&nbsp;&nbsp;&nbsp;No, not for shame.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;What vexes, after all,
+&nbsp;&nbsp;&nbsp;&nbsp;Is just that such as she, with such as I,
+&nbsp;&nbsp;&nbsp;&nbsp;Knows how to vex. Sweet heaven, she takes me up
+&nbsp;&nbsp;&nbsp;&nbsp;As if she had fingered me and dog-eared me
+&nbsp;&nbsp;&nbsp;&nbsp;And spelled me by the fireside half a life!
+&nbsp;&nbsp;&nbsp;&nbsp;She knows my turns, my feeble points. What then?
+&nbsp;&nbsp;&nbsp;&nbsp;The knowledge of a thing implies the thing;
+&nbsp;&nbsp;&nbsp;&nbsp;Of course, she found that in me, she saw that,
+&nbsp;&nbsp;&nbsp;&nbsp;Her pencil underscored this for a fault,
+&nbsp;&nbsp;&nbsp;&nbsp;And I, still ignorant. Shut the book up, close!
+&nbsp;&nbsp;&nbsp;&nbsp;And crush that beetle in the leaves.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;O heart,
+&nbsp;&nbsp;&nbsp;&nbsp;At last we shall grow hard too, like the rest,
+&nbsp;&nbsp;&nbsp;&nbsp;And call it self-defence because we are soft.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;And after all, now . . . why should I be pained
+&nbsp;&nbsp;&nbsp;&nbsp;That Romney Leigh, my cousin, should espouse
+&nbsp;&nbsp;&nbsp;&nbsp;This Lady Waldemar? And, say, she held
+&nbsp;&nbsp;&nbsp;&nbsp;Her newly-blossomed gladness in my face, . . .
+&nbsp;&nbsp;&nbsp;&nbsp;'Twas natural surely, if not generous,
+&nbsp;&nbsp;&nbsp;&nbsp;Considering how, when winter held her fast,
+&nbsp;&nbsp;&nbsp;&nbsp;I helped the frost with mine, and pained her more
+&nbsp;&nbsp;&nbsp;&nbsp;Than she pains me. Pains me! but wherefore pained?
+&nbsp;&nbsp;&nbsp;&nbsp;'Tis clear my cousin Romney wants a wife,
+&nbsp;&nbsp;&nbsp;&nbsp;So, good! The man's need of the woman, here,
+&nbsp;&nbsp;&nbsp;&nbsp;Is greater than the woman's of the man,
+&nbsp;&nbsp;&nbsp;&nbsp;And easier served; for where the man discerns
+&nbsp;&nbsp;&nbsp;&nbsp;A sex (ah, ah, the man can generalise,
+&nbsp;&nbsp;&nbsp;&nbsp;Said he), we see but one, ideally
+&nbsp;&nbsp;&nbsp;&nbsp;And really: where we yearn to lose ourselves
+&nbsp;&nbsp;&nbsp;&nbsp;And melt like white pearls in another's wine,
+&nbsp;&nbsp;&nbsp;&nbsp;He seeks to double himself by what he loves,
+&nbsp;&nbsp;&nbsp;&nbsp;And make his drink more costly by our pearls.
+&nbsp;&nbsp;&nbsp;&nbsp;At board, at bed, at work and holiday,
+&nbsp;&nbsp;&nbsp;&nbsp;It is not good for man to be alone,
+&nbsp;&nbsp;&nbsp;&nbsp;And that's his way of thinking, first and last,
+&nbsp;&nbsp;&nbsp;&nbsp;And thus my cousin Romney wants a wife.
+&nbsp;&nbsp;&nbsp;&nbsp;But then my cousin sets his dignity
+&nbsp;&nbsp;&nbsp;&nbsp;On personal virtue. If he understands
+&nbsp;&nbsp;&nbsp;&nbsp;By love, like others, self-aggrandisement,
+&nbsp;&nbsp;&nbsp;&nbsp;It is that he may verily be great
+&nbsp;&nbsp;&nbsp;&nbsp;By doing rightly and kindly. Once he thought,
+&nbsp;&nbsp;&nbsp;&nbsp;For charitable ends set duly forth
+&nbsp;&nbsp;&nbsp;&nbsp;In Heaven's white judgment-book, to marry . . . ah,
+&nbsp;&nbsp;&nbsp;&nbsp;We'll call her name Aurora Leigh, although
+&nbsp;&nbsp;&nbsp;&nbsp;She's changed since then! and once, for social ends,
+&nbsp;&nbsp;&nbsp;&nbsp;Poor Marian Erle, my sister Marian Erle,
+&nbsp;&nbsp;&nbsp;&nbsp;My woodland sister, sweet maid Marian,
+&nbsp;&nbsp;&nbsp;&nbsp;Whose memory moans on in me like the wind
+&nbsp;&nbsp;&nbsp;&nbsp;Through ill-shut casements, making me more sad
+&nbsp;&nbsp;&nbsp;&nbsp;Than ever I find reasons for. Alas,
+&nbsp;&nbsp;&nbsp;&nbsp;Poor pretty plaintive face, embodied ghost!
+&nbsp;&nbsp;&nbsp;&nbsp;He finds it easy then, to clap thee off
+&nbsp;&nbsp;&nbsp;&nbsp;From pulling at his sleeve and book and pen,
+&nbsp;&nbsp;&nbsp;&nbsp;He locks thee out at night into the cold
+&nbsp;&nbsp;&nbsp;&nbsp;Away from butting with thy horny eyes
+&nbsp;&nbsp;&nbsp;&nbsp;Against his crystal dreams, that now he's strong
+&nbsp;&nbsp;&nbsp;&nbsp;To love anew? that Lady Waldemar
+&nbsp;&nbsp;&nbsp;&nbsp;Succeeds my Marian?
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;After all, why not?
+&nbsp;&nbsp;&nbsp;&nbsp;He loved not Marian, more than once he loved
+&nbsp;&nbsp;&nbsp;&nbsp;Aurora. If he loves at last that Third,
+&nbsp;&nbsp;&nbsp;&nbsp;Albeit she prove as slippery as spilt oil
+&nbsp;&nbsp;&nbsp;&nbsp;On marble floors, I will not augur him
+&nbsp;&nbsp;&nbsp;&nbsp;Ill-luck for that. Good love, howe'er ill-placed,
+&nbsp;&nbsp;&nbsp;&nbsp;Is better for a man's soul in the end,
+&nbsp;&nbsp;&nbsp;&nbsp;That if he loved ill what deserves love well.
+&nbsp;&nbsp;&nbsp;&nbsp;A pagan, kissing for a step of Pan
+&nbsp;&nbsp;&nbsp;&nbsp;The wild-goat's hoof-print on the loamy down,
+&nbsp;&nbsp;&nbsp;&nbsp;Exceeds our modern thinker who turns back
+&nbsp;&nbsp;&nbsp;&nbsp;The strata . . . granite, limestone, coal, and clay,
+&nbsp;&nbsp;&nbsp;&nbsp;Concluding coldly with "Here's law! where's God?"
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;And then at worst, if Romney loves her not,
+&nbsp;&nbsp;&nbsp;&nbsp;At worst if he's incapable of love,
+&nbsp;&nbsp;&nbsp;&nbsp;Which may be then indeed, for such a man
+&nbsp;&nbsp;&nbsp;&nbsp;Incapable of love, she's good enough;
+&nbsp;&nbsp;&nbsp;&nbsp;For she, at worst too, is a woman still
+&nbsp;&nbsp;&nbsp;&nbsp;And loves him . . . as the sort of woman can.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;My loose long hair began to burn and creep,
+&nbsp;&nbsp;&nbsp;&nbsp;Alive to the very ends, about my knees:
+&nbsp;&nbsp;&nbsp;&nbsp;I swept it backward as the wind sweeps flame,
+&nbsp;&nbsp;&nbsp;&nbsp;With the passion of my hands. Ah, Romney laughed
+&nbsp;&nbsp;&nbsp;&nbsp;One day . . . (how full the memories come up!)
+&nbsp;&nbsp;&nbsp;&nbsp;" Your Florence fire-flies live on in your hair,"
+&nbsp;&nbsp;&nbsp;&nbsp;He said, "it gleams so." Well, I wrung them out,
+&nbsp;&nbsp;&nbsp;&nbsp;My fire-flies; made a knot as hard as life
+&nbsp;&nbsp;&nbsp;&nbsp;Of those loose, soft, impracticable curls,
+&nbsp;&nbsp;&nbsp;&nbsp;And then sat down and thought . . . "She shall not think
+&nbsp;&nbsp;&nbsp;&nbsp;Her thought of me," and drew my desk and wrote.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Dear Lady Waldemar, I could not speak
+&nbsp;&nbsp;&nbsp;&nbsp;With people round me, nor can sleep to-night
+&nbsp;&nbsp;&nbsp;&nbsp;And not speak, after the great news I heard
+&nbsp;&nbsp;&nbsp;&nbsp;Of you and of my cousin. May you be
+&nbsp;&nbsp;&nbsp;&nbsp;Most happy; and the good he meant the world
+&nbsp;&nbsp;&nbsp;&nbsp;Replenish his own life. Say what I say,
+&nbsp;&nbsp;&nbsp;&nbsp;And let my word be sweeter for your mouth,
+&nbsp;&nbsp;&nbsp;&nbsp;As you are you . . . I only Aurora Leigh."
+&nbsp;&nbsp;&nbsp;&nbsp;That's quiet, guarded: though she hold it up
+&nbsp;&nbsp;&nbsp;&nbsp;Against the light, she'll not see through it more
+&nbsp;&nbsp;&nbsp;&nbsp;Than lies there to be seen. So much for pride;
+&nbsp;&nbsp;&nbsp;&nbsp;And now for peace, a little. Let me stop
+&nbsp;&nbsp;&nbsp;&nbsp;All writing back . . . "Sweet thanks, my sweetest friend,
+&nbsp;&nbsp;&nbsp;&nbsp;You've made more joyful my great joy itself."
+&nbsp;&nbsp;&nbsp;&nbsp;No, that's too simple! she would twist it thus,
+&nbsp;&nbsp;&nbsp;&nbsp;"My joy would still be as sweet as thyme in drawers,
+&nbsp;&nbsp;&nbsp;&nbsp;However shut up in the dark and dry;
+&nbsp;&nbsp;&nbsp;&nbsp;But violets, aired and dewed by love like yours,
+&nbsp;&nbsp;&nbsp;&nbsp;Out-smell all thyme: we keep that in our clothes,
+&nbsp;&nbsp;&nbsp;&nbsp;But drop the other down our bosoms till
+&nbsp;&nbsp;&nbsp;&nbsp;They smell like " . . . ah, I see her writing back
+&nbsp;&nbsp;&nbsp;&nbsp;Just so. She'll make a nosegay of her words,
+&nbsp;&nbsp;&nbsp;&nbsp;And tie it with blue ribbons at the end
+&nbsp;&nbsp;&nbsp;&nbsp;To suit a poet; pshaw!
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;And then we'll have
+&nbsp;&nbsp;&nbsp;&nbsp;The call to church, the broken, sad, bad dream
+&nbsp;&nbsp;&nbsp;&nbsp;Dreamed out at last, the marriage-vow complete
+&nbsp;&nbsp;&nbsp;&nbsp;With the marriage breakfast; praying in white gloves,
+&nbsp;&nbsp;&nbsp;&nbsp;Drawn off in haste for drinking pagan toasts
+&nbsp;&nbsp;&nbsp;&nbsp;In somewhat stronger wine than any sipped
+&nbsp;&nbsp;&nbsp;&nbsp;By gods since Bacchus had his way with grapes.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;A postscript stops all that and rescues me.
+&nbsp;&nbsp;&nbsp;&nbsp;"You need not write. I have been overworked,
+&nbsp;&nbsp;&nbsp;&nbsp;And think of leaving London, England even,
+&nbsp;&nbsp;&nbsp;&nbsp;And hastening to get nearer to the sun
+&nbsp;&nbsp;&nbsp;&nbsp;Where men sleep better. So, adieu." I fold
+&nbsp;&nbsp;&nbsp;&nbsp;And seal, and now I'm out of all the coil;
+&nbsp;&nbsp;&nbsp;&nbsp;I breathe now, I spring upward like a branch
+&nbsp;&nbsp;&nbsp;&nbsp;The ten-years school-boy with a crooked stick
+&nbsp;&nbsp;&nbsp;&nbsp;May pull down to his level in search of nuts,
+&nbsp;&nbsp;&nbsp;&nbsp;But cannot hold a moment. How we twang
+&nbsp;&nbsp;&nbsp;&nbsp;Back on the blue sky, and assert our height,
+&nbsp;&nbsp;&nbsp;&nbsp;While he stares after! Now, the wonder seems
+&nbsp;&nbsp;&nbsp;&nbsp;That I could wrong myself by such a doubt.
+&nbsp;&nbsp;&nbsp;&nbsp;We poets always have uneasy hearts,
+&nbsp;&nbsp;&nbsp;&nbsp;Because our hearts, large-rounded as the globe,
+&nbsp;&nbsp;&nbsp;&nbsp;Can turn but one side to the sun at once.
+&nbsp;&nbsp;&nbsp;&nbsp;We are used to dip our artist-hands in gall
+&nbsp;&nbsp;&nbsp;&nbsp;And potash, trying potentialities
+&nbsp;&nbsp;&nbsp;&nbsp;Of alternated colour, till at last
+&nbsp;&nbsp;&nbsp;&nbsp;We get confused, and wonder for our skin
+&nbsp;&nbsp;&nbsp;&nbsp;How nature tinged it first. Well here's the true
+&nbsp;&nbsp;&nbsp;&nbsp;Good flesh-colour; I recognise my hand,
+&nbsp;&nbsp;&nbsp;&nbsp;Which Romney Leigh may clasp as just a friend's,
+&nbsp;&nbsp;&nbsp;&nbsp;And keep his clean.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;And now, my Italy.
+&nbsp;&nbsp;&nbsp;&nbsp;Alas, if we could ride with naked souls
+&nbsp;&nbsp;&nbsp;&nbsp;And make no noise and pay no price at all,
+&nbsp;&nbsp;&nbsp;&nbsp;I would have seen thee sooner, Italy,
+&nbsp;&nbsp;&nbsp;&nbsp;For still I have heard thee crying through my life,
+&nbsp;&nbsp;&nbsp;&nbsp;Thou piercing silence of ecstatic graves,
+&nbsp;&nbsp;&nbsp;&nbsp;Men call that name!
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;But even a witch to-day
+&nbsp;&nbsp;&nbsp;&nbsp;Must melt down golden pieces in the nard
+&nbsp;&nbsp;&nbsp;&nbsp;Wherewith to anoint her broomstick ere she rides;
+&nbsp;&nbsp;&nbsp;&nbsp;And poets evermore are scant of gold,
+&nbsp;&nbsp;&nbsp;&nbsp;And if they find a piece behind the door
+&nbsp;&nbsp;&nbsp;&nbsp;It turns by sunset to a withered leaf.
+&nbsp;&nbsp;&nbsp;&nbsp;The Devil himself scarce trusts his patented
+&nbsp;&nbsp;&nbsp;&nbsp;Gold-making art to any who make rhymes,
+&nbsp;&nbsp;&nbsp;&nbsp;But culls his Faustus from philosophers
+&nbsp;&nbsp;&nbsp;&nbsp;And not from poets. "Leave my Job," said God;
+&nbsp;&nbsp;&nbsp;&nbsp;And so the Devil leaves him without pence,
+&nbsp;&nbsp;&nbsp;&nbsp;And poverty proves plainly special grace.
+&nbsp;&nbsp;&nbsp;&nbsp;In these new, just, administrative times
+&nbsp;&nbsp;&nbsp;&nbsp;Men clamour for an order of merit: why?
+&nbsp;&nbsp;&nbsp;&nbsp;Here's black bread on the table and no wine!
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;At least I am a poet in being poor,
+&nbsp;&nbsp;&nbsp;&nbsp;Thank God. I wonder if the manuscript
+&nbsp;&nbsp;&nbsp;&nbsp;Of my long poem, if 'twere sold outright,
+&nbsp;&nbsp;&nbsp;&nbsp;Would fetch enough to buy me shoes to go
+&nbsp;&nbsp;&nbsp;&nbsp;Afoot (thrown in, the necessary patch
+&nbsp;&nbsp;&nbsp;&nbsp;For the other side the Alps)? It cannot be.
+&nbsp;&nbsp;&nbsp;&nbsp;I fear that I must sell this residue
+&nbsp;&nbsp;&nbsp;&nbsp;Of my father's books, although the Elzevirs
+&nbsp;&nbsp;&nbsp;&nbsp;Have fly-leaves overwritten by his hand
+&nbsp;&nbsp;&nbsp;&nbsp;In faded notes as thick and fine and brown
+&nbsp;&nbsp;&nbsp;&nbsp;As cobwebs on a tawny monument
+&nbsp;&nbsp;&nbsp;&nbsp;Of the old Greeks conferenda hæc cum his
+&nbsp;&nbsp;&nbsp;&nbsp;Corruptè citat lege potiùs,
+&nbsp;&nbsp;&nbsp;&nbsp;And so on, in the scholar's regal way
+&nbsp;&nbsp;&nbsp;&nbsp;Of giving judgment on the parts of speech,
+&nbsp;&nbsp;&nbsp;&nbsp;As if he sat on all twelve thrones up-piled,
+&nbsp;&nbsp;&nbsp;&nbsp;Arraigning Israel. Ay, but books and notes
+&nbsp;&nbsp;&nbsp;&nbsp;Must go together. And this Proclus too,
+&nbsp;&nbsp;&nbsp;&nbsp;In these dear quaint contracted Grecian types,
+&nbsp;&nbsp;&nbsp;&nbsp;Fantastically crumpled like his thoughts
+&nbsp;&nbsp;&nbsp;&nbsp;Which would not seem too plain; you go round twice
+&nbsp;&nbsp;&nbsp;&nbsp;For one step forward, then you take it back
+&nbsp;&nbsp;&nbsp;&nbsp;Because you're somewhat giddy; there's the rule
+&nbsp;&nbsp;&nbsp;&nbsp;For Proclus. Ah, I stained this middle leaf
+&nbsp;&nbsp;&nbsp;&nbsp;With pressing in't my Florence iris-bell,
+&nbsp;&nbsp;&nbsp;&nbsp;Long stalk and all: my father chided me
+&nbsp;&nbsp;&nbsp;&nbsp;For that stain of blue blood, I recollect
+&nbsp;&nbsp;&nbsp;&nbsp;The peevish turn his voice took, "Silly girls,
+&nbsp;&nbsp;&nbsp;&nbsp;Who plant their flowers in our philosophy
+&nbsp;&nbsp;&nbsp;&nbsp;To make it fine, and only spoil the book!
+&nbsp;&nbsp;&nbsp;&nbsp;No more of it, Aurora." Yes no more!
+&nbsp;&nbsp;&nbsp;&nbsp;Ah, blame of love, that's sweeter than all praise
+&nbsp;&nbsp;&nbsp;&nbsp;Of those who love not! 'tis so lost to me,
+&nbsp;&nbsp;&nbsp;&nbsp;I cannot, in such beggared life, afford
+&nbsp;&nbsp;&nbsp;&nbsp;To lose my Proclus, not for Florence even.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;The kissing Judas, Wolff, shall go instead,
+&nbsp;&nbsp;&nbsp;&nbsp;Who builds us such a royal book as this
+&nbsp;&nbsp;&nbsp;&nbsp;To honour a chief-poet, folio-built,
+&nbsp;&nbsp;&nbsp;&nbsp;And writes above "The house of Nobody!"
+&nbsp;&nbsp;&nbsp;&nbsp;Who floats in cream, as rich as any sucked
+&nbsp;&nbsp;&nbsp;&nbsp;From Juno's breasts, the broad Homeric lines,
+&nbsp;&nbsp;&nbsp;&nbsp;And, while with their spondaic prodigious mouths
+&nbsp;&nbsp;&nbsp;&nbsp;They lap the lucent margins as babe-gods,
+&nbsp;&nbsp;&nbsp;&nbsp;Proclaims them bastards. Wolff's an atheist:
+&nbsp;&nbsp;&nbsp;&nbsp;And if the Iliad fell out, as he says,
+&nbsp;&nbsp;&nbsp;&nbsp;By mere fortuitous concourse of old songs,
+&nbsp;&nbsp;&nbsp;&nbsp;Conclude as much too for the universe.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;That Wolff, those Platos: sweep the upper shelves
+&nbsp;&nbsp;&nbsp;&nbsp;As clean as this, and so I am almost rich,
+&nbsp;&nbsp;&nbsp;&nbsp;Which means, not forced to think of being poor
+&nbsp;&nbsp;&nbsp;&nbsp;In sight of ends. To-morrow: no delay.
+&nbsp;&nbsp;&nbsp;&nbsp;I'll wait in Paris till good Carrington
+&nbsp;&nbsp;&nbsp;&nbsp;Dispose of such and, having chaffered for
+&nbsp;&nbsp;&nbsp;&nbsp;My book's price with the publisher, direct
+&nbsp;&nbsp;&nbsp;&nbsp;All proceeds to me. Just a line to ask
+&nbsp;&nbsp;&nbsp;&nbsp;His help.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;And now I come, my Italy,
+&nbsp;&nbsp;&nbsp;&nbsp;My own hills! Are you 'ware of me, my hills,
+&nbsp;&nbsp;&nbsp;&nbsp;How I burn toward you? do you feel to-night
+&nbsp;&nbsp;&nbsp;&nbsp;The urgency and yearning of my soul,
+&nbsp;&nbsp;&nbsp;&nbsp;As sleeping mothers feel the sucking babe
+&nbsp;&nbsp;&nbsp;&nbsp;And smile? Nay, not so much as when in heat
+&nbsp;&nbsp;&nbsp;&nbsp;Vain lightnings catch at your inviolate tops
+&nbsp;&nbsp;&nbsp;&nbsp;And tremble while ye are steadfast. Still ye go
+&nbsp;&nbsp;&nbsp;&nbsp;Your own determined, calm, indifferent way
+&nbsp;&nbsp;&nbsp;&nbsp;Toward sunrise, shade by shade, and light by light,
+&nbsp;&nbsp;&nbsp;&nbsp;Of all the grand progression nought left out,
+&nbsp;&nbsp;&nbsp;&nbsp;As if God verily made you for yourselves
+&nbsp;&nbsp;&nbsp;&nbsp;And would not interrupt your life with ours.
 </pre>

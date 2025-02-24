@@ -1,15 +1,55 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;Here lies the gentle humorist, who died
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the bright Indian Summer of his fame!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A simple stone, with but a date and name,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marks his secluded resting-place beside
-&nbsp;&nbsp;&nbsp;&nbsp;The river that he loved and glorified.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Here in the autumn of his days he came,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But the dry leaves of life were all aflame
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With tints that brightened and were multiplied.
-&nbsp;&nbsp;&nbsp;&nbsp;How sweet a life was his; how sweet a&nbsp;&nbsp;&nbsp;&nbsp;death!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Living, to wing with mirth the weary hours,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Or with romantic tales the heart to cheer;
-&nbsp;&nbsp;&nbsp;&nbsp;Dying, to leave a memory like the breath
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of summers full of sunshine and of showers,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A grief and gladness in the atmosphere.
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;Nowhere such a devious stream,
+&nbsp;&nbsp;&nbsp;&nbsp;Save in fancy or in dream,
+&nbsp;&nbsp;&nbsp;&nbsp;Winding slow through bush and brake
+&nbsp;&nbsp;&nbsp;&nbsp;Links together lake and lake.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Walled with woods or sandy shelf,
+&nbsp;&nbsp;&nbsp;&nbsp;Ever doubling on itself
+&nbsp;&nbsp;&nbsp;&nbsp;Flows the stream, so still and slow
+&nbsp;&nbsp;&nbsp;&nbsp;That it hardly seems to flow.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Never errant knight of old,
+&nbsp;&nbsp;&nbsp;&nbsp;Lost in woodland or on wold,
+&nbsp;&nbsp;&nbsp;&nbsp;Such a winding path pursued
+&nbsp;&nbsp;&nbsp;&nbsp;Through the sylvan solitude.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Never school-boy in his quest
+&nbsp;&nbsp;&nbsp;&nbsp;After hazel-nut or nest,
+&nbsp;&nbsp;&nbsp;&nbsp;Through the forest in and out
+&nbsp;&nbsp;&nbsp;&nbsp;Wandered loitering thus about.
+
+&nbsp;&nbsp;&nbsp;&nbsp;In the mirror of its tide
+&nbsp;&nbsp;&nbsp;&nbsp;Tangled thickets on each side
+&nbsp;&nbsp;&nbsp;&nbsp;Hang inverted, and between
+&nbsp;&nbsp;&nbsp;&nbsp;Floating cloud or sky serene.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Swift or swallow on the wing
+&nbsp;&nbsp;&nbsp;&nbsp;Seems the only living thing,
+&nbsp;&nbsp;&nbsp;&nbsp;Or the loon, that laughs and flies
+&nbsp;&nbsp;&nbsp;&nbsp;Down to those reflected skies.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Silent stream! thy Indian name
+&nbsp;&nbsp;&nbsp;&nbsp;Unfamiliar is to fame;
+&nbsp;&nbsp;&nbsp;&nbsp;For thou hidest here alone,
+&nbsp;&nbsp;&nbsp;&nbsp;Well content to be unknown.
+
+&nbsp;&nbsp;&nbsp;&nbsp;But thy tranquil waters teach
+&nbsp;&nbsp;&nbsp;&nbsp;Wisdom deep as human speech,
+&nbsp;&nbsp;&nbsp;&nbsp;Moving without haste or noise
+&nbsp;&nbsp;&nbsp;&nbsp;In unbroken equipoise.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Though thou turnest no busy mill,
+&nbsp;&nbsp;&nbsp;&nbsp;And art ever calm and still,
+&nbsp;&nbsp;&nbsp;&nbsp;Even thy silence seems to say
+&nbsp;&nbsp;&nbsp;&nbsp;To the traveller on his way:--
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Traveller, hurrying from the heat
+&nbsp;&nbsp;&nbsp;&nbsp;Of the city, stay thy feet!
+&nbsp;&nbsp;&nbsp;&nbsp;Rest awhile, nor longer waste
+&nbsp;&nbsp;&nbsp;&nbsp;Life with inconsiderate haste!
+
+&nbsp;&nbsp;&nbsp;&nbsp;"Be not like a stream that brawls
+&nbsp;&nbsp;&nbsp;&nbsp;Loud with shallow waterfalls,
+&nbsp;&nbsp;&nbsp;&nbsp;But in quiet self-control
+&nbsp;&nbsp;&nbsp;&nbsp;Link together soul and soul"
 </pre>

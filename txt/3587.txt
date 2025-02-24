@@ -1,28 +1,34 @@
-<pre>
-<img alt="The First First of April title" title="The First First of April title" itemprop="image" src="https://assets.americanliterature.com/al/images/poem/the-first-first-of-april.jpg" style="max-width:350px; float:center; margin-bottom: 12px;" data-pagespeed-url-hash="3331526063" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
-The Infant Earth one April day
-(The first of April—so they say),
-When toddling on her usual round,
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;In my own shire, if I was sad
+&nbsp;&nbsp;&nbsp;&nbsp;Homely comforters I had:
+&nbsp;&nbsp;&nbsp;&nbsp;The earth, because my heart was sore,
+&nbsp;&nbsp;&nbsp;&nbsp;Sorrowed for the son she bore;
+&nbsp;&nbsp;&nbsp;&nbsp;And standing hills, long to remain,
+&nbsp;&nbsp;&nbsp;&nbsp;Shared their short-lived comrade's pain.
+&nbsp;&nbsp;&nbsp;&nbsp;And bound for the same bourn as I,
+&nbsp;&nbsp;&nbsp;&nbsp;On every road I wandered by,
+&nbsp;&nbsp;&nbsp;&nbsp;Trod beside me, close and dear,
+&nbsp;&nbsp;&nbsp;&nbsp;The beautiful and death-struck year:
+&nbsp;&nbsp;&nbsp;&nbsp;Whether in the woodland brown
+&nbsp;&nbsp;&nbsp;&nbsp;I heard the beechnut rustle down,
+&nbsp;&nbsp;&nbsp;&nbsp;And saw the purple crocus pale
+&nbsp;&nbsp;&nbsp;&nbsp;Flower about the autumn dale;
+&nbsp;&nbsp;&nbsp;&nbsp;Or littering far the fields of May
+&nbsp;&nbsp;&nbsp;&nbsp;Lady-smocks a-bleaching lay,
+&nbsp;&nbsp;&nbsp;&nbsp;And like a skylit water stood
+&nbsp;&nbsp;&nbsp;&nbsp;The bluebells in the azured wood.
 
-Spied in her path upon the ground
-A dainty little garland ring
-Of violets—and that was Spring.
-She caught the pretty wreath of Spring
-And all the birds began to sing,
-But when she thought to hold it tight
-’T was rudely jerked from out her sight;
-And while she looked for it in vain
-The birds all flew away again.
-
-Alas! The flowering wreath of Spring
-Was fastened to a silken string,
-And Time, the urchin, laughed for glee
-(He held the other end you see).
-
-And that was long ago, they say,
-When Time was young and Earth was gay.
-Now Earth is old and Time is lame,
-Yet still they play the same old game:
-Old Earth still reaches out for Spring,
-And Time—well—Time still holds the string.
+&nbsp;&nbsp;&nbsp;&nbsp;Yonder, lightening other loads,
+&nbsp;&nbsp;&nbsp;&nbsp;The seasons range the country roads,
+&nbsp;&nbsp;&nbsp;&nbsp;But here in London streets I ken
+&nbsp;&nbsp;&nbsp;&nbsp;No such helpmates, only men;
+&nbsp;&nbsp;&nbsp;&nbsp;And these are not in plight to bear,
+&nbsp;&nbsp;&nbsp;&nbsp;If they would, another's care.
+&nbsp;&nbsp;&nbsp;&nbsp;They have enough as 'tis: I see
+&nbsp;&nbsp;&nbsp;&nbsp;In many an eye that measures me
+&nbsp;&nbsp;&nbsp;&nbsp;The mortal sickness of a mind
+&nbsp;&nbsp;&nbsp;&nbsp;Too unhappy to be kind.
+&nbsp;&nbsp;&nbsp;&nbsp;Undone with misery, all they can
+&nbsp;&nbsp;&nbsp;&nbsp;Is to hate their fellow man;
+&nbsp;&nbsp;&nbsp;&nbsp;And till they drop they needs must still
+&nbsp;&nbsp;&nbsp;&nbsp;Look at you and wish you ill.
 </pre>

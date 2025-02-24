@@ -1,0 +1,4 @@
+<p>My friend lives high on East Mountain.<br> His nature is to love the hills and gorges.<br> In green spring he sleeps in empty woodland,<br> Still there when the noon sun brightens.<br> Pine-tree winds to dust his hair.<br> Rock-filled streams to cleanse his senses.<br> Free of all sound and stress,<br> Resting on a wedge of cloud and mist. <br></p>
+<div class="poet" itemprop="author">
+ Li Po
+</div>

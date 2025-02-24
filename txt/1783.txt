@@ -1,1 +1,806 @@
-<p>WHAT a number of bond robberies there have been lately," I observed one morning, laying aside the newspaper. "Poirot, let us forsake the science of detection and take to crime instead."</p><p><img alt="Agatha Christie, Hercule Poirot series" title="Agatha Christie's Inspector Hercule Poirot" itemprop="image" src="https://assets.americanliterature.com/al/images/book/christie-hercule-poirot.jpg" style="max-width:250px; float:left; margin-right: 12px; margin-bottom: 12px;" data-pagespeed-url-hash="2906231485" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"> "You are on the—how do you say it?—get-rich-quick tack, eh, mon ami?"</p><p>"Well, look at this last coup—the million dollars' worth of Liberty Bonds which the London and Scottish Bank were sending to New York, and which disappeared in such a remarkable manner on board the Olympia."</p><p>"If it were not for the mal de mer—and the difficulty of practising the so excellent method of Laverguier for a longer time than the few hours of crossing the Channel—I should delight to voyage myself on one of these big liners," murmured Poirot dreamily.</p><p>"Yes indeed!" I said enthusiastically. "Some of them must be perfect palaces; the swimming-baths, the lounges, the restaurants, the palm courts—really, it must be hard to believe that one is on the sea."</p><p>"Me, I always know when I am on the sea," said Poirot sadly. "And all those bagatelles that you enumerate, they say nothing to me; but, my friend, consider for a moment the geniuses that travel, as it were, incognito! On board these floating palaces, as you so justly call them, one would meet the élite, the haute noblesse of the criminal world!"</p><p>I laughed.</p><p>"So that's the way your enthusiasm runs. You would have liked to cross swords with the man who sneaked the Liberty Bonds?"</p><p>The landlady interrupted us.</p><p>"A young lady as wants to see you, Mr. Poirot. Here's her card."</p><p>The card bore the inscription, "Miss Esmé Farquhar," and Poirot, after diving under the table to retrieve a stray crumb, nodded to the landlady to admit her.</p><p>In another minute one of the most charming girls I have ever seen was ushered into the room. She was, perhaps, about five-and-twenty, with big brown eyes and a perfect figure. She was well dressed, and perfectly composed in manner.</p><p>"Sit down, I beg of you, Mademoiselle. This is my friend Captain Hastings, who aids me in my little problems."</p><p>"I am afraid it is a big problem I have brought you to-day, M. Poirot," said the girl, giving me a pleasant bow as she seated herself. "I daresay you have read about it in the papers. I am referring to the theft of Liberty Bonds on the Olympia."</p><p>Some astonishment must have shown itself in Poirot’s face, for she continued quickly—</p><p>"You are doubtless asking yourself what I have to do with a grave institution like the London and Scottish Bank. In one sense, nothing; in another sense, everything. You see, M. Poirot, I am engaged to Mr. Philip Ridgeway."</p><p>"Aha! And Mr. Philip Ridgeway——"</p><p>"Was in charge of the bonds when they were stolen. Of course, no actual blame can attach to him; it was not his fault in any way. Nevertheless, he is half-distraught over the matter, and his uncle, I know, insists that he must carelessly have mentioned having them in his possession. It is a terrible setback in his career."</p><p>"Who is his uncle?"</p><p>"Mr. Vavasour, joint general manager of the London and Scottish Bank."</p><p>"Suppose, Miss Farquhar, that you recount to me the whole story?"</p><p>"Very well. As you know, the bank wished to extend their credits in America, and for this purpose decided to send over a million dollars in Liberty Bonds. Mr. Vavasour selected his nephew, who had occupied a position of trust in the bank for many years, and was conversant with all the details of the bank's dealings in New York, to make the trip. The Olympia sailed from Liverpool on the 23rd, and the bonds were handed over to Philip on the morning of that day by Mr. Vavasour and Mr. Shaw—the two joint general managers of the London and Scottish. They were counted, enclosed in a package, and sealed in his presence, and he then locked the package at once in his portmanteau."</p><p>"A portmanteau with an ordinary lock?"</p><p>"No; Mr. Shaw insisted on a special lock being fitted to it by Messrs. Hubbs. Philip, as I say, placed the package at the bottom of the trunk. It was stolen just a few hours before reaching New York. A rigorous search of the whole ship was made, but without result. The bonds seemed literally to vanish into thin air."</p><p>Poirot made a grimace.</p><p>"But they did not vanish absolutely, since I gather that they were sold in small parcels within half-an-hour of the docking of the Olympia! Well, undoubtedly the next thing is for me to see Mr. Ridgeway."</p><p>"I was about to suggest that you should lunch with me at the Cheshire Cheese. Philip will be there. He is meeting me, but does not yet know that I have been consulting you on his behalf."</p><p>Philip Ridgeway was a pleasant-faced man of thirty-odd, with just a touch of greying hair at the temples. His face looked drawn and haggard. The theft of the bonds which had been placed in his charge had almost demoralised him, and he reproached himself vainly for not having exercised greater care. Over the excellent steak-and-kidney pudding of the establishment he confirmed his fiancée's story in every particular. Poirot then proceeded to question him.</p><p>"What led you to discover that the bonds had been stolen, M. Ridgeway?"</p><p>The man laughed rather bitterly.</p><p>"The thing stared me in the face, M. Poirot—I couldn't have missed it. My cabin trunk was half out from under the bunk, and all scratched and cut about where they'd tried to force the lock."</p><p>"But I understood that it had been opened with a key?"</p><p>"That's so. They tried to force it, but couldn't. And in the end they got it unlocked somehow."</p><p>"Curious," said Poirot, his eyes beginning to flicker with the green light that I knew so well. "Very curious! They waste much time trying to prise it open, and then, sapristi! they find they have the key all the time—for each of Messrs. Hubbs' locks is unique!"</p><p>"They couldn't have had the key. It never left me day or night."</p><p>"You are sure of that?"</p><p>"I can swear to it, and, besides, if they had had the key or a duplicate, why should they waste time trying to force an obviously unforceable lock?"</p><p>"Ah, there is exactly the question we are asking ourselves! You will see, the solution, if we ever find it, will hinge on that curious fact. I beg of you not to assault me if I ask you one more question: Are you perfectly certain you did not leave the trunk unlocked?"</p><p>Philip Ridgeway merely looked at him, and Poirot gesticulated apologetically.</p><p>"Ah, but these things can happen, I assure you! Very well; the bonds were stolen from the trunk. What did the thief do with them? How did he manage to get ashore with them?"</p><p>"Ah!" cried Ridgeway. "That's just it. How? Word was passed to the Customs authorities, and every soul that left the ship was gone over with a tooth-comb!"</p><p>"And the bonds, I gather, made a bulky package?"</p><p>"Certainly they did. They could hardly have been hidden on board—and, anyway, we know they weren't, because they were offered for sale within half-an-hour of the Olympia's arrival, long before I got the cables going and the numbers sent out. One broker swears he bought some of them even before the Olympia got in! But you can't send bonds by wireless!"</p><p>"Not by wireless; but did any tug come alongside?"</p><p>"Only the official ones, and that was after the alarm was given, when everyone was on the look-out. I was watching out myself for their being passed over to someone that way. My God, M. Poirot, this thing will drive me mad! People are beginning to say I stole them myself."</p><p>"But you also were searched on landing, were you not?" asked Poirot gently.</p><p>"Yes."</p><p>The young man stared at him in a puzzled manner.</p><p>"You do not catch my meaning, I see," said Poirot, smiling enigmatically. "Now I should like to make a few inquiries at the bank."</p><p>Ridgeway produced a card and scribbled a few words on it.</p><p>"Send this in, and my uncle will see you at once."</p><p>Poirot thanked him, bade farewell to Miss Farquhar, and together we started out for Threadneedle Street and the head office of the London and Scottish Bank. On production of Ridgeway's card we were led through the labyrinth of counters and desks, skirting paying-in clerks and paying-out clerks, and up to a small office on the first floor, where the joint general managers received us. They were two grave gentlemen, who had grown grey in the service of the bank. Mr. Vavasour had a short white beard, Mr. Shaw was clean-shaven.</p><p>"I understand you are strictly a private inquiry agent?" said Mr. Vavasour. "Quite so, quite so. We have, of course, placed ourselves in the hands of Scotland Yard. Inspector McNeil has charge of the case. A very able officer, I believe."</p><p>"I am sure of it," said Poirot politely. "You will permit a few questions, on your nephew's behalf? About this lock—who ordered it from Messrs. Hubbs?"</p><p>"I ordered it myself," said Mr. Shaw. "I would not trust to any clerk in the matter. As to the keys, Mr. Ridgeway had one, and the other two are held by my colleague and myself."</p><p>"And no clerk has had access to them?"</p><p>Mr. Shaw turned inquiringly to Mr. Vavasour.</p><p>"I think I am correct in saying that they have remained in the safe where we placed them on the twenty-third," said Mr. Vavasour, and then added: "My colleague was unfortunately taken ill a fortnight ago—in fact, on the very day that Philip left us. He has only just recovered."</p><p>"Severe bronchitis is no joke to a man of my age," said Mr. Shaw ruefully. "But I am afraid Mr. Vavasour has suffered from the hard work entailed by my absence, especially with this unexpected worry coming on top of everything."</p><p>Poirot asked a few more questions. I judged that he was endeavouring to gauge the exact amount of intimacy between uncle and nephew. Mr. Vavasour's answers were brief and punctilious. His nephew was a trusted official of the Bank, and had no debts or money difficulties that he knew of. He had been entrusted with similar missions in the past. Finally we were politely bowed out.</p><p>"I am disappointed," said Poirot as we emerged into the street.</p><p>"You hoped to discover more? They are such stodgy old men."</p><p>"It is not their stodginess which disappoints me, mon ami. I do not expect to find in a bank manager a 'keen financier with an eagle glance,' as your favourite works of fiction put it. No, I am disappointed in the case—it is too easy!"</p><p>"Easy?"</p><p>"Yes, do you not find it almost childishly simple?"</p><p>"You know who stole the bonds?"</p><p>"I do."</p><p>"But then—we must—why——"</p><p>"Do not confuse and fluster yourself, Hastings. We are not going to do anything at present."</p><p>"But why? What are you waiting for?"</p><p>"For the Olympia. She is due on her return trip from New York on Tuesday."</p><p>"But if you know who stole the bonds, why wait? He may escape."</p><p>"To a South Sea Island, where there is no extradition? No, mon ami, he would find life very uncongenial there. As to why I wait—eh bien! To the intelligence of Hercule Poirot the case is perfectly clear; but for the benefit of others not so greatly gifted by the good God—the Inspector McNeil, for instance—it would be as well to make a few inquiries to establish the facts. One must have consideration for those less gifted than oneself."</p><p>"Good Lord, Poirot! Do you know, I'd give a considerable sum of money to see you make a thorough ass of yourself—just for once. You're so confoundedly conceited!"</p><p>"Do not enrage yourself, Hastings. In verity, I observe that there are times when you almost detest me! Alas! I suffer the penalties of greatness!"</p><p>The little man puffed out his chest and sighed so comically that I was forced to laugh.</p><p>•⁠•⁠•⁠•⁠•</p><p>Tuesday saw us speeding to Liverpool in a first-class carriage of the L. and N.W.R. Poirot had obstinately refused to enlighten me as to his suspicions—or certainties. He contented himself with expressing surprise that I, too, was not equally au fait with the situation. I disdained to argue and entrenched my curiosity behind a rampart of pretended indifference.</p><p>Once arrived at the quay alongside which lay the big Transatlantic liner, Poirot became brisk and alert. Our proceedings consisted in interviewing four successive stewards and inquiring after a friend of Poirot's who had crossed to New York on the 23rd.</p><p>"An elderly gentleman, wearing glasses. A great invalid, hardly moved out of his cabin."</p><p>The description appeared to tally with one Mr. Ventnor, who had occupied the cabin C24, which was next to that of Philip Ridgeway. Although unable to see how Poirot had deduced Mr. Ventnor's existence and personal appearance, I was keenly excited.</p><p>"Tell me," I cried, "was this gentleman one of the first to land when you got to New York?"</p><p>The steward shook his head.</p><p>"No, indeed, Sir. He was one of the last off the boat."</p><p>I retired crestfallen, and observed Poirot grinning at me. He thanked the steward, a note changed hands, and we took our departure.</p><p>"It's all very well," I remarked heatedly; "but that last answer must have damped your precious theory, grin as you please!"</p><p>"As usual, you see nothing, Hastings. That last answer is, on the contrary, the coping stone of my theory."</p><p>I flung up my hands in despair.</p><p>"I give it up."</p><p>•⁠•⁠•⁠•⁠•</p><p>Once more we were in a train—speeding towards London this time. Poirot wrote busily for a few minutes, and then sealed up the result in an envelope.</p><p>"This is for the good Inspector McNeil. We will leave it at Scotland Yard in passing, and then to the Rendez-Vous Restaurant, where I have asked Miss Esmé Farquhar to do us the honour of dining with us."</p><p>"What about Ridgeway?"</p><p>"What about him?" asked Poirot, with a twinkle.</p><p>"Why, you surely don't think—you can't——"</p><p>"The habit of incoherence is growing upon you, Hastings. As a matter of fact, I did think. If Ridgeway had been the thief (which was perfectly possible) the case would have been charming—a piece of neat, methodical work."</p><p>"But not so charming for Miss Farquhar."</p><p>"Possibly you are right. Therefore, all is for the best. Now, Hastings, let us review the case. The sealed package is removed from the trunk and vanishes, as Miss Farquhar puts it, into thin air. We will dismiss the thin air theory, which is not practicable at the present stage of science, and consider what is likely to have become of it. Everyone asserts the incredibility of its being smuggled ashore——"</p><p>"Yes, but we know——"</p><p>"You may know, Hastings. I do not. I take the view that, since it seemed incredible, it was incredible. Two possibilities remain. It was hidden on board—also rather difficult; or—it was thrown overboard."</p><p>"With a cork on it, do you mean?"</p><p>"Without a cork."</p><p>I stared.</p><p>"But if the bonds were thrown overboard, they could not have been sold in New York."</p><p>"I admire your logical mind, Hastings. The bonds were sold in New York; therefore they were not thrown overboard. You see where that leads us?"</p><p>"Where we were when we started."</p><p>"Jamais de la vie! If the package was thrown overboard and the bonds were sold in New York, the package could not have contained the bonds. Is there any evidence that the package did contain the bonds? Mr. Ridgeway never opened it from the time it was placed in his hands in London."</p><p>"Yes, but then——"</p><p>Poirot waved an impatient hand.</p><p>"Permit me to continue. The last moment that the bonds are seen as bonds is in the office of the London and Scottish Bank on the morning of the twenty-third. They reappear in New York half-an-hour after the Olympia gets in, and, according to one man whom nobody listens to, actually before she gets in. Supposing, then, that they have never been on the Olympia at all. Is there any other way they could get to New York? Yes. The Gigantic leaves from Southampton on the same day as the Olympia starts from Liverpool, and the former holds the record for the Atlantic. Mailed by the Gigantic, the bonds would be in New York the day before the Olympia arrived. All is clear; the case begins to explain itself. The sealed package is only a dummy. It would have been an easy matter for any of the three men present to prepare a duplicate package which could be substituted for the genuine one. Très bien, the bonds are mailed to a confederate in New York, with instructions to sell as soon as the Olympia is in; but someone must travel on the Olympia to engineer the supposed moment of the robbery."</p><p>"But why?"</p><p>"Because, if Ridgeway merely opens the packet and finds it a dummy, suspicion flies at once to London. No; the man on board in the cabin next door does his work, pretends to force the lock in an obvious manner so as to draw immediate attention to the theft, really unlocks the trunk with a duplicate key, throws the package overboard, and waits until the last to leave the boat. Naturally, he wears glasses to conceal his eyes, and is an invalid, since he does not want to run the risk of meeting Ridgeway. He steps ashore in New York, and returns by the first boat available."</p><p>"But who—which was he?"</p><p>"The man who had a duplicate key, the man who ordered the lock, the man who has not been severely ill with bronchitis at his home in the country—enfin, that stodgy old man, Mr. Shaw! There are criminals in high places sometimes, my friend. Ah, here we are! Mademoiselle, I have succeeded! You permit?"</p><p>And, beaming, Poirot kissed the astonished girl lightly on either cheek!</p><p>THE END.</p><p> </p><p><br> </p><p> </p>
+<pre>
+
+PART THE FIRST.
+
+     It is an ancient Mariner,
+     And he stoppeth one of three.
+     "By thy long grey beard and glittering eye,
+     Now wherefore stopp'st thou me?
+
+     "The Bridegroom's doors are opened wide,
+     And I am next of kin;
+     The guests are met, the feast is set:
+     May'st hear the merry din."
+
+     He holds him with his skinny hand,
+     "There was a ship," quoth he.
+     "Hold off! unhand me, grey-beard loon!"
+     Eftsoons his hand dropt he.
+
+     He holds him with his glittering eye—
+     The Wedding-Guest stood still,
+     And listens like a three years child:
+     The Mariner hath his will.
+
+     The Wedding-Guest sat on a stone:
+     He cannot chuse but hear;
+     And thus spake on that ancient man,
+     The bright-eyed Mariner.
+
+     The ship was cheered, the harbour cleared,
+     Merrily did we drop
+     Below the kirk, below the hill,
+     Below the light-house top.
+
+     The Sun came up upon the left,
+     Out of the sea came he!
+     And he shone bright, and on the right
+     Went down into the sea.
+
+     Higher and higher every day,
+     Till over the mast at noon—
+     The Wedding-Guest here beat his breast,
+     For he heard the loud bassoon.
+
+     The bride hath paced into the hall,
+     Red as a rose is she;
+     Nodding their heads before her goes
+     The merry minstrelsy.
+
+     The Wedding-Guest he beat his breast,
+     Yet he cannot chuse but hear;
+     And thus spake on that ancient man,
+     The bright-eyed Mariner.
+
+     And now the STORM-BLAST came, and he
+     Was tyrannous and strong:
+     He struck with his o'ertaking wings,
+     And chased south along.
+
+     With sloping masts and dipping prow,
+     As who pursued with yell and blow
+     Still treads the shadow of his foe
+     And forward bends his head,
+     The ship drove fast, loud roared the blast,
+     And southward aye we fled.
+
+     And now there came both mist and snow,
+     And it grew wondrous cold:
+     And ice, mast-high, came floating by,
+     As green as emerald.
+
+     And through the drifts the snowy clifts
+     Did send a dismal sheen:
+     Nor shapes of men nor beasts we ken—
+     The ice was all between.
+
+     The ice was here, the ice was there,
+     The ice was all around:
+     It cracked and growled, and roared and howled,
+     Like noises in a swound!
+
+     At length did cross an Albatross:
+     Thorough the fog it came;
+     As if it had been a Christian soul,
+     We hailed it in God's name.
+
+     It ate the food it ne'er had eat,
+     And round and round it flew.
+     The ice did split with a thunder-fit;
+     The helmsman steered us through!
+
+     And a good south wind sprung up behind;
+     The Albatross did follow,
+     And every day, for food or play,
+     Came to the mariners' hollo!
+
+     In mist or cloud, on mast or shroud,
+     It perched for vespers nine;
+     Whiles all the night, through fog-smoke white,
+     Glimmered the white Moon-shine.
+
+     "God save thee, ancient Mariner!
+     From the fiends, that plague thee thus!—
+     Why look'st thou so?"—With my cross-bow
+     I shot the ALBATROSS.
+
+</pre><pre>
+
+PART THE SECOND.
+
+     The Sun now rose upon the right:
+     Out of the sea came he,
+     Still hid in mist, and on the left
+     Went down into the sea.
+
+     And the good south wind still blew behind
+     But no sweet bird did follow,
+     Nor any day for food or play
+     Came to the mariners' hollo!
+
+     And I had done an hellish thing,
+     And it would work 'em woe:
+     For all averred, I had killed the bird
+     That made the breeze to blow.
+     Ah wretch! said they, the bird to slay
+     That made the breeze to blow!
+
+     Nor dim nor red, like God's own head,
+     The glorious Sun uprist:
+     Then all averred, I had killed the bird
+     That brought the fog and mist.
+     'Twas right, said they, such birds to slay,
+     That bring the fog and mist.
+
+     The fair breeze blew, the white foam flew,
+     The furrow followed free:
+     We were the first that ever burst
+     Into that silent sea.
+
+     Down dropt the breeze, the sails dropt down,
+     'Twas sad as sad could be;
+     And we did speak only to break
+     The silence of the sea!
+
+     All in a hot and copper sky,
+     The bloody Sun, at noon,
+     Right up above the mast did stand,
+     No bigger than the Moon.
+
+     Day after day, day after day,
+     We stuck, nor breath nor motion;
+     As idle as a painted ship
+     Upon a painted ocean.
+
+     Water, water, every where,
+     And all the boards did shrink;
+     Water, water, every where,
+     Nor any drop to drink.
+
+     The very deep did rot: O Christ!
+     That ever this should be!
+     Yea, slimy things did crawl with legs
+     Upon the slimy sea.
+
+     About, about, in reel and rout
+     The death-fires danced at night;
+     The water, like a witch's oils,
+     Burnt green, and blue and white.
+
+     And some in dreams assured were
+     Of the spirit that plagued us so:
+     Nine fathom deep he had followed us
+     From the land of mist and snow.
+
+     And every tongue, through utter drought,
+     Was withered at the root;
+     We could not speak, no more than if
+     We had been choked with soot.
+
+     Ah! well a-day! what evil looks
+     Had I from old and young!
+     Instead of the cross, the Albatross
+     About my neck was hung.
+
+</pre><pre>
+
+PART THE THIRD.
+
+     There passed a weary time.  Each throat
+     Was parched, and glazed each eye.
+     A weary time! a weary time!
+     How glazed each weary eye,
+     When looking westward, I beheld
+     A something in the sky.
+
+     At first it seemed a little speck,
+     And then it seemed a mist:
+     It moved and moved, and took at last
+     A certain shape, I wist.
+
+     A speck, a mist, a shape, I wist!
+     And still it neared and neared:
+     As if it dodged a water-sprite,
+     It plunged and tacked and veered.
+
+     With throats unslaked, with black lips baked,
+     We could not laugh nor wail;
+     Through utter drought all dumb we stood!
+     I bit my arm, I sucked the blood,
+     And cried, A sail! a sail!
+
+     With throats unslaked, with black lips baked,
+     Agape they heard me call:
+     Gramercy! they for joy did grin,
+     And all at once their breath drew in,
+     As they were drinking all.
+
+     See! see! (I cried) she tacks no more!
+     Hither to work us weal;
+     Without a breeze, without a tide,
+     She steadies with upright keel!
+
+     The western wave was all a-flame
+     The day was well nigh done!
+     Almost upon the western wave
+     Rested the broad bright Sun;
+     When that strange shape drove suddenly
+     Betwixt us and the Sun.
+
+     And straight the Sun was flecked with bars,
+     (Heaven's Mother send us grace!)
+     As if through a dungeon-grate he peered,
+     With broad and burning face.
+
+     Alas! (thought I, and my heart beat loud)
+     How fast she nears and nears!
+     Are those her sails that glance in the Sun,
+     Like restless gossameres!
+
+     Are those her ribs through which the Sun
+     Did peer, as through a grate?
+     And is that Woman all her crew?
+     Is that a DEATH? and are there two?
+     Is DEATH that woman's mate?
+
+     Her lips were red, her looks were free,
+     Her locks were yellow as gold:
+     Her skin was as white as leprosy,
+     The Night-Mare LIFE-IN-DEATH was she,
+     Who thicks man's blood with cold.
+
+     The naked hulk alongside came,
+     And the twain were casting dice;
+     "The game is done!  I've won!  I've won!"
+     Quoth she, and whistles thrice.
+
+     The Sun's rim dips; the stars rush out:
+     At one stride comes the dark;
+     With far-heard whisper, o'er the sea.
+     Off shot the spectre-bark.
+
+     We listened and looked sideways up!
+     Fear at my heart, as at a cup,
+     My life-blood seemed to sip!
+
+     The stars were dim, and thick the night,
+     The steersman's face by his lamp gleamed white;
+     From the sails the dew did drip—
+     Till clombe above the eastern bar
+     The horned Moon, with one bright star
+     Within the nether tip.
+
+     One after one, by the star-dogged Moon
+     Too quick for groan or sigh,
+     Each turned his face with a ghastly pang,
+     And cursed me with his eye.
+
+     Four times fifty living men,
+     (And I heard nor sigh nor groan)
+     With heavy thump, a lifeless lump,
+     They dropped down one by one.
+
+     The souls did from their bodies fly,—
+     They fled to bliss or woe!
+     And every soul, it passed me by,
+     Like the whizz of my CROSS-BOW!
+
+</pre><pre>
+
+PART THE FOURTH.
+
+     "I fear thee, ancient Mariner!
+     I fear thy skinny hand!
+     And thou art long, and lank, and brown,
+     As is the ribbed sea-sand.
+
+     "I fear thee and thy glittering eye,
+     And thy skinny hand, so brown."—
+     Fear not, fear not, thou Wedding-Guest!
+     This body dropt not down.
+
+     Alone, alone, all, all alone,
+     Alone on a wide wide sea!
+     And never a saint took pity on
+     My soul in agony.
+
+     The many men, so beautiful!
+     And they all dead did lie:
+     And a thousand thousand slimy things
+     Lived on; and so did I.
+
+     I looked upon the rotting sea,
+     And drew my eyes away;
+     I looked upon the rotting deck,
+     And there the dead men lay.
+
+     I looked to Heaven, and tried to pray:
+     But or ever a prayer had gusht,
+     A wicked whisper came, and made
+     my heart as dry as dust.
+
+     I closed my lids, and kept them close,
+     And the balls like pulses beat;
+     For the sky and the sea, and the sea and the sky
+     Lay like a load on my weary eye,
+     And the dead were at my feet.
+
+     The cold sweat melted from their limbs,
+     Nor rot nor reek did they:
+     The look with which they looked on me
+     Had never passed away.
+
+     An orphan's curse would drag to Hell
+     A spirit from on high;
+     But oh! more horrible than that
+     Is a curse in a dead man's eye!
+     Seven days, seven nights, I saw that curse,
+     And yet I could not die.
+
+     The moving Moon went up the sky,
+     And no where did abide:
+     Softly she was going up,
+     And a star or two beside.
+
+     Her beams bemocked the sultry main,
+     Like April hoar-frost spread;
+     But where the ship's huge shadow lay,
+     The charmed water burnt alway
+     A still and awful red.
+
+     Beyond the shadow of the ship,
+     I watched the water-snakes:
+     They moved in tracks of shining white,
+     And when they reared, the elfish light
+     Fell off in hoary flakes.
+
+     Within the shadow of the ship
+     I watched their rich attire:
+     Blue, glossy green, and velvet black,
+     They coiled and swam; and every track
+     Was a flash of golden fire.
+
+     O happy living things! no tongue
+     Their beauty might declare:
+     A spring of love gushed from my heart,
+     And I blessed them unaware:
+     Sure my kind saint took pity on me,
+     And I blessed them unaware.
+
+     The self same moment I could pray;
+     And from my neck so free
+     The Albatross fell off, and sank
+     Like lead into the sea.
+
+</pre><pre>
+
+PART THE FIFTH.
+
+     Oh sleep! it is a gentle thing,
+     Beloved from pole to pole!
+     To Mary Queen the praise be given!
+     She sent the gentle sleep from Heaven,
+     That slid into my soul.
+
+     The silly buckets on the deck,
+     That had so long remained,
+     I dreamt that they were filled with dew;
+     And when I awoke, it rained.
+
+     My lips were wet, my throat was cold,
+     My garments all were dank;
+     Sure I had drunken in my dreams,
+     And still my body drank.
+
+     I moved, and could not feel my limbs:
+     I was so light—almost
+     I thought that I had died in sleep,
+     And was a blessed ghost.
+
+     And soon I heard a roaring wind:
+     It did not come anear;
+     But with its sound it shook the sails,
+     That were so thin and sere.
+
+     The upper air burst into life!
+     And a hundred fire-flags sheen,
+     To and fro they were hurried about!
+     And to and fro, and in and out,
+     The wan stars danced between.
+
+     And the coming wind did roar more loud,
+     And the sails did sigh like sedge;
+     And the rain poured down from one black cloud;
+     The Moon was at its edge.
+
+     The thick black cloud was cleft, and still
+     The Moon was at its side:
+     Like waters shot from some high crag,
+     The lightning fell with never a jag,
+     A river steep and wide.
+
+     The loud wind never reached the ship,
+     Yet now the ship moved on!
+     Beneath the lightning and the Moon
+     The dead men gave a groan.
+
+     They groaned, they stirred, they all uprose,
+     Nor spake, nor moved their eyes;
+     It had been strange, even in a dream,
+     To have seen those dead men rise.
+
+     The helmsman steered, the ship moved on;
+     Yet never a breeze up blew;
+     The mariners all 'gan work the ropes,
+     Where they were wont to do:
+     They raised their limbs like lifeless tools—
+     We were a ghastly crew.
+
+     The body of my brother's son,
+     Stood by me, knee to knee:
+     The body and I pulled at one rope,
+     But he said nought to me.
+
+     "I fear thee, ancient Mariner!"
+     Be calm, thou Wedding-Guest!
+     'Twas not those souls that fled in pain,
+     Which to their corses came again,
+     But a troop of spirits blest:
+
+     For when it dawned—they dropped their arms,
+     And clustered round the mast;
+     Sweet sounds rose slowly through their mouths,
+     And from their bodies passed.
+
+     Around, around, flew each sweet sound,
+     Then darted to the Sun;
+     Slowly the sounds came back again,
+     Now mixed, now one by one.
+
+     Sometimes a-dropping from the sky
+     I heard the sky-lark sing;
+     Sometimes all little birds that are,
+     How they seemed to fill the sea and air
+     With their sweet jargoning!
+
+     And now 'twas like all instruments,
+     Now like a lonely flute;
+     And now it is an angel's song,
+     That makes the Heavens be mute.
+
+     It ceased; yet still the sails made on
+     A pleasant noise till noon,
+     A noise like of a hidden brook
+     In the leafy month of June,
+     That to the sleeping woods all night
+     Singeth a quiet tune.
+
+     Till noon we quietly sailed on,
+     Yet never a breeze did breathe:
+     Slowly and smoothly went the ship,
+     Moved onward from beneath.
+
+     Under the keel nine fathom deep,
+     From the land of mist and snow,
+     The spirit slid: and it was he
+     That made the ship to go.
+     The sails at noon left off their tune,
+     And the ship stood still also.
+
+     The Sun, right up above the mast,
+     Had fixed her to the ocean:
+     But in a minute she 'gan stir,
+     With a short uneasy motion—
+     Backwards and forwards half her length
+     With a short uneasy motion.
+
+     Then like a pawing horse let go,
+     She made a sudden bound:
+     It flung the blood into my head,
+     And I fell down in a swound.
+
+     How long in that same fit I lay,
+     I have not to declare;
+     But ere my living life returned,
+     I heard and in my soul discerned
+     Two VOICES in the air.
+
+     "Is it he?" quoth one, "Is this the man?
+     By him who died on cross,
+     With his cruel bow he laid full low,
+     The harmless Albatross.
+
+     "The spirit who bideth by himself
+     In the land of mist and snow,
+     He loved the bird that loved the man
+     Who shot him with his bow."
+
+     The other was a softer voice,
+     As soft as honey-dew:
+     Quoth he, "The man hath penance done,
+     And penance more will do."
+
+</pre><pre>
+
+PART THE SIXTH.
+
+     FIRST VOICE.
+
+     But tell me, tell me! speak again,
+     Thy soft response renewing—
+     What makes that ship drive on so fast?
+     What is the OCEAN doing?
+
+     SECOND VOICE.
+
+     Still as a slave before his lord,
+     The OCEAN hath no blast;
+     His great bright eye most silently
+     Up to the Moon is cast—
+
+     If he may know which way to go;
+     For she guides him smooth or grim
+     See, brother, see! how graciously
+     She looketh down on him.
+
+     FIRST VOICE.
+
+     But why drives on that ship so fast,
+     Without or wave or wind?
+
+     SECOND VOICE.
+
+     The air is cut away before,
+     And closes from behind.
+
+     Fly, brother, fly! more high, more high
+     Or we shall be belated:
+     For slow and slow that ship will go,
+     When the Mariner's trance is abated.
+
+     I woke, and we were sailing on
+     As in a gentle weather:
+     'Twas night, calm night, the Moon was high;
+     The dead men stood together.
+
+     All stood together on the deck,
+     For a charnel-dungeon fitter:
+     All fixed on me their stony eyes,
+     That in the Moon did glitter.
+
+     The pang, the curse, with which they died,
+     Had never passed away:
+     I could not draw my eyes from theirs,
+     Nor turn them up to pray.
+
+     And now this spell was snapt: once more
+     I viewed the ocean green.
+     And looked far forth, yet little saw
+     Of what had else been seen—
+
+     Like one that on a lonesome road
+     Doth walk in fear and dread,
+     And having once turned round walks on,
+     And turns no more his head;
+     Because he knows, a frightful fiend
+     Doth close behind him tread.
+
+     But soon there breathed a wind on me,
+     Nor sound nor motion made:
+     Its path was not upon the sea,
+     In ripple or in shade.
+
+     It raised my hair, it fanned my cheek
+     Like a meadow-gale of spring—
+     It mingled strangely with my fears,
+     Yet it felt like a welcoming.
+
+     Swiftly, swiftly flew the ship,
+     Yet she sailed softly too:
+     Sweetly, sweetly blew the breeze—
+     On me alone it blew.
+
+     Oh! dream of joy! is this indeed
+     The light-house top I see?
+     Is this the hill? is this the kirk?
+     Is this mine own countree!
+
+     We drifted o'er the harbour-bar,
+     And I with sobs did pray—
+     O let me be awake, my God!
+     Or let me sleep alway.
+
+     The harbour-bay was clear as glass,
+     So smoothly it was strewn!
+     And on the bay the moonlight lay,
+     And the shadow of the moon.
+
+     The rock shone bright, the kirk no less,
+     That stands above the rock:
+     The moonlight steeped in silentness
+     The steady weathercock.
+
+     And the bay was white with silent light,
+     Till rising from the same,
+     Full many shapes, that shadows were,
+     In crimson colours came.
+
+     A little distance from the prow
+     Those crimson shadows were:
+     I turned my eyes upon the deck—
+     Oh, Christ! what saw I there!
+
+     Each corse lay flat, lifeless and flat,
+     And, by the holy rood!
+     A man all light, a seraph-man,
+     On every corse there stood.
+
+     This seraph band, each waved his hand:
+     It was a heavenly sight!
+     They stood as signals to the land,
+     Each one a lovely light:
+
+     This seraph-band, each waved his hand,
+     No voice did they impart—
+     No voice; but oh! the silence sank
+     Like music on my heart.
+
+     But soon I heard the dash of oars;
+     I heard the Pilot's cheer;
+     My head was turned perforce away,
+     And I saw a boat appear.
+
+     The Pilot, and the Pilot's boy,
+     I heard them coming fast:
+     Dear Lord in Heaven! it was a joy
+     The dead men could not blast.
+
+     I saw a third—I heard his voice:
+     It is the Hermit good!
+     He singeth loud his godly hymns
+     That he makes in the wood.
+     He'll shrieve my soul, he'll wash away
+     The Albatross's blood.
+
+</pre><pre>
+
+PART THE SEVENTH.
+
+     This Hermit good lives in that wood
+     Which slopes down to the sea.
+     How loudly his sweet voice he rears!
+     He loves to talk with marineres
+     That come from a far countree.
+
+     He kneels at morn and noon and eve—
+     He hath a cushion plump:
+     It is the moss that wholly hides
+     The rotted old oak-stump.
+
+     The skiff-boat neared: I heard them talk,
+     "Why this is strange, I trow!
+     Where are those lights so many and fair,
+     That signal made but now?"
+
+     "Strange, by my faith!" the Hermit said—
+     "And they answered not our cheer!
+     The planks looked warped! and see those sails,
+     How thin they are and sere!
+     I never saw aught like to them,
+     Unless perchance it were
+
+     "Brown skeletons of leaves that lag
+     My forest-brook along;
+     When the ivy-tod is heavy with snow,
+     And the owlet whoops to the wolf below,
+     That eats the she-wolf's young."
+
+     "Dear Lord! it hath a fiendish look—
+     (The Pilot made reply)
+     I am a-feared"—"Push on, push on!"
+     Said the Hermit cheerily.
+
+     The boat came closer to the ship,
+     But I nor spake nor stirred;
+     The boat came close beneath the ship,
+     And straight a sound was heard.
+
+     Under the water it rumbled on,
+     Still louder and more dread:
+     It reached the ship, it split the bay;
+     The ship went down like lead.
+
+     Stunned by that loud and dreadful sound,
+     Which sky and ocean smote,
+     Like one that hath been seven days drowned
+     My body lay afloat;
+     But swift as dreams, myself I found
+     Within the Pilot's boat.
+
+     Upon the whirl, where sank the ship,
+     The boat spun round and round;
+     And all was still, save that the hill
+     Was telling of the sound.
+
+     I moved my lips—the Pilot shrieked
+     And fell down in a fit;
+     The holy Hermit raised his eyes,
+     And prayed where he did sit.
+
+     I took the oars: the Pilot's boy,
+     Who now doth crazy go,
+     Laughed loud and long, and all the while
+     His eyes went to and fro.
+     "Ha! ha!" quoth he, "full plain I see,
+     The Devil knows how to row."
+
+     And now, all in my own countree,
+     I stood on the firm land!
+     The Hermit stepped forth from the boat,
+     And scarcely he could stand.
+
+     "O shrieve me, shrieve me, holy man!"
+     The Hermit crossed his brow.
+     "Say quick," quoth he, "I bid thee say—
+     What manner of man art thou?"
+
+     Forthwith this frame of mine was wrenched
+     With a woeful agony,
+     Which forced me to begin my tale;
+     And then it left me free.
+
+     Since then, at an uncertain hour,
+     That agony returns;
+     And till my ghastly tale is told,
+     This heart within me burns.
+
+     I pass, like night, from land to land;
+     I have strange power of speech;
+     That moment that his face I see,
+     I know the man that must hear me:
+     To him my tale I teach.
+
+     What loud uproar bursts from that door!
+     The wedding-guests are there:
+     But in the garden-bower the bride
+     And bride-maids singing are:
+     And hark the little vesper bell,
+     Which biddeth me to prayer!
+
+     O Wedding-Guest! this soul hath been
+     Alone on a wide wide sea:
+     So lonely 'twas, that God himself
+     Scarce seemed there to be.
+
+     O sweeter than the marriage-feast,
+     'Tis sweeter far to me,
+     To walk together to the kirk
+     With a goodly company!—
+
+     To walk together to the kirk,
+     And all together pray,
+     While each to his great Father bends,
+     Old men, and babes, and loving friends,
+     And youths and maidens gay!
+
+     Farewell, farewell! but this I tell
+     To thee, thou Wedding-Guest!
+     He prayeth well, who loveth well
+     Both man and bird and beast.
+
+     He prayeth best, who loveth best
+     All things both great and small;
+     For the dear God who loveth us
+     He made and loveth all.
+
+     The Mariner, whose eye is bright,
+     Whose beard with age is hoar,
+     Is gone: and now the Wedding-Guest
+     Turned from the bridegroom's door.
+
+     He went like one that hath been stunned,
+     And is of sense forlorn:
+     A sadder and a wiser man,
+     He rose the morrow morn.
+
+</pre>

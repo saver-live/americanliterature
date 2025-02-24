@@ -1,1 +1,19 @@
-<p><span class="al-title">Antigone</span> is the third in the series of Theban plays by Sophocles, though it was the first written in the series (about 441 BC). Its title is the daughter/sister of Oedipus, and his mother Jocasta (yes, it's complicated and tragic). We recommend reading all three plays, though they are considered distinct pieces of literature and should be analyzed individually. The other two Theban plays are <a class al-title href="https://americanliterature.com/author/sophocles/play/oedipus-the-king/summary">Opedipus the King</a>, followed by <a class al-title href="https://americanliterature.com/author/sophocles/play/oedipus-at-colonus/summary">Oedipus at Colonus</a>.</p><p><img alt="Oedipus at Colonus-draft" title="Sophocles manuscript" itemprop="image" src="https://assets.americanliterature.com/al/images/play/oedipus-the-king.jpg" style="max-width:400px; float:left; margin-right: 12px; margin-bottom: 10px;" data-pagespeed-url-hash="3690757061" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"> </p><p><a href="argument">ARGUMENT</a></p><p><a href="dramatis-personae">DRAMATIS PERSONAE</a></p><p><a href="antigone">ANTIGONE</a></p><p style="margin-top: 26px;"> Return to the <a href="/author/sophocles">Sophocles</a> library. </p>
+<pre>
+Love, if I weep it will not matter,
+And if you laugh I shall not care;
+Foolish am I to think about it,
+But it is good to feel you there.
+Love, in my sleep I dreamed of waking,—
+White and awful the moonlight reached
+Over the floor, and somewhere, somewhere,
+There was a shutter loose,—it screeched!
+Swung in the wind,—and no wind blowing!—
+I was afraid, and turned to you,
+Put out my hand to you for comfort,—
+And you were gone! Cold, cold as dew,
+Under my hand the moonlight lay!
+Love, if you laugh I shall not care,
+But if I weep it will not matter,—
+Ah, it is good to feel you there!
+
+</pre>

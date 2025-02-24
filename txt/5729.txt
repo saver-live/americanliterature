@@ -1,26 +1,15 @@
-<pre>
-&nbsp;&nbsp;&nbsp;&nbsp;In broad daylight, and at noon,
-&nbsp;&nbsp;&nbsp;&nbsp;Yesterday I saw the moon
-&nbsp;&nbsp;&nbsp;&nbsp;Sailing high, but faint and white,
-&nbsp;&nbsp;&nbsp;&nbsp;As a school-boy's paper kite.
-
-&nbsp;&nbsp;&nbsp;&nbsp;In broad daylight, yesterday,
-&nbsp;&nbsp;&nbsp;&nbsp;I read a Poet's mystic lay;
-&nbsp;&nbsp;&nbsp;&nbsp;And it seemed to me at most
-&nbsp;&nbsp;&nbsp;&nbsp;As a phantom, or a ghost.
-
-&nbsp;&nbsp;&nbsp;&nbsp;But at length the feverish day
-&nbsp;&nbsp;&nbsp;&nbsp;Like a passion died away,
-&nbsp;&nbsp;&nbsp;&nbsp;And the night, serene and still,
-&nbsp;&nbsp;&nbsp;&nbsp;Fell on village, vale, and hill.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Then the moon, in all her pride,
-&nbsp;&nbsp;&nbsp;&nbsp;Like a spirit glorified,
-&nbsp;&nbsp;&nbsp;&nbsp;Filled and overflowed the night
-&nbsp;&nbsp;&nbsp;&nbsp;With revelations of her light.
-
-&nbsp;&nbsp;&nbsp;&nbsp;And the Poet's song again
-&nbsp;&nbsp;&nbsp;&nbsp;Passed like music through my brain;
-&nbsp;&nbsp;&nbsp;&nbsp;Night interpreted to me
-&nbsp;&nbsp;&nbsp;&nbsp;All its grace and mystery.
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;Oft I remember those whom I have known
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In other days, to whom my heart was led
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As by a magnet, and who are not dead,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But absent, and their memories overgrown
+&nbsp;&nbsp;&nbsp;&nbsp;With other thoughts and troubles of my own,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As graves with grasses are, and at their head
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The stone with moss and lichens so o'erspread,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nothing is legible but the name alone.
+&nbsp;&nbsp;&nbsp;&nbsp;And is it so with them?&nbsp;&nbsp;&nbsp;&nbsp;After long years,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Do they remember me in the same way,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And is the memory pleasant as to me?
+&nbsp;&nbsp;&nbsp;&nbsp;I fear to ask; yet wherefore are my fears?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pleasures, like flowers, may wither and decay,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And yet the root perennial may be.
 </pre>

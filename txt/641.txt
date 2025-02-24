@@ -1,0 +1,4 @@
+<p>You ask me why I dwell in the green mountain; <br> I smile and make no reply for my heart is free of care. <br> As the peach-blossom flows down stream and is gone into the unknown, <br> I have a world apart that is not among men. <br></p>
+<div class="poet" itemprop="author">
+ Li Po
+</div>

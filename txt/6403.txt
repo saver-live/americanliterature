@@ -1,38 +1,18 @@
 <pre>
-He rides at their head;
-  A crutch by his saddle just slants in view,
-One slung arm is in splints, you see,
-  Yet he guides his strong steed—how
-    coldly too.
-He brings his regiment home—
-  Not as they filed two years before,
-But a remnant half-tattered, and battered,
-    and worn,
-Like castaway sailors, who—stunned
-    By the surf's loud roar,
-  Their mates dragged back and seen no
-    more—
-Again and again breast the surge,
-  And at last crawl, spent, to shore.
-A still rigidity and pale—
-  An Indian aloofness lones his brow;
-He has lived a thousand years
-Compressed in battle's pains and prayers,
-  Marches and watches slow.
-There are welcoming shouts, and flags;
-  Old men off hat to the Boy,
-Wreaths from gay balconies fall at his feet,
-But to him—there comes alloy.
-It is not that a leg is lost,
-  It is not that an arm is maimed,
-It is not that the fever has racked—
-  Self he has long disclaimed.
-But all through the Seven Days' Fight,
-  And deep in the Wilderness grim,
-And in the field-hospital tent,
-  And Petersburg crater, and dim
-Lean brooding in Libby, there came—
-  Ah heaven!—what <em>truth<em>! to him.
-
-
-</em></em></pre>
+<img alt="William Shakespeare portrait" title="William Shakespeare portrait" itemprop="image" src="https://assets.americanliterature.com/al/images/author/shakespeare.jpg" style="max-width:290px; float:right; margin-right: 12px; margin-bottom: 12px;" data-pagespeed-url-hash="3821680355" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"> What needs my Shakespeare for his honored bones
+The labor of an age in piled stones?
+Or that his hallowed reliques should be hid
+Under a star-y pointing pyramid?
+Dear son of memory, great heir of fame, 
+What need’st thou such weak witness of thy name?
+Thou in our wonder and astonishment
+Hast built thyself a livelong monument.
+For whilst, to the shame of slow-endeavoring art
+Thy easy numbers flow, and that each heart 
+Hath from the leaves of thy unvalued book
+Those Delphic lines with deep impression took,
+Then thou, our fancy of itself bereaving,
+Dost make us marble with too much conceiving,
+And so sepulchred in such pomp dost lie 
+That kings for such a tomb would wish to die.
+</pre>

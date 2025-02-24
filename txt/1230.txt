@@ -1,15 +1,54 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;I have been in the meadows all the day
-&nbsp;&nbsp;&nbsp;&nbsp;And gathered there the nosegay that you see
-&nbsp;&nbsp;&nbsp;&nbsp;Singing within myself as bird or bee
-&nbsp;&nbsp;&nbsp;&nbsp;When such do field-work on a morn of May.
-&nbsp;&nbsp;&nbsp;&nbsp;But, now I look upon my flowers, decay
-&nbsp;&nbsp;&nbsp;&nbsp;Has met them in my hands more fatally
-&nbsp;&nbsp;&nbsp;&nbsp;Because more warmly clasped, and sobs are free
-&nbsp;&nbsp;&nbsp;&nbsp;To come instead of songs. What do you say,
-&nbsp;&nbsp;&nbsp;&nbsp;Sweet counsellors, dear friends? that I should go
-&nbsp;&nbsp;&nbsp;&nbsp;Back straightway to the fields and gather more?
-&nbsp;&nbsp;&nbsp;&nbsp;Another, sooth, may do it, but not I!
-&nbsp;&nbsp;&nbsp;&nbsp;My heart is very tired, my strength is low,
-&nbsp;&nbsp;&nbsp;&nbsp;My hands are full of blossoms plucked before,
-&nbsp;&nbsp;&nbsp;&nbsp;Held dead within them till myself shall die.
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;For ever, since my childish looks
+&nbsp;&nbsp;&nbsp;&nbsp;Could rest on Nature's pictured books;
+&nbsp;&nbsp;&nbsp;&nbsp;For ever, since my childish tongue
+&nbsp;&nbsp;&nbsp;&nbsp;Could name the themes our bards have sung;
+&nbsp;&nbsp;&nbsp;&nbsp;So long, the sweetness of their singing
+&nbsp;&nbsp;&nbsp;&nbsp;Hath been to me a rapture bringing!
+&nbsp;&nbsp;&nbsp;&nbsp;Yet ask me not the reason why
+&nbsp;&nbsp;&nbsp;&nbsp;I have delight in minstrelsy.
+
+&nbsp;&nbsp;&nbsp;&nbsp;I know that much whereof I sing,
+&nbsp;&nbsp;&nbsp;&nbsp;Is shapen but for vanishing;
+&nbsp;&nbsp;&nbsp;&nbsp;I know that summer's flower and leaf
+&nbsp;&nbsp;&nbsp;&nbsp;And shine and shade are very brief,
+&nbsp;&nbsp;&nbsp;&nbsp;And that the heart they brighten, may,
+&nbsp;&nbsp;&nbsp;&nbsp;Before them all, be sheathed in clay!
+&nbsp;&nbsp;&nbsp;&nbsp;I do not know the reason why
+&nbsp;&nbsp;&nbsp;&nbsp;I have delight in minstrelsy.
+
+&nbsp;&nbsp;&nbsp;&nbsp;A few there are, whose smile and praise
+&nbsp;&nbsp;&nbsp;&nbsp;My minstrel hope, would kindly raise:
+&nbsp;&nbsp;&nbsp;&nbsp;But, of those few, Death may impress
+&nbsp;&nbsp;&nbsp;&nbsp;The lips of some with silentness;
+&nbsp;&nbsp;&nbsp;&nbsp;While some may friendship's faith resign,
+&nbsp;&nbsp;&nbsp;&nbsp;And heed no more a song of mine.
+&nbsp;&nbsp;&nbsp;&nbsp;Ask not, ask not the reason why
+&nbsp;&nbsp;&nbsp;&nbsp;I have delight in minstrelsy.
+
+&nbsp;&nbsp;&nbsp;&nbsp;The sweetest song that minstrels sing,
+&nbsp;&nbsp;&nbsp;&nbsp;Will charm not Joy to tarrying;
+&nbsp;&nbsp;&nbsp;&nbsp;The greenest bay that earth can grow,
+&nbsp;&nbsp;&nbsp;&nbsp;Will shelter not in burning woe;
+&nbsp;&nbsp;&nbsp;&nbsp;A thousand voices will not cheer,
+&nbsp;&nbsp;&nbsp;&nbsp;When one is mute that aye is dear!
+&nbsp;&nbsp;&nbsp;&nbsp;Is there, alas! no reason why
+&nbsp;&nbsp;&nbsp;&nbsp;I have delight in minstrelsy.
+
+&nbsp;&nbsp;&nbsp;&nbsp;I do not know! The turf is green
+&nbsp;&nbsp;&nbsp;&nbsp;Beneath the rain's fast-dropping sheen,
+&nbsp;&nbsp;&nbsp;&nbsp;Yet asks not why that deeper hue
+&nbsp;&nbsp;&nbsp;&nbsp;Doth all its tender leaves renew;
+&nbsp;&nbsp;&nbsp;&nbsp;And I, like-minded, am content,
+&nbsp;&nbsp;&nbsp;&nbsp;While music to my soul is sent,
+&nbsp;&nbsp;&nbsp;&nbsp;To question not the reason why
+&nbsp;&nbsp;&nbsp;&nbsp;I have delight in minstrelsy.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Years pass, my life with them shall pass:
+&nbsp;&nbsp;&nbsp;&nbsp;And soon, the cricket in the grass
+&nbsp;&nbsp;&nbsp;&nbsp;And summer bird, shall louder sing
+&nbsp;&nbsp;&nbsp;&nbsp;Than she who owns a minstrel's string.
+&nbsp;&nbsp;&nbsp;&nbsp;Oh then may some, the dear and few,
+&nbsp;&nbsp;&nbsp;&nbsp;Recall her love, whose truth they knew;
+&nbsp;&nbsp;&nbsp;&nbsp;When all forget to question why
+&nbsp;&nbsp;&nbsp;&nbsp;She had delight in minstrelsy!
 </pre>

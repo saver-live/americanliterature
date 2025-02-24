@@ -1,48 +1,16 @@
-<pre>
-<strong>At The Consecration of Pulaski's Banner.</strong>
-
-When the dying flame of day
-Through the chancel shot its ray,
-Far the glimmering tapers shed
-Faint light on the cowled head;
-And the censer burning swung,
-Where, before the altar, hung
-The crimson banner, that with prayer
-Had been consecrated there.
-And the nuns' sweet hymn was heard the while,
-Sung low, in the dim, mysterious aisle.
-   "Take thy banner! May it wave
-    Proudly o'er the good and brave;
-    When the battle's distant wail
-    Breaks the sabbath of our vale.
-    When the clarion's music thrills
-    To the hearts of these lone hills,
-    When the spear in conflict shakes,
-    And the strong lance shivering breaks.
-   "Take thy banner! and, beneath
-    The battle-cloud's encircling wreath,
-    Guard it, till our homes are free!
-    Guard it! God will prosper thee!
-    In the dark and trying hour,
-    In the breaking forth of power,
-    In the rush of steeds and men,
-    His right hand will shield thee then.
-    "Take thy banner! But when night
-     Closes round the ghastly fight,
-     If the vanquished warrior bow,
-     Spare him! By our holy vow,
-     By our prayers and many tears,
-     By the mercy that endears,
-     Spare him! he our love hath shared!
-     Spare him! as thou wouldst be spared!
-    "Take thy banner! and if e'er
-     Thou shouldst press the soldier's bier,
-     And the muffled drum should beat
-     To the tread of mournful feet,
-     Then this crimson flag shall be
-     Martial cloak and shroud for thee."
-The warrior took that banner proud,
-And it was his martial cloak and shroud!
-
-
+<pre> <img alt="William Shakespeare portrait" title="William Shakespeare portrait" itemprop="image" src="https://assets.americanliterature.com/al/images/author/shakespeare.jpg" style="max-width:290px; float:right; margin-right: 12px; margin-bottom: 12px;" data-pagespeed-url-hash="3821680355" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+&nbsp;&nbsp;&nbsp;&nbsp;A vision as of crowded city streets,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With human life in endless overflow;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thunder of thoroughfares; trumpets that blow
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To battle; clamor, in obscure retreats,
+&nbsp;&nbsp;&nbsp;&nbsp;Of sailors landed from their anchored fleets;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tolling of bells in turrets, and below
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Voices of children, and bright flowers that throw
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O'er garden-walls their intermingled sweets!
+&nbsp;&nbsp;&nbsp;&nbsp;This vision comes to me when I unfold
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The volume of the Poet paramount,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Whom all the Muses loved, not one alone;--
+&nbsp;&nbsp;&nbsp;&nbsp;Into his hands they put the lyre of gold,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And, crowned with sacred laurel at their fount,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Placed him as Musagetes on their throne.
 </pre>

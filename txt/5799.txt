@@ -1,88 +1,56 @@
-<pre>Envoye A M. Agassiz, La Veille De Noel 1864,
-Avec Un Panier De Vins Divers
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;At anchor in Hampton Roads we lay,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On board of the cumberland, sloop-of-war;
+&nbsp;&nbsp;&nbsp;&nbsp;And at times from the fortress across the bay
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The alarum of drums swept past,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Or a bugle blast
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the camp on the shore.
 
-&nbsp;&nbsp;&nbsp;&nbsp;L'Academie en respect,
-&nbsp;&nbsp;&nbsp;&nbsp;Nonobstant l'incorrection
-&nbsp;&nbsp;&nbsp;&nbsp;A la faveur du sujet,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ture-lure,
-&nbsp;&nbsp;&nbsp;&nbsp;N'y fera point de rature;
-&nbsp;&nbsp;&nbsp;&nbsp;Noel! ture-lure-lure.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-- Gui Barozai
+&nbsp;&nbsp;&nbsp;&nbsp;Then far away to the south uprose
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A little feather of snow-white smoke,
+&nbsp;&nbsp;&nbsp;&nbsp;And we knew that the iron ship of our foes
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Was steadily steering its course
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To try the force
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of our ribs of oak.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Quand les astres de Noel
-&nbsp;&nbsp;&nbsp;&nbsp;Brillaient, palpitaient au ciel,
-&nbsp;&nbsp;&nbsp;&nbsp;Six gaillards, et chacun ivre,
-&nbsp;&nbsp;&nbsp;&nbsp;Chantaient gaiment dans le givre,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "Bons amis,
-&nbsp;&nbsp;&nbsp;&nbsp;Allons donc chez Agassiz!"
+&nbsp;&nbsp;&nbsp;&nbsp;Down upon us heavily runs,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Silent and sullen, the floating fort;
+&nbsp;&nbsp;&nbsp;&nbsp;Then comes a puff of smoke from her guns,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And leaps the terrible death,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With fiery breath,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From each open port.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Ces illustres Pelerins
-&nbsp;&nbsp;&nbsp;&nbsp;D'Outre-Mer adroits et fins,
-&nbsp;&nbsp;&nbsp;&nbsp;Se donnant des airs de pretre,
-&nbsp;&nbsp;&nbsp;&nbsp;A l'envi se vantaient d'etre
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "Bons amis,
-&nbsp;&nbsp;&nbsp;&nbsp;De Jean Rudolphe Agassiz!"
+&nbsp;&nbsp;&nbsp;&nbsp;We are not idle, but send her straight
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Defiance back in a full broadside!
+&nbsp;&nbsp;&nbsp;&nbsp;As hail rebounds from a roof of slate,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rebounds our heavier hail
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From each iron scale
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of the monster's hide.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Oeil-de-Perdrix, grand farceur,
-&nbsp;&nbsp;&nbsp;&nbsp;Sans reproche et sans pudeur,
-&nbsp;&nbsp;&nbsp;&nbsp;Dans son patois de Bourgogne,
-&nbsp;&nbsp;&nbsp;&nbsp;Bredouillait comme un ivrogne,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "Bons amis,
-&nbsp;&nbsp;&nbsp;&nbsp;J'ai danse chez Agassiz!"
+&nbsp;&nbsp;&nbsp;&nbsp;"Strike your flag!" the rebel cries,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In his arrogant old plantation strain.
+&nbsp;&nbsp;&nbsp;&nbsp;"Never!" our gallant Morris replies;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"It is better to sink than to yield!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the whole air pealed
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With the cheers of our men.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Verzenay le Champenois,
-&nbsp;&nbsp;&nbsp;&nbsp;Bon Francais, point New-Yorquois,
-&nbsp;&nbsp;&nbsp;&nbsp;Mais des environs d'Avize,
-&nbsp;&nbsp;&nbsp;&nbsp;Fredonne a mainte reprise,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "Bons amis,
-&nbsp;&nbsp;&nbsp;&nbsp;J'ai chante chez Agassiz!"
+&nbsp;&nbsp;&nbsp;&nbsp;Then, like a kraken huge and black,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She crushed our ribs in her iron grasp!
+&nbsp;&nbsp;&nbsp;&nbsp;Down went the Cumberland all a wrack,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With a sudden shudder of death,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the cannon's breath
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For her dying gasp.
 
-&nbsp;&nbsp;&nbsp;&nbsp;A cote marchait un vieux
-&nbsp;&nbsp;&nbsp;&nbsp;Hidalgo, mais non mousseux;
-&nbsp;&nbsp;&nbsp;&nbsp;Dans le temps de Charlemagne
-&nbsp;&nbsp;&nbsp;&nbsp;Fut son pere Grand d'Espagne!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "Bons amis,
-&nbsp;&nbsp;&nbsp;&nbsp;J'ai dine chez Agassiz!"
+&nbsp;&nbsp;&nbsp;&nbsp;Next morn, as the sun rose over the bay,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Still floated our flag at the mainmast head.
+&nbsp;&nbsp;&nbsp;&nbsp;Lord, how beautiful was Thy day!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Every waft of the air
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Was a whisper of prayer,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Or a dirge for the dead.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Derriere eux un Bordelais,
-&nbsp;&nbsp;&nbsp;&nbsp;Gascon, s'il en fut jamais,
-&nbsp;&nbsp;&nbsp;&nbsp;Parfume de poesie
-&nbsp;&nbsp;&nbsp;&nbsp;Riait, chantait, plein de vie,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "Bons amis,
-&nbsp;&nbsp;&nbsp;&nbsp;J'ai soupe chez Agassiz!"
-
-&nbsp;&nbsp;&nbsp;&nbsp;Avec ce beau cadet roux,
-&nbsp;&nbsp;&nbsp;&nbsp;Bras dessus et bras dessous,
-&nbsp;&nbsp;&nbsp;&nbsp;Mine altiere et couleur terne,
-&nbsp;&nbsp;&nbsp;&nbsp;Vint le Sire de Sauterne;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "Bons amis,
-&nbsp;&nbsp;&nbsp;&nbsp;J'ai couche chez Agassiz!"
-
-&nbsp;&nbsp;&nbsp;&nbsp;Mais le dernier de ces preux,
-&nbsp;&nbsp;&nbsp;&nbsp;Etait un pauvre Chartreux,
-&nbsp;&nbsp;&nbsp;&nbsp;Qui disait, d'un ton robuste,
-&nbsp;&nbsp;&nbsp;&nbsp;"Benedictions sur le Juste!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bons amis,
-&nbsp;&nbsp;&nbsp;&nbsp;Benissons Pere Agassiz!"
-
-&nbsp;&nbsp;&nbsp;&nbsp;Ils arrivent trois a trois,
-&nbsp;&nbsp;&nbsp;&nbsp;Montent l'escalier de bois
-&nbsp;&nbsp;&nbsp;&nbsp;Clopin-clopant! quel gendarme
-&nbsp;&nbsp;&nbsp;&nbsp;Peut permettre ce vacarme,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bons amis,
-&nbsp;&nbsp;&nbsp;&nbsp;A la porte d'Agassiz!
-
-&nbsp;&nbsp;&nbsp;&nbsp;"Ouvrer donc, mon bon Seigneur,
-&nbsp;&nbsp;&nbsp;&nbsp;Ouvrez vite et n'ayez peur;
-&nbsp;&nbsp;&nbsp;&nbsp;Ouvrez, ouvrez, car nous sommes
-&nbsp;&nbsp;&nbsp;&nbsp;Gens de bien et gentilshommes,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bons amis
-&nbsp;&nbsp;&nbsp;&nbsp;De la famille Agassiz!"
-
-&nbsp;&nbsp;&nbsp;&nbsp;Chut, ganaches! taisez-vous!
-&nbsp;&nbsp;&nbsp;&nbsp;C'en est trop de vos glouglous;
-&nbsp;&nbsp;&nbsp;&nbsp;Epargnez aux Philosophes
-&nbsp;&nbsp;&nbsp;&nbsp;Vos abominables strophes!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bons amis,
-&nbsp;&nbsp;&nbsp;&nbsp;Respectez mon Agassiz!
+&nbsp;&nbsp;&nbsp;&nbsp;Ho! brave hearts that went down in the seas
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ye are at peace in the troubled stream;
+&nbsp;&nbsp;&nbsp;&nbsp;Ho! brave land! with hearts like these,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thy flag, that is rent in twain,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shall be one again,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And without a seam!
 </pre>

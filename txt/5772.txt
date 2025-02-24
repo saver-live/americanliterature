@@ -1,28 +1,15 @@
-<pre>
-The sun is bright,—the air is clear,
-  The darting swallows soar and sing.
-And from the stately elms I hear
-  The bluebird prophesying Spring.
-So blue you winding river flows,
-  It seems an outlet from the sky,
-Where waiting till the west-wind blows,
-  The freighted clouds at anchor lie.
-All things are new;—the buds, the leaves,
-  That gild the elm-tree's nodding crest,
- And even the nest beneath the eaves;—
-   There are no birds in last year's nest!
-All things rejoice in youth and love,
-   The fulness of their first delight!
- And learn from the soft heavens above
-   The melting tenderness of night.
-Maiden, that read'st this simple rhyme,
-   Enjoy thy youth, it will not stay;
-Enjoy the fragrance of thy prime,
-   For oh, it is not always May!
-Enjoy the Spring of Love and Youth,
-   To some good angel leave the rest;
-For Time will teach thee soon the truth,
-  There are no birds in last year's nest!
-
-
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;I stand beneath the tree, whose branches shade
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thy western window, Chapel of St. John!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And hear its leaves repeat their benison
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On him, whose hand if thy stones memorial laid;
+&nbsp;&nbsp;&nbsp;&nbsp;Then I remember one of whom was said
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the world's darkest hour, "Behold thy son!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And see him living still, and wandering on
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And waiting for the advent long delayed.
+&nbsp;&nbsp;&nbsp;&nbsp;Not only tongues of the apostles teach
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lessons of love and light, but these expanding
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And sheltering boughs with all their leaves implore,
+&nbsp;&nbsp;&nbsp;&nbsp;And say in language clear as human speech,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"The peace of God, that passeth understanding,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Be and abide with you forevermore!"
 </pre>

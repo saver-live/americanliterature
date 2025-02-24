@@ -1,63 +1,48 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;I am poor and old and blind;
-&nbsp;&nbsp;&nbsp;&nbsp;The sun burns me, and the wind
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blows through the city gate
-&nbsp;&nbsp;&nbsp;&nbsp;And covers me with dust
-&nbsp;&nbsp;&nbsp;&nbsp;From the wheels of the august
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Justinian the Great.
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;When the dying flame of day
+&nbsp;&nbsp;&nbsp;&nbsp;Through the chancel shot its ray,
+&nbsp;&nbsp;&nbsp;&nbsp;Far the glimmering tapers shed
+&nbsp;&nbsp;&nbsp;&nbsp;Faint light on the cowled head;
+&nbsp;&nbsp;&nbsp;&nbsp;And the censer burning swung,
+&nbsp;&nbsp;&nbsp;&nbsp;Where, before the altar, hung
+&nbsp;&nbsp;&nbsp;&nbsp;The crimson banner, that with prayer
+&nbsp;&nbsp;&nbsp;&nbsp;Had been consecrated there.
+&nbsp;&nbsp;&nbsp;&nbsp;And the nuns' sweet hymn was heard the while,
+&nbsp;&nbsp;&nbsp;&nbsp;Sung low, in the dim, mysterious aisle.
 
-&nbsp;&nbsp;&nbsp;&nbsp;It was for him I chased
-&nbsp;&nbsp;&nbsp;&nbsp;The Persians o'er wild and waste,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As General of the East;
-&nbsp;&nbsp;&nbsp;&nbsp;Night after night I lay
-&nbsp;&nbsp;&nbsp;&nbsp;In their camps of yesterday;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Their forage was my feast.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "Take thy banner!&nbsp;&nbsp;&nbsp;&nbsp;May it wave
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proudly o'er the good and brave;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When the battle's distant wail
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Breaks the sabbath of our vale.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When the clarion's music thrills
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To the hearts of these lone hills,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When the spear in conflict shakes,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the strong lance shivering breaks.
 
-&nbsp;&nbsp;&nbsp;&nbsp;For him, with sails of red,
-&nbsp;&nbsp;&nbsp;&nbsp;And torches at mast-head,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Piloting the great fleet,
-&nbsp;&nbsp;&nbsp;&nbsp;I swept the Afric coasts
-&nbsp;&nbsp;&nbsp;&nbsp;And scattered the Vandal hosts,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Like dust in a windy street.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "Take thy banner! and, beneath
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The battle-cloud's encircling wreath,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guard it, till our homes are free!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guard it!&nbsp;&nbsp;&nbsp;&nbsp;God will prosper thee!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the dark and trying hour,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the breaking forth of power,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the rush of steeds and men,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;His right hand will shield thee then.
 
-&nbsp;&nbsp;&nbsp;&nbsp;For him I won again
-&nbsp;&nbsp;&nbsp;&nbsp;The Ausonian realm and reign,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rome and Parthenope;
-&nbsp;&nbsp;&nbsp;&nbsp;And all the land was mine
-&nbsp;&nbsp;&nbsp;&nbsp;From the summits of Apennine
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To the shores of either sea.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Take thy banner!&nbsp;&nbsp;&nbsp;&nbsp;But when night
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Closes round the ghastly fight,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If the vanquished warrior bow,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Spare him!&nbsp;&nbsp;&nbsp;&nbsp;By our holy vow,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; By our prayers and many tears,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; By the mercy that endears,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Spare him! he our love hath shared!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Spare him! as thou wouldst be spared!
 
-&nbsp;&nbsp;&nbsp;&nbsp;For him, in my feeble age,
-&nbsp;&nbsp;&nbsp;&nbsp;I dared the battle's rage,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To save Byzantium's state,
-&nbsp;&nbsp;&nbsp;&nbsp;When the tents of Zabergan,
-&nbsp;&nbsp;&nbsp;&nbsp;Like snow-drifts overran
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The road to the Golden Gate.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Take thy banner! and if e'er
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thou shouldst press the soldier's bier,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And the muffled drum should beat
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To the tread of mournful feet,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Then this crimson flag shall be
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Martial cloak and shroud for thee."
 
-&nbsp;&nbsp;&nbsp;&nbsp;And for this, for this, behold!
-&nbsp;&nbsp;&nbsp;&nbsp;Infirm and blind and old,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With gray, uncovered head,
-&nbsp;&nbsp;&nbsp;&nbsp;Beneath the very arch
-&nbsp;&nbsp;&nbsp;&nbsp;Of my triumphal march,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I stand and beg my bread!
-
-&nbsp;&nbsp;&nbsp;&nbsp;Methinks I still can hear,
-&nbsp;&nbsp;&nbsp;&nbsp;Sounding distinct and near,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Vandal monarch's cry,
-&nbsp;&nbsp;&nbsp;&nbsp;As, captive and disgraced,
-&nbsp;&nbsp;&nbsp;&nbsp;With majestic step he paced,--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"All, all is Vanity!"
-
-&nbsp;&nbsp;&nbsp;&nbsp;Ah! vainest of all things
-&nbsp;&nbsp;&nbsp;&nbsp;Is the gratitude of kings;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The plaudits of the crowd
-&nbsp;&nbsp;&nbsp;&nbsp;Are but the clatter of feet
-&nbsp;&nbsp;&nbsp;&nbsp;At midnight in the street,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hollow and restless and loud.
-
-&nbsp;&nbsp;&nbsp;&nbsp;But the bitterest disgrace
-&nbsp;&nbsp;&nbsp;&nbsp;Is to see forever the face
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of the Monk of Ephesus!
-&nbsp;&nbsp;&nbsp;&nbsp;The unconquerable will
-&nbsp;&nbsp;&nbsp;&nbsp;This, too, can bear;--I still
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am Belisarius!
+&nbsp;&nbsp;&nbsp;&nbsp;The warrior took that banner proud,
+&nbsp;&nbsp;&nbsp;&nbsp;And it was his martial cloak and shroud!
 </pre>

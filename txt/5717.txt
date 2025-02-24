@@ -1,105 +1,14 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;How much of my young heart, O Spain,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Went out to thee in days of yore!
-&nbsp;&nbsp;&nbsp;&nbsp;What dreams romantic filled my brain,
-&nbsp;&nbsp;&nbsp;&nbsp;And summoned back to life again
-&nbsp;&nbsp;&nbsp;&nbsp;The Paladins of Charlemagne
-&nbsp;&nbsp;&nbsp;&nbsp; The Cid Campeador!
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;How cold are thy baths, Apollo!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cried the African monarch, the splendid,
+&nbsp;&nbsp;&nbsp;&nbsp;As down to his death in the hollow
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dark dungeons of Rome he descended,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uncrowned, unthroned, unattended;
+&nbsp;&nbsp;&nbsp;&nbsp;How cold are thy baths, Apollo!
 
-&nbsp;&nbsp;&nbsp;&nbsp;And shapes more shadowy than these,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the dim twilight half revealed;
-&nbsp;&nbsp;&nbsp;&nbsp;Phoenician galleys on the seas,
-&nbsp;&nbsp;&nbsp;&nbsp;The Roman camps like hives of bees,
-&nbsp;&nbsp;&nbsp;&nbsp;The Goth uplifting from his knees
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pelayo on his shield.
-
-&nbsp;&nbsp;&nbsp;&nbsp;It was these memories perchance,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From annals of remotest eld,
-&nbsp;&nbsp;&nbsp;&nbsp;That lent the colors of romance
-&nbsp;&nbsp;&nbsp;&nbsp;To every trivial circumstance,
-&nbsp;&nbsp;&nbsp;&nbsp;And changed the form and countenance
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of all that I beheld.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Old towns, whose history lies hid
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In monkish chronicle or rhyme,
-&nbsp;&nbsp;&nbsp;&nbsp;Burgos, the birthplace of the Cid,
-&nbsp;&nbsp;&nbsp;&nbsp;Zamora and Valladolid,
-&nbsp;&nbsp;&nbsp;&nbsp;Toledo, built and walled amid
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The wars of Wamba's time;
-
-&nbsp;&nbsp;&nbsp;&nbsp;The long, straight line of the high-way,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The distant town that seems so near,
-&nbsp;&nbsp;&nbsp;&nbsp;The peasants in the fields, that stay
-&nbsp;&nbsp;&nbsp;&nbsp;Their toil to cross themselves and pray,
-&nbsp;&nbsp;&nbsp;&nbsp;When from the belfry at midday
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Angelus they hear;
-
-&nbsp;&nbsp;&nbsp;&nbsp;White crosses in the mountain pass,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mules gay with tassels, the loud din
-&nbsp;&nbsp;&nbsp;&nbsp;Of muleteers, the tethered ass
-&nbsp;&nbsp;&nbsp;&nbsp;That crops the dusty wayside grass,
-&nbsp;&nbsp;&nbsp;&nbsp;And cavaliers with spurs of brass
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alighting at the inn;
-
-&nbsp;&nbsp;&nbsp;&nbsp;White hamlets hidden in fields of wheat,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; White cities slumbering by the sea,
-&nbsp;&nbsp;&nbsp;&nbsp;White sunshine flooding square and street,
-&nbsp;&nbsp;&nbsp;&nbsp;Dark mountain-ranges, at whose feet
-&nbsp;&nbsp;&nbsp;&nbsp;The river-beds are dry with heat,--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All was a dream to me.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Yet something sombre and severe
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O'er the enchanted landscape reigned;
-&nbsp;&nbsp;&nbsp;&nbsp;A terror in the atmosphere
-&nbsp;&nbsp;&nbsp;&nbsp;As if King Philip listened near,
-&nbsp;&nbsp;&nbsp;&nbsp;Or Torquemada, the austere,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;His ghostly sway maintained.
-
-&nbsp;&nbsp;&nbsp;&nbsp;The softer Andalusian skies
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dispelled the sadness and the gloom;
-&nbsp;&nbsp;&nbsp;&nbsp;There Cadiz by the seaside lies,
-&nbsp;&nbsp;&nbsp;&nbsp;And Seville's orange-orchards rise,
-&nbsp;&nbsp;&nbsp;&nbsp;Making the land a paradise
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of beauty and of bloom.
-
-&nbsp;&nbsp;&nbsp;&nbsp;There Cordova is hidden among
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The palm, the olive, and the vine;
-&nbsp;&nbsp;&nbsp;&nbsp;Gem of the South, by poets sung,
-&nbsp;&nbsp;&nbsp;&nbsp;And in whose Mosque Ahmanzor hung
-&nbsp;&nbsp;&nbsp;&nbsp;As lamps the bells that once had rung
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At Compostella's shrine.
-
-&nbsp;&nbsp;&nbsp;&nbsp;But over all the rest supreme,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The star of stars, the cynosure,
-&nbsp;&nbsp;&nbsp;&nbsp;The artist's and the poet's theme,
-&nbsp;&nbsp;&nbsp;&nbsp;The young man's vision, the old man's dream,--
-&nbsp;&nbsp;&nbsp;&nbsp;Granada by its winding stream,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The city of the Moor!
-
-&nbsp;&nbsp;&nbsp;&nbsp;And there the Alhambra still recalls
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aladdin's palace of delight;
-&nbsp;&nbsp;&nbsp;&nbsp;Allah il Allah! through its halls
-&nbsp;&nbsp;&nbsp;&nbsp;Whispers the fountain as it falls,
-&nbsp;&nbsp;&nbsp;&nbsp;The Darro darts beneath its walls,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The hills with snow are white.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Ah yes, the hills are white with snow,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And cold with blasts that bite and freeze;
-&nbsp;&nbsp;&nbsp;&nbsp;But in the happy vale below
-&nbsp;&nbsp;&nbsp;&nbsp;The orange and pomegranate grow,
-&nbsp;&nbsp;&nbsp;&nbsp;And wafts of air toss to and fro
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The blossoming almond-trees.
-
-&nbsp;&nbsp;&nbsp;&nbsp;The Vega cleft by the Xenil,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The fascination and allure
-&nbsp;&nbsp;&nbsp;&nbsp;Of the sweet landscape chains the will;
-&nbsp;&nbsp;&nbsp;&nbsp;The traveller lingers on the hill,
-&nbsp;&nbsp;&nbsp;&nbsp;His parted lips are breathing still
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The last sigh of the Moor.
-
-&nbsp;&nbsp;&nbsp;&nbsp;How like a ruin overgrown
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With flower's that hide the rents of time,
-&nbsp;&nbsp;&nbsp;&nbsp;Stands now the Past that I have known,
-&nbsp;&nbsp;&nbsp;&nbsp;Castles in Spain, not built of stone
-&nbsp;&nbsp;&nbsp;&nbsp;But of white summer clouds, and blown
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Into this little mist of rhyme!
+&nbsp;&nbsp;&nbsp;&nbsp;How cold are thy baths, Apollo!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cried the Poet, unknown, unbefriended,
+&nbsp;&nbsp;&nbsp;&nbsp;As the vision, that lured him to follow,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With the mist and the darkness blended,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the dream of his life was ended;
+&nbsp;&nbsp;&nbsp;&nbsp;How cold are thy baths, Apollo!
 </pre>

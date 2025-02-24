@@ -1,1 +1,17 @@
-<p><cite class="al-title">The Lady of the Lake</cite> is Scott's epic medieval romantic poem about the legendary court of King Arthur. First published in 1810, it has inspired numerous adaptations, both written and in film. <i>[Illustration by Walter Crane in 1911, King Arthur asks the Lady of the Lake for the sword, Excalibur]</i> </p><p><i>"<b>Argument.</b> The scene of the following Poem is laid chiefly in the vicinity of Loch Katrine, in the Western Highlands of Perthshire. The time of Action includes Six Days, and the transactions of each Day occupy a Canto."</i></p><p><a href="canto-first-the-chase">Canto First. The Chase</a></p><p><a href="canto-second-the-island">Canto Second. The Island</a></p><p><a href="canto-third-the-gathering">Canto Third. The Gathering</a></p><p><a href="canto-fourth-the-prophecy">Canto Fourth. The Prophecy</a></p><p><a href="canto-fifth-the-combat">Canto Fifth. The Combat </a></p><p><a href="canto-sixth-the-guard-room">Canto Sixth. the Guard-room</a></p><p style="margin-top: 26px;"> Return to the <a href="/author/sir-walter-scott">Sir Walter Scott</a> library. </p>
+<pre>
+  O how much more doth beauty beauteous seem,
+  By that sweet ornament which truth doth give!
+  The rose looks fair, but fairer we it deem
+  For that sweet odour, which doth in it live:
+  The canker blooms have full as deep a dye,
+  As the perfumed tincture of the roses,
+  Hang on such thorns, and play as wantonly,
+  When summer's breath their masked buds discloses:
+  But for their virtue only is their show,
+  They live unwooed, and unrespected fade,
+  Die to themselves. Sweet roses do not so,
+  Of their sweet deaths, are sweetest odours made:
+    And so of you, beauteous and lovely youth,
+    When that shall vade, by verse distills your truth.
+
+</pre>

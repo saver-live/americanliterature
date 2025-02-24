@@ -1,184 +1,25 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;In those days said Hiawatha,
-&nbsp;&nbsp;&nbsp;&nbsp;"Lo! how all things fade and perish!
-&nbsp;&nbsp;&nbsp;&nbsp;From the memory of the old men
-&nbsp;&nbsp;&nbsp;&nbsp;Pass away the great traditions,
-&nbsp;&nbsp;&nbsp;&nbsp;The achievements of the warriors,
-&nbsp;&nbsp;&nbsp;&nbsp;The adventures of the hunters,
-&nbsp;&nbsp;&nbsp;&nbsp;All the wisdom of the Medas,
-&nbsp;&nbsp;&nbsp;&nbsp;All the craft of the Wabenos,
-&nbsp;&nbsp;&nbsp;&nbsp;All the marvellous dreams and visions
-&nbsp;&nbsp;&nbsp;&nbsp;Of the Jossakeeds, the Prophets!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Great men die and are forgotten,
-&nbsp;&nbsp;&nbsp;&nbsp;Wise men speak; their words of wisdom
-&nbsp;&nbsp;&nbsp;&nbsp;Perish in the ears that hear them,
-&nbsp;&nbsp;&nbsp;&nbsp;Do not reach the generations
-&nbsp;&nbsp;&nbsp;&nbsp;That, as yet unborn, are waiting
-&nbsp;&nbsp;&nbsp;&nbsp;In the great, mysterious darkness
-&nbsp;&nbsp;&nbsp;&nbsp;Of the speechless days that shall be!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"On the grave-posts of our fathers
-&nbsp;&nbsp;&nbsp;&nbsp;Are no signs, no figures painted;
-&nbsp;&nbsp;&nbsp;&nbsp;Who are in those graves we know not,
-&nbsp;&nbsp;&nbsp;&nbsp;Only know they are our fathers.
-&nbsp;&nbsp;&nbsp;&nbsp;Of what kith they are and kindred,
-&nbsp;&nbsp;&nbsp;&nbsp;From what old, ancestral Totem,
-&nbsp;&nbsp;&nbsp;&nbsp;Be it Eagle, Bear, or Beaver,
-&nbsp;&nbsp;&nbsp;&nbsp;They descended, this we know not,
-&nbsp;&nbsp;&nbsp;&nbsp;Only know they are our fathers.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Face to face we speak together,
-&nbsp;&nbsp;&nbsp;&nbsp;But we cannot speak when absent,
-&nbsp;&nbsp;&nbsp;&nbsp;Cannot send our voices from us
-&nbsp;&nbsp;&nbsp;&nbsp;To the friends that dwell afar off;
-&nbsp;&nbsp;&nbsp;&nbsp;Cannot send a secret message,
-&nbsp;&nbsp;&nbsp;&nbsp;But the bearer learns our secret,
-&nbsp;&nbsp;&nbsp;&nbsp;May pervert it, may betray it,
-&nbsp;&nbsp;&nbsp;&nbsp;May reveal it unto others."
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thus said Hiawatha, walking
-&nbsp;&nbsp;&nbsp;&nbsp;In the solitary forest,
-&nbsp;&nbsp;&nbsp;&nbsp;Pondering, musing in the forest,
-&nbsp;&nbsp;&nbsp;&nbsp;On the welfare of his people.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From his pouch he took his colors,
-&nbsp;&nbsp;&nbsp;&nbsp;Took his paints of different colors,
-&nbsp;&nbsp;&nbsp;&nbsp;On the smooth bark of a birch-tree
-&nbsp;&nbsp;&nbsp;&nbsp;Painted many shapes and figures,
-&nbsp;&nbsp;&nbsp;&nbsp;Wonderful and mystic figures,
-&nbsp;&nbsp;&nbsp;&nbsp;And each figure had a meaning,
-&nbsp;&nbsp;&nbsp;&nbsp;Each some word or thought suggested.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gitche Manito the Mighty,
-&nbsp;&nbsp;&nbsp;&nbsp;He, the Master of Life, was painted
-&nbsp;&nbsp;&nbsp;&nbsp;As an egg, with points projecting
-&nbsp;&nbsp;&nbsp;&nbsp;To the four winds of the heavens.
-&nbsp;&nbsp;&nbsp;&nbsp;Everywhere is the Great Spirit,
-&nbsp;&nbsp;&nbsp;&nbsp;Was the meaning of this symbol.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mitche Manito the Mighty,
-&nbsp;&nbsp;&nbsp;&nbsp;He the dreadful Spirit of Evil,
-&nbsp;&nbsp;&nbsp;&nbsp;As a serpent was depicted,
-&nbsp;&nbsp;&nbsp;&nbsp;As Kenabeek, the great serpent.
-&nbsp;&nbsp;&nbsp;&nbsp;Very crafty, very cunning,
-&nbsp;&nbsp;&nbsp;&nbsp;Is the creeping Spirit of Evil,
-&nbsp;&nbsp;&nbsp;&nbsp;Was the meaning of this symbol.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Life and Death he drew as circles,
-&nbsp;&nbsp;&nbsp;&nbsp;Life was white, but Death was darkened;
-&nbsp;&nbsp;&nbsp;&nbsp;Sun and moon and stars he painted,
-&nbsp;&nbsp;&nbsp;&nbsp;Man and beast, and fish and reptile,
-&nbsp;&nbsp;&nbsp;&nbsp;Forests, mountains, lakes, and rivers.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the earth he drew a straight line,
-&nbsp;&nbsp;&nbsp;&nbsp;For the sky a bow above it;
-&nbsp;&nbsp;&nbsp;&nbsp;White the space between for daytime,
-&nbsp;&nbsp;&nbsp;&nbsp;Filled with little stars for night-time;
-&nbsp;&nbsp;&nbsp;&nbsp;On the left a point for sunrise,
-&nbsp;&nbsp;&nbsp;&nbsp;On the right a point for sunset,
-&nbsp;&nbsp;&nbsp;&nbsp;On the top a point for noontide,
-&nbsp;&nbsp;&nbsp;&nbsp;And for rain and cloudy weather
-&nbsp;&nbsp;&nbsp;&nbsp;Waving lines descending from it.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Footprints pointing towards a wigwam
-&nbsp;&nbsp;&nbsp;&nbsp;Were a sign of invitation,
-&nbsp;&nbsp;&nbsp;&nbsp;Were a sign of guests assembling;
-&nbsp;&nbsp;&nbsp;&nbsp;Bloody hands with palms uplifted
-&nbsp;&nbsp;&nbsp;&nbsp;Were a symbol of destruction,
-&nbsp;&nbsp;&nbsp;&nbsp;Were a hostile sign and symbol.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All these things did Hiawatha
-&nbsp;&nbsp;&nbsp;&nbsp;Show unto his wondering people,
-&nbsp;&nbsp;&nbsp;&nbsp;And interpreted their meaning,
-&nbsp;&nbsp;&nbsp;&nbsp;And he said: "Behold, your grave-posts
-&nbsp;&nbsp;&nbsp;&nbsp;Have no mark, no sign, nor symbol,
-&nbsp;&nbsp;&nbsp;&nbsp;Go and paint them all with figures;
-&nbsp;&nbsp;&nbsp;&nbsp;Each one with its household symbol,
-&nbsp;&nbsp;&nbsp;&nbsp;With its own ancestral Totem;
-&nbsp;&nbsp;&nbsp;&nbsp;So that those who follow after
-&nbsp;&nbsp;&nbsp;&nbsp;May distinguish them and know them."
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And they painted on the grave-posts
-&nbsp;&nbsp;&nbsp;&nbsp;On the graves yet unforgotten,
-&nbsp;&nbsp;&nbsp;&nbsp;Each his own ancestral Totem,
-&nbsp;&nbsp;&nbsp;&nbsp;Each the symbol of his household;
-&nbsp;&nbsp;&nbsp;&nbsp;Figures of the Bear and Reindeer,
-&nbsp;&nbsp;&nbsp;&nbsp;Of the Turtle, Crane, and Beaver,
-&nbsp;&nbsp;&nbsp;&nbsp;Each inverted as a token
-&nbsp;&nbsp;&nbsp;&nbsp;That the owner was departed,
-&nbsp;&nbsp;&nbsp;&nbsp;That the chief who bore the symbol
-&nbsp;&nbsp;&nbsp;&nbsp;Lay beneath in dust and ashes.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the Jossakeeds, the Prophets,
-&nbsp;&nbsp;&nbsp;&nbsp;The Wabenos, the Magicians,
-&nbsp;&nbsp;&nbsp;&nbsp;And the Medicine-men, the Medas,
-&nbsp;&nbsp;&nbsp;&nbsp;Painted upon bark and deer-skin
-&nbsp;&nbsp;&nbsp;&nbsp;Figures for the songs they chanted,
-&nbsp;&nbsp;&nbsp;&nbsp;For each song a separate symbol,
-&nbsp;&nbsp;&nbsp;&nbsp;Figures mystical and awful,
-&nbsp;&nbsp;&nbsp;&nbsp;Figures strange and brightly colored;
-&nbsp;&nbsp;&nbsp;&nbsp;And each figure had its meaning,
-&nbsp;&nbsp;&nbsp;&nbsp;Each some magic song suggested.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Great Spirit, the Creator,
-&nbsp;&nbsp;&nbsp;&nbsp;Flashing light through all the heaven;
-&nbsp;&nbsp;&nbsp;&nbsp;The Great Serpent, the Kenabeek,
-&nbsp;&nbsp;&nbsp;&nbsp;With his bloody crest erected,
-&nbsp;&nbsp;&nbsp;&nbsp;Creeping, looking into heaven;
-&nbsp;&nbsp;&nbsp;&nbsp;In the sky the sun, that listens,
-&nbsp;&nbsp;&nbsp;&nbsp;And the moon eclipsed and dying;
-&nbsp;&nbsp;&nbsp;&nbsp;Owl and eagle, crane and hen-hawk,
-&nbsp;&nbsp;&nbsp;&nbsp;And the cormorant, bird of magic;
-&nbsp;&nbsp;&nbsp;&nbsp;Headless men, that walk the heavens,
-&nbsp;&nbsp;&nbsp;&nbsp;Bodies lying pierced with arrows,
-&nbsp;&nbsp;&nbsp;&nbsp;Bloody hands of death uplifted,
-&nbsp;&nbsp;&nbsp;&nbsp;Flags on graves, and great war-captains
-&nbsp;&nbsp;&nbsp;&nbsp;Grasping both the earth and heaven!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Such as these the shapes they painted
-&nbsp;&nbsp;&nbsp;&nbsp;On the birch-bark and the deer-skin;
-&nbsp;&nbsp;&nbsp;&nbsp;Songs of war and songs of hunting,
-&nbsp;&nbsp;&nbsp;&nbsp;Songs of medicine and of magic,
-&nbsp;&nbsp;&nbsp;&nbsp;All were written in these figures,
-&nbsp;&nbsp;&nbsp;&nbsp;For each figure had its meaning,
-&nbsp;&nbsp;&nbsp;&nbsp;Each its separate song recorded.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nor forgotten was the Love-Song,
-&nbsp;&nbsp;&nbsp;&nbsp;The most subtle of all medicines,
-&nbsp;&nbsp;&nbsp;&nbsp;The most potent spell of magic,
-&nbsp;&nbsp;&nbsp;&nbsp;Dangerous more than war or hunting!
-&nbsp;&nbsp;&nbsp;&nbsp;Thus the Love-Song was recorded,
-&nbsp;&nbsp;&nbsp;&nbsp;Symbol and interpretation.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;First a human figure standing,
-&nbsp;&nbsp;&nbsp;&nbsp;Painted in the brightest scarlet;
-&nbsp;&nbsp;&nbsp;&nbsp;'T is the lover, the musician,
-&nbsp;&nbsp;&nbsp;&nbsp;And the meaning is, "My painting
-&nbsp;&nbsp;&nbsp;&nbsp;Makes me powerful over others."
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then the figure seated, singing,
-&nbsp;&nbsp;&nbsp;&nbsp;Playing on a drum of magic,
-&nbsp;&nbsp;&nbsp;&nbsp;And the interpretation, "Listen!
-&nbsp;&nbsp;&nbsp;&nbsp;'T is my voice you hear, my singing!"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then the same red figure seated
-&nbsp;&nbsp;&nbsp;&nbsp;In the shelter of a wigwam,
-&nbsp;&nbsp;&nbsp;&nbsp;And the meaning of the symbol,
-&nbsp;&nbsp;&nbsp;&nbsp;"I will come and sit beside you
-&nbsp;&nbsp;&nbsp;&nbsp;In the mystery of my passion!"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then two figures, man and woman,
-&nbsp;&nbsp;&nbsp;&nbsp;Standing hand in hand together
-&nbsp;&nbsp;&nbsp;&nbsp;With their hands so clasped together
-&nbsp;&nbsp;&nbsp;&nbsp;That they seemed in one united,
-&nbsp;&nbsp;&nbsp;&nbsp;And the words thus represented
-&nbsp;&nbsp;&nbsp;&nbsp;Are, "I see your heart within you,
-&nbsp;&nbsp;&nbsp;&nbsp;And your cheeks are red with blushes!"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Next the maiden on an island,
-&nbsp;&nbsp;&nbsp;&nbsp;In the centre of an island;
-&nbsp;&nbsp;&nbsp;&nbsp;And the song this shape suggested
-&nbsp;&nbsp;&nbsp;&nbsp;Was, "Though you were at a distance,
-&nbsp;&nbsp;&nbsp;&nbsp;Were upon some far-off island,
-&nbsp;&nbsp;&nbsp;&nbsp;Such the spell I cast upon you,
-&nbsp;&nbsp;&nbsp;&nbsp;Such the magic power of passion,
-&nbsp;&nbsp;&nbsp;&nbsp;I could straightway draw you to me!"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then the figure of the maiden
-&nbsp;&nbsp;&nbsp;&nbsp;Sleeping, and the lover near her,
-&nbsp;&nbsp;&nbsp;&nbsp;Whispering to her in her slumbers,
-&nbsp;&nbsp;&nbsp;&nbsp;Saying, "Though you were far from me
-&nbsp;&nbsp;&nbsp;&nbsp;In the land of Sleep and Silence,
-&nbsp;&nbsp;&nbsp;&nbsp;Still the voice of love would reach you!"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the last of all the figures
-&nbsp;&nbsp;&nbsp;&nbsp;Was a heart within a circle,
-&nbsp;&nbsp;&nbsp;&nbsp;Drawn within a magic circle;
-&nbsp;&nbsp;&nbsp;&nbsp;And the image had this meaning:
-&nbsp;&nbsp;&nbsp;&nbsp;"Naked lies your heart before me,
-&nbsp;&nbsp;&nbsp;&nbsp;To your naked heart I whisper!"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thus it was that Hiawatha,
-&nbsp;&nbsp;&nbsp;&nbsp;In his wisdom, taught the people
-&nbsp;&nbsp;&nbsp;&nbsp;All the mysteries of painting,
-&nbsp;&nbsp;&nbsp;&nbsp;All the art of Picture-Writing,
-&nbsp;&nbsp;&nbsp;&nbsp;On the smooth bark of the birch-tree,
-&nbsp;&nbsp;&nbsp;&nbsp;On the white skin of the reindeer,
-&nbsp;&nbsp;&nbsp;&nbsp;On the grave-posts of the village.
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;O lovely river of Yvette!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O darling river! like a bride,
+&nbsp;&nbsp;&nbsp;&nbsp;Some dimpled, bashful, fair Lisette,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thou goest to wed the Orge's tide.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Maincourt, and lordly Dampierre,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;See and salute thee on thy way,
+&nbsp;&nbsp;&nbsp;&nbsp;And, with a blessing and a prayer,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ring the sweet bells of St. Forget.
+
+&nbsp;&nbsp;&nbsp;&nbsp;The valley of Chevreuse in vain
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Would hold thee in its fond embrace;
+&nbsp;&nbsp;&nbsp;&nbsp;Thou glidest from its arms again
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And hurriest on with swifter pace.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Thou wilt not stay; with restless feet
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuing still thine onward flight,
+&nbsp;&nbsp;&nbsp;&nbsp;Thou goest as one in haste to meet
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Her sole desire, her head's delight.
+
+&nbsp;&nbsp;&nbsp;&nbsp;O lovely river of Yvette!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O darling stream! on balanced wings
+&nbsp;&nbsp;&nbsp;&nbsp;The wood-birds sang the chansonnette
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That here a wandering poet sings.
 </pre>

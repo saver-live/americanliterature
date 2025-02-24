@@ -1,1 +1,157 @@
-<p><a href="introduction-and-plan-of-the-work">INTRODUCTION AND PLAN OF THE WORK.</a></p><p><a href="book-i">BOOK I. </a></p><p><a href="chapter-i-of-the-division-of-labour">CHAPTER I. OF THE DIVISION OF LABOUR.</a></p><p><a href="chapter-ii-of-the-principle-which-gives-occasion-to-the-division-of-labour">CHAPTER II. OF THE PRINCIPLE WHICH GIVES OCCASION TO THE DIVISION OF LABOUR.</a></p><p><a href="chapter-iii-that-the-division-of-labour-is-limited-by-the-extent-of-the-market">CHAPTER III. THAT THE DIVISION OF LABOUR IS LIMITED BY THE EXTENT OF THE MARKET.</a></p><p><a href="chapter-iv-of-the-origin-and-use-of-money">CHAPTER IV. OF THE ORIGIN AND USE OF MONEY.</a></p><p><a href="chapter-v-of-the-real-and-nominal-price-of-commodities-or-of-their-price-in-labour-and-their-price-in-money">CHAPTER V. OF THE REAL AND NOMINAL PRICE OF COMMODITIES, OR OF THEIR PRICE IN LABOUR, AND THEIR PRICE IN MONEY.</a></p><p><a href="chapter-vi-of-the-component-part-of-the-price-of-commodities">CHAPTER VI. OF THE COMPONENT PART OF THE PRICE OF COMMODITIES.</a></p><p><a href="chapter-vii-of-the-natural-and-market-price-of-commodities">CHAPTER VII. OF THE NATURAL AND MARKET PRICE OF COMMODITIES</a></p><p><a href="chapter-viii-of-the-wages-of-labour">CHAPTER VIII. OF THE WAGES OF LABOUR.</a></p><p><a href="chapter-ix-of-the-profits-of-stock">CHAPTER IX. OF THE PROFITS OF STOCK.</a></p><p><a href="chapter-x-of-wages-and-profit-in-the-different-employments-of-labour-and-stock">CHAPTER X. OF WAGES AND PROFIT IN THE DIFFERENT EMPLOYMENTS OF LABOUR AND STOCK.</a></p><p><a href="chapter-xi-of-the-rent-of-land">CHAPTER XI. OF THE RENT OF LAND.</a></p><p><a href="book-ii">BOOK II. </a></p><p><a href="chapter-i-of-the-division-of-stock">CHAPTER I. OF THE DIVISION OF STOCK.</a></p><p><a href="chapter-ii-of-money-considered-as-a-particular-branch-of-the-general-stock-of-the-society-or-of-the-expense-of-maintaining-the-national-capital">CHAPTER II. OF MONEY, CONSIDERED AS A PARTICULAR BRANCH OF THE GENERAL STOCK OF THE SOCIETY, OR OF THE EXPENSE OF MAINTAINING THE NATIONAL CAPITAL.</a></p><p><a href="chapter-iii-of-the-accumulation-of-capital-or-of-productive-and-unproductive-labour">CHAPTER III. OF THE ACCUMULATION OF CAPITAL, OR OF PRODUCTIVE AND UNPRODUCTIVE LABOUR.</a></p><p><a href="chapter-iv-of-stock-lent-at-interest">CHAPTER IV. OF STOCK LENT AT INTEREST.</a></p><p><a href="chapter-v-of-the-different-employments-of-capitals">CHAPTER V. OF THE DIFFERENT EMPLOYMENTS OF CAPITALS.</a></p><p><a href="book-iii">BOOK III. </a></p><p><a href="chapter-i-of-the-natural-progress-of-opulence">CHAPTER I. OF THE NATURAL PROGRESS OF OPULENCE.</a></p><p><a href="chapter-ii-of-the-discouragement-of-agriculture-in-the-ancient-state-of-europe-after-the-fall-of-the-roman-empire">CHAPTER II. OF THE DISCOURAGEMENT OF AGRICULTURE IN THE ANCIENT STATE OF EUROPE, AFTER THE FALL OF THE ROMAN EMPIRE.</a></p><p><a href="chapter-iii-of-the-rise-and-progress-of-cities-and-towns-after-the-fall-of-the-roman-empire">CHAPTER III. OF THE RISE AND PROGRESS OF CITIES AND TOWNS, AFTER THE FALL OF THE ROMAN EMPIRE.</a></p><p><a href="chapter-iv-how-the-commerce-of-towns-contributed-to-the-improvement-of-the-country">CHAPTER IV. HOW THE COMMERCE OF TOWNS CONTRIBUTED TO THE IMPROVEMENT OF THE COUNTRY.</a></p><p><a href="book-iv">BOOK IV. </a></p><p><a href="chapter-i-of-the-principle-of-the-commercial-or-mercantile-system">CHAPTER I. OF THE PRINCIPLE OF THE COMMERCIAL OR MERCANTILE SYSTEM.</a></p><p><a href="chapter-ii-of-restraints-upon-importation-from-foreign-countries-of-such-goods-as-can-be-produced-at-home">CHAPTER II. OF RESTRAINTS UPON IMPORTATION FROM FOREIGN COUNTRIES OF SUCH GOODS AS CAN BE PRODUCED AT HOME.</a></p><p><a href="chapter-iii-of-the-extraordinary-restraints-upon-the-importation-of-goods-of-almost-all-kinds-from-those-countries-with-which-the-balance-is-supposed-to-be-disadvantageous">CHAPTER III. OF THE EXTRAORDINARY RESTRAINTS UPON THE IMPORTATION OF GOODS OF ALMOST ALL KINDS, FROM THOSE COUNTRIES WITH WHICH THE BALANCE IS SUPPOSED TO BE DISADVANTAGEOUS.</a></p><p><a href="chapter-iv-of-drawbacks">CHAPTER IV. OF DRAWBACKS.</a></p><p><a href="chapter-v-of-bounties">CHAPTER V. OF BOUNTIES.</a></p><p><a href="chapter-vi-of-treaties-of-commerce">CHAPTER VI. OF TREATIES OF COMMERCE.</a></p><p><a href="chapter-vii-of-colonies">CHAPTER VII. OF COLONIES.</a></p><p><a href="chapter-viii-conclusion-of-the-mercantile-system">CHAPTER VIII. CONCLUSION OF THE MERCANTILE SYSTEM.</a></p><p><a href="chapter-ix-of-the-agricultural-systems-or-of-those-systems-of-political-economy-which-represent-the-produce-of-land-as-either-the-sole-or-the-principal-source-of-the-revenue-and-wealth-of-every-country">CHAPTER IX. OF THE AGRICULTURAL SYSTEMS, OR OF THOSE SYSTEMS OF POLITICAL ECONOMY WHICH REPRESENT THE PRODUCE OF LAND, AS EITHER THE SOLE OR THE PRINCIPAL SOURCE OF THE REVENUE AND WEALTH OF EVERY COUNTRY.</a></p><p><a href="book-v">BOOK V.</a></p><p><a href="chapter-i-of-the-expenses-of-the-sovereign-or-commonwealth">CHAPTER I. OF THE EXPENSES OF THE SOVEREIGN OR COMMONWEALTH.</a></p><p><a href="chapter-ii-of-the-sources-of-the-general-or-public-revenue-of-the-society">CHAPTER II. OF THE SOURCES OF THE GENERAL OR PUBLIC REVENUE OF THE SOCIETY.</a></p><p><a href="chapter-iii-of-public-debts">CHAPTER III. OF PUBLIC DEBTS.</a></p><p style="margin-top: 26px;"> Return to the <a href="/author/adam-smith">Adam Smith</a> library. </p>
+<pre>
+"SON," said my mother,
+  When I was knee-high,
+"You've need of clothes to cover you,
+  And not a rag have I.
+
+"There's nothing in the house
+  To make a boy breeches,
+Nor shears to cut a cloth with
+  Nor thread to take stitches.
+
+"There's nothing in the house
+  But a loaf-end of rye,
+And a harp with a woman's head
+  Nobody will buy,"
+  And she began to cry.
+
+That was in the early fall.
+  When came the late fall,
+"Son," she said, "the sight of you
+  Makes your mother's blood crawl,–
+
+"Little skinny shoulder-blades
+  Sticking through your clothes!
+And where you'll get a jacket from
+  God above knows.
+
+"It's lucky for me, lad,
+  Your daddy's in the ground,
+And can't see the way I let
+  His son go around!"
+  And she made a queer sound.
+
+That was in the late fall.
+  When the winter came,
+I'd not a pair of breeches
+  Nor a shirt to my name.
+
+I couldn't go to school,
+  Or out of doors to play.
+And all the other little boys
+  Passed our way.
+
+"Son," said my mother,
+  "Come, climb into my lap,
+And I'll chafe your little bones
+  While you take a nap."
+
+And, oh, but we were silly
+  For half an hour or more,
+Me with my long legs
+  Dragging on the floor,
+
+A-rock-rock-rocking
+  To a mother-goose rhyme!
+Oh, but we were happy
+  For half an hour's time!
+
+But there was I, a great boy,
+  And what would folks say
+To hear my mother singing me
+  To sleep all day,
+  In such a daft way?
+
+Men say the winter
+  Was bad that year;
+Fuel was scarce,
+  And food was dear.
+
+A wind with a wolf's head
+  Howled about our door,
+And we burned up the chairs
+  And sat upon the floor.
+
+All that was left us
+  Was a chair we couldn't break,
+And the harp with a woman's head
+  Nobody would take,
+  For song or pity's sake.
+
+The night before Christmas
+  I cried with the cold,
+I cried myself to sleep
+  Like a two-year-old.
+
+And in the deep night
+  I felt my mother rise,
+And stare down upon me
+  With love in her eyes.
+
+I saw my mother sitting
+  On the one good chair,
+A light falling on her
+  From I couldn't tell where,
+
+Looking nineteen,
+  And not a day older,
+And the harp with a woman's head
+  Leaned against her shoulder.
+
+Her thin fingers, moving
+  In the thin, tall strings,
+Were weav-weav-weaving
+  Wonderful things.
+
+Many bright threads,
+  From where I couldn't see,
+Were running through the harp-strings
+  Rapidly,
+
+And gold threads whistling
+  Through my mother's hand.
+I saw the web grow,
+  And the pattern expand.
+
+She wove a child's jacket,
+  And when it was done
+She laid it on the floor
+  And wove another one.
+
+She wove a red cloak
+  So regal to see,
+"She's made it for a king's son,"
+  I said, "and not for me."
+  But I knew it was for me.
+
+She wove a pair of breeches
+  Quicker than that!
+She wove a pair of boots
+  And a little cocked hat.
+
+She wove a pair of mittens,
+  She wove a little blouse,
+She wove all night
+  In the still, cold house.
+
+She sang as she worked,
+  And the harp-strings spoke;
+Her voice never faltered,
+  And the thread never broke.
+  And when I awoke,–
+
+There sat my mother
+  With the harp against her shoulder
+Looking nineteen
+  And not a day older,
+
+A smile about her lips,
+  And a light about her head,
+And her hands in the harp-strings
+  Frozen dead.
+
+And piled up beside her
+  And toppling to the skies,
+Were the clothes of a king's son,
+  Just my size.
+</pre>

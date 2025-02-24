@@ -1,0 +1,4 @@
+<p>I took leave of you, old friend, at the <br> Yellow Crane Pavilion; <br> In the mist and bloom of March, you went <br> down to Yang-chou: <br> A lonely sail, distant shades, extinguished by blue-- <br> There, at the horizon, where river meets sky. <br></p>
+<div class="poet" itemprop="author">
+ Li Po
+</div>

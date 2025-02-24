@@ -1,0 +1,4 @@
+<p> My friend is lodging high in the Eastern Range,<br> Dearly loving the beauty of valleys and hills.<br> At green Spring he lies in the empty woods,<br> And is still asleep when the sun shines on igh.<br> A pine-tree wind dusts his sleeves and coat;<br> A peebly stream cleans his heart and ears.<br> I envy you, who far from strife and talk<br> Are high-propped on a pillow of blue cloud.<br> </p>
+<div class="poet" itemprop="author">
+ Li Po
+</div>

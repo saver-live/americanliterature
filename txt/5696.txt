@@ -1,70 +1,10 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;This is the place.&nbsp;&nbsp;&nbsp;&nbsp;Stand still, my steed,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Let me review the scene,
-&nbsp;&nbsp;&nbsp;&nbsp;And summon from the shadowy Past
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The forms that once have been.
-
-&nbsp;&nbsp;&nbsp;&nbsp;The Past and Present here unite
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beneath Time's flowing tide,
-&nbsp;&nbsp;&nbsp;&nbsp;Like footprints hidden by a brook,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But seen on either side.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Here runs the highway to the town;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There the green lane descends,
-&nbsp;&nbsp;&nbsp;&nbsp;Through which I walked to church with thee,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O gentlest of my friends!
-
-&nbsp;&nbsp;&nbsp;&nbsp;The shadow of the linden-trees
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lay moving on the grass;
-&nbsp;&nbsp;&nbsp;&nbsp;Between them and the moving boughs,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A shadow, thou didst pass.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Thy dress was like the lilies,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And thy heart as pure as they:
-&nbsp;&nbsp;&nbsp;&nbsp;One of God's holy messengers
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Did walk with me that day.
-
-&nbsp;&nbsp;&nbsp;&nbsp;I saw the branches of the trees
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bend down thy touch to meet,
-&nbsp;&nbsp;&nbsp;&nbsp;The clover-blossoms in the grass
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rise up to kiss thy feet,
-
-&nbsp;&nbsp;&nbsp;&nbsp;"Sleep, sleep to-day, tormenting cares,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of earth and folly born!"
-&nbsp;&nbsp;&nbsp;&nbsp;Solemnly sang the village choir
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On that sweet Sabbath morn.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Through the closed blinds the golden sun
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Poured in a dusty beam,
-&nbsp;&nbsp;&nbsp;&nbsp;Like the celestial ladder seen
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By Jacob in his dream.
-
-&nbsp;&nbsp;&nbsp;&nbsp;And ever and anon, the wind,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sweet-scented with the hay,
-&nbsp;&nbsp;&nbsp;&nbsp;Turned o'er the hymn-book's fluttering leaves
-&nbsp;&nbsp;&nbsp;&nbsp; That on the window lay.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Long was the good man's sermon,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yet it seemed not so to me;
-&nbsp;&nbsp;&nbsp;&nbsp;For he spake of Ruth the beautiful,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And still I thought of thee.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Long was the prayer he uttered,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yet it seemed not so to me;
-&nbsp;&nbsp;&nbsp;&nbsp;For in my heart I prayed with him,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And still I thought of thee.
-
-&nbsp;&nbsp;&nbsp;&nbsp;But now, alas! the place seems changed;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thou art no longer here:
-&nbsp;&nbsp;&nbsp;&nbsp;Part of the sunshine of the scene
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With thee did disappear.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Though thoughts, deep-rooted in my heart,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Like pine-trees dark and high,
-&nbsp;&nbsp;&nbsp;&nbsp;Subdue the light of noon, and breathe
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A low and ceaseless sigh;
-
-&nbsp;&nbsp;&nbsp;&nbsp;This memory brightens o'er the past,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As when the sun, concealed
-&nbsp;&nbsp;&nbsp;&nbsp;Behind some cloud that near us hangs
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shines on a distant field.
+<pre>
+&nbsp;&nbsp;&nbsp;&nbsp;Neglected record of a mind neglected,
+&nbsp;&nbsp;&nbsp;&nbsp;Unto what "lets and stops" art thou subjected!
+&nbsp;&nbsp;&nbsp;&nbsp;The day with all its toils and occupations,
+&nbsp;&nbsp;&nbsp;&nbsp;The night with its reflections and sensations,
+&nbsp;&nbsp;&nbsp;&nbsp;The future, and the present, and the past,--
+&nbsp;&nbsp;&nbsp;&nbsp;All I remember, feel, and hope at last,
+&nbsp;&nbsp;&nbsp;&nbsp;All shapes of joy and sorrow, as they pass,--
+&nbsp;&nbsp;&nbsp;&nbsp;Find but a dusty image in this glass.
 </pre>

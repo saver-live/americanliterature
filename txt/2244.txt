@@ -1,1 +1,103 @@
-<p><em><img alt="W.E.B. Du Bois Paris Exposition Exhibit" title="W.E.B. Du Bois Paris Exposition Exhibit" itemprop="image" src="https://assets.americanliterature.com/al/images/essay/web-dubois-infographics/slaves-free-negroes.jpg" style="text-align:center; padding-top: 14px; margin-bottom:10px;" data-pagespeed-url-hash="1738082280" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></em> </p><p>The following visual displays of demographic data were part of Du Bois' collection, "The Exhibit of American Negroes” — in which he attempted to show (a) The history of the American Negro. (b) His present condition. (c) His education. (d) His literature. The collection included 400 official patents by African-Americans, at least 200 books by African-American authors, maps, a Frederick Douglass statue, and 58 hand-drawn charts and graphs, a sample is below.</p><p> </p><p><br> </p><p> </p>
+<pre>
+Pray, what can dreams avail
+To make love or to mar?
+The child within the cradle rail
+Lies dreaming of the star.
+But is the star by this beguiled
+To leave its place and seek the child?
+The poor plucked rose within its glass
+Still dreameth of the bee;
+But, tho' the lagging moments pass,
+Her Love she may not see.
+If dream of child and flower fail,
+Why should a maiden's dreams prevail?
+
+  
+
+  
+  
+ <hr>
+  
+
+  <p>
+
+  
+  </p>
+ <div class="row-fluid">
+    
+  <div class="span3">
+      
+   <div id="star" style="margin-bottom:15px;"></div>
+    
+  </div><span id="new_score" style="margin-left: 0;">1</span>
+  
+ </div>
+  
+ <div id="your_score"></div>
+
+  
+ <div>
+    
+  <br>
+    
+    
+  <div>
+  
+  
+  <a href="https://www.facebook.com/sharer.php?u=https%3A//americanliterature.com/author/paul-laurence-dunbar/poem/dream-song-ii" target="_blank"><img src="https://assets.americanliterature.com/al/static/buttons/facebook.png" height="42" width="42" alt="facebook share button" data-pagespeed-url-hash="2170191075" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></a>
+
+  <a href="https://twitter.com/intent/tweet?text=I+enjoyed+reading&amp;url=https%3A%2F%2Famericanliterature.com%2Fauthor%2Fpaul-laurence-dunbar%2Fpoem%2Fdream-song-ii&amp;hashtags=reading,shortstory" target="_blank"><img src="https://assets.americanliterature.com/al/static/buttons/twitter.png" height="42" width="42" alt="twitter share button" data-pagespeed-url-hash="576884748" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></a>
+
+  <a href="https://reddit.com/submit?url=https%3A//americanliterature.com/author/paul-laurence-dunbar/poem/dream-song-ii" target="_blank"><img src="https://assets.americanliterature.com/al/static/buttons/reddit.png" height="42" width="42" alt="reddit share button" data-pagespeed-url-hash="3863141311" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></a>
+
+  <a href="https://www.pinterest.com/amlitdotcom/" target="_blank"><img src="https://assets.americanliterature.com/al/static/buttons/pinterest.png" height="42" width="42" alt="share on pinterest pinterest" data-pagespeed-url-hash="3307936475" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></a>
+  
+
+  
+
+  </div>
+
+  <br>
+
+
+
+  
+ </div>
+
+
+  
+
+
+
+  <p><br>
+    
+
+
+
+  </p>
+ <div>
+    <a class="btn btn-primary" href="/amlituser/register-to-add/short-story/8887/" rel="nofollow"><i class="icon-plus icon-white"></i> Add </a> <b><em>Dream Song II</em></b> to your library.
+
+  
+ </div>
+
+
+  
+
+
+  <p>
+  </p>
+ <div class="hero-unit hero-foot">
+
+    
+  <p>
+      Return to the <a href="/author/paul-laurence-dunbar">Paul Laurence Dunbar</a> library
+      , or . . . Read the next poem; <a href="encouragement">
+        Encouragement</a>
+    </p>
+    
+      
+  
+ </div>
+
+</pre>

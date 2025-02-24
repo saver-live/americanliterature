@@ -1,116 +1,58 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;Should you ask me, whence these stories?
-&nbsp;&nbsp;&nbsp;&nbsp;Whence these legends and traditions,
-&nbsp;&nbsp;&nbsp;&nbsp;With the odors of the forest
-&nbsp;&nbsp;&nbsp;&nbsp;With the dew and damp of meadows,
-&nbsp;&nbsp;&nbsp;&nbsp;With the curling smoke of wigwams,
-&nbsp;&nbsp;&nbsp;&nbsp;With the rushing of great rivers,
-&nbsp;&nbsp;&nbsp;&nbsp;With their frequent repetitions,
-&nbsp;&nbsp;&nbsp;&nbsp;And their wild reverberations
-&nbsp;&nbsp;&nbsp;&nbsp;As of thunder in the mountains?
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I should answer, I should tell you,
-&nbsp;&nbsp;&nbsp;&nbsp;"From the forests and the prairies,
-&nbsp;&nbsp;&nbsp;&nbsp;From the great lakes of the Northland,
-&nbsp;&nbsp;&nbsp;&nbsp;From the land of the Ojibways,
-&nbsp;&nbsp;&nbsp;&nbsp;From the land of the Dacotahs,
-&nbsp;&nbsp;&nbsp;&nbsp;From the mountains, moors, and fen-lands
-&nbsp;&nbsp;&nbsp;&nbsp;Where the heron, the Shuh-shuh-gah,
-&nbsp;&nbsp;&nbsp;&nbsp;Feeds among the reeds and rushes.
-&nbsp;&nbsp;&nbsp;&nbsp;I repeat them as I heard them
-&nbsp;&nbsp;&nbsp;&nbsp;From the lips of Nawadaha,
-&nbsp;&nbsp;&nbsp;&nbsp;The musician, the sweet singer."
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Should you ask where Nawadaha
-&nbsp;&nbsp;&nbsp;&nbsp;Found these songs so wild and wayward,
-&nbsp;&nbsp;&nbsp;&nbsp;Found these legends and traditions,
-&nbsp;&nbsp;&nbsp;&nbsp;I should answer, I should tell you,
-&nbsp;&nbsp;&nbsp;&nbsp;"In the bird's-nests of the forest,
-&nbsp;&nbsp;&nbsp;&nbsp;In the lodges of the beaver,
-&nbsp;&nbsp;&nbsp;&nbsp;In the hoof-prints of the bison,
-&nbsp;&nbsp;&nbsp;&nbsp;In the eyry of the eagle!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"All the wild-fowl sang them to him,
-&nbsp;&nbsp;&nbsp;&nbsp;In the moorlands and the fen-lands,
-&nbsp;&nbsp;&nbsp;&nbsp;In the melancholy marshes;
-&nbsp;&nbsp;&nbsp;&nbsp;Chetowaik, the plover, sang them,
-&nbsp;&nbsp;&nbsp;&nbsp;Mahng, the loon, the wild-goose, Wawa,
-&nbsp;&nbsp;&nbsp;&nbsp;The blue heron, the Shuh-shuh-gah,
-&nbsp;&nbsp;&nbsp;&nbsp;And the grouse, the Mushkodasa!"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If still further you should ask me,
-&nbsp;&nbsp;&nbsp;&nbsp;Saying, "Who was Nawadaha?
-&nbsp;&nbsp;&nbsp;&nbsp;Tell us of this Nawadaha,"
-&nbsp;&nbsp;&nbsp;&nbsp;I should answer your inquiries
-&nbsp;&nbsp;&nbsp;&nbsp;Straightway in such words as follow.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"In the vale of Tawasentha,
-&nbsp;&nbsp;&nbsp;&nbsp;In the green and silent valley,
-&nbsp;&nbsp;&nbsp;&nbsp;By the pleasant water-courses,
-&nbsp;&nbsp;&nbsp;&nbsp;Dwelt the singer Nawadaha.
-&nbsp;&nbsp;&nbsp;&nbsp;Round about the Indian village
-&nbsp;&nbsp;&nbsp;&nbsp;Spread the meadows and the corn-fields,
-&nbsp;&nbsp;&nbsp;&nbsp;And beyond them stood the forest,
-&nbsp;&nbsp;&nbsp;&nbsp;Stood the groves of singing pine-trees,
-&nbsp;&nbsp;&nbsp;&nbsp;Green in Summer, white in Winter,
-&nbsp;&nbsp;&nbsp;&nbsp;Ever sighing, ever singing.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"And the pleasant water-courses,
-&nbsp;&nbsp;&nbsp;&nbsp;You could trace them through the valley,
-&nbsp;&nbsp;&nbsp;&nbsp;By the rushing in the Spring-time,
-&nbsp;&nbsp;&nbsp;&nbsp;By the alders in the Summer,
-&nbsp;&nbsp;&nbsp;&nbsp;By the white fog in the Autumn,
-&nbsp;&nbsp;&nbsp;&nbsp;By the black line in the Winter;
-&nbsp;&nbsp;&nbsp;&nbsp;And beside them dwelt the singer,
-&nbsp;&nbsp;&nbsp;&nbsp;In the vale of Tawasentha,
-&nbsp;&nbsp;&nbsp;&nbsp;In the green and silent valley.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"There he sang of Hiawatha,
-&nbsp;&nbsp;&nbsp;&nbsp;Sang the Song of Hiawatha,
-&nbsp;&nbsp;&nbsp;&nbsp;Sang his wondrous birth and being,
-&nbsp;&nbsp;&nbsp;&nbsp;How he prayed and how he fasted,
-&nbsp;&nbsp;&nbsp;&nbsp;How he lived, and toiled, and suffered,
-&nbsp;&nbsp;&nbsp;&nbsp;That the tribes of men might prosper,
-&nbsp;&nbsp;&nbsp;&nbsp;That he might advance his people!"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ye who love the haunts of Nature,
-&nbsp;&nbsp;&nbsp;&nbsp;Love the sunshine of the meadow,
-&nbsp;&nbsp;&nbsp;&nbsp;Love the shadow of the forest,
-&nbsp;&nbsp;&nbsp;&nbsp;Love the wind among the branches,
-&nbsp;&nbsp;&nbsp;&nbsp;And the rain-shower and the snow-storm,
-&nbsp;&nbsp;&nbsp;&nbsp;And the rushing of great rivers
-&nbsp;&nbsp;&nbsp;&nbsp;Through their palisades of pine-trees,
-&nbsp;&nbsp;&nbsp;&nbsp;And the thunder in the mountains,
-&nbsp;&nbsp;&nbsp;&nbsp;Whose innumerable echoes
-&nbsp;&nbsp;&nbsp;&nbsp;Flap like eagles in their eyries;--
-&nbsp;&nbsp;&nbsp;&nbsp;Listen to these wild traditions,
-&nbsp;&nbsp;&nbsp;&nbsp;To this Song of Hiawatha!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ye who love a nation's legends,
-&nbsp;&nbsp;&nbsp;&nbsp;Love the ballads of a people,
-&nbsp;&nbsp;&nbsp;&nbsp;That like voices from afar off
-&nbsp;&nbsp;&nbsp;&nbsp;Call to us to pause and listen,
-&nbsp;&nbsp;&nbsp;&nbsp;Speak in tones so plain and childlike,
-&nbsp;&nbsp;&nbsp;&nbsp;Scarcely can the ear distinguish
-&nbsp;&nbsp;&nbsp;&nbsp;Whether they are sung or spoken;--
-&nbsp;&nbsp;&nbsp;&nbsp;Listen to this Indian Legend,
-&nbsp;&nbsp;&nbsp;&nbsp;To this Song of Hiawatha!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ye whose hearts are fresh and simple,
-&nbsp;&nbsp;&nbsp;&nbsp;Who have faith in God and Nature,
-&nbsp;&nbsp;&nbsp;&nbsp;Who believe that in all ages
-&nbsp;&nbsp;&nbsp;&nbsp;Every human heart is human,
-&nbsp;&nbsp;&nbsp;&nbsp;That in even savage bosoms
-&nbsp;&nbsp;&nbsp;&nbsp;There are longings, yearnings, strivings
-&nbsp;&nbsp;&nbsp;&nbsp;For the good they comprehend not,
-&nbsp;&nbsp;&nbsp;&nbsp;That the feeble hands and helpless,
-&nbsp;&nbsp;&nbsp;&nbsp;Groping blindly in the darkness,
-&nbsp;&nbsp;&nbsp;&nbsp;Touch God's right hand in that darkness
-&nbsp;&nbsp;&nbsp;&nbsp;And are lifted up and strengthened;--
-&nbsp;&nbsp;&nbsp;&nbsp;Listen to this simple story,
-&nbsp;&nbsp;&nbsp;&nbsp;To this Song of Hiawatha!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ye, who sometimes, in your rambles
-&nbsp;&nbsp;&nbsp;&nbsp;Through the green lanes of the country,
-&nbsp;&nbsp;&nbsp;&nbsp;Where the tangled barberry-bushes
-&nbsp;&nbsp;&nbsp;&nbsp;Hang their tufts of crimson berries
-&nbsp;&nbsp;&nbsp;&nbsp;Over stone walls gray with mosses,
-&nbsp;&nbsp;&nbsp;&nbsp;Pause by some neglected graveyard,
-&nbsp;&nbsp;&nbsp;&nbsp;For a while to muse, and ponder
-&nbsp;&nbsp;&nbsp;&nbsp;On a half-effaced inscription,
-&nbsp;&nbsp;&nbsp;&nbsp;Written with little skill of song-craft,
-&nbsp;&nbsp;&nbsp;&nbsp;Homely phrases, but each letter
-&nbsp;&nbsp;&nbsp;&nbsp;Full of hope and yet of heart-break,
-&nbsp;&nbsp;&nbsp;&nbsp;Full of all the tender pathos
-&nbsp;&nbsp;&nbsp;&nbsp;Of the Here and the Hereafter;--
-&nbsp;&nbsp;&nbsp;&nbsp;Stay and read this rude inscription,
-&nbsp;&nbsp;&nbsp;&nbsp;Read this Song of Hiawatha!
+<pre>The White Czar is Peter the Great.&nbsp;&nbsp;&nbsp;&nbsp;Batyushka, Father dear, and Gosudar, Sovereign, are titles the Russian people are fond of giving to the Czar in their popular songs.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Dost thou see on the rampart's height
+&nbsp;&nbsp;&nbsp;&nbsp;That wreath of mist, in the light
+&nbsp;&nbsp;&nbsp;&nbsp;Of the midnight moon?&nbsp;&nbsp;&nbsp;&nbsp;O, hist!
+&nbsp;&nbsp;&nbsp;&nbsp;It is not a wreath of mist;
+&nbsp;&nbsp;&nbsp;&nbsp;It is the Czar, the White Czar,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batyushka!&nbsp;&nbsp;&nbsp;&nbsp;Gosudar!
+
+&nbsp;&nbsp;&nbsp;&nbsp;He has heard, among the dead,
+&nbsp;&nbsp;&nbsp;&nbsp;The artillery roll o'erhead;
+&nbsp;&nbsp;&nbsp;&nbsp;The drums and the tramp of feet
+&nbsp;&nbsp;&nbsp;&nbsp;Of his soldiery in the street;
+&nbsp;&nbsp;&nbsp;&nbsp;He is awake! the White Czar,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batyushka!&nbsp;&nbsp;&nbsp;&nbsp;Gosudar!
+
+&nbsp;&nbsp;&nbsp;&nbsp;He has heard in the grave the cries
+&nbsp;&nbsp;&nbsp;&nbsp;Of his people: "Awake! arise!"
+&nbsp;&nbsp;&nbsp;&nbsp;He has rent the gold brocade
+&nbsp;&nbsp;&nbsp;&nbsp;Whereof his shroud was made;
+&nbsp;&nbsp;&nbsp;&nbsp;He is risen! the White Czar,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batyushka!&nbsp;&nbsp;&nbsp;&nbsp;Gosudar!
+
+&nbsp;&nbsp;&nbsp;&nbsp;From the Volga and the Don
+&nbsp;&nbsp;&nbsp;&nbsp;He has led his armies on,
+&nbsp;&nbsp;&nbsp;&nbsp;Over river and morass,
+&nbsp;&nbsp;&nbsp;&nbsp;Over desert and mountain pass;
+&nbsp;&nbsp;&nbsp;&nbsp;The Czar, the Orthodox Czar,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batyushka!&nbsp;&nbsp;&nbsp;&nbsp;Gosudar!
+
+&nbsp;&nbsp;&nbsp;&nbsp;He looks from the mountain-chain
+&nbsp;&nbsp;&nbsp;&nbsp;Toward the seas, that cleave in twain
+&nbsp;&nbsp;&nbsp;&nbsp;The continents; his hand
+&nbsp;&nbsp;&nbsp;&nbsp;Points southward o'er the land
+&nbsp;&nbsp;&nbsp;&nbsp;Of Roumili!&nbsp;&nbsp;&nbsp;&nbsp;O Czar,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Batyushka!&nbsp;&nbsp;&nbsp;&nbsp;Gosudar!
+
+&nbsp;&nbsp;&nbsp;&nbsp;And the words break from his lips:
+&nbsp;&nbsp;&nbsp;&nbsp;"I am the builder of ships,
+&nbsp;&nbsp;&nbsp;&nbsp;And my ships shall sail these seas
+&nbsp;&nbsp;&nbsp;&nbsp;To the Pillars of Hercules!
+&nbsp;&nbsp;&nbsp;&nbsp;I say it; the White Czar,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batyushka!&nbsp;&nbsp;&nbsp;&nbsp;Gosudar!
+
+&nbsp;&nbsp;&nbsp;&nbsp;"The Bosphorus shall be free;
+&nbsp;&nbsp;&nbsp;&nbsp;It shall make room for me;
+&nbsp;&nbsp;&nbsp;&nbsp;And the gates of its water-streets
+&nbsp;&nbsp;&nbsp;&nbsp;Be unbarred before my fleets.
+&nbsp;&nbsp;&nbsp;&nbsp;I say it; the White Czar,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batyushka!&nbsp;&nbsp;&nbsp;&nbsp;Gosudar!
+
+&nbsp;&nbsp;&nbsp;&nbsp;"And the Christian shall no more
+&nbsp;&nbsp;&nbsp;&nbsp;Be crushed, as heretofore,
+&nbsp;&nbsp;&nbsp;&nbsp;Beneath thine iron rule,
+&nbsp;&nbsp;&nbsp;&nbsp;O Sultan of Istamboul!
+&nbsp;&nbsp;&nbsp;&nbsp;I swear it; I the Czar,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batyushka!&nbsp;&nbsp;&nbsp;&nbsp;Gosudar!"
 </pre>

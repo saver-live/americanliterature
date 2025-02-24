@@ -1,31 +1,6 @@
 <pre>
-&nbsp;&nbsp;&nbsp;&nbsp;The day is ending,
-&nbsp;&nbsp;&nbsp;&nbsp;The night is descending;
-&nbsp;&nbsp;&nbsp;&nbsp;The marsh is frozen,
-&nbsp;&nbsp;&nbsp;&nbsp;The river dead.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Through clouds like ashes
-&nbsp;&nbsp;&nbsp;&nbsp;The red sun flashes
-&nbsp;&nbsp;&nbsp;&nbsp;On village windows
-&nbsp;&nbsp;&nbsp;&nbsp;That glimmer red.
-
-&nbsp;&nbsp;&nbsp;&nbsp;The snow recommences;
-&nbsp;&nbsp;&nbsp;&nbsp;The buried fences
-&nbsp;&nbsp;&nbsp;&nbsp;Mark no longer
-&nbsp;&nbsp;&nbsp;&nbsp;The road o'er the plain;
-
-&nbsp;&nbsp;&nbsp;&nbsp;While through the meadows,
-&nbsp;&nbsp;&nbsp;&nbsp;Like fearful shadows,
-&nbsp;&nbsp;&nbsp;&nbsp;Slowly passes
-&nbsp;&nbsp;&nbsp;&nbsp;A funeral train.
-
-&nbsp;&nbsp;&nbsp;&nbsp;The bell is pealing,
-&nbsp;&nbsp;&nbsp;&nbsp;And every feeling
-&nbsp;&nbsp;&nbsp;&nbsp;Within me responds
-&nbsp;&nbsp;&nbsp;&nbsp;To the dismal knell;
-
-&nbsp;&nbsp;&nbsp;&nbsp;Shadows are trailing,
-&nbsp;&nbsp;&nbsp;&nbsp;My heart is bewailing
-&nbsp;&nbsp;&nbsp;&nbsp;And tolling within
-&nbsp;&nbsp;&nbsp;&nbsp;Like a funeral bell.
+&nbsp;&nbsp;&nbsp;&nbsp;Soft through the silent air descend the feathery snow-flakes;
+&nbsp;&nbsp;&nbsp;&nbsp;White are the distant hills, white are the neighboring fields;
+&nbsp;&nbsp;&nbsp;&nbsp;Only the marshes are brown, and the river rolling among them
+&nbsp;&nbsp;&nbsp;&nbsp;Weareth the leaden hue seen in the eyes of the blind.
 </pre>

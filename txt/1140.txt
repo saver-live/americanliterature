@@ -1,1 +1,33 @@
-<p><a href="introduction">Introduction</a></p><p><a href="earths-answer">Earth's Answer</a></p><p><a href="the-clod-and-the-pebble">The Clod and the Pebble</a></p><p><a href="holy-thursday">Holy Thursday</a></p><p><a href="the-little-girl-lost">The Little Girl Lost</a></p><p><a href="the-little-girl-found">The Little Girl Found</a></p><p><a href="the-chimney-sweeper">The Chimney Sweeper</a></p><p><a href="nurses-song">Nurse's Song</a></p><p><a href="the-sick-rose">The Sick Rose</a></p><p><a href="the-fly">The Fly</a></p><p><a href="the-angel">The Angel</a></p><p><a href="the-tyger">The Tyger</a></p><p><a href="my-pretty-rose-tree">My Pretty Rose Tree</a></p><p><a href="ah-sun-flower">Ah! Sun-flower</a></p><p><a href="the-lily">The Lily</a></p><p><a href="the-garden-of-love">The Garden of Love</a></p><p><a href="the-little-vagabond">The Little Vagabond</a></p><p><a href="london">London</a></p><p><a href="the-human-abstract">The Human Abstract</a></p><p><a href="infant-sorrow">Infant Sorrow</a></p><p><a href="a-poison-tree">A Poison Tree</a></p><p><a href="a-little-boy-lost">A Little Boy Lost</a></p><p><a href="a-little-girl-lost">A Little Girl Lost</a></p><p><a href="to-tirzah">To Tirzah</a></p><p><a href="the-schoolboy">The Schoolboy</a></p><p><a href="the-voice-of-the-ancient-bard">The Voice of the Ancient Bard</a></p><p style="margin-top: 26px;"> Return to the <a href="/author/william-blake">William Blake</a> library. </p>
+<pre>
+   The sun does arise,
+   And make happy the skies;
+   The merry bells ring
+   To welcome the Spring;
+   The skylark and thrush,
+   The birds of the bush,
+   Sing louder around
+   To the bells' cheerful sound;
+   While our sports shall be seen
+   On the echoing Green.
+
+   Old John, with white hair,
+   Does laugh away care,
+   Sitting under the oak,
+   Among the old folk.
+   They laugh at our play,
+   And soon they all say,
+   "Such, such were the joys
+   When we all—girls and boys—
+   In our youth-time were seen
+   On the echoing Green."
+
+   Till the little ones, weary,
+   No more can be merry:
+   The sun does descend,
+   And our sports have an end.
+   Round the laps of their mothers
+   Many sisters and brothers,
+   Like birds in their nest,
+   Are ready for rest,
+   And sport no more seen
+   On the darkening green.</pre>

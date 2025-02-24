@@ -1,27 +1,15 @@
-<pre>I.
-
-&nbsp;&nbsp;&nbsp;&nbsp;The Gothic looks solemn,
-&nbsp;&nbsp;&nbsp;&nbsp;The plain Doric column
-&nbsp;&nbsp;&nbsp;&nbsp;Supports an old Bishop and Crosier;
-&nbsp;&nbsp;&nbsp;&nbsp;The mouldering arch,
-&nbsp;&nbsp;&nbsp;&nbsp;Shaded o'er by a larch
-&nbsp;&nbsp;&nbsp;&nbsp;Stands next door to Wilson the Hosier.
-
-II.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Vice that is, by turns,
-&nbsp;&nbsp;&nbsp;&nbsp;O'er pale faces mourns
-&nbsp;&nbsp;&nbsp;&nbsp;The black tassell'd trencher and common hat;
-&nbsp;&nbsp;&nbsp;&nbsp;The Chantry boy sings,
-&nbsp;&nbsp;&nbsp;&nbsp;The Steeple-bell rings,
-&nbsp;&nbsp;&nbsp;&nbsp;And as for the Chancellor dominat.
-
-III.
-
-&nbsp;&nbsp;&nbsp;&nbsp;There are plenty of trees,
-&nbsp;&nbsp;&nbsp;&nbsp;And plenty of ease,
-&nbsp;&nbsp;&nbsp;&nbsp;And plenty of fat deer for Parsons;
-&nbsp;&nbsp;&nbsp;&nbsp;And when it is venison,
-&nbsp;&nbsp;&nbsp;&nbsp;Short is the benison,
-&nbsp;&nbsp;&nbsp;&nbsp;Then each on a leg or thigh fastens.
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;When I have fears that I may cease to be
+&nbsp;&nbsp;&nbsp;&nbsp;Before my pen has glean'd my teeming brain,
+&nbsp;&nbsp;&nbsp;&nbsp;Before high piled books, in charactry,
+&nbsp;&nbsp;&nbsp;&nbsp;Hold like rich garners the full-ripen'd grain;
+&nbsp;&nbsp;&nbsp;&nbsp;When I behold, upon the night's starr'd face,
+&nbsp;&nbsp;&nbsp;&nbsp;Huge cloudy symbols of a high romance,
+&nbsp;&nbsp;&nbsp;&nbsp;And think that I may never live to trace
+&nbsp;&nbsp;&nbsp;&nbsp;Their shadows, with the magic hand of chance;
+&nbsp;&nbsp;&nbsp;&nbsp;And when I feel, fair creature of an hour,
+&nbsp;&nbsp;&nbsp;&nbsp;That I shall never look upon thee more,
+&nbsp;&nbsp;&nbsp;&nbsp;Never have relish in the faery power
+&nbsp;&nbsp;&nbsp;&nbsp;Of unreflecting love; then on the shore
+&nbsp;&nbsp;&nbsp;&nbsp;Of the wide world I stand alone, and think
+&nbsp;&nbsp;&nbsp;&nbsp;Till Love and Fame to nothingness do sink.
 </pre>

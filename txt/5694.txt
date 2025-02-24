@@ -1,16 +1,8 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;When the summer fields are mown,
-&nbsp;&nbsp;&nbsp;&nbsp;When the birds are fledged and flown,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the dry leaves strew the path;
-&nbsp;&nbsp;&nbsp;&nbsp;With the falling of the snow,
-&nbsp;&nbsp;&nbsp;&nbsp;With the cawing of the crow,
-&nbsp;&nbsp;&nbsp;&nbsp;Once again the fields we mow
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And gather in the aftermath.
+<pre>
+&nbsp;&nbsp;&nbsp;&nbsp;A lovely morning, without the glare of the sun, the sea in great commotion, chafing and foaming.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Not the sweet, new grass with flowers
-&nbsp;&nbsp;&nbsp;&nbsp;Is this harvesting of ours;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not the upland clover bloom;
-&nbsp;&nbsp;&nbsp;&nbsp;But the rowen mired with weeds,
-&nbsp;&nbsp;&nbsp;&nbsp;Tangled tufts from marsh and meads,
-&nbsp;&nbsp;&nbsp;&nbsp;Where the poppy drops its seeds
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the silence and the gloom.
+&nbsp;&nbsp;&nbsp;&nbsp;So from the bosom of darkness our days come roaring and gleaming,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chafe and break into foam, sink into darkness again.
+&nbsp;&nbsp;&nbsp;&nbsp;But on the shores of Time each leaves some trace of its passage,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Though the succeeding wave washes it out from the sand.
 </pre>

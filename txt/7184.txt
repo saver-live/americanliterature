@@ -1,1 +1,17 @@
-<p>William Shakespeare's tragedy about what can go wrong when an aged King tries to divvy powers amongst his three daughters, Cordelia, Regan, and Goneril. Written in 1605 and first performed in 1606, the role of King Lear remains coveted by fine actors world-wide.</p><p> </p><p><img alt="" benjamin west, shakespeares king lear, 1793 title="Benjamin West, Shakespeare's King Lear, 1793" itemprop="image" src="https://assets.americanliterature.com/al/images/play/king-lear-benjamin-west-1793.jpg" style="max-width:600px; float:center; margin-right: 12px; margin-bottom: 12px;" data-pagespeed-url-hash="1288887858" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></p><p><a href="dramatis-personae">Dramatis Personae</a></p><p><a href="act-i-scene-i">ACT I - Scene I.</a></p><p><a href="act-i-scene-ii">ACT I - Scene II.</a></p><p><a href="act-i-scene-iii">ACT I - Scene III.</a></p><p><a href="act-i-scene-iv">ACT I - Scene IV.</a></p><p><a href="act-i-scene-v">ACT I - Scene V.</a></p><p><a href="act-ii-scene-i">ACT II - Scene I.</a></p><p><a href="act-ii-scene-ii">ACT II - Scene II.</a></p><p><a href="act-ii-scene-iii">ACT II - Scene III.</a></p><p><a href="act-ii-scene-iv">ACT II - Scene IV.</a></p><p><a href="act-iii-scene-i">ACT III - Scene I.</a></p><p><a href="act-iii-scene-ii">ACT III - Scene II.</a></p><p><a href="act-iii-scene-iii">ACT III - Scene III.</a></p><p><a href="act-iii-scene-iv">ACT III - Scene IV.</a></p><p><a href="act-iii-scene-v">ACT III - Scene V.</a></p><p><a href="act-iii-scene-vi">ACT III - Scene VI.</a></p><p><a href="act-iii-scene-vii">ACT III - Scene VII.</a></p><p><a href="act-iv-scene-i">ACT IV - Scene I.</a></p><p><a href="act-iv-scene-ii">ACT IV - Scene II.</a></p><p><a href="act-iv-scene-iii">ACT IV - Scene III.</a></p><p><a href="act-iv-scene-iv">ACT IV - Scene IV.</a></p><p><a href="act-iv-scene-v">ACT IV - Scene V.</a></p><p><a href="act-iv-scene-vi">ACT IV - Scene VI.</a></p><p><a href="act-iv-scene-vii">ACT IV - Scene VII.</a></p><p><a href="act-v-scene-i">ACT V - Scene I.</a></p><p><a href="act-v-scene-ii">ACT V - Scene II.</a></p><p><a href="act-v-scene-iii">ACT V - Scene III.</a></p><p style="margin-top: 26px;"> Return to the <a href="/author/william-shakespeare">William Shakespeare</a> library. </p>
+<pre>
+  Ah wherefore with infection should he live,
+  And with his presence grace impiety,
+  That sin by him advantage should achieve,
+  And lace it self with his society?
+  Why should false painting imitate his cheek,
+  And steal dead seeming of his living hue?
+  Why should poor beauty indirectly seek,
+  Roses of shadow, since his rose is true?
+  Why should he live, now nature bankrupt is,
+  Beggared of blood to blush through lively veins,
+  For she hath no exchequer now but his,
+  And proud of many, lives upon his gains?
+    O him she stores, to show what wealth she had,
+    In days long since, before these last so bad.
+
+</pre>

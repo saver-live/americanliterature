@@ -1,25 +1,14 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;There pass the careless people
-&nbsp;&nbsp;&nbsp;&nbsp;That call their souls their own:
-&nbsp;&nbsp;&nbsp;&nbsp;Here by the road I loiter,
-&nbsp;&nbsp;&nbsp;&nbsp;How idle and alone.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Ah, past the plunge of plummet,
-&nbsp;&nbsp;&nbsp;&nbsp;In seas I cannot sound,
-&nbsp;&nbsp;&nbsp;&nbsp;My heart and soul and senses,
-&nbsp;&nbsp;&nbsp;&nbsp;World without end, are drowned.
-
-&nbsp;&nbsp;&nbsp;&nbsp;His folly has not fellow
-&nbsp;&nbsp;&nbsp;&nbsp;Beneath the blue of day
-&nbsp;&nbsp;&nbsp;&nbsp;That gives to man or woman
-&nbsp;&nbsp;&nbsp;&nbsp;His heart and soul away.
-
-&nbsp;&nbsp;&nbsp;&nbsp;There flowers no balm to sain him
-&nbsp;&nbsp;&nbsp;&nbsp;From east of earth to west
-&nbsp;&nbsp;&nbsp;&nbsp;That's lost for everlasting
-&nbsp;&nbsp;&nbsp;&nbsp;The heart out of his breast.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Here by the labouring highway
-&nbsp;&nbsp;&nbsp;&nbsp;With empty hands I stroll:
-&nbsp;&nbsp;&nbsp;&nbsp;Sea-deep, till doomsday morning,
-&nbsp;&nbsp;&nbsp;&nbsp;Lie lost my heart and soul.
+<pre>
+&nbsp;&nbsp;&nbsp;&nbsp;We'll to the weeds no more,
+&nbsp;&nbsp;&nbsp;&nbsp;The laurels are all cut,
+&nbsp;&nbsp;&nbsp;&nbsp;The bowers are bare of bay
+&nbsp;&nbsp;&nbsp;&nbsp;That once the Muses wore;
+&nbsp;&nbsp;&nbsp;&nbsp;The year draws in the day
+&nbsp;&nbsp;&nbsp;&nbsp;And soon will evening shut:
+&nbsp;&nbsp;&nbsp;&nbsp;The laurels all are cut,
+&nbsp;&nbsp;&nbsp;&nbsp;We'll to the woods no more.
+&nbsp;&nbsp;&nbsp;&nbsp;Oh we'll no more, no more
+&nbsp;&nbsp;&nbsp;&nbsp;To the leafy woods away,
+&nbsp;&nbsp;&nbsp;&nbsp;To the high wild woods of laurel
+&nbsp;&nbsp;&nbsp;&nbsp;And the bowers of bay no more.
 </pre>

@@ -1,241 +1,38 @@
-<pre>&nbsp;&nbsp;&nbsp;&nbsp;You shall hear how Pau-Puk-Keewis,
-&nbsp;&nbsp;&nbsp;&nbsp;How the handsome Yenadizze
-&nbsp;&nbsp;&nbsp;&nbsp;Danced at Hiawatha's wedding;
-&nbsp;&nbsp;&nbsp;&nbsp;How the gentle Chibiabos,
-&nbsp;&nbsp;&nbsp;&nbsp;He the sweetest of musicians,
-&nbsp;&nbsp;&nbsp;&nbsp;Sang his songs of love and longing;
-&nbsp;&nbsp;&nbsp;&nbsp;How Iagoo, the great boaster,
-&nbsp;&nbsp;&nbsp;&nbsp;He the marvellous story-teller,
-&nbsp;&nbsp;&nbsp;&nbsp;Told his tales of strange adventure,
-&nbsp;&nbsp;&nbsp;&nbsp;That the feast might be more joyous,
-&nbsp;&nbsp;&nbsp;&nbsp;That the time might pass more gayly,
-&nbsp;&nbsp;&nbsp;&nbsp;And the guests be more contented.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sumptuous was the feast Nokomis
-&nbsp;&nbsp;&nbsp;&nbsp;Made at Hiawatha's wedding;
-&nbsp;&nbsp;&nbsp;&nbsp;All the bowls were made of bass-wood,
-&nbsp;&nbsp;&nbsp;&nbsp;White and polished very smoothly,
-&nbsp;&nbsp;&nbsp;&nbsp;All the spoons of horn of bison,
-&nbsp;&nbsp;&nbsp;&nbsp;Black and polished very smoothly.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She had sent through all the village
-&nbsp;&nbsp;&nbsp;&nbsp;Messengers with wands of willow,
-&nbsp;&nbsp;&nbsp;&nbsp;As a sign of invitation,
-&nbsp;&nbsp;&nbsp;&nbsp;As a token of the feasting;
-&nbsp;&nbsp;&nbsp;&nbsp;And the wedding guests assembled,
-&nbsp;&nbsp;&nbsp;&nbsp;Clad in all their richest raiment,
-&nbsp;&nbsp;&nbsp;&nbsp;Robes of fur and belts of wampum,
-&nbsp;&nbsp;&nbsp;&nbsp;Splendid with their paint and plumage,
-&nbsp;&nbsp;&nbsp;&nbsp;Beautiful with beads and tassels.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;First they ate the sturgeon, Nahma,
-&nbsp;&nbsp;&nbsp;&nbsp;And the pike, the Maskenozha,
-&nbsp;&nbsp;&nbsp;&nbsp;Caught and cooked by old Nokomis;
-&nbsp;&nbsp;&nbsp;&nbsp;Then on pemican they feasted,
-&nbsp;&nbsp;&nbsp;&nbsp;Pemican and buffalo marrow,
-&nbsp;&nbsp;&nbsp;&nbsp;Haunch of deer and hump of bison,
-&nbsp;&nbsp;&nbsp;&nbsp;Yellow cakes of the Mondamin,
-&nbsp;&nbsp;&nbsp;&nbsp;And the wild rice of the river.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But the gracious Hiawatha,
-&nbsp;&nbsp;&nbsp;&nbsp;And the lovely Laughing Water,
-&nbsp;&nbsp;&nbsp;&nbsp;And the careful old Nokomis,
-&nbsp;&nbsp;&nbsp;&nbsp;Tasted not the food before them,
-&nbsp;&nbsp;&nbsp;&nbsp;Only waited on the others
-&nbsp;&nbsp;&nbsp;&nbsp;Only served their guests in silence.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And when all the guests had finished,
-&nbsp;&nbsp;&nbsp;&nbsp;Old Nokomis, brisk and busy,
-&nbsp;&nbsp;&nbsp;&nbsp;From an ample pouch of otter,
-&nbsp;&nbsp;&nbsp;&nbsp;Filled the red-stone pipes for smoking
-&nbsp;&nbsp;&nbsp;&nbsp;With tobacco from the South-land,
-&nbsp;&nbsp;&nbsp;&nbsp;Mixed with bark of the red willow,
-&nbsp;&nbsp;&nbsp;&nbsp;And with herbs and leaves of fragrance.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then she said, "O Pau-Puk-Keewis,
-&nbsp;&nbsp;&nbsp;&nbsp;Dance for us your merry dances,
-&nbsp;&nbsp;&nbsp;&nbsp;Dance the Beggar's Dance to please us,
-&nbsp;&nbsp;&nbsp;&nbsp;That the feast may be more joyous,
-&nbsp;&nbsp;&nbsp;&nbsp;That the time may pass more gayly,
-&nbsp;&nbsp;&nbsp;&nbsp;And our guests be more contented!"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then the handsome Pau-Puk-Keewis,
-&nbsp;&nbsp;&nbsp;&nbsp;He the idle Yenadizze,
-&nbsp;&nbsp;&nbsp;&nbsp;He the merry mischief-maker,
-&nbsp;&nbsp;&nbsp;&nbsp;Whom the people called the Storm-Fool,
-&nbsp;&nbsp;&nbsp;&nbsp;Rose among the guests assembled.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Skilled was he in sports and pastimes,
-&nbsp;&nbsp;&nbsp;&nbsp;In the merry dance of snow-shoes,
-&nbsp;&nbsp;&nbsp;&nbsp;In the play of quoits and ball-play;
-&nbsp;&nbsp;&nbsp;&nbsp;Skilled was he in games of hazard,
-&nbsp;&nbsp;&nbsp;&nbsp;In all games of skill and hazard,
-&nbsp;&nbsp;&nbsp;&nbsp;Pugasaing, the Bowl and Counters,
-&nbsp;&nbsp;&nbsp;&nbsp;Kuntassoo, the Game of Plum-stones.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Though the warriors called him Faint-Heart,
-&nbsp;&nbsp;&nbsp;&nbsp;Called him coward, Shaugodaya,
-&nbsp;&nbsp;&nbsp;&nbsp;Idler, gambler, Yenadizze,
-&nbsp;&nbsp;&nbsp;&nbsp;Little heeded he their jesting,
-&nbsp;&nbsp;&nbsp;&nbsp;Little cared he for their insults,
-&nbsp;&nbsp;&nbsp;&nbsp;For the women and the maidens
-&nbsp;&nbsp;&nbsp;&nbsp;Loved the handsome Pau-Puk-Keewis.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He was dressed in shirt of doeskin,
-&nbsp;&nbsp;&nbsp;&nbsp;White and soft, and fringed with ermine,
-&nbsp;&nbsp;&nbsp;&nbsp;All inwrought with beads of wampum;
-&nbsp;&nbsp;&nbsp;&nbsp;He was dressed in deer-skin leggings,
-&nbsp;&nbsp;&nbsp;&nbsp;Fringed with hedgehog quills and ermine,
-&nbsp;&nbsp;&nbsp;&nbsp;And in moccasins of buck-skin,
-&nbsp;&nbsp;&nbsp;&nbsp;Thick with quills and beads embroidered.
-&nbsp;&nbsp;&nbsp;&nbsp;On his head were plumes of swan's down,
-&nbsp;&nbsp;&nbsp;&nbsp;On his heels were tails of foxes,
-&nbsp;&nbsp;&nbsp;&nbsp;In one hand a fan of feathers,
-&nbsp;&nbsp;&nbsp;&nbsp;And a pipe was in the other.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Barred with streaks of red and yellow,
-&nbsp;&nbsp;&nbsp;&nbsp;Streaks of blue and bright vermilion,
-&nbsp;&nbsp;&nbsp;&nbsp;Shone the face of Pau-Puk-Keewis.
-&nbsp;&nbsp;&nbsp;&nbsp;From his forehead fell his tresses,
-&nbsp;&nbsp;&nbsp;&nbsp;Smooth, and parted like a woman's,
-&nbsp;&nbsp;&nbsp;&nbsp;Shining bright with oil, and plaited,
-&nbsp;&nbsp;&nbsp;&nbsp;Hung with braids of scented grasses,
-&nbsp;&nbsp;&nbsp;&nbsp;As among the guests assembled,
-&nbsp;&nbsp;&nbsp;&nbsp;To the sound of flutes and singing,
-&nbsp;&nbsp;&nbsp;&nbsp;To the sound of drums and voices,
-&nbsp;&nbsp;&nbsp;&nbsp;Rose the handsome Pau-Puk-Keewis,
-&nbsp;&nbsp;&nbsp;&nbsp;And began his mystic dances.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;First he danced a solemn measure,
-&nbsp;&nbsp;&nbsp;&nbsp;Very slow in step and gesture,
-&nbsp;&nbsp;&nbsp;&nbsp;In and out among the pine-trees,
-&nbsp;&nbsp;&nbsp;&nbsp;Through the shadows and the sunshine,
-&nbsp;&nbsp;&nbsp;&nbsp;Treading softly like a panther.
-&nbsp;&nbsp;&nbsp;&nbsp;Then more swiftly and still swifter,
-&nbsp;&nbsp;&nbsp;&nbsp;Whirling, spinning round in circles,
-&nbsp;&nbsp;&nbsp;&nbsp;Leaping o'er the guests assembled,
-&nbsp;&nbsp;&nbsp;&nbsp;Eddying round and round the wigwam,
-&nbsp;&nbsp;&nbsp;&nbsp;Till the leaves went whirling with him,
-&nbsp;&nbsp;&nbsp;&nbsp;Till the dust and wind together
-&nbsp;&nbsp;&nbsp;&nbsp;Swept in eddies round about him.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then along the sandy margin
-&nbsp;&nbsp;&nbsp;&nbsp;Of the lake, the Big-Sea-Water,
-&nbsp;&nbsp;&nbsp;&nbsp;On he sped with frenzied gestures,
-&nbsp;&nbsp;&nbsp;&nbsp;Stamped upon the sand, and tossed it
-&nbsp;&nbsp;&nbsp;&nbsp;Wildly in the air around him;
-&nbsp;&nbsp;&nbsp;&nbsp;Till the wind became a whirlwind,
-&nbsp;&nbsp;&nbsp;&nbsp;Till the sand was blown and sifted
-&nbsp;&nbsp;&nbsp;&nbsp;Like great snowdrifts o'er the landscape,
-&nbsp;&nbsp;&nbsp;&nbsp;Heaping all the shores with Sand Dunes,
-&nbsp;&nbsp;&nbsp;&nbsp;Sand Hills of the Nagow Wudjoo!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thus the merry Pau-Puk-Keewis
-&nbsp;&nbsp;&nbsp;&nbsp;Danced his Beggar's Dance to please them,
-&nbsp;&nbsp;&nbsp;&nbsp;And, returning, sat down laughing
-&nbsp;&nbsp;&nbsp;&nbsp;There among the guests assembled,
-&nbsp;&nbsp;&nbsp;&nbsp;Sat and fanned himself serenely
-&nbsp;&nbsp;&nbsp;&nbsp;With his fan of turkey-feathers.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then they said to Chibiabos,
-&nbsp;&nbsp;&nbsp;&nbsp;To the friend of Hiawatha,
-&nbsp;&nbsp;&nbsp;&nbsp;To the sweetest of all singers,
-&nbsp;&nbsp;&nbsp;&nbsp;To the best of all musicians,
-&nbsp;&nbsp;&nbsp;&nbsp;"Sing to us, O Chibiabos!
-&nbsp;&nbsp;&nbsp;&nbsp;Songs of love and songs of longing,
-&nbsp;&nbsp;&nbsp;&nbsp;That the feast may be more joyous,
-&nbsp;&nbsp;&nbsp;&nbsp;That the time may pass more gayly,
-&nbsp;&nbsp;&nbsp;&nbsp;And our guests be more contented!"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the gentle Chibiabos
-&nbsp;&nbsp;&nbsp;&nbsp;Sang in accents sweet and tender,
-&nbsp;&nbsp;&nbsp;&nbsp;Sang in tones of deep emotion,
-&nbsp;&nbsp;&nbsp;&nbsp;Songs of love and songs of longing;
-&nbsp;&nbsp;&nbsp;&nbsp;Looking still at Hiawatha,
-&nbsp;&nbsp;&nbsp;&nbsp;Looking at fair Laughing Water,
-&nbsp;&nbsp;&nbsp;&nbsp;Sang he softly, sang in this wise:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Onaway!&nbsp;&nbsp;&nbsp;&nbsp;Awake, beloved!
-&nbsp;&nbsp;&nbsp;&nbsp;Thou the wild-flower of the forest!
-&nbsp;&nbsp;&nbsp;&nbsp;Thou the wild-bird of the prairie!
-&nbsp;&nbsp;&nbsp;&nbsp;Thou with eyes so soft and fawn-like!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"If thou only lookest at me,
-&nbsp;&nbsp;&nbsp;&nbsp;I am happy, I am happy,
-&nbsp;&nbsp;&nbsp;&nbsp;As the lilies of the prairie,
-&nbsp;&nbsp;&nbsp;&nbsp;When they feel the dew upon them!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Sweet thy breath is as the fragrance
-&nbsp;&nbsp;&nbsp;&nbsp;Of the wild-flowers in the morning,
-&nbsp;&nbsp;&nbsp;&nbsp;As their fragrance is at evening,
-&nbsp;&nbsp;&nbsp;&nbsp;In the Moon when leaves are falling.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Does not all the blood within me
-&nbsp;&nbsp;&nbsp;&nbsp;Leap to meet thee, leap to meet thee,
-&nbsp;&nbsp;&nbsp;&nbsp;As the springs to meet the sunshine,
-&nbsp;&nbsp;&nbsp;&nbsp;In the Moon when nights are brightest?
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Onaway! my heart sings to thee,
-&nbsp;&nbsp;&nbsp;&nbsp;Sings with joy when thou art near me,
-&nbsp;&nbsp;&nbsp;&nbsp;As the sighing, singing branches
-&nbsp;&nbsp;&nbsp;&nbsp;In the pleasant Moon of Strawberries!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"When thou art not pleased, beloved,
-&nbsp;&nbsp;&nbsp;&nbsp;Then my heart is sad and darkened,
-&nbsp;&nbsp;&nbsp;&nbsp;As the shining river darkens
-&nbsp;&nbsp;&nbsp;&nbsp;When the clouds drop shadows on it!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"When thou smilest, my beloved,
-&nbsp;&nbsp;&nbsp;&nbsp;Then my troubled heart is brightened,
-&nbsp;&nbsp;&nbsp;&nbsp;As in sunshine gleam the ripples
-&nbsp;&nbsp;&nbsp;&nbsp;That the cold wind makes in rivers.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Smiles the earth, and smile the waters,
-&nbsp;&nbsp;&nbsp;&nbsp;Smile the cloudless skies above us,
-&nbsp;&nbsp;&nbsp;&nbsp;But I lose the way of smiling
-&nbsp;&nbsp;&nbsp;&nbsp;When thou art no longer near me!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"I myself, myself! behold me!
-&nbsp;&nbsp;&nbsp;&nbsp;Blood of my beating heart, behold me!
-&nbsp;&nbsp;&nbsp;&nbsp;Oh awake, awake, beloved!
-&nbsp;&nbsp;&nbsp;&nbsp;Onaway! awake, beloved!"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thus the gentle Chibiabos
-&nbsp;&nbsp;&nbsp;&nbsp;Sang his song of love and longing;
-&nbsp;&nbsp;&nbsp;&nbsp;And Iagoo, the great boaster,
-&nbsp;&nbsp;&nbsp;&nbsp;He the marvellous story-teller,
-&nbsp;&nbsp;&nbsp;&nbsp;He the friend of old Nokomis,
-&nbsp;&nbsp;&nbsp;&nbsp;Jealous of the sweet musician,
-&nbsp;&nbsp;&nbsp;&nbsp;Jealous of the applause they gave him,
-&nbsp;&nbsp;&nbsp;&nbsp;Saw in all the eyes around him,
-&nbsp;&nbsp;&nbsp;&nbsp;Saw in all their looks and gestures,
-&nbsp;&nbsp;&nbsp;&nbsp;That the wedding guests assembled
-&nbsp;&nbsp;&nbsp;&nbsp;Longed to hear his pleasant stories,
-&nbsp;&nbsp;&nbsp;&nbsp;His immeasurable falsehoods.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Very boastful was Iagoo;
-&nbsp;&nbsp;&nbsp;&nbsp;Never heard he an adventure
-&nbsp;&nbsp;&nbsp;&nbsp;But himself had met a greater;
-&nbsp;&nbsp;&nbsp;&nbsp;Never any deed of daring
-&nbsp;&nbsp;&nbsp;&nbsp;But himself had done a bolder;
-&nbsp;&nbsp;&nbsp;&nbsp;Never any marvellous story
-&nbsp;&nbsp;&nbsp;&nbsp;But himself could tell a stranger.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Would you listen to his boasting,
-&nbsp;&nbsp;&nbsp;&nbsp;Would you only give him credence,
-&nbsp;&nbsp;&nbsp;&nbsp;No one ever shot an arrow
-&nbsp;&nbsp;&nbsp;&nbsp;Half so far and high as he had;
-&nbsp;&nbsp;&nbsp;&nbsp;Ever caught so many fishes,
-&nbsp;&nbsp;&nbsp;&nbsp;Ever killed so many reindeer,
-&nbsp;&nbsp;&nbsp;&nbsp;Ever trapped so many beaver!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;None could run so fast as he could,
-&nbsp;&nbsp;&nbsp;&nbsp;None could dive so deep as he could,
-&nbsp;&nbsp;&nbsp;&nbsp;None could swim so far as he could;
-&nbsp;&nbsp;&nbsp;&nbsp;None had made so many journeys,
-&nbsp;&nbsp;&nbsp;&nbsp;None had seen so many wonders,
-&nbsp;&nbsp;&nbsp;&nbsp;As this wonderful Iagoo,
-&nbsp;&nbsp;&nbsp;&nbsp;As this marvellous story-teller!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thus his name became a by-word
-&nbsp;&nbsp;&nbsp;&nbsp;And a jest among the people;
-&nbsp;&nbsp;&nbsp;&nbsp;And whene'er a boastful hunter
-&nbsp;&nbsp;&nbsp;&nbsp;Praised his own address too highly,
-&nbsp;&nbsp;&nbsp;&nbsp;Or a warrior, home returning,
-&nbsp;&nbsp;&nbsp;&nbsp;Talked too much of his achievements,
-&nbsp;&nbsp;&nbsp;&nbsp;All his hearers cried, "Iagoo!
-&nbsp;&nbsp;&nbsp;&nbsp;Here's Iagoo come among us!"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He it was who carved the cradle
-&nbsp;&nbsp;&nbsp;&nbsp;Of the little Hiawatha,
-&nbsp;&nbsp;&nbsp;&nbsp;Carved its framework out of linden,
-&nbsp;&nbsp;&nbsp;&nbsp;Bound it strong with reindeer sinews;
-&nbsp;&nbsp;&nbsp;&nbsp;He it was who taught him later
-&nbsp;&nbsp;&nbsp;&nbsp;How to make his bows and arrows,
-&nbsp;&nbsp;&nbsp;&nbsp;How to make the bows of ash-tree,
-&nbsp;&nbsp;&nbsp;&nbsp;And the arrows of the oak-tree.
-&nbsp;&nbsp;&nbsp;&nbsp;So among the guests assembled
-&nbsp;&nbsp;&nbsp;&nbsp;At my Hiawatha's wedding
-&nbsp;&nbsp;&nbsp;&nbsp;Sat Iagoo, old and ugly,
-&nbsp;&nbsp;&nbsp;&nbsp;Sat the marvellous story-teller.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And they said, "O good Iagoo,
-&nbsp;&nbsp;&nbsp;&nbsp;Tell us now a tale of wonder,
-&nbsp;&nbsp;&nbsp;&nbsp;Tell us of some strange adventure,
-&nbsp;&nbsp;&nbsp;&nbsp;That the feast may be more joyous,
-&nbsp;&nbsp;&nbsp;&nbsp;That the time may pass more gayly,
-&nbsp;&nbsp;&nbsp;&nbsp;And our guests be more contented!"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And Iagoo answered straightway,
-&nbsp;&nbsp;&nbsp;&nbsp;"You shall hear a tale of wonder,
-&nbsp;&nbsp;&nbsp;&nbsp;You shall hear the strange adventures
-&nbsp;&nbsp;&nbsp;&nbsp;Of Osseo, the Magician,
-&nbsp;&nbsp;&nbsp;&nbsp;From the Evening Star descending."
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;Gloomy and dark art thou, O chief of the mighty Omahas;
+&nbsp;&nbsp;&nbsp;&nbsp;Gloomy and dark as the driving cloud, whose name thou hast taken!
+&nbsp;&nbsp;&nbsp;&nbsp;Wrapt in thy scarlet blanket, I see thee stalk through the city's
+&nbsp;&nbsp;&nbsp;&nbsp;Narrow and populous streets, as once by the margin of rivers
+&nbsp;&nbsp;&nbsp;&nbsp;Stalked those birds unknown, that have left us only their footprints.
+&nbsp;&nbsp;&nbsp;&nbsp;What, in a few short years, will remain of thy race but the footprints?
+
+&nbsp;&nbsp;&nbsp;&nbsp;How canst thou walk these streets, who hast trod the green turf of the prairies!
+&nbsp;&nbsp;&nbsp;&nbsp;How canst thou breathe this air, who hast breathed the sweet air of the mountains!
+&nbsp;&nbsp;&nbsp;&nbsp;Ah! 't is in vain that with lordly looks of disdain thou dost challenge
+&nbsp;&nbsp;&nbsp;&nbsp;Looks of disdain in return, and question these walls and these pavements,
+&nbsp;&nbsp;&nbsp;&nbsp;Claiming the soil for thy hunting-grounds, while down-trodden millions
+&nbsp;&nbsp;&nbsp;&nbsp;Starve in the garrets of Europe, and cry from its caverns that they, too,
+&nbsp;&nbsp;&nbsp;&nbsp;Have been created heirs of the earth, and claim its division!
+
+&nbsp;&nbsp;&nbsp;&nbsp;Back, then, back to thy woods in the regions west of the Wabash!
+&nbsp;&nbsp;&nbsp;&nbsp;There as a monarch thou reignest.&nbsp;&nbsp;&nbsp;&nbsp;In autumn the leaves of the maple
+&nbsp;&nbsp;&nbsp;&nbsp;Pave the floors of thy palace-halls with gold, and in summer
+&nbsp;&nbsp;&nbsp;&nbsp;Pine-trees waft through its chambers the odorous breath of their branches.
+&nbsp;&nbsp;&nbsp;&nbsp;There thou art strong and great, a hero, a tamer of horses!
+&nbsp;&nbsp;&nbsp;&nbsp;There thou chasest the stately stag on the banks of the Elkhorn,
+&nbsp;&nbsp;&nbsp;&nbsp;Or by the roar of the Running-Water, or where the Omaha
+&nbsp;&nbsp;&nbsp;&nbsp;Calls thee, and leaps through the wild ravine like a brave of the Blackfeet!
+
+&nbsp;&nbsp;&nbsp;&nbsp;Hark! what murmurs arise from the heart of those mountainous deserts?
+&nbsp;&nbsp;&nbsp;&nbsp;Is it the cry of the Foxes and Crows, or the mighty Behemoth,
+&nbsp;&nbsp;&nbsp;&nbsp;Who, unharmed, on his tusks once caught the bolts of the thunder,
+&nbsp;&nbsp;&nbsp;&nbsp;And now lurks in his lair to destroy the race of the red man?
+&nbsp;&nbsp;&nbsp;&nbsp;Far more fatal to thee and thy race than the Crows and the Foxes,
+&nbsp;&nbsp;&nbsp;&nbsp;Far more fatal to thee and thy race than the tread of Behemoth,
+&nbsp;&nbsp;&nbsp;&nbsp;Lo! the big thunder-canoe, that steadily breasts the Missouri's
+&nbsp;&nbsp;&nbsp;&nbsp;Merciless current! and yonder, afar on the prairies, the camp-fires
+&nbsp;&nbsp;&nbsp;&nbsp;Gleam through the night; and the cloud of dust in the gray of the daybreak
+&nbsp;&nbsp;&nbsp;&nbsp;Marks not the buffalo's track, nor the Mandan's dexterous horse-race;
+&nbsp;&nbsp;&nbsp;&nbsp;It is a caravan, whitening the desert where dwell the Camanches!
+&nbsp;&nbsp;&nbsp;&nbsp;Ha! how the breath of these Saxons and Celts, like the blast of the east-wind,
+&nbsp;&nbsp;&nbsp;&nbsp;Drifts evermore to the west the scanty smokes of thy wigwams!
 </pre>

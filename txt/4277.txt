@@ -1,69 +1,53 @@
-<pre><i>To A Friend</i>
-
-&nbsp;&nbsp;&nbsp;&nbsp;No! those days are gone away,
-&nbsp;&nbsp;&nbsp;&nbsp;And their hours are old and gray,
-&nbsp;&nbsp;&nbsp;&nbsp;And their minutes buried all
-&nbsp;&nbsp;&nbsp;&nbsp;Under the down-trodden pall
-&nbsp;&nbsp;&nbsp;&nbsp;Of the leaves of many years:
-&nbsp;&nbsp;&nbsp;&nbsp;Many times have winters shears,
-&nbsp;&nbsp;&nbsp;&nbsp;Frozen North, and chilling East,
-&nbsp;&nbsp;&nbsp;&nbsp;Sounded tempests to the feast
-&nbsp;&nbsp;&nbsp;&nbsp;Of the forests whispering fleeces,
-&nbsp;&nbsp;&nbsp;&nbsp;Since men knew nor rent nor leases.
-
-&nbsp;&nbsp;&nbsp;&nbsp;No, the bugle sounds no more,
-&nbsp;&nbsp;&nbsp;&nbsp;And the twanging bow no more;
-&nbsp;&nbsp;&nbsp;&nbsp;Silent is the ivory shrill
-&nbsp;&nbsp;&nbsp;&nbsp;Past the heath and up the hill;
-&nbsp;&nbsp;&nbsp;&nbsp;There is no mid-forest laugh,
-&nbsp;&nbsp;&nbsp;&nbsp;Where lone Echo gives the half
-&nbsp;&nbsp;&nbsp;&nbsp;To some wight, amazd to hear
-&nbsp;&nbsp;&nbsp;&nbsp;Jesting, deep in forest drear.
-
-&nbsp;&nbsp;&nbsp;&nbsp;On the fairest time of June
-&nbsp;&nbsp;&nbsp;&nbsp;You may go, with sun or moon,
-&nbsp;&nbsp;&nbsp;&nbsp;Or the seven stars to light you,
-&nbsp;&nbsp;&nbsp;&nbsp;Or the polar ray to right you;
-&nbsp;&nbsp;&nbsp;&nbsp;But you never may behold
-&nbsp;&nbsp;&nbsp;&nbsp;Little John, or Robin bold;
-&nbsp;&nbsp;&nbsp;&nbsp;Never one, of all the clan,
-&nbsp;&nbsp;&nbsp;&nbsp;Thrumming on an empty can
-&nbsp;&nbsp;&nbsp;&nbsp;Some old hunting ditty, while
-&nbsp;&nbsp;&nbsp;&nbsp;He doth his green way beguile
-&nbsp;&nbsp;&nbsp;&nbsp;To fair hostess Merriment,
-&nbsp;&nbsp;&nbsp;&nbsp;Down beside the pasture Trent;
-&nbsp;&nbsp;&nbsp;&nbsp;For he left the merry tale
-&nbsp;&nbsp;&nbsp;&nbsp;Messenger for spicy ale.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Gone, the merry morris din;
-&nbsp;&nbsp;&nbsp;&nbsp;Gone, the song of Gamelyn;
-&nbsp;&nbsp;&nbsp;&nbsp;Gone, the tough-belted outlaw
-&nbsp;&nbsp;&nbsp;&nbsp;Idling in the grenè shawe;
-&nbsp;&nbsp;&nbsp;&nbsp;All are gone away and past!
-&nbsp;&nbsp;&nbsp;&nbsp;And if Robin should be cast
-&nbsp;&nbsp;&nbsp;&nbsp;Sudden from his turfed grave,
-&nbsp;&nbsp;&nbsp;&nbsp;And if Marian should have
-&nbsp;&nbsp;&nbsp;&nbsp;Once again her forest days,
-&nbsp;&nbsp;&nbsp;&nbsp;She would weep, and he would craze:
-&nbsp;&nbsp;&nbsp;&nbsp;He would swear, for all his oaks,
-&nbsp;&nbsp;&nbsp;&nbsp;Falln beneath the dockyard strokes,
-&nbsp;&nbsp;&nbsp;&nbsp;Have rotted on the briny seas;
-&nbsp;&nbsp;&nbsp;&nbsp;She would weep that her wild bees
-&nbsp;&nbsp;&nbsp;&nbsp;Sang not to her strange! that honey
-&nbsp;&nbsp;&nbsp;&nbsp;Cant be got without hard money!
-
-&nbsp;&nbsp;&nbsp;&nbsp;So it is: yet let us sing,
-&nbsp;&nbsp;&nbsp;&nbsp;Honour to the old bow-string!
-&nbsp;&nbsp;&nbsp;&nbsp;Honour to the bugle-horn!
-&nbsp;&nbsp;&nbsp;&nbsp;Honour to the woods unshorn!
-&nbsp;&nbsp;&nbsp;&nbsp;Honour to the Lincoln green!
-&nbsp;&nbsp;&nbsp;&nbsp;Honour to the archer keen!
-&nbsp;&nbsp;&nbsp;&nbsp;Honour to tight Little John,
-&nbsp;&nbsp;&nbsp;&nbsp;And the horse he rode upon!
-&nbsp;&nbsp;&nbsp;&nbsp;Honour to bold Robin Hood,
-&nbsp;&nbsp;&nbsp;&nbsp;Sleeping in the underwood!
-&nbsp;&nbsp;&nbsp;&nbsp;Honour to Maid Marian,
-&nbsp;&nbsp;&nbsp;&nbsp;And to all the Sherwood-clan!
-&nbsp;&nbsp;&nbsp;&nbsp;Though their days have hurried by,
-&nbsp;&nbsp;&nbsp;&nbsp;Let us two a burden try.
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;Not Aladdin magian
+&nbsp;&nbsp;&nbsp;&nbsp;Ever such a work began;
+&nbsp;&nbsp;&nbsp;&nbsp;Not the wizard of the Dee
+&nbsp;&nbsp;&nbsp;&nbsp;Ever such a dream could see;
+&nbsp;&nbsp;&nbsp;&nbsp;Not St. John, in Patmos' Isle,
+&nbsp;&nbsp;&nbsp;&nbsp;In the passion of his toil,
+&nbsp;&nbsp;&nbsp;&nbsp;When he saw the churches seven,
+&nbsp;&nbsp;&nbsp;&nbsp;Golden aisl'd, built up in heaven,
+&nbsp;&nbsp;&nbsp;&nbsp;Gaz'd at such a rugged wonder.
+&nbsp;&nbsp;&nbsp;&nbsp;As I stood its roofing under
+&nbsp;&nbsp;&nbsp;&nbsp;Lo! I saw one sleeping there,
+&nbsp;&nbsp;&nbsp;&nbsp;On the marble cold and bare.
+&nbsp;&nbsp;&nbsp;&nbsp;While the surges wash'd his feet,
+&nbsp;&nbsp;&nbsp;&nbsp;And his garments white did beat.
+&nbsp;&nbsp;&nbsp;&nbsp;Drench'd about the sombre rocks,
+&nbsp;&nbsp;&nbsp;&nbsp;On his neck his well-grown locks,
+&nbsp;&nbsp;&nbsp;&nbsp;Lifted dry above the main,
+&nbsp;&nbsp;&nbsp;&nbsp;Were upon the curl again.
+&nbsp;&nbsp;&nbsp;&nbsp;"What is this? and what art thou?"
+&nbsp;&nbsp;&nbsp;&nbsp;Whisper'd I, and touch'd his brow;
+&nbsp;&nbsp;&nbsp;&nbsp;"What art thou? and what is this?"
+&nbsp;&nbsp;&nbsp;&nbsp;Whisper'd I, and strove to kiss
+&nbsp;&nbsp;&nbsp;&nbsp;The spirit's hand, to wake his eyes;
+&nbsp;&nbsp;&nbsp;&nbsp;Up he started in a trice:
+&nbsp;&nbsp;&nbsp;&nbsp;"I am Lycidas," said he,
+&nbsp;&nbsp;&nbsp;&nbsp;"Fam'd in funeral minstrely!
+&nbsp;&nbsp;&nbsp;&nbsp;This was architectur'd thus
+&nbsp;&nbsp;&nbsp;&nbsp;By the great Oceanus!
+&nbsp;&nbsp;&nbsp;&nbsp;Here his mighty waters play
+&nbsp;&nbsp;&nbsp;&nbsp;Hollow organs all the day;
+&nbsp;&nbsp;&nbsp;&nbsp;Here by turns his dolphins all,
+&nbsp;&nbsp;&nbsp;&nbsp;Finny palmers great and small,
+&nbsp;&nbsp;&nbsp;&nbsp;Come to pay devotion due
+&nbsp;&nbsp;&nbsp;&nbsp;Each a mouth of pearls must strew.
+&nbsp;&nbsp;&nbsp;&nbsp;Many a mortal of these days,
+&nbsp;&nbsp;&nbsp;&nbsp;Dares to pass our sacred ways,
+&nbsp;&nbsp;&nbsp;&nbsp;Dares to touch audaciously
+&nbsp;&nbsp;&nbsp;&nbsp;This Cathedral of the Sea!
+&nbsp;&nbsp;&nbsp;&nbsp;I have been the pontiff-priest
+&nbsp;&nbsp;&nbsp;&nbsp;Where the waters never rest,
+&nbsp;&nbsp;&nbsp;&nbsp;Where a fledgy sea-bird choir
+&nbsp;&nbsp;&nbsp;&nbsp;Soars for ever; holy fire
+&nbsp;&nbsp;&nbsp;&nbsp;I have hid from mortal man;
+&nbsp;&nbsp;&nbsp;&nbsp;Proteus is my Sacristan.
+&nbsp;&nbsp;&nbsp;&nbsp;But the dulled eye of mortal
+&nbsp;&nbsp;&nbsp;&nbsp;Hath pass'd beyond the rocky portal;
+&nbsp;&nbsp;&nbsp;&nbsp;So for ever will I leave
+&nbsp;&nbsp;&nbsp;&nbsp;Such a taint, and soon unweave
+&nbsp;&nbsp;&nbsp;&nbsp;All the magic of the place."
+&nbsp;&nbsp;&nbsp;&nbsp;- - - - - - -
+&nbsp;&nbsp;&nbsp;&nbsp;So saying, with a Spirit's glance
+&nbsp;&nbsp;&nbsp;&nbsp;He dived!
 </pre>

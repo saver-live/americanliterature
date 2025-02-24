@@ -1,0 +1,4 @@
+<p>All the birds have flown up and gone;<br> A lonely cloud floats leisurely by.<br> We never tire of looking at each other -<br> Only the mountain and I. <br></p>
+<div class="poet" itemprop="author">
+ Li Po
+</div>
